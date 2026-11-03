@@ -1,0 +1,13 @@
+[
+  "tools/report_stage1_v1.py",
+  "analysis/STAGE1_RESULTS_20261103.zh-CN.md",
+  "analysis/stage1_c4_statistics_20261103.json",
+  "analysis/stage1_c4_statistics_20261103.csv",
+  "runs/stage1_c4_20261103_02/static_calibration_steps.jsonl",
+  "runs/stage1_c4_20261103_02/static_policy.json",
+  "runs/stage1_c4_20261103_02/sample_metrics.jsonl",
+  "runs/stage1_c4_20261103_02/summary.json",
+  "runs/stage1_c4_20261103_02/status.json",
+  "runs/stage1_c4_20261103_02/stdout.log",
+  "analysis/stage1_results_upload_20261103.json"
+]

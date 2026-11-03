@@ -1,0 +1,23 @@
+{
+  "ordered_skips": [
+    4,
+    14,
+    7,
+    11,
+    37,
+    2,
+    6,
+    21,
+    32,
+    24,
+    36,
+    17,
+    27,
+    33,
+    22,
+    31
+  ],
+  "calibration_samples": 8,
+  "objective": "Mean last-token KL(full||pruned), iterative greedy across layers 2..39.",
+  "limitations": "Calibration-set greedy result, not a global optimum."
+}

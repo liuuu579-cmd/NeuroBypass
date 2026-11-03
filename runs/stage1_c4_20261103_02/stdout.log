@@ -1,0 +1,289 @@
+{"event": "preparing_data", "time": "2026-11-03T16:37:34.782582+08:00"}
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+{"event": "data_split_prepared", "time": "2026-11-03T16:37:40.458967+08:00", "split": "calibration", "selected": 8, "excluded_prefixes": 0}
+{"event": "data_split_prepared", "time": "2026-11-03T16:37:43.440506+08:00", "split": "test", "selected": 256, "excluded_prefixes": 2}
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 34.45it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 33.99it/s]
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/torch/nn/modules/transformer.py:382: UserWarning: enable_nested_tensor is True, but self.use_nested_tensor is False because encoder_layer.norm_first was True
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/torch/nn/modules/transformer.py:382: UserWarning: enable_nested_tensor is True, but self.use_nested_tensor is False because encoder_layer.norm_first was True
+  warnings.warn(
+{"event": "workers_ready", "time": "2026-11-03T16:37:58.558921+08:00", "workers": [{"kind": "ready", "rank": 1, "pid": 1417686, "cpu_ids": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "torch_threads": 10, "gpu_name": "NVIDIA RTX 6000 Ada Generation"}, {"kind": "ready", "rank": 0, "pid": 1417685, "cpu_ids": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "torch_threads": 10, "gpu_name": "NVIDIA RTX 6000 Ada Generation"}]}
+{"event": "static_calibration_step", "time": "2026-11-03T16:38:10.215790+08:00", "step": 1, "layer": 4, "mean_calibration_last_token_kl": 0.0029474611510522664, "ordered_skips": [4], "elapsed_seconds": 26.73495690803975}
+{"event": "static_calibration_step", "time": "2026-11-03T16:38:21.684779+08:00", "step": 2, "layer": 14, "mean_calibration_last_token_kl": 0.010079099447466433, "ordered_skips": [4, 14], "elapsed_seconds": 38.2040278960485}
+{"event": "static_calibration_step", "time": "2026-11-03T16:38:32.873385+08:00", "step": 3, "layer": 7, "mean_calibration_last_token_kl": 0.01657242648070678, "ordered_skips": [4, 14, 7], "elapsed_seconds": 49.39261011593044}
+{"event": "static_calibration_step", "time": "2026-11-03T16:38:43.831399+08:00", "step": 4, "layer": 11, "mean_calibration_last_token_kl": 0.0268915263004601, "ordered_skips": [4, 14, 7, 11], "elapsed_seconds": 60.350620158948004}
+{"event": "static_calibration_step", "time": "2026-11-03T16:38:54.258527+08:00", "step": 5, "layer": 37, "mean_calibration_last_token_kl": 0.04573015798814595, "ordered_skips": [4, 14, 7, 11, 37], "elapsed_seconds": 70.77776769991033}
+{"event": "static_calibration_step", "time": "2026-11-03T16:39:04.075521+08:00", "step": 6, "layer": 2, "mean_calibration_last_token_kl": 0.06805605767294765, "ordered_skips": [4, 14, 7, 11, 37, 2], "elapsed_seconds": 80.59475278900936}
+{"event": "static_calibration_step", "time": "2026-11-03T16:39:13.330330+08:00", "step": 7, "layer": 6, "mean_calibration_last_token_kl": 0.06877964362502098, "ordered_skips": [4, 14, 7, 11, 37, 2, 6], "elapsed_seconds": 89.84955427399836}
+{"event": "static_calibration_step", "time": "2026-11-03T16:39:22.005841+08:00", "step": 8, "layer": 21, "mean_calibration_last_token_kl": 0.09058912051841617, "ordered_skips": [4, 14, 7, 11, 37, 2, 6, 21], "elapsed_seconds": 98.52509585791267}
+{"event": "static_calibration_step", "time": "2026-11-03T16:39:30.123571+08:00", "step": 9, "layer": 32, "mean_calibration_last_token_kl": 0.11662372527644038, "ordered_skips": [4, 14, 7, 11, 37, 2, 6, 21, 32], "elapsed_seconds": 106.64281323808245}
+{"event": "static_calibration_step", "time": "2026-11-03T16:39:37.714601+08:00", "step": 10, "layer": 24, "mean_calibration_last_token_kl": 0.14466023072600365, "ordered_skips": [4, 14, 7, 11, 37, 2, 6, 21, 32, 24], "elapsed_seconds": 114.23385995998979}
+{"event": "static_calibration_step", "time": "2026-11-03T16:39:44.741759+08:00", "step": 11, "layer": 36, "mean_calibration_last_token_kl": 0.2105406615883112, "ordered_skips": [4, 14, 7, 11, 37, 2, 6, 21, 32, 24, 36], "elapsed_seconds": 121.26100550801493}
+{"event": "static_calibration_step", "time": "2026-11-03T16:39:51.365244+08:00", "step": 12, "layer": 17, "mean_calibration_last_token_kl": 0.26543255150318146, "ordered_skips": [4, 14, 7, 11, 37, 2, 6, 21, 32, 24, 36, 17], "elapsed_seconds": 127.88448621705174}
+{"event": "static_calibration_step", "time": "2026-11-03T16:39:57.499235+08:00", "step": 13, "layer": 27, "mean_calibration_last_token_kl": 0.3649057075381279, "ordered_skips": [4, 14, 7, 11, 37, 2, 6, 21, 32, 24, 36, 17, 27], "elapsed_seconds": 134.018508129986}
+{"event": "static_calibration_step", "time": "2026-11-03T16:40:03.194768+08:00", "step": 14, "layer": 33, "mean_calibration_last_token_kl": 0.511354885995388, "ordered_skips": [4, 14, 7, 11, 37, 2, 6, 21, 32, 24, 36, 17, 27, 33], "elapsed_seconds": 139.71405251999386}
+{"event": "static_calibration_step", "time": "2026-11-03T16:40:08.454759+08:00", "step": 15, "layer": 22, "mean_calibration_last_token_kl": 0.6388563960790634, "ordered_skips": [4, 14, 7, 11, 37, 2, 6, 21, 32, 24, 36, 17, 27, 33, 22], "elapsed_seconds": 144.97402043291368}
+{"event": "static_calibration_step", "time": "2026-11-03T16:40:13.319629+08:00", "step": 16, "layer": 31, "mean_calibration_last_token_kl": 0.7437424510717392, "ordered_skips": [4, 14, 7, 11, 37, 2, 6, 21, 32, 24, 36, 17, 27, 33, 22, 31], "elapsed_seconds": 149.838899289025}
+{"event": "test_progress", "time": "2026-11-03T16:40:14.490324+08:00", "completed": 1, "total": 256, "elapsed_seconds": 151.00979804201052}
+{"event": "test_progress", "time": "2026-11-03T16:40:14.504470+08:00", "completed": 2, "total": 256, "elapsed_seconds": 151.0239475350827}
+{"event": "test_progress", "time": "2026-11-03T16:40:15.478466+08:00", "completed": 3, "total": 256, "elapsed_seconds": 151.997939490946}
+{"event": "test_progress", "time": "2026-11-03T16:40:15.518938+08:00", "completed": 4, "total": 256, "elapsed_seconds": 152.0384153269697}
+{"event": "test_progress", "time": "2026-11-03T16:40:16.461049+08:00", "completed": 5, "total": 256, "elapsed_seconds": 152.98052691388875}
+{"event": "test_progress", "time": "2026-11-03T16:40:16.529454+08:00", "completed": 6, "total": 256, "elapsed_seconds": 153.04893168690614}
+{"event": "test_progress", "time": "2026-11-03T16:40:17.443400+08:00", "completed": 7, "total": 256, "elapsed_seconds": 153.9628773550503}
+{"event": "test_progress", "time": "2026-11-03T16:40:17.540934+08:00", "completed": 8, "total": 256, "elapsed_seconds": 154.0604092569556}
+{"event": "test_progress", "time": "2026-11-03T16:40:18.426590+08:00", "completed": 9, "total": 256, "elapsed_seconds": 154.94606698188}
+{"event": "test_progress", "time": "2026-11-03T16:40:18.549525+08:00", "completed": 10, "total": 256, "elapsed_seconds": 155.06900280388072}
+{"event": "test_progress", "time": "2026-11-03T16:40:19.409226+08:00", "completed": 11, "total": 256, "elapsed_seconds": 155.9287025090307}
+{"event": "test_progress", "time": "2026-11-03T16:40:19.557553+08:00", "completed": 12, "total": 256, "elapsed_seconds": 156.07702738489024}
+{"event": "test_progress", "time": "2026-11-03T16:40:20.393981+08:00", "completed": 13, "total": 256, "elapsed_seconds": 156.91345843905583}
+{"event": "test_progress", "time": "2026-11-03T16:40:20.566118+08:00", "completed": 14, "total": 256, "elapsed_seconds": 157.08559576701373}
+{"event": "test_progress", "time": "2026-11-03T16:40:21.375836+08:00", "completed": 15, "total": 256, "elapsed_seconds": 157.89531364990398}
+{"event": "test_progress", "time": "2026-11-03T16:40:21.576101+08:00", "completed": 16, "total": 256, "elapsed_seconds": 158.09557915409096}
+{"event": "test_progress", "time": "2026-11-03T16:40:22.359063+08:00", "completed": 17, "total": 256, "elapsed_seconds": 158.87853721505962}
+{"event": "test_progress", "time": "2026-11-03T16:40:22.585717+08:00", "completed": 18, "total": 256, "elapsed_seconds": 159.10519423591904}
+{"event": "test_progress", "time": "2026-11-03T16:40:23.342858+08:00", "completed": 19, "total": 256, "elapsed_seconds": 159.86233469494618}
+{"event": "test_progress", "time": "2026-11-03T16:40:23.595084+08:00", "completed": 20, "total": 256, "elapsed_seconds": 160.1145601319149}
+{"event": "test_progress", "time": "2026-11-03T16:40:24.324870+08:00", "completed": 21, "total": 256, "elapsed_seconds": 160.84434694307856}
+{"event": "test_progress", "time": "2026-11-03T16:40:24.605965+08:00", "completed": 22, "total": 256, "elapsed_seconds": 161.12544235307723}
+{"event": "test_progress", "time": "2026-11-03T16:40:25.307916+08:00", "completed": 23, "total": 256, "elapsed_seconds": 161.82739398209378}
+{"event": "test_progress", "time": "2026-11-03T16:40:25.614689+08:00", "completed": 24, "total": 256, "elapsed_seconds": 162.13416668586433}
+{"event": "test_progress", "time": "2026-11-03T16:40:26.291475+08:00", "completed": 25, "total": 256, "elapsed_seconds": 162.81095273792744}
+{"event": "test_progress", "time": "2026-11-03T16:40:26.624303+08:00", "completed": 26, "total": 256, "elapsed_seconds": 163.1437807609327}
+{"event": "test_progress", "time": "2026-11-03T16:40:27.273093+08:00", "completed": 27, "total": 256, "elapsed_seconds": 163.7925701038912}
+{"event": "test_progress", "time": "2026-11-03T16:40:27.632162+08:00", "completed": 28, "total": 256, "elapsed_seconds": 164.1516399080865}
+{"event": "test_progress", "time": "2026-11-03T16:40:28.258170+08:00", "completed": 29, "total": 256, "elapsed_seconds": 164.77764844405465}
+{"event": "test_progress", "time": "2026-11-03T16:40:28.641936+08:00", "completed": 30, "total": 256, "elapsed_seconds": 165.1614120840095}
+{"event": "test_progress", "time": "2026-11-03T16:40:29.241878+08:00", "completed": 31, "total": 256, "elapsed_seconds": 165.7613559709862}
+{"event": "test_progress", "time": "2026-11-03T16:40:29.652105+08:00", "completed": 32, "total": 256, "elapsed_seconds": 166.17158318706788}
+{"event": "test_progress", "time": "2026-11-03T16:40:30.223904+08:00", "completed": 33, "total": 256, "elapsed_seconds": 166.743382290937}
+{"event": "test_progress", "time": "2026-11-03T16:40:30.665741+08:00", "completed": 34, "total": 256, "elapsed_seconds": 167.18521910789423}
+{"event": "test_progress", "time": "2026-11-03T16:40:31.207197+08:00", "completed": 35, "total": 256, "elapsed_seconds": 167.72667480795644}
+{"event": "test_progress", "time": "2026-11-03T16:40:31.675243+08:00", "completed": 36, "total": 256, "elapsed_seconds": 168.194719895022}
+{"event": "test_progress", "time": "2026-11-03T16:40:32.190759+08:00", "completed": 37, "total": 256, "elapsed_seconds": 168.71023738291115}
+{"event": "test_progress", "time": "2026-11-03T16:40:32.683108+08:00", "completed": 38, "total": 256, "elapsed_seconds": 169.20258629508317}
+{"event": "test_progress", "time": "2026-11-03T16:40:33.174052+08:00", "completed": 39, "total": 256, "elapsed_seconds": 169.6935292489361}
+{"event": "test_progress", "time": "2026-11-03T16:40:33.691002+08:00", "completed": 40, "total": 256, "elapsed_seconds": 170.21047973888926}
+{"event": "test_progress", "time": "2026-11-03T16:40:34.156090+08:00", "completed": 41, "total": 256, "elapsed_seconds": 170.67556772893295}
+{"event": "test_progress", "time": "2026-11-03T16:40:34.699272+08:00", "completed": 42, "total": 256, "elapsed_seconds": 171.21875021397136}
+{"event": "test_progress", "time": "2026-11-03T16:40:35.138883+08:00", "completed": 43, "total": 256, "elapsed_seconds": 171.65836145705543}
+{"event": "test_progress", "time": "2026-11-03T16:40:35.708539+08:00", "completed": 44, "total": 256, "elapsed_seconds": 172.22801667498425}
+{"event": "test_progress", "time": "2026-11-03T16:40:36.120156+08:00", "completed": 45, "total": 256, "elapsed_seconds": 172.63963427906856}
+{"event": "test_progress", "time": "2026-11-03T16:40:36.719514+08:00", "completed": 46, "total": 256, "elapsed_seconds": 173.23899249499664}
+{"event": "test_progress", "time": "2026-11-03T16:40:37.102031+08:00", "completed": 47, "total": 256, "elapsed_seconds": 173.62150827609003}
+{"event": "test_progress", "time": "2026-11-03T16:40:37.731862+08:00", "completed": 48, "total": 256, "elapsed_seconds": 174.25133964791894}
+{"event": "test_progress", "time": "2026-11-03T16:40:38.081914+08:00", "completed": 49, "total": 256, "elapsed_seconds": 174.60139179299586}
+{"event": "test_progress", "time": "2026-11-03T16:40:38.743407+08:00", "completed": 50, "total": 256, "elapsed_seconds": 175.26288511999883}
+{"event": "test_progress", "time": "2026-11-03T16:40:39.061209+08:00", "completed": 51, "total": 256, "elapsed_seconds": 175.58068667096086}
+{"event": "test_progress", "time": "2026-11-03T16:40:39.753811+08:00", "completed": 52, "total": 256, "elapsed_seconds": 176.2732893419452}
+{"event": "test_progress", "time": "2026-11-03T16:40:40.042065+08:00", "completed": 53, "total": 256, "elapsed_seconds": 176.56154354987666}
+{"event": "test_progress", "time": "2026-11-03T16:40:40.766217+08:00", "completed": 54, "total": 256, "elapsed_seconds": 177.28569243405946}
+{"event": "test_progress", "time": "2026-11-03T16:40:41.023235+08:00", "completed": 55, "total": 256, "elapsed_seconds": 177.54271264187992}
+{"event": "test_progress", "time": "2026-11-03T16:40:41.775263+08:00", "completed": 56, "total": 256, "elapsed_seconds": 178.29474067687988}
+{"event": "test_progress", "time": "2026-11-03T16:40:42.003630+08:00", "completed": 57, "total": 256, "elapsed_seconds": 178.52310805092566}
+{"event": "test_progress", "time": "2026-11-03T16:40:42.785490+08:00", "completed": 58, "total": 256, "elapsed_seconds": 179.30496805999428}
+{"event": "test_progress", "time": "2026-11-03T16:40:42.984041+08:00", "completed": 59, "total": 256, "elapsed_seconds": 179.50351846287958}
+{"event": "test_progress", "time": "2026-11-03T16:40:43.795909+08:00", "completed": 60, "total": 256, "elapsed_seconds": 180.3153851449024}
+{"event": "test_progress", "time": "2026-11-03T16:40:43.966342+08:00", "completed": 61, "total": 256, "elapsed_seconds": 180.48581867595203}
+{"event": "test_progress", "time": "2026-11-03T16:40:44.807512+08:00", "completed": 62, "total": 256, "elapsed_seconds": 181.32698922790587}
+{"event": "test_progress", "time": "2026-11-03T16:40:44.951465+08:00", "completed": 63, "total": 256, "elapsed_seconds": 181.47094164602458}
+{"event": "test_progress", "time": "2026-11-03T16:40:45.819880+08:00", "completed": 64, "total": 256, "elapsed_seconds": 182.33935776888393}
+{"event": "test_progress", "time": "2026-11-03T16:40:45.934522+08:00", "completed": 65, "total": 256, "elapsed_seconds": 182.454000008991}
+{"event": "test_progress", "time": "2026-11-03T16:40:46.831905+08:00", "completed": 66, "total": 256, "elapsed_seconds": 183.35138279595412}
+{"event": "test_progress", "time": "2026-11-03T16:40:46.916439+08:00", "completed": 67, "total": 256, "elapsed_seconds": 183.43591707805172}
+{"event": "test_progress", "time": "2026-11-03T16:40:47.842083+08:00", "completed": 68, "total": 256, "elapsed_seconds": 184.3615601588972}
+{"event": "test_progress", "time": "2026-11-03T16:40:47.899215+08:00", "completed": 69, "total": 256, "elapsed_seconds": 184.4186927380506}
+{"event": "test_progress", "time": "2026-11-03T16:40:48.854022+08:00", "completed": 70, "total": 256, "elapsed_seconds": 185.37349914386868}
+{"event": "test_progress", "time": "2026-11-03T16:40:48.881032+08:00", "completed": 71, "total": 256, "elapsed_seconds": 185.40050935186446}
+{"event": "test_progress", "time": "2026-11-03T16:40:49.864142+08:00", "completed": 72, "total": 256, "elapsed_seconds": 186.38361853198148}
+{"event": "test_progress", "time": "2026-11-03T16:40:49.864814+08:00", "completed": 73, "total": 256, "elapsed_seconds": 186.3842917950824}
+{"event": "test_progress", "time": "2026-11-03T16:40:50.848860+08:00", "completed": 74, "total": 256, "elapsed_seconds": 187.3683378829155}
+{"event": "test_progress", "time": "2026-11-03T16:40:50.876673+08:00", "completed": 75, "total": 256, "elapsed_seconds": 187.39615115802735}
+{"event": "test_progress", "time": "2026-11-03T16:40:51.830950+08:00", "completed": 76, "total": 256, "elapsed_seconds": 188.35042381007224}
+{"event": "test_progress", "time": "2026-11-03T16:40:51.886644+08:00", "completed": 77, "total": 256, "elapsed_seconds": 188.40612128586508}
+{"event": "test_progress", "time": "2026-11-03T16:40:52.812545+08:00", "completed": 78, "total": 256, "elapsed_seconds": 189.33202218008228}
+{"event": "test_progress", "time": "2026-11-03T16:40:52.899278+08:00", "completed": 79, "total": 256, "elapsed_seconds": 189.41875629895367}
+{"event": "test_progress", "time": "2026-11-03T16:40:53.796069+08:00", "completed": 80, "total": 256, "elapsed_seconds": 190.31554593890905}
+{"event": "test_progress", "time": "2026-11-03T16:40:53.909890+08:00", "completed": 81, "total": 256, "elapsed_seconds": 190.42936763702892}
+{"event": "test_progress", "time": "2026-11-03T16:40:54.774959+08:00", "completed": 82, "total": 256, "elapsed_seconds": 191.29443614394404}
+{"event": "test_progress", "time": "2026-11-03T16:40:54.924579+08:00", "completed": 83, "total": 256, "elapsed_seconds": 191.44405663898215}
+{"event": "test_progress", "time": "2026-11-03T16:40:55.754494+08:00", "completed": 84, "total": 256, "elapsed_seconds": 192.27397225308232}
+{"event": "test_progress", "time": "2026-11-03T16:40:55.940104+08:00", "completed": 85, "total": 256, "elapsed_seconds": 192.459582217969}
+{"event": "test_progress", "time": "2026-11-03T16:40:56.735195+08:00", "completed": 86, "total": 256, "elapsed_seconds": 193.25466932705604}
+{"event": "test_progress", "time": "2026-11-03T16:40:56.953375+08:00", "completed": 87, "total": 256, "elapsed_seconds": 193.47285236697644}
+{"event": "test_progress", "time": "2026-11-03T16:40:57.714647+08:00", "completed": 88, "total": 256, "elapsed_seconds": 194.23412491986528}
+{"event": "test_progress", "time": "2026-11-03T16:40:57.966422+08:00", "completed": 89, "total": 256, "elapsed_seconds": 194.4858997350093}
+{"event": "test_progress", "time": "2026-11-03T16:40:58.695842+08:00", "completed": 90, "total": 256, "elapsed_seconds": 195.21531831705943}
+{"event": "test_progress", "time": "2026-11-03T16:40:58.979423+08:00", "completed": 91, "total": 256, "elapsed_seconds": 195.49890034808777}
+{"event": "test_progress", "time": "2026-11-03T16:40:59.677274+08:00", "completed": 92, "total": 256, "elapsed_seconds": 196.19675152888522}
+{"event": "test_progress", "time": "2026-11-03T16:40:59.989986+08:00", "completed": 93, "total": 256, "elapsed_seconds": 196.50946382898837}
+{"event": "test_progress", "time": "2026-11-03T16:41:00.657499+08:00", "completed": 94, "total": 256, "elapsed_seconds": 197.1769768910017}
+{"event": "test_progress", "time": "2026-11-03T16:41:01.004604+08:00", "completed": 95, "total": 256, "elapsed_seconds": 197.52408111002296}
+{"event": "test_progress", "time": "2026-11-03T16:41:01.639164+08:00", "completed": 96, "total": 256, "elapsed_seconds": 198.15864155301824}
+{"event": "test_progress", "time": "2026-11-03T16:41:02.016560+08:00", "completed": 97, "total": 256, "elapsed_seconds": 198.53603846696205}
+{"event": "test_progress", "time": "2026-11-03T16:41:02.620750+08:00", "completed": 98, "total": 256, "elapsed_seconds": 199.14022827288136}
+{"event": "test_progress", "time": "2026-11-03T16:41:03.029264+08:00", "completed": 99, "total": 256, "elapsed_seconds": 199.5487418700941}
+{"event": "test_progress", "time": "2026-11-03T16:41:03.602469+08:00", "completed": 100, "total": 256, "elapsed_seconds": 200.1219463320449}
+{"event": "test_progress", "time": "2026-11-03T16:41:04.040073+08:00", "completed": 101, "total": 256, "elapsed_seconds": 200.55954832094721}
+{"event": "test_progress", "time": "2026-11-03T16:41:04.584087+08:00", "completed": 102, "total": 256, "elapsed_seconds": 201.10356399905868}
+{"event": "test_progress", "time": "2026-11-03T16:41:05.050093+08:00", "completed": 103, "total": 256, "elapsed_seconds": 201.5695705190301}
+{"event": "test_progress", "time": "2026-11-03T16:41:05.565852+08:00", "completed": 104, "total": 256, "elapsed_seconds": 202.08532772492617}
+{"event": "test_progress", "time": "2026-11-03T16:41:06.065595+08:00", "completed": 105, "total": 256, "elapsed_seconds": 202.58507272601128}
+{"event": "test_progress", "time": "2026-11-03T16:41:06.546369+08:00", "completed": 106, "total": 256, "elapsed_seconds": 203.06584674306214}
+{"event": "test_progress", "time": "2026-11-03T16:41:07.075536+08:00", "completed": 107, "total": 256, "elapsed_seconds": 203.59501371788792}
+{"event": "test_progress", "time": "2026-11-03T16:41:07.527985+08:00", "completed": 108, "total": 256, "elapsed_seconds": 204.04746293392964}
+{"event": "test_progress", "time": "2026-11-03T16:41:08.088467+08:00", "completed": 109, "total": 256, "elapsed_seconds": 204.60794495698065}
+{"event": "test_progress", "time": "2026-11-03T16:41:08.509326+08:00", "completed": 110, "total": 256, "elapsed_seconds": 205.02880368288606}
+{"event": "test_progress", "time": "2026-11-03T16:41:09.102833+08:00", "completed": 111, "total": 256, "elapsed_seconds": 205.62231077905744}
+{"event": "test_progress", "time": "2026-11-03T16:41:09.491178+08:00", "completed": 112, "total": 256, "elapsed_seconds": 206.01065601105802}
+{"event": "test_progress", "time": "2026-11-03T16:41:10.116397+08:00", "completed": 113, "total": 256, "elapsed_seconds": 206.63587481202558}
+{"event": "test_progress", "time": "2026-11-03T16:41:10.474097+08:00", "completed": 114, "total": 256, "elapsed_seconds": 206.99357450008392}
+{"event": "test_progress", "time": "2026-11-03T16:41:11.130942+08:00", "completed": 115, "total": 256, "elapsed_seconds": 207.65041943988763}
+{"event": "test_progress", "time": "2026-11-03T16:41:11.455027+08:00", "completed": 116, "total": 256, "elapsed_seconds": 207.97450556908734}
+{"event": "test_progress", "time": "2026-11-03T16:41:12.146048+08:00", "completed": 117, "total": 256, "elapsed_seconds": 208.66552576096728}
+{"event": "test_progress", "time": "2026-11-03T16:41:12.436938+08:00", "completed": 118, "total": 256, "elapsed_seconds": 208.95641634589992}
+{"event": "test_progress", "time": "2026-11-03T16:41:13.159443+08:00", "completed": 119, "total": 256, "elapsed_seconds": 209.6789208399132}
+{"event": "test_progress", "time": "2026-11-03T16:41:13.421104+08:00", "completed": 120, "total": 256, "elapsed_seconds": 209.94058258505538}
+{"event": "test_progress", "time": "2026-11-03T16:41:14.171639+08:00", "completed": 121, "total": 256, "elapsed_seconds": 210.69111644709483}
+{"event": "test_progress", "time": "2026-11-03T16:41:14.403081+08:00", "completed": 122, "total": 256, "elapsed_seconds": 210.92255811789073}
+{"event": "test_progress", "time": "2026-11-03T16:41:15.183721+08:00", "completed": 123, "total": 256, "elapsed_seconds": 211.7031993609853}
+{"event": "test_progress", "time": "2026-11-03T16:41:15.386211+08:00", "completed": 124, "total": 256, "elapsed_seconds": 211.90568915894255}
+{"event": "test_progress", "time": "2026-11-03T16:41:16.196825+08:00", "completed": 125, "total": 256, "elapsed_seconds": 212.71630281186663}
+{"event": "test_progress", "time": "2026-11-03T16:41:16.368703+08:00", "completed": 126, "total": 256, "elapsed_seconds": 212.88818126404658}
+{"event": "test_progress", "time": "2026-11-03T16:41:17.207413+08:00", "completed": 127, "total": 256, "elapsed_seconds": 213.72689057094976}
+{"event": "test_progress", "time": "2026-11-03T16:41:17.351141+08:00", "completed": 128, "total": 256, "elapsed_seconds": 213.87061913800426}
+{"event": "test_progress", "time": "2026-11-03T16:41:18.220006+08:00", "completed": 129, "total": 256, "elapsed_seconds": 214.73948364402167}
+{"event": "test_progress", "time": "2026-11-03T16:41:18.333074+08:00", "completed": 130, "total": 256, "elapsed_seconds": 214.85255214804783}
+{"event": "test_progress", "time": "2026-11-03T16:41:19.231394+08:00", "completed": 131, "total": 256, "elapsed_seconds": 215.75087172398344}
+{"event": "test_progress", "time": "2026-11-03T16:41:19.315981+08:00", "completed": 132, "total": 256, "elapsed_seconds": 215.83545927493833}
+{"event": "test_progress", "time": "2026-11-03T16:41:20.245719+08:00", "completed": 133, "total": 256, "elapsed_seconds": 216.76519646006636}
+{"event": "test_progress", "time": "2026-11-03T16:41:20.299907+08:00", "completed": 134, "total": 256, "elapsed_seconds": 216.81938515487127}
+{"event": "test_progress", "time": "2026-11-03T16:41:21.259887+08:00", "completed": 135, "total": 256, "elapsed_seconds": 217.77936480101198}
+{"event": "test_progress", "time": "2026-11-03T16:41:21.281556+08:00", "completed": 136, "total": 256, "elapsed_seconds": 217.80103429593146}
+{"event": "test_progress", "time": "2026-11-03T16:41:22.262974+08:00", "completed": 137, "total": 256, "elapsed_seconds": 218.7824515560642}
+{"event": "test_progress", "time": "2026-11-03T16:41:22.276945+08:00", "completed": 138, "total": 256, "elapsed_seconds": 218.79642337490804}
+{"event": "test_progress", "time": "2026-11-03T16:41:23.245452+08:00", "completed": 139, "total": 256, "elapsed_seconds": 219.76492984499782}
+{"event": "test_progress", "time": "2026-11-03T16:41:23.289619+08:00", "completed": 140, "total": 256, "elapsed_seconds": 219.8090968830511}
+{"event": "test_progress", "time": "2026-11-03T16:41:24.228641+08:00", "completed": 141, "total": 256, "elapsed_seconds": 220.74811773188412}
+{"event": "test_progress", "time": "2026-11-03T16:41:24.301304+08:00", "completed": 142, "total": 256, "elapsed_seconds": 220.82078185095452}
+{"event": "test_progress", "time": "2026-11-03T16:41:25.211246+08:00", "completed": 143, "total": 256, "elapsed_seconds": 221.73072257987224}
+{"event": "test_progress", "time": "2026-11-03T16:41:25.317284+08:00", "completed": 144, "total": 256, "elapsed_seconds": 221.83676228602417}
+{"event": "test_progress", "time": "2026-11-03T16:41:26.195700+08:00", "completed": 145, "total": 256, "elapsed_seconds": 222.7151774750091}
+{"event": "test_progress", "time": "2026-11-03T16:41:26.329058+08:00", "completed": 146, "total": 256, "elapsed_seconds": 222.84853611607105}
+{"event": "test_progress", "time": "2026-11-03T16:41:27.179850+08:00", "completed": 147, "total": 256, "elapsed_seconds": 223.69932614197023}
+{"event": "test_progress", "time": "2026-11-03T16:41:27.340566+08:00", "completed": 148, "total": 256, "elapsed_seconds": 223.8600437499117}
+{"event": "test_progress", "time": "2026-11-03T16:41:28.160290+08:00", "completed": 149, "total": 256, "elapsed_seconds": 224.67976775206625}
+{"event": "test_progress", "time": "2026-11-03T16:41:28.355458+08:00", "completed": 150, "total": 256, "elapsed_seconds": 224.8749362330418}
+{"event": "test_progress", "time": "2026-11-03T16:41:29.142916+08:00", "completed": 151, "total": 256, "elapsed_seconds": 225.66239338205196}
+{"event": "test_progress", "time": "2026-11-03T16:41:29.367597+08:00", "completed": 152, "total": 256, "elapsed_seconds": 225.88707490894012}
+{"event": "test_progress", "time": "2026-11-03T16:41:30.126416+08:00", "completed": 153, "total": 256, "elapsed_seconds": 226.6458937630523}
+{"event": "test_progress", "time": "2026-11-03T16:41:30.383631+08:00", "completed": 154, "total": 256, "elapsed_seconds": 226.9031045420561}
+{"event": "test_progress", "time": "2026-11-03T16:41:31.110553+08:00", "completed": 155, "total": 256, "elapsed_seconds": 227.6300290368963}
+{"event": "test_progress", "time": "2026-11-03T16:41:31.398358+08:00", "completed": 156, "total": 256, "elapsed_seconds": 227.9178326469846}
+{"event": "test_progress", "time": "2026-11-03T16:41:32.093805+08:00", "completed": 157, "total": 256, "elapsed_seconds": 228.61328177596442}
+{"event": "test_progress", "time": "2026-11-03T16:41:32.417104+08:00", "completed": 158, "total": 256, "elapsed_seconds": 228.9365819839295}
+{"event": "test_progress", "time": "2026-11-03T16:41:33.076471+08:00", "completed": 159, "total": 256, "elapsed_seconds": 229.5959462588653}
+{"event": "test_progress", "time": "2026-11-03T16:41:33.430276+08:00", "completed": 160, "total": 256, "elapsed_seconds": 229.94975301390514}
+{"event": "test_progress", "time": "2026-11-03T16:41:34.060450+08:00", "completed": 161, "total": 256, "elapsed_seconds": 230.57992746587843}
+{"event": "test_progress", "time": "2026-11-03T16:41:34.445203+08:00", "completed": 162, "total": 256, "elapsed_seconds": 230.96468156087212}
+{"event": "test_progress", "time": "2026-11-03T16:41:35.044967+08:00", "completed": 163, "total": 256, "elapsed_seconds": 231.5644438250456}
+{"event": "test_progress", "time": "2026-11-03T16:41:35.458430+08:00", "completed": 164, "total": 256, "elapsed_seconds": 231.97790522687137}
+{"event": "test_progress", "time": "2026-11-03T16:41:36.029209+08:00", "completed": 165, "total": 256, "elapsed_seconds": 232.54868667689152}
+{"event": "test_progress", "time": "2026-11-03T16:41:36.472017+08:00", "completed": 166, "total": 256, "elapsed_seconds": 232.99149000504985}
+{"event": "test_progress", "time": "2026-11-03T16:41:37.013379+08:00", "completed": 167, "total": 256, "elapsed_seconds": 233.5328527900856}
+{"event": "test_progress", "time": "2026-11-03T16:41:37.486606+08:00", "completed": 168, "total": 256, "elapsed_seconds": 234.00608056597412}
+{"event": "test_progress", "time": "2026-11-03T16:41:37.995808+08:00", "completed": 169, "total": 256, "elapsed_seconds": 234.51528316899203}
+{"event": "test_progress", "time": "2026-11-03T16:41:38.501787+08:00", "completed": 170, "total": 256, "elapsed_seconds": 235.02126204501837}
+{"event": "test_progress", "time": "2026-11-03T16:41:38.977509+08:00", "completed": 171, "total": 256, "elapsed_seconds": 235.49698392907158}
+{"event": "test_progress", "time": "2026-11-03T16:41:39.513717+08:00", "completed": 172, "total": 256, "elapsed_seconds": 236.03319192607887}
+{"event": "test_progress", "time": "2026-11-03T16:41:39.959928+08:00", "completed": 173, "total": 256, "elapsed_seconds": 236.4794043658767}
+{"event": "test_progress", "time": "2026-11-03T16:41:40.527788+08:00", "completed": 174, "total": 256, "elapsed_seconds": 237.04726252891123}
+{"event": "test_progress", "time": "2026-11-03T16:41:40.938476+08:00", "completed": 175, "total": 256, "elapsed_seconds": 237.4579526479356}
+{"event": "test_progress", "time": "2026-11-03T16:41:41.542191+08:00", "completed": 176, "total": 256, "elapsed_seconds": 238.06166773987934}
+{"event": "test_progress", "time": "2026-11-03T16:41:41.932444+08:00", "completed": 177, "total": 256, "elapsed_seconds": 238.45192144089378}
+{"event": "test_progress", "time": "2026-11-03T16:41:42.555007+08:00", "completed": 178, "total": 256, "elapsed_seconds": 239.07448327098973}
+{"event": "test_progress", "time": "2026-11-03T16:41:42.903614+08:00", "completed": 179, "total": 256, "elapsed_seconds": 239.423091822071}
+{"event": "test_progress", "time": "2026-11-03T16:41:43.571156+08:00", "completed": 180, "total": 256, "elapsed_seconds": 240.09063411992975}
+{"event": "test_progress", "time": "2026-11-03T16:41:43.886771+08:00", "completed": 181, "total": 256, "elapsed_seconds": 240.40624901093543}
+{"event": "test_progress", "time": "2026-11-03T16:41:44.584858+08:00", "completed": 182, "total": 256, "elapsed_seconds": 241.10433269594796}
+{"event": "test_progress", "time": "2026-11-03T16:41:44.869511+08:00", "completed": 183, "total": 256, "elapsed_seconds": 241.3889882429503}
+{"event": "test_progress", "time": "2026-11-03T16:41:45.600079+08:00", "completed": 184, "total": 256, "elapsed_seconds": 242.11955706891604}
+{"event": "test_progress", "time": "2026-11-03T16:41:45.852226+08:00", "completed": 185, "total": 256, "elapsed_seconds": 242.3717035080772}
+{"event": "test_progress", "time": "2026-11-03T16:41:46.614170+08:00", "completed": 186, "total": 256, "elapsed_seconds": 243.13364641997032}
+{"event": "test_progress", "time": "2026-11-03T16:41:46.834285+08:00", "completed": 187, "total": 256, "elapsed_seconds": 243.3537629118655}
+{"event": "test_progress", "time": "2026-11-03T16:41:47.632271+08:00", "completed": 188, "total": 256, "elapsed_seconds": 244.1517484029755}
+{"event": "test_progress", "time": "2026-11-03T16:41:47.813836+08:00", "completed": 189, "total": 256, "elapsed_seconds": 244.3333140180912}
+{"event": "test_progress", "time": "2026-11-03T16:41:48.645611+08:00", "completed": 190, "total": 256, "elapsed_seconds": 245.16508853295818}
+{"event": "test_progress", "time": "2026-11-03T16:41:48.793526+08:00", "completed": 191, "total": 256, "elapsed_seconds": 245.3130043640267}
+{"event": "test_progress", "time": "2026-11-03T16:41:49.660662+08:00", "completed": 192, "total": 256, "elapsed_seconds": 246.18013786687516}
+{"event": "test_progress", "time": "2026-11-03T16:41:49.774278+08:00", "completed": 193, "total": 256, "elapsed_seconds": 246.29375533387065}
+{"event": "test_progress", "time": "2026-11-03T16:41:50.674046+08:00", "completed": 194, "total": 256, "elapsed_seconds": 247.1935235678684}
+{"event": "test_progress", "time": "2026-11-03T16:41:50.757320+08:00", "completed": 195, "total": 256, "elapsed_seconds": 247.27679759892635}
+{"event": "test_progress", "time": "2026-11-03T16:41:51.689377+08:00", "completed": 196, "total": 256, "elapsed_seconds": 248.2088546170853}
+{"event": "test_progress", "time": "2026-11-03T16:41:51.737752+08:00", "completed": 197, "total": 256, "elapsed_seconds": 248.25722999405116}
+{"event": "test_progress", "time": "2026-11-03T16:41:52.699519+08:00", "completed": 198, "total": 256, "elapsed_seconds": 249.21899699303322}
+{"event": "test_progress", "time": "2026-11-03T16:41:52.718056+08:00", "completed": 199, "total": 256, "elapsed_seconds": 249.23753403290175}
+{"event": "test_progress", "time": "2026-11-03T16:41:53.699587+08:00", "completed": 200, "total": 256, "elapsed_seconds": 250.21906447503716}
+{"event": "test_progress", "time": "2026-11-03T16:41:53.714711+08:00", "completed": 201, "total": 256, "elapsed_seconds": 250.2341888519004}
+{"event": "test_progress", "time": "2026-11-03T16:41:54.680793+08:00", "completed": 202, "total": 256, "elapsed_seconds": 251.20027054892853}
+{"event": "test_progress", "time": "2026-11-03T16:41:54.729398+08:00", "completed": 203, "total": 256, "elapsed_seconds": 251.24887601705268}
+{"event": "test_progress", "time": "2026-11-03T16:41:55.663274+08:00", "completed": 204, "total": 256, "elapsed_seconds": 252.18275182088837}
+{"event": "test_progress", "time": "2026-11-03T16:41:55.743024+08:00", "completed": 205, "total": 256, "elapsed_seconds": 252.26250207587145}
+{"event": "test_progress", "time": "2026-11-03T16:41:56.648809+08:00", "completed": 206, "total": 256, "elapsed_seconds": 253.1682863428723}
+{"event": "test_progress", "time": "2026-11-03T16:41:56.759503+08:00", "completed": 207, "total": 256, "elapsed_seconds": 253.27898092591204}
+{"event": "test_progress", "time": "2026-11-03T16:41:57.631134+08:00", "completed": 208, "total": 256, "elapsed_seconds": 254.15061097196303}
+{"event": "test_progress", "time": "2026-11-03T16:41:57.775662+08:00", "completed": 209, "total": 256, "elapsed_seconds": 254.2951398959849}
+{"event": "test_progress", "time": "2026-11-03T16:41:58.613594+08:00", "completed": 210, "total": 256, "elapsed_seconds": 255.1330717690289}
+{"event": "test_progress", "time": "2026-11-03T16:41:58.788240+08:00", "completed": 211, "total": 256, "elapsed_seconds": 255.30771775101312}
+{"event": "test_progress", "time": "2026-11-03T16:41:59.597405+08:00", "completed": 212, "total": 256, "elapsed_seconds": 256.11688206903636}
+{"event": "test_progress", "time": "2026-11-03T16:41:59.799948+08:00", "completed": 213, "total": 256, "elapsed_seconds": 256.3194261030294}
+{"event": "test_progress", "time": "2026-11-03T16:42:00.581266+08:00", "completed": 214, "total": 256, "elapsed_seconds": 257.1007439419627}
+{"event": "test_progress", "time": "2026-11-03T16:42:00.813868+08:00", "completed": 215, "total": 256, "elapsed_seconds": 257.333346002968}
+{"event": "test_progress", "time": "2026-11-03T16:42:01.564243+08:00", "completed": 216, "total": 256, "elapsed_seconds": 258.0837205860298}
+{"event": "test_progress", "time": "2026-11-03T16:42:01.829241+08:00", "completed": 217, "total": 256, "elapsed_seconds": 258.3487190580927}
+{"event": "test_progress", "time": "2026-11-03T16:42:02.546283+08:00", "completed": 218, "total": 256, "elapsed_seconds": 259.06576102389954}
+{"event": "test_progress", "time": "2026-11-03T16:42:02.844156+08:00", "completed": 219, "total": 256, "elapsed_seconds": 259.36363421496935}
+{"event": "test_progress", "time": "2026-11-03T16:42:03.526511+08:00", "completed": 220, "total": 256, "elapsed_seconds": 260.04598834295757}
+{"event": "test_progress", "time": "2026-11-03T16:42:03.858762+08:00", "completed": 221, "total": 256, "elapsed_seconds": 260.37824010802433}
+{"event": "test_progress", "time": "2026-11-03T16:42:04.508508+08:00", "completed": 222, "total": 256, "elapsed_seconds": 261.0279811839573}
+{"event": "test_progress", "time": "2026-11-03T16:42:04.873402+08:00", "completed": 223, "total": 256, "elapsed_seconds": 261.3928784909658}
+{"event": "test_progress", "time": "2026-11-03T16:42:05.489683+08:00", "completed": 224, "total": 256, "elapsed_seconds": 262.00916039501317}
+{"event": "test_progress", "time": "2026-11-03T16:42:05.888516+08:00", "completed": 225, "total": 256, "elapsed_seconds": 262.40799197088927}
+{"event": "test_progress", "time": "2026-11-03T16:42:06.470283+08:00", "completed": 226, "total": 256, "elapsed_seconds": 262.9897609038744}
+{"event": "test_progress", "time": "2026-11-03T16:42:06.900419+08:00", "completed": 227, "total": 256, "elapsed_seconds": 263.41989652696066}
+{"event": "test_progress", "time": "2026-11-03T16:42:07.449752+08:00", "completed": 228, "total": 256, "elapsed_seconds": 263.9692291410174}
+{"event": "test_progress", "time": "2026-11-03T16:42:07.917982+08:00", "completed": 229, "total": 256, "elapsed_seconds": 264.4374591179658}
+{"event": "test_progress", "time": "2026-11-03T16:42:08.430323+08:00", "completed": 230, "total": 256, "elapsed_seconds": 264.94980295794085}
+{"event": "test_progress", "time": "2026-11-03T16:42:08.935104+08:00", "completed": 231, "total": 256, "elapsed_seconds": 265.45457831886597}
+{"event": "test_progress", "time": "2026-11-03T16:42:09.409810+08:00", "completed": 232, "total": 256, "elapsed_seconds": 265.9292878129054}
+{"event": "test_progress", "time": "2026-11-03T16:42:09.949110+08:00", "completed": 233, "total": 256, "elapsed_seconds": 266.4685877850279}
+{"event": "test_progress", "time": "2026-11-03T16:42:10.391036+08:00", "completed": 234, "total": 256, "elapsed_seconds": 266.91051431489177}
+{"event": "test_progress", "time": "2026-11-03T16:42:10.963702+08:00", "completed": 235, "total": 256, "elapsed_seconds": 267.4831798369996}
+{"event": "test_progress", "time": "2026-11-03T16:42:11.370549+08:00", "completed": 236, "total": 256, "elapsed_seconds": 267.8900272869505}
+{"event": "test_progress", "time": "2026-11-03T16:42:11.977661+08:00", "completed": 237, "total": 256, "elapsed_seconds": 268.4971388070844}
+{"event": "test_progress", "time": "2026-11-03T16:42:12.351322+08:00", "completed": 238, "total": 256, "elapsed_seconds": 268.87080039293505}
+{"event": "test_progress", "time": "2026-11-03T16:42:12.994586+08:00", "completed": 239, "total": 256, "elapsed_seconds": 269.5140639168676}
+{"event": "test_progress", "time": "2026-11-03T16:42:13.334256+08:00", "completed": 240, "total": 256, "elapsed_seconds": 269.8537345479708}
+{"event": "test_progress", "time": "2026-11-03T16:42:14.008898+08:00", "completed": 241, "total": 256, "elapsed_seconds": 270.52837174898013}
+{"event": "test_progress", "time": "2026-11-03T16:42:14.314464+08:00", "completed": 242, "total": 256, "elapsed_seconds": 270.833940947894}
+{"event": "test_progress", "time": "2026-11-03T16:42:15.026838+08:00", "completed": 243, "total": 256, "elapsed_seconds": 271.5463158648927}
+{"event": "test_progress", "time": "2026-11-03T16:42:15.296966+08:00", "completed": 244, "total": 256, "elapsed_seconds": 271.81644374504685}
+{"event": "test_progress", "time": "2026-11-03T16:42:16.044321+08:00", "completed": 245, "total": 256, "elapsed_seconds": 272.56379797891714}
+{"event": "test_progress", "time": "2026-11-03T16:42:16.279427+08:00", "completed": 246, "total": 256, "elapsed_seconds": 272.7989056368824}
+{"event": "test_progress", "time": "2026-11-03T16:42:17.057743+08:00", "completed": 247, "total": 256, "elapsed_seconds": 273.57722077402286}
+{"event": "test_progress", "time": "2026-11-03T16:42:17.263142+08:00", "completed": 248, "total": 256, "elapsed_seconds": 273.7826196849346}
+{"event": "test_progress", "time": "2026-11-03T16:42:18.071178+08:00", "completed": 249, "total": 256, "elapsed_seconds": 274.5906565298792}
+{"event": "test_progress", "time": "2026-11-03T16:42:18.245372+08:00", "completed": 250, "total": 256, "elapsed_seconds": 274.7648502830416}
+{"event": "test_progress", "time": "2026-11-03T16:42:19.085675+08:00", "completed": 251, "total": 256, "elapsed_seconds": 275.60515072988346}
+{"event": "test_progress", "time": "2026-11-03T16:42:19.228160+08:00", "completed": 252, "total": 256, "elapsed_seconds": 275.7476379999425}
+{"event": "test_progress", "time": "2026-11-03T16:42:20.099518+08:00", "completed": 253, "total": 256, "elapsed_seconds": 276.61899564391933}
+{"event": "test_progress", "time": "2026-11-03T16:42:21.114530+08:00", "completed": 254, "total": 256, "elapsed_seconds": 277.6340051579755}
+{"event": "test_progress", "time": "2026-11-03T16:42:22.130496+08:00", "completed": 255, "total": 256, "elapsed_seconds": 278.6499730600044}
+{"event": "test_progress", "time": "2026-11-03T16:42:23.145761+08:00", "completed": 256, "total": 256, "elapsed_seconds": 279.6652370488737}
+{"event": "benchmark_completed", "time": "2026-11-03T16:42:23.231264+08:00", "samples": 256, "elapsed_seconds": 279.75074203289114}
