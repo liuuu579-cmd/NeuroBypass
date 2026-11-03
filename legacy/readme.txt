@@ -1,0 +1,9 @@
+文件名后的编号与版本直接相关
+train和inference一一对应
+无特殊说明的情况下，损失函数均为成对排序损失
+train使用transformer直接预测全部层，输出一个模拟Q，将模拟Q与真实K相乘得到预测的重要性分数 损失函数采用KL散度
+train2使用transformer直接预测全部层
+train2A使用transformer预测前5层
+train2B使用transformer预测前5层，直接预测index
+train3使用MLP直接预测全部层
+train_layered_mlp使用MLP预测前5层

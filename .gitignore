@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.pth
+*.pt
+*.bin
+*.safetensors
+*.zarr/
+opt13b_*/
+c4_subset_*.txt
+lm-evaluation-harness/

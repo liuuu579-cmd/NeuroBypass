@@ -1,0 +1,263 @@
+{
+  "scope": "Aggregate audit of stored data, not a new pruning quality benchmark.",
+  "shards": [
+    {
+      "name": "opt13b_greedy_routing_labels_v3_part_0",
+      "allocated_rows": 500,
+      "completed_rows": 500
+    },
+    {
+      "name": "opt13b_greedy_routing_labels_v3_part_1",
+      "allocated_rows": 500,
+      "completed_rows": 500
+    },
+    {
+      "name": "opt13b_greedy_routing_labels_v3_part_2",
+      "allocated_rows": 500,
+      "completed_rows": 500
+    },
+    {
+      "name": "opt13b_greedy_routing_labels_v3_part_3",
+      "allocated_rows": 500,
+      "completed_rows": 500
+    }
+  ],
+  "allocated_rows": 2000,
+  "valid_complete_rows": 2000,
+  "invalid_lengths": 0,
+  "invalid_skip_trajectories": 0,
+  "nonfinite_kl_rows": 0,
+  "negative_kl_values": 478,
+  "minimum_stored_kl": -0.0007181167602539062,
+  "unique_128_token_prefix_groups": 20,
+  "prefix_group_sizes": [
+    16,
+    16,
+    16,
+    16,
+    121,
+    121,
+    121,
+    121,
+    121,
+    121,
+    121,
+    121,
+    121,
+    121,
+    121,
+    121,
+    121,
+    121,
+    121,
+    121
+  ],
+  "duplicate_same_prefix_same_length_rows": 0,
+  "random_split_seed42": {
+    "train_rows": 1800,
+    "val_rows": 200,
+    "val_rows_with_train_prefix_group": 200,
+    "overlap_fraction": 1.0,
+    "train_groups": 20,
+    "val_groups": 19
+  },
+  "rows_with_decreasing_kl_step": 1379,
+  "max_k_with_kl_at_most_0_5_histogram": {
+    "10": 1,
+    "11": 6,
+    "12": 18,
+    "13": 39,
+    "14": 91,
+    "15": 153,
+    "16": 1692
+  },
+  "labels_by_k": {
+    "1": {
+      "unique_masks": 28,
+      "most_common_mask": [
+        3
+      ],
+      "most_common_mask_fraction": 0.1775,
+      "frequency_static_mask": [
+        3
+      ],
+      "frequency_static_label_overlap": 0.1775,
+      "mean_greedy_kl": 0.001561608980409801,
+      "median_greedy_kl": 0.0008573532104492188,
+      "p90_greedy_kl": 0.003775977296754718
+    },
+    "2": {
+      "unique_masks": 189,
+      "most_common_mask": [
+        3,
+        6
+      ],
+      "most_common_mask_fraction": 0.0455,
+      "frequency_static_mask": [
+        3,
+        5
+      ],
+      "frequency_static_label_overlap": 0.28175,
+      "mean_greedy_kl": 0.0037723437417298555,
+      "median_greedy_kl": 0.0023393630981445312,
+      "p90_greedy_kl": 0.00898132286965847
+    },
+    "4": {
+      "unique_masks": 1234,
+      "most_common_mask": [
+        3,
+        5,
+        9,
+        10
+      ],
+      "most_common_mask_fraction": 0.0055,
+      "frequency_static_mask": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "frequency_static_label_overlap": 0.35925,
+      "mean_greedy_kl": 0.010370327159762383,
+      "median_greedy_kl": 0.0070285797119140625,
+      "p90_greedy_kl": 0.02346954308450222
+    },
+    "6": {
+      "unique_masks": 1938,
+      "most_common_mask": [
+        2,
+        4,
+        6,
+        9,
+        11,
+        12
+      ],
+      "most_common_mask_fraction": 0.0015,
+      "frequency_static_mask": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        9
+      ],
+      "frequency_static_label_overlap": 0.39833333333333326,
+      "mean_greedy_kl": 0.0215434692800045,
+      "median_greedy_kl": 0.015716552734375,
+      "p90_greedy_kl": 0.048553466796875
+    },
+    "8": {
+      "unique_masks": 1997,
+      "most_common_mask": [
+        3,
+        5,
+        6,
+        12,
+        13,
+        20,
+        25,
+        31
+      ],
+      "most_common_mask_fraction": 0.001,
+      "frequency_static_mask": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        11
+      ],
+      "frequency_static_label_overlap": 0.42075,
+      "mean_greedy_kl": 0.03942820802330971,
+      "median_greedy_kl": 0.03076171875,
+      "p90_greedy_kl": 0.08698730170726776
+    },
+    "12": {
+      "unique_masks": 2000,
+      "most_common_mask": [
+        3,
+        4,
+        6,
+        10,
+        12,
+        14,
+        18,
+        20,
+        23,
+        24,
+        34,
+        37
+      ],
+      "most_common_mask_fraction": 0.0005,
+      "frequency_static_mask": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        17,
+        36,
+        37
+      ],
+      "frequency_static_label_overlap": 0.450875,
+      "mean_greedy_kl": 0.111615851521492,
+      "median_greedy_kl": 0.093231201171875,
+      "p90_greedy_kl": 0.23328857123851776
+    },
+    "16": {
+      "unique_masks": 2000,
+      "most_common_mask": [
+        3,
+        4,
+        6,
+        10,
+        12,
+        14,
+        18,
+        20,
+        21,
+        23,
+        24,
+        26,
+        29,
+        33,
+        34,
+        37
+      ],
+      "most_common_mask_fraction": 0.0005,
+      "frequency_static_mask": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        11,
+        17,
+        25,
+        31,
+        32,
+        34,
+        35,
+        36,
+        37
+      ],
+      "frequency_static_label_overlap": 0.51478125,
+      "mean_greedy_kl": 0.2779877781867981,
+      "median_greedy_kl": 0.23162841796875,
+      "p90_greedy_kl": 0.575732409954071
+    }
+  },
+  "limitations": [
+    "Prefix groups identify overlapping source chunks, not independently identified documents.",
+    "Label overlap is not task accuracy or KL quality.",
+    "Stored KL is from FP16 last-token distributions."
+  ]
+}

@@ -1,0 +1,749 @@
+{
+  "timezone": "Asia/Shanghai",
+  "files": [
+    {
+      "source_path": "/home/liushenyu/test/avg_layer_importance.png",
+      "snapshot_path": "evidence/figures/avg_layer_importance.png",
+      "bytes": 25467,
+      "sha256": "4d7dd24b7c4e6233cf20e318ce1c240b903c0fe10cdb16d12c982acfe6481cfb",
+      "mtime_ns": 1772851086747344320,
+      "mtime_asia_shanghai": "2026-03-07T10:38:06.747344+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/layer_importance_heatmap.png",
+      "snapshot_path": "evidence/figures/layer_importance_heatmap.png",
+      "bytes": 65196,
+      "sha256": "4d6cf3bae95aa14f85fd9720b2e40cf2470885f7429adb72a4da391029d02e99",
+      "mtime_ns": 1772851086523343742,
+      "mtime_asia_shanghai": "2026-03-07T10:38:06.523344+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/routing_strategies_comparison.png",
+      "snapshot_path": "evidence/figures/routing_strategies_comparison.png",
+      "bytes": 133339,
+      "sha256": "35efbce2134b8814f0f0aabfe279db3ec4645328098eba896c8000f9335bb5a7",
+      "mtime_ns": 1774427207519267002,
+      "mtime_asia_shanghai": "2026-03-25T16:26:47.519267+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/final_5_methods_comparison.png",
+      "snapshot_path": "evidence/figures/skip/final_5_methods_comparison.png",
+      "bytes": 165925,
+      "sha256": "bca4ff5822dd0597b684e6094dd16dcf77cc912cfc1a539af9b07dd2aa29a30d",
+      "mtime_ns": 1791426307623560148,
+      "mtime_asia_shanghai": "2026-10-08T10:25:07.623560+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/final_evaluation_results.png",
+      "snapshot_path": "evidence/figures/skip/final_evaluation_results.png",
+      "bytes": 131297,
+      "sha256": "f1586498bdd327870e2f543a0b26c19ed44b6e3c1934662ffdcb2fc5c875f59d",
+      "mtime_ns": 1779863265692211243,
+      "mtime_asia_shanghai": "2026-05-27T14:27:45.692211+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/piqa_6_methods_benchmark.png",
+      "snapshot_path": "evidence/figures/skip/piqa_6_methods_benchmark.png",
+      "bytes": 185491,
+      "sha256": "8ec7a3ef35166f06d4c6ab554265e0fa065c1b138af271958b1edcd18ee0faad",
+      "mtime_ns": 1791429317182370749,
+      "mtime_asia_shanghai": "2026-10-08T11:15:17.182371+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/piqa_autonomous_benchmark.png",
+      "snapshot_path": "evidence/figures/skip/piqa_autonomous_benchmark.png",
+      "bytes": 264454,
+      "sha256": "5ccbc9af01087d9ca6d300bb21f946197b7717405ed8f9fdd35accdda56629bb",
+      "mtime_ns": 1791513913517640812,
+      "mtime_asia_shanghai": "2026-10-09T10:45:13.517641+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/piqa_evaluation_results.png",
+      "snapshot_path": "evidence/figures/skip/piqa_evaluation_results.png",
+      "bytes": 168357,
+      "sha256": "90f1b14474f84de465535b7f9f25bb89dd3e61c0546e5e45cf6faee025053022",
+      "mtime_ns": 1779866583424098745,
+      "mtime_asia_shanghai": "2026-05-27T15:23:03.424099+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/routing_strategies_comparison_5bars.png",
+      "snapshot_path": "evidence/figures/skip/routing_strategies_comparison_5bars.png",
+      "bytes": 157758,
+      "sha256": "b8076d503dfeb5c25a52c9468870db80e007ed177f653349e070a0786aed8726",
+      "mtime_ns": 1774426870130600196,
+      "mtime_asia_shanghai": "2026-03-25T16:21:10.130600+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/routing_strategies_comparison_taylor.png",
+      "snapshot_path": "evidence/figures/skip/routing_strategies_comparison_taylor.png",
+      "bytes": 143434,
+      "sha256": "f459b96b559f8ae995db2ee5fd494ead915a895da0d35d2f0bc5581dfb316769",
+      "mtime_ns": 1773632221322286409,
+      "mtime_asia_shanghai": "2026-03-16T11:37:01.322286+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip_count_distribution.png",
+      "snapshot_path": "evidence/figures/skip_count_distribution.png",
+      "bytes": 32212,
+      "sha256": "68890088b45dee77ef06ccd9afd5fcd6be3dcff5fcab47fe29d39952bf868ae8",
+      "mtime_ns": 1772851086915344755,
+      "mtime_asia_shanghai": "2026-03-07T10:38:06.915345+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/synergistic_effect_proof.png",
+      "snapshot_path": "evidence/figures/synergistic_effect_proof.png",
+      "bytes": 324146,
+      "sha256": "bd99b4613c640b56d79b68479328bee0d37da31605028500388050ceb3666e25",
+      "mtime_ns": 1773105407496469238,
+      "mtime_asia_shanghai": "2026-03-10T09:16:47.496469+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/.codex/attachments/578a8887-9ed7-4884-b646-3bdd1dd96c18/刘慎宇2026.03.07周报.docx",
+      "snapshot_path": "evidence/reports/刘慎宇2026.03.07周报.docx",
+      "bytes": 334190,
+      "sha256": "60ab9ceec5c9c477bfdb95895eafccb745b97e96e1d572e922f384a1eb17b2e1",
+      "mtime_ns": 1793688394348573115,
+      "mtime_asia_shanghai": "2026-11-03T14:46:34.348573+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/.codex/attachments/578a8887-9ed7-4884-b646-3bdd1dd96c18/刘慎宇2026.03.14周报 .docx",
+      "snapshot_path": "evidence/reports/刘慎宇2026.03.14周报 .docx",
+      "bytes": 476883,
+      "sha256": "2dba440b64003504d217859dfa665d5e8a2db48193dd69671ba19663a754f91f",
+      "mtime_ns": 1793688394436573094,
+      "mtime_asia_shanghai": "2026-11-03T14:46:34.436573+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/.codex/attachments/578a8887-9ed7-4884-b646-3bdd1dd96c18/刘慎宇2026.03.22周报.docx",
+      "snapshot_path": "evidence/reports/刘慎宇2026.03.22周报.docx",
+      "bytes": 120103,
+      "sha256": "77569492a112ed46f888da2b7e2d9ce201c300e2f9016b14300af60e3dd68eb4",
+      "mtime_ns": 1793688394308573124,
+      "mtime_asia_shanghai": "2026-11-03T14:46:34.308573+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/dataset.py",
+      "snapshot_path": "legacy/dataset.py",
+      "bytes": 1346,
+      "sha256": "8f4ab6eebc0695fe1545ed67421382c8e75b4d722affe2358afed23752250d38",
+      "mtime_ns": 1753945441675169863,
+      "mtime_asia_shanghai": "2025-07-31T15:04:01.675170+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/dataset2.py",
+      "snapshot_path": "legacy/dataset2.py",
+      "bytes": 1307,
+      "sha256": "62cd492159b91b1f16ec75eb01d2a4026bc0bb9a9480843f2f0861fa40d25f06",
+      "mtime_ns": 1758947665557378197,
+      "mtime_asia_shanghai": "2025-09-27T12:34:25.557378+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/dataset_router_v3.py",
+      "snapshot_path": "legacy/dataset_router_v3.py",
+      "bytes": 1189,
+      "sha256": "cb564c5cf4129a6a980c7d6ce2e594618bc72c1482bcce5f8cf50ae2528ab397",
+      "mtime_ns": 1774231868517316289,
+      "mtime_asia_shanghai": "2026-03-23T10:11:08.517316+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/generate_greedy_labels.py",
+      "snapshot_path": "legacy/generate_greedy_labels.py",
+      "bytes": 7737,
+      "sha256": "9df39442d9ad25e87adc1792af73cbd243e1c685ae0d8e653e9df102ba98dc97",
+      "mtime_ns": 1773111039045333081,
+      "mtime_asia_shanghai": "2026-03-10T10:50:39.045333+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/generate_greedy_labels_multi.py",
+      "snapshot_path": "legacy/generate_greedy_labels_multi.py",
+      "bytes": 7233,
+      "sha256": "70a92867c2edf30c41c5c4a88d95b9921decf774a8fd4e6255749af0d33643d7",
+      "mtime_ns": 1774231588234802372,
+      "mtime_asia_shanghai": "2026-03-23T10:06:28.234802+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/generate_greedy_labels_multi_v2.py",
+      "snapshot_path": "legacy/generate_greedy_labels_multi_v2.py",
+      "bytes": 7892,
+      "sha256": "b023c67e2a5f8f75f0b41a70d3cd35d1a1e5b0f46c0c35bb8dcbae87059b3e9f",
+      "mtime_ns": 1774236762601158024,
+      "mtime_asia_shanghai": "2026-03-23T11:32:42.601158+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/generate_greedy_labels_multi_v3.py",
+      "snapshot_path": "legacy/generate_greedy_labels_multi_v3.py",
+      "bytes": 7889,
+      "sha256": "11e293414ec2c8a390987d65d9d46622869b2a599d85e44db75a70828ac92d19",
+      "mtime_ns": 1790654558790130260,
+      "mtime_asia_shanghai": "2026-09-29T12:02:38.790130+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/generate_skip_scores.py",
+      "snapshot_path": "legacy/generate_skip_scores.py",
+      "bytes": 6733,
+      "sha256": "ecc3cc3c63f97e5beaf548c7868cd01a469134197ceab0f85245cb22ab371187",
+      "mtime_ns": 1772584748670007097,
+      "mtime_asia_shanghai": "2026-03-04T08:39:08.670007+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/generate_trajectories.py",
+      "snapshot_path": "legacy/generate_trajectories.py",
+      "bytes": 6457,
+      "sha256": "b29f6908a6d0d3047775112c08484a9ae944765590ab9feb9bbc38e1acb29b05",
+      "mtime_ns": 1755057513266806938,
+      "mtime_asia_shanghai": "2025-08-13T11:58:33.266807+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/generate_trajectories2.py",
+      "snapshot_path": "legacy/generate_trajectories2.py",
+      "bytes": 6601,
+      "sha256": "cba2fc0397b2bb90bafe995db61a455bc1bd3f0f9a417c5dfcf67c3371f2fd26",
+      "mtime_ns": 1756361547037617129,
+      "mtime_asia_shanghai": "2025-08-28T14:12:27.037617+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/generate_trajectories2B.py",
+      "snapshot_path": "legacy/generate_trajectories2B.py",
+      "bytes": 10697,
+      "sha256": "1ec32cb1b38b78f754fdbb271810b35b6bb57d3211cdfb24d1856042eee55855",
+      "mtime_ns": 1758255680244121730,
+      "mtime_asia_shanghai": "2025-09-19T12:21:20.244122+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/generate_trajectories2C.py",
+      "snapshot_path": "legacy/generate_trajectories2C.py",
+      "bytes": 9190,
+      "sha256": "1607c8bcf31847803cdf499e24dc812a46141d51e5f7601a5a5b40843c2f732a",
+      "mtime_ns": 1758937404191757123,
+      "mtime_asia_shanghai": "2025-09-27T09:43:24.191757+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/index_Jaccard.py",
+      "snapshot_path": "legacy/index_Jaccard.py",
+      "bytes": 13534,
+      "sha256": "caa8c4048a61f5fe0088cc07bf0cbb20267fb06815289905adffd0c3b03c5783",
+      "mtime_ns": 1779263964854559118,
+      "mtime_asia_shanghai": "2026-05-20T15:59:24.854559+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/indexcalp.py",
+      "snapshot_path": "legacy/indexcalp.py",
+      "bytes": 930,
+      "sha256": "89f6bbf27e90ebdadbcd974c889cdd297b6334328245daef7be228ac82096f06",
+      "mtime_ns": 1757587291868541885,
+      "mtime_asia_shanghai": "2025-09-11T18:41:31.868542+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/indexcaltk.py",
+      "snapshot_path": "legacy/indexcaltk.py",
+      "bytes": 6785,
+      "sha256": "3cbe35827184c3049c542c2d11208ac6fdf5c8c6f6b75cd32acb75d0f8084a56",
+      "mtime_ns": 1759221294784573019,
+      "mtime_asia_shanghai": "2025-09-30T16:34:54.784573+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/indexcatch.py",
+      "snapshot_path": "legacy/indexcatch.py",
+      "bytes": 9190,
+      "sha256": "498656c28518f35cf17b313a138764adf99fd0266cbed968645714a3705573f2",
+      "mtime_ns": 1759049196894757815,
+      "mtime_asia_shanghai": "2025-09-28T16:46:36.894758+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/inference_test.py",
+      "snapshot_path": "legacy/inference_test.py",
+      "bytes": 8638,
+      "sha256": "6ce548272a7e9471482cb915bafcce7c22a400cdaf3bd6e2f130beb2179aa2fc",
+      "mtime_ns": 1756862681519674369,
+      "mtime_asia_shanghai": "2025-09-03T09:24:41.519674+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/inference_test2.py",
+      "snapshot_path": "legacy/inference_test2.py",
+      "bytes": 9047,
+      "sha256": "39d20c8e70331300c2029f4472a1019a845e295531a05b1161dcffb8093f43c3",
+      "mtime_ns": 1756431094654854126,
+      "mtime_asia_shanghai": "2025-08-29T09:31:34.654854+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/inference_test2A.py",
+      "snapshot_path": "legacy/inference_test2A.py",
+      "bytes": 7103,
+      "sha256": "39e5f1b9955644c4adeeba8ebbc69036270f02a94eb4906ef1555504a0191720",
+      "mtime_ns": 1758614164390441828,
+      "mtime_asia_shanghai": "2025-09-23T15:56:04.390442+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/inference_test2B.py",
+      "snapshot_path": "legacy/inference_test2B.py",
+      "bytes": 8249,
+      "sha256": "2a86be1ca8a7592ab85081949622bee32a6230043f98f1f9ad6a616d7c7323dc",
+      "mtime_ns": 1758159001733941793,
+      "mtime_asia_shanghai": "2025-09-18T09:30:01.733942+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/inference_test2B_pro.py",
+      "snapshot_path": "legacy/inference_test2B_pro.py",
+      "bytes": 10565,
+      "sha256": "1d35d3ad047831d2bbc5b22444d31022762448e85bc1aeea28d9e1ca2e7c20be",
+      "mtime_ns": 1777358749501670312,
+      "mtime_asia_shanghai": "2026-04-28T14:45:49.501670+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/inference_test2B_pro_max.py",
+      "snapshot_path": "legacy/inference_test2B_pro_max.py",
+      "bytes": 8471,
+      "sha256": "a7044f2c008731268ceae628cca2ef7f21aea0fe5addbbc0b8ea8b236c1c7dbe",
+      "mtime_ns": 1764662767724457844,
+      "mtime_asia_shanghai": "2025-12-02T16:06:07.724458+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/inference_test2B_pro_max_plus.py",
+      "snapshot_path": "legacy/inference_test2B_pro_max_plus.py",
+      "bytes": 14089,
+      "sha256": "d4792a46234c3c51c4679f3de8d4caaca2ce8701b31cfae8ae8289c437e3d27d",
+      "mtime_ns": 1764663480795758566,
+      "mtime_asia_shanghai": "2025-12-02T16:18:00.795758+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/inference_test2B_pro_max_plus_4x.py",
+      "snapshot_path": "legacy/inference_test2B_pro_max_plus_4x.py",
+      "bytes": 9353,
+      "sha256": "94b96bbb30e249b0ae712c284158b6e75db7a99c38c53830f76828dfd47df578",
+      "mtime_ns": 1765351873071360914,
+      "mtime_asia_shanghai": "2025-12-10T15:31:13.071361+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/inference_test2B_topk.py",
+      "snapshot_path": "legacy/inference_test2B_topk.py",
+      "bytes": 9351,
+      "sha256": "0deca21c144b73bd9ae89cd4b762b25f195b581f48797c6d68d9362a824b4382",
+      "mtime_ns": 1779156745157626363,
+      "mtime_asia_shanghai": "2026-05-19T10:12:25.157626+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/inference_test3.py",
+      "snapshot_path": "legacy/inference_test3.py",
+      "bytes": 8396,
+      "sha256": "15f566aa91e8bbdcc055b73eee686203336002ef51c353bb1b746ad9550b2d41",
+      "mtime_ns": 1756862434231196559,
+      "mtime_asia_shanghai": "2025-09-03T09:20:34.231197+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/inference_test_layered.py",
+      "snapshot_path": "legacy/inference_test_layered.py",
+      "bytes": 10182,
+      "sha256": "c2084a2a03060d555e16522a145a91db916b810a3a473d3e6451698c77b9ad36",
+      "mtime_ns": 1756862005100225596,
+      "mtime_asia_shanghai": "2025-09-03T09:13:25.100226+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/inference_test_skip.py",
+      "snapshot_path": "legacy/inference_test_skip.py",
+      "bytes": 3673,
+      "sha256": "58f65f87c7da8743a7c816475964fc9c56ae1e0e0006a9edbf25f82656abd4a2",
+      "mtime_ns": 1772847170424679996,
+      "mtime_asia_shanghai": "2026-03-07T09:32:50.424680+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/predictor_model.py",
+      "snapshot_path": "legacy/predictor_model.py",
+      "bytes": 3965,
+      "sha256": "d2b645c8bfc66081712364d75522726320c89c7b724957c7a223691e3a2d9474",
+      "mtime_ns": 1753945449865783640,
+      "mtime_asia_shanghai": "2025-07-31T15:04:09.865784+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/predictor_model2.py",
+      "snapshot_path": "legacy/predictor_model2.py",
+      "bytes": 5005,
+      "sha256": "690fc6def97ad95a2552ea22c5760c563658daabae319d0b01990ef6f77ee84c",
+      "mtime_ns": 1755830963587998846,
+      "mtime_asia_shanghai": "2025-08-22T10:49:23.587999+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/predictor_model2A.py",
+      "snapshot_path": "legacy/predictor_model2A.py",
+      "bytes": 5006,
+      "sha256": "fd1b955a3633169370b9b4356c0b20ef4bdfa88af62962c9f206e403171feea0",
+      "mtime_ns": 1757128848215248874,
+      "mtime_asia_shanghai": "2025-09-06T11:20:48.215249+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/predictor_model2B.py",
+      "snapshot_path": "legacy/predictor_model2B.py",
+      "bytes": 3823,
+      "sha256": "9ff31b89ed0a71d7134797b768f63bb9b1d39916c2b5d7b50ffef00dbaa3f7ba",
+      "mtime_ns": 1757128912811478248,
+      "mtime_asia_shanghai": "2025-09-06T11:21:52.811478+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/predictor_model_layered.py",
+      "snapshot_path": "legacy/predictor_model_layered.py",
+      "bytes": 1224,
+      "sha256": "b5e2c71161c2f9ba1e66e6757e96c50bf01e5e34d68e8cb78a52a7eba42ee957",
+      "mtime_ns": 1756351265863996239,
+      "mtime_asia_shanghai": "2025-08-28T11:21:05.863996+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/prepare_dataset.py",
+      "snapshot_path": "legacy/prepare_dataset.py",
+      "bytes": 2720,
+      "sha256": "f377fbfb87270c48a16d42501480b1c0567b2f44abe79cd67115963cf6fa575e",
+      "mtime_ns": 1755068323605422879,
+      "mtime_asia_shanghai": "2025-08-13T14:58:43.605423+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/prove_global_optimum.py",
+      "snapshot_path": "legacy/prove_global_optimum.py",
+      "bytes": 6413,
+      "sha256": "97b1e5874808b90da7645b56098e0cf9a9ac3afa0e9af9370600dea82953bb8c",
+      "mtime_ns": 1774427165730727469,
+      "mtime_asia_shanghai": "2026-03-25T16:26:05.730727+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/prove_synergy.py",
+      "snapshot_path": "legacy/prove_synergy.py",
+      "bytes": 6547,
+      "sha256": "dfa857933eccf9df6b1ed870542f5cb5af7ed4c4af22febbe7861f0ad007b822",
+      "mtime_ns": 1773105352672488990,
+      "mtime_asia_shanghai": "2026-03-10T09:15:52.672489+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/readme.txt",
+      "snapshot_path": "legacy/readme.txt",
+      "bytes": 517,
+      "sha256": "2009df017022f659f951aa880cb10d94e5fe59fbe7853d3d692cf3138af1f6ea",
+      "mtime_ns": 1757035864080469411,
+      "mtime_asia_shanghai": "2025-09-05T09:31:04.080469+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/run.sh",
+      "snapshot_path": "legacy/run.sh",
+      "bytes": 596,
+      "sha256": "ad878b285e80656ffa5d9161166a775471acaf8e47e4f1943aea9511d93f5166",
+      "mtime_ns": 1761719671686591355,
+      "mtime_asia_shanghai": "2025-10-29T14:34:31.686591+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/run_all.sh",
+      "snapshot_path": "legacy/run_all.sh",
+      "bytes": 562,
+      "sha256": "4c2ffcb85d0d6a996cc736fa21dcef55ed494f63325bf2e5eb3931b3d506f0dc",
+      "mtime_ns": 1790654597198881065,
+      "mtime_asia_shanghai": "2026-09-29T12:03:17.198881+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/run_workers.sh",
+      "snapshot_path": "legacy/run_workers.sh",
+      "bytes": 1178,
+      "sha256": "cb6cf358bbe8088cb37b2d6f79cbf59e451df78e41537988404f52c14d03e7c5",
+      "mtime_ns": 1790655056115617372,
+      "mtime_asia_shanghai": "2026-09-29T12:10:56.115617+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/analyze_skipped_layers.py",
+      "snapshot_path": "legacy/skip/analyze_skipped_layers.py",
+      "bytes": 4016,
+      "sha256": "992308bc2c2264cea20d05d39df15c9d5e7c1d32504d4601098c1a895bed50ca",
+      "mtime_ns": 1773458984199999506,
+      "mtime_asia_shanghai": "2026-03-14T11:29:44.200000+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/dataset_router.py",
+      "snapshot_path": "legacy/skip/dataset_router.py",
+      "bytes": 911,
+      "sha256": "ad728e60d2ef2fbf02e7a159a050859678ead332bb0a03928f2942b8a8d3206f",
+      "mtime_ns": 1773216709721875176,
+      "mtime_asia_shanghai": "2026-03-11T16:11:49.721875+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/dataset_router_dynamic.py",
+      "snapshot_path": "legacy/skip/dataset_router_dynamic.py",
+      "bytes": 2852,
+      "sha256": "4f44de8cc44a525239dfb7d242d56106e7cb61f536897233c8cb8f03bbdec2b1",
+      "mtime_ns": 1790820286563470787,
+      "mtime_asia_shanghai": "2026-10-01T10:04:46.563471+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/dataset_router_v3.py",
+      "snapshot_path": "legacy/skip/dataset_router_v3.py",
+      "bytes": 1168,
+      "sha256": "137614173aa7478b2df1e72b5edd82f3cdc700582832997ebf6fa6b16b23a03b",
+      "mtime_ns": 1774317159886587011,
+      "mtime_asia_shanghai": "2026-03-24T09:52:39.886587+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/eval_router_kl.py",
+      "snapshot_path": "legacy/skip/eval_router_kl.py",
+      "bytes": 9043,
+      "sha256": "b354216d1bb5e09671d534743322a2de319f276210186d9382e94d11871e5714",
+      "mtime_ns": 1774427650156575730,
+      "mtime_asia_shanghai": "2026-03-25T16:34:10.156576+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/eval_router_oldnew.py",
+      "snapshot_path": "legacy/skip/eval_router_oldnew.py",
+      "bytes": 11820,
+      "sha256": "77750c9d90a5a109f200e5e8f487117d5e8859fbc9f600fff30a186ec1944563",
+      "mtime_ns": 1791426150176061080,
+      "mtime_asia_shanghai": "2026-10-08T10:22:30.176061+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/eval_router_oldnew_task.py",
+      "snapshot_path": "legacy/skip/eval_router_oldnew_task.py",
+      "bytes": 12824,
+      "sha256": "71102b884c77923d7beabc97bdd813102155320aae2be2792bb353a19d0e343f",
+      "mtime_ns": 1791513789584759989,
+      "mtime_asia_shanghai": "2026-10-09T10:43:09.584760+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/eval_router_oldnew_task_trans.py",
+      "snapshot_path": "legacy/skip/eval_router_oldnew_task_trans.py",
+      "bytes": 10686,
+      "sha256": "3428d132b8d064b8c3f2aa97b8399cd39b8527998d0d543b8d8151ec1ca4aef1",
+      "mtime_ns": 1791883160158603213,
+      "mtime_asia_shanghai": "2026-10-13T17:19:20.158603+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/eval_router_task.py",
+      "snapshot_path": "legacy/skip/eval_router_task.py",
+      "bytes": 9937,
+      "sha256": "f57e6b2fc1f0b7085bcceda329b4e0bf3cf3e8beaa301b54fddd679893449465",
+      "mtime_ns": 1779863014268130035,
+      "mtime_asia_shanghai": "2026-05-27T14:23:34.268130+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/eval_sft_router.py",
+      "snapshot_path": "legacy/skip/eval_sft_router.py",
+      "bytes": 6946,
+      "sha256": "2aa8c03fa9e9b2f7a36621a43588e5ac50b88717b072eb1851bbd805a126ecf2",
+      "mtime_ns": 1791075198077807288,
+      "mtime_asia_shanghai": "2026-10-04T08:53:18.077807+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/model_router.py",
+      "snapshot_path": "legacy/skip/model_router.py",
+      "bytes": 4018,
+      "sha256": "ca3b339837a93172600c0c424f3c06b74f4b7d7b69d1de58d9a0b5c49d1f087f",
+      "mtime_ns": 1774401349158039689,
+      "mtime_asia_shanghai": "2026-03-25T09:15:49.158040+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/model_router_transformer.py",
+      "snapshot_path": "legacy/skip/model_router_transformer.py",
+      "bytes": 4270,
+      "sha256": "b1bfb9a2826e9744e39d22568ccc00b8fac738b337a86f35f782ed5415bb534c",
+      "mtime_ns": 1791623676140462370,
+      "mtime_asia_shanghai": "2026-10-10T17:14:36.140462+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/model_router_v4.py",
+      "snapshot_path": "legacy/skip/model_router_v4.py",
+      "bytes": 1689,
+      "sha256": "ff00ca5b54463027a26a1b7ae26b778c754a5f17eb5ac736e0447096eb2c1fb2",
+      "mtime_ns": 1790820273223620041,
+      "mtime_asia_shanghai": "2026-10-01T10:04:33.223620+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/my_router_model.py",
+      "snapshot_path": "legacy/skip/my_router_model.py",
+      "bytes": 4461,
+      "sha256": "a5a5bc52f30f69d8f36a237cfb82e8471f08dd0ae5b335a6b5cf292e224dd509",
+      "mtime_ns": 1779936262937676509,
+      "mtime_asia_shanghai": "2026-05-28T10:44:22.937676+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/prove_global_optimum_v2.py",
+      "snapshot_path": "legacy/skip/prove_global_optimum_v2.py",
+      "bytes": 10709,
+      "sha256": "e0e5756bb8abd137e9e70e8b3024cc09fd625568504c24fddba44ba94be25fe7",
+      "mtime_ns": 1774426781145216766,
+      "mtime_asia_shanghai": "2026-03-25T16:19:41.145217+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/run_eval.py",
+      "snapshot_path": "legacy/skip/run_eval.py",
+      "bytes": 2340,
+      "sha256": "d9a3c95eb7655bda894044a2294fdc29d46bc72913fb111b6cffc351f7b560aa",
+      "mtime_ns": 1780300091679306536,
+      "mtime_asia_shanghai": "2026-06-01T15:48:11.679307+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/train_rl_dynamic.py",
+      "snapshot_path": "legacy/skip/train_rl_dynamic.py",
+      "bytes": 11317,
+      "sha256": "031a8c73288dd29c0501b96227310260f5836738ee0902b51000f0c502226e64",
+      "mtime_ns": 1790939480085347716,
+      "mtime_asia_shanghai": "2026-10-02T19:11:20.085348+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/train_router_rl_v1.py",
+      "snapshot_path": "legacy/skip/train_router_rl_v1.py",
+      "bytes": 9836,
+      "sha256": "b158b1f06fee68b3ee672204d870a737224b9989c2497f041e552d62d9c52698",
+      "mtime_ns": 1773329021615721483,
+      "mtime_asia_shanghai": "2026-03-12T23:23:41.615721+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/train_router_rl_v2.py",
+      "snapshot_path": "legacy/skip/train_router_rl_v2.py",
+      "bytes": 9121,
+      "sha256": "7eaa3be4010937731a46212bc6330aae2b4d655fda5ecbdebff410ea53c75f91",
+      "mtime_ns": 1773462122704463740,
+      "mtime_asia_shanghai": "2026-03-14T12:22:02.704464+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/train_router_rl_v3.py",
+      "snapshot_path": "legacy/skip/train_router_rl_v3.py",
+      "bytes": 9124,
+      "sha256": "2d5383a0ca8b95a6d46c2036ff42b9266a56fa112f2778567dbb376a737901e1",
+      "mtime_ns": 1773714874570293408,
+      "mtime_asia_shanghai": "2026-03-17T10:34:34.570293+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/train_router_sft_v1.py",
+      "snapshot_path": "legacy/skip/train_router_sft_v1.py",
+      "bytes": 9500,
+      "sha256": "a2c67c50557bab4a5a7795f64ce1fd86f048d77da4f4622f6dd05836487012fe",
+      "mtime_ns": 1773225939163507939,
+      "mtime_asia_shanghai": "2026-03-11T18:45:39.163508+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/train_router_sft_v2.py",
+      "snapshot_path": "legacy/skip/train_router_sft_v2.py",
+      "bytes": 9155,
+      "sha256": "e04731c9234a2925e2db3ce5d9598ead6572b9c809a200a8556ded34c619e87c",
+      "mtime_ns": 1773456414299905111,
+      "mtime_asia_shanghai": "2026-03-14T10:46:54.299905+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/train_router_sft_v3.py",
+      "snapshot_path": "legacy/skip/train_router_sft_v3.py",
+      "bytes": 9095,
+      "sha256": "09ec91c26f08a6c0df7c1c70fcc7b410f5c5a705e51c2c22517de174dbb953e1",
+      "mtime_ns": 1774404748330136782,
+      "mtime_asia_shanghai": "2026-03-25T10:12:28.330137+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/train_sft_dynamic.py",
+      "snapshot_path": "legacy/skip/train_sft_dynamic.py",
+      "bytes": 11309,
+      "sha256": "00ea8ed1070475c4d8be5d0bac9c3100378d26a7a130a40c3ff9b50e84d9065b",
+      "mtime_ns": 1790903404455320349,
+      "mtime_asia_shanghai": "2026-10-02T09:10:04.455320+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/skip/train_sft_dynamic_v2.py",
+      "snapshot_path": "legacy/skip/train_sft_dynamic_v2.py",
+      "bytes": 13204,
+      "sha256": "d14e5d5bea7cba2da24cbfa4b3e21b5846a5f54293f72dea2f43e09546148953",
+      "mtime_ns": 1791624645051568656,
+      "mtime_asia_shanghai": "2026-10-10T17:30:45.051569+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/test_layer_kv.py",
+      "snapshot_path": "legacy/test_layer_kv.py",
+      "bytes": 11942,
+      "sha256": "814c5eef2713156b6ceeabddc5ded73a03fd626227ee129ac459e57d127feaff",
+      "mtime_ns": 1763687548893747330,
+      "mtime_asia_shanghai": "2025-11-21T09:12:28.893747+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/train.py",
+      "snapshot_path": "legacy/train.py",
+      "bytes": 5821,
+      "sha256": "7f384ef11ac9d84561b28d8aa09d5ebb2999c00c8946fe67a543cd5afc17a6b3",
+      "mtime_ns": 1755050233716409514,
+      "mtime_asia_shanghai": "2025-08-13T09:57:13.716409+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/train2.py",
+      "snapshot_path": "legacy/train2.py",
+      "bytes": 14198,
+      "sha256": "79ff90f59f99a1c49cb324a68fe39cebd7bb5b8a629b13f8562836bafec68917",
+      "mtime_ns": 1756480790012867137,
+      "mtime_asia_shanghai": "2025-08-29T23:19:50.012867+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/train2A.py",
+      "snapshot_path": "legacy/train2A.py",
+      "bytes": 10193,
+      "sha256": "c8baf15ae0c507e7b00a661be2ef234a6de2eafaf6b1206a419aa7bed065a46c",
+      "mtime_ns": 1757034478888039069,
+      "mtime_asia_shanghai": "2025-09-05T09:07:58.888039+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/train2B.py",
+      "snapshot_path": "legacy/train2B.py",
+      "bytes": 9682,
+      "sha256": "00599e79891ddb9fdc3fc8c93bbe7a8865ba5d1831b6c2adec3b6da361870c56",
+      "mtime_ns": 1757293157612783966,
+      "mtime_asia_shanghai": "2025-09-08T08:59:17.612784+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/train2C.py",
+      "snapshot_path": "legacy/train2C.py",
+      "bytes": 11882,
+      "sha256": "b7360e88cad69884171bc20ba88b747a35b4e42e6fbd63e5b135b694e082aecb",
+      "mtime_ns": 1759113636913809190,
+      "mtime_asia_shanghai": "2025-09-29T10:40:36.913809+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/train2D.py",
+      "snapshot_path": "legacy/train2D.py",
+      "bytes": 13653,
+      "sha256": "31f714ee674aec02d92d3c4760d977d577139980b6d2485bccfe21261ffa81a5",
+      "mtime_ns": 1761871732129414232,
+      "mtime_asia_shanghai": "2025-10-31T08:48:52.129414+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/train2E.py",
+      "snapshot_path": "legacy/train2E.py",
+      "bytes": 15571,
+      "sha256": "c4f581722c1980b248a40ff06eb7436835a859eb3ce9e658c107ced25b991d2f",
+      "mtime_ns": 1764639495718923351,
+      "mtime_asia_shanghai": "2025-12-02T09:38:15.718923+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/train3.py",
+      "snapshot_path": "legacy/train3.py",
+      "bytes": 10536,
+      "sha256": "6f7e849e899d59a69cd3728cbef9d5cec3d4291d811fb1d71d10a79aa9c6b5a7",
+      "mtime_ns": 1756286935091236819,
+      "mtime_asia_shanghai": "2025-08-27T17:28:55.091237+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/train_layered_mlp.py",
+      "snapshot_path": "legacy/train_layered_mlp.py",
+      "bytes": 12439,
+      "sha256": "49af95668bed99986ac88d8e92210ef2b4c40b3b1e7da5444bec0ff997d27d6d",
+      "mtime_ns": 1756347839345543869,
+      "mtime_asia_shanghai": "2025-08-28T10:23:59.345544+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/upgrade_zarr_features.py",
+      "snapshot_path": "legacy/upgrade_zarr_features.py",
+      "bytes": 4606,
+      "sha256": "affc7b238c226ea1c270315b8a2e5f034b9cb6396e8e26f8ba2b259d5418b6cc",
+      "mtime_ns": 1773662320225623494,
+      "mtime_asia_shanghai": "2026-03-16T19:58:40.225624+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/utils.py",
+      "snapshot_path": "legacy/utils.py",
+      "bytes": 3198,
+      "sha256": "7773c091b04403d0da6c4d6243683282898517f4e4d85efc38001e6504371538",
+      "mtime_ns": 1755058067154065428,
+      "mtime_asia_shanghai": "2025-08-13T12:07:47.154065+08:00"
+    },
+    {
+      "source_path": "/home/liushenyu/test/utils2.py",
+      "snapshot_path": "legacy/utils2.py",
+      "bytes": 4818,
+      "sha256": "250e163ad8cdb27d4f34012b435f245707b36bcaf213f188130a227a344e4d12",
+      "mtime_ns": 1756361534129451651,
+      "mtime_asia_shanghai": "2025-08-28T14:12:14.129452+08:00"
+    }
+  ]
+}

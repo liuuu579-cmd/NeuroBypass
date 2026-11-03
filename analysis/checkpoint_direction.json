@@ -1,0 +1,58 @@
+{
+  "checkpoint": "skip/transformer_router_raw_embed_epoch_20.pth",
+  "scope": "One completed row per distinct 128-token prefix group; these are training-source diagnostics.",
+  "ideal_classifier_semantic_test": {
+    "bottom_k_correct_hits": 6,
+    "legacy_top_k_correct_hits": 0
+  },
+  "by_k": {
+    "6": {
+      "sample_count": 20,
+      "correct_bottom_k_label_overlap": 0.4666666666666666,
+      "legacy_top_k_label_overlap_with_actual_skip_targets": 0.0,
+      "legacy_logged_hit_metric": 0.10833333333333335,
+      "mean_bce": 0.3169130250811577,
+      "unique_corrected_masks": 14,
+      "most_common_corrected_mask": [
+        3,
+        4,
+        5,
+        6,
+        8,
+        9
+      ],
+      "most_common_mask_fraction": 0.15
+    },
+    "16": {
+      "sample_count": 20,
+      "correct_bottom_k_label_overlap": 0.540625,
+      "legacy_top_k_label_overlap_with_actual_skip_targets": 0.275,
+      "legacy_logged_hit_metric": 0.5125,
+      "mean_bce": 0.6058748573064804,
+      "unique_corrected_masks": 20,
+      "most_common_corrected_mask": [
+        3,
+        4,
+        5,
+        6,
+        10,
+        11,
+        12,
+        24,
+        25,
+        26,
+        29,
+        32,
+        34,
+        35,
+        36,
+        37
+      ],
+      "most_common_mask_fraction": 0.05
+    }
+  },
+  "limitations": [
+    "No full OPT forward pass, downstream benchmark, or generalization claim.",
+    "Labels are greedy targets, not global optima."
+  ]
+}

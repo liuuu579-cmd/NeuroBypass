@@ -1,0 +1,5 @@
+# Versions present in the environment used for the read-only diagnostics.
+torch==2.7.1
+transformers==4.54.0
+zarr==2.18.3
+numpy==2.2.6
