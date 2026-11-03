@@ -1,0 +1,22 @@
+{
+  "ordered_skips": [
+    3,
+    10,
+    6,
+    14,
+    11,
+    24,
+    34,
+    18,
+    37,
+    31,
+    20,
+    27,
+    5,
+    25,
+    33,
+    39
+  ],
+  "objective": "Mean all-token KL over original eight calibration blocks",
+  "calibration_samples": 8
+}

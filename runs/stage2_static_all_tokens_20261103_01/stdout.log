@@ -1,0 +1,23 @@
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 34.95it/s]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 35.02it/s]
+{"event": "static_all_token_step", "time": "2026-11-03T17:57:31.256050+08:00", "step": 1, "selected_layer": 3, "kl": 0.006234348547877744}
+{"event": "static_all_token_step", "time": "2026-11-03T17:57:42.721699+08:00", "step": 2, "selected_layer": 10, "kl": 0.014763234532438219}
+{"event": "static_all_token_step", "time": "2026-11-03T17:57:54.282085+08:00", "step": 3, "selected_layer": 6, "kl": 0.026532400166615844}
+{"event": "static_all_token_step", "time": "2026-11-03T17:58:05.239633+08:00", "step": 4, "selected_layer": 14, "kl": 0.042520493268966675}
+{"event": "static_all_token_step", "time": "2026-11-03T17:58:15.836203+08:00", "step": 5, "selected_layer": 11, "kl": 0.06768434355035424}
+{"event": "static_all_token_step", "time": "2026-11-03T17:58:25.697543+08:00", "step": 6, "selected_layer": 24, "kl": 0.09518545493483543}
+{"event": "static_all_token_step", "time": "2026-11-03T17:58:35.014726+08:00", "step": 7, "selected_layer": 34, "kl": 0.12439055554568768}
+{"event": "static_all_token_step", "time": "2026-11-03T17:58:43.719505+08:00", "step": 8, "selected_layer": 18, "kl": 0.1619208613410592}
+{"event": "static_all_token_step", "time": "2026-11-03T17:58:51.983982+08:00", "step": 9, "selected_layer": 37, "kl": 0.20441683009266853}
+{"event": "static_all_token_step", "time": "2026-11-03T17:58:59.622889+08:00", "step": 10, "selected_layer": 31, "kl": 0.25535943917930126}
+{"event": "static_all_token_step", "time": "2026-11-03T17:59:06.839454+08:00", "step": 11, "selected_layer": 20, "kl": 0.3256177753210068}
+{"event": "static_all_token_step", "time": "2026-11-03T17:59:13.490573+08:00", "step": 12, "selected_layer": 27, "kl": 0.40754149854183197}
+{"event": "static_all_token_step", "time": "2026-11-03T17:59:19.726468+08:00", "step": 13, "selected_layer": 5, "kl": 0.5087754800915718}
+{"event": "static_all_token_step", "time": "2026-11-03T17:59:25.456014+08:00", "step": 14, "selected_layer": 25, "kl": 0.6179399229586124}
+{"event": "static_all_token_step", "time": "2026-11-03T17:59:30.775795+08:00", "step": 15, "selected_layer": 33, "kl": 0.7557767406105995}
+{"event": "static_all_token_step", "time": "2026-11-03T17:59:35.673247+08:00", "step": 16, "selected_layer": 39, "kl": 0.8803545236587524}
+{"event": "static_all_tokens_completed", "time": "2026-11-03T18:00:03.376416+08:00", "samples": 256, "elapsed_seconds": 173.9087261580862}

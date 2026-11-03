@@ -1,0 +1,19 @@
+{
+  "started_at": "2026-11-03T17:57:08.190449+08:00",
+  "launcher_pid": 1501933,
+  "command": [
+    "python",
+    "tools/run_with_resources_v2.py",
+    "--gpus",
+    "1,3",
+    "--run-dir",
+    "/home/liushenyu/test/NeuroBypass/runs/stage2_static_all_tokens_20261103_01",
+    "--",
+    "/home/liushenyu/anaconda3/envs/traindata/bin/python",
+    "-u",
+    "tools/stage2_static_all_tokens_v1.py"
+  ],
+  "run_directory": "/home/liushenyu/test/NeuroBypass/runs/stage2_static_all_tokens_20261103_01",
+  "controller_log": "/home/liushenyu/test/NeuroBypass/runs/stage2_static_controller_20261103_01.log",
+  "reason": "Match the static calibration objective to the all-token per-input search; calibration remains disjoint."
+}

@@ -1,0 +1,18 @@
+{
+  "verified_calibration_blocks": 8,
+  "verified_calibration_steps": 16,
+  "verified_candidate_means": 488,
+  "verified_test_blocks": 256,
+  "verified_metric_rows": 512,
+  "stage2_subset_blocks": 32,
+  "preserved_preexisting_repository_files": 175,
+  "preserved_original_and_snapshot_pairs": 93,
+  "evidence_sha256": {
+    "experiment.json": "7334b4fa35910eb0da19df6c79f30e0d2559a440cdba193b096174c6d262cd3f",
+    "static_calibration_steps.jsonl": "37b07c9505f5b149fe97751f849d7ba9e2897624a789914bccc5d48c4e604789",
+    "static_policy.json": "202eb69047d1928f930464f932f34d6977e49149e14b63a296ed2e65cbbb508d",
+    "sample_metrics.jsonl": "06a3fe4cc70e055f9b9bbc115899cd81ee031a4848636db25e48401ea212666d",
+    "summary.json": "6662358eccce414c58f6b76b28f2701f7f39a94365327e692c478cf40d717143"
+  },
+  "scope": "Structural, arithmetic and hash validation; does not rerun model inference."
+}

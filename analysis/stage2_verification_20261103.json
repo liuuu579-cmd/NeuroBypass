@@ -1,0 +1,23 @@
+{
+  "verified_samples": 32,
+  "verified_searches": 64,
+  "verified_search_steps": 1024,
+  "verified_candidate_scores": 31232,
+  "verified_metric_rows": 352,
+  "preserved_preexisting_repository_files": 175,
+  "preserved_original_and_snapshot_pairs": 93,
+  "matched_stage1_baseline_verified": true,
+  "same_mask_distribution_under_transfer_verified": true,
+  "evidence_sha256": {
+    "experiment.json": "d99b0311235ff519db5d0c1aacb0428e28741a29ae0564c8a3bd78541142ed7f",
+    "greedy_search_steps.jsonl": "a85b3d7e98954dcd207e5ce2dafc28b1b5da310e4d3b8f52fc99db9cbddbddd9",
+    "greedy_paths.jsonl": "fe1cadda9997548659a9d71cbc5a78fde0621a74df9e307133e29913c9c66424",
+    "sample_metrics.jsonl": "deba1301f206c1cb7fe1cf445348dc95cacd8c00e273ba864ec47a36ed00c87b",
+    "summary.json": "8567f66fc39e36c99e52e6ccfe5231a91ea78b37cb045aeadd97daf78cc2cd1a"
+  },
+  "scope": "Structural, arithmetic and hash validation; does not rerun model inference.",
+  "limitations": [
+    "Same-prompt full-teacher search is not a deployable policy or guaranteed optimum.",
+    "Bootstrap unit is a token block; document independence is unverified."
+  ]
+}
