@@ -1,0 +1,19 @@
+[
+  "RESOURCE_POLICY.md",
+  "analysis/NEXT_STEPS_AND_RESOURCES_20261103.zh-CN.md",
+  "analysis/resource_followup_baseline_20261103.json",
+  "analysis/resource_followup_upload_files_20261103.json",
+  "analysis/resource_validation_20261103.json",
+  "runs/resource_probe_20261103_01/allocation.json",
+  "runs/resource_probe_20261103_01/status.json",
+  "runs/resource_probe_20261103_01/stdout.log",
+  "runs/resource_probe_20261103_02/allocation.json",
+  "runs/resource_probe_20261103_02/status.json",
+  "runs/resource_probe_20261103_02/stdout.log",
+  "tools/probe_resources_v1.py",
+  "tools/publish_additions_v1.py",
+  "tools/run_with_resources_v1.py",
+  "tools/run_with_resources_v2.py",
+  "tools/test_resource_launcher_v1.py",
+  "tools/test_resource_launcher_v2.py"
+]

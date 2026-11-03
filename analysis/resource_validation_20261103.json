@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-03",
+  "launcher": "tools/run_with_resources_v2.py",
+  "machine": {
+    "physical_cpu_cores": 64,
+    "gpu_count": 6,
+    "gpu_model": "RTX 6000 Ada"
+  },
+  "tests": {
+    "command": "PYTHONDONTWRITEBYTECODE=1 python tools/test_resource_launcher_v2.py -v",
+    "tests_run": 4,
+    "passed": 4
+  },
+  "real_probe": {
+    "run_dir": "runs/resource_probe_20261103_02",
+    "physical_gpus": [
+      1,
+      3
+    ],
+    "visible_gpu_count": 2,
+    "cpu_affinity_count": 21,
+    "torch_threads": 10,
+    "exit_code": 0
+  },
+  "preservation": {
+    "existing_repository_files_verified": 120,
+    "original_snapshot_sources_verified": 93
+  },
+  "formal_training_started": false
+}
