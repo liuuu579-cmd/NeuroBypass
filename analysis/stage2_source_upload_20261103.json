@@ -1,0 +1,13 @@
+[
+  "tools/stage2_greedy_reference_v1.py",
+  "tools/test_stage2_greedy_reference_v1.py",
+  "tools/verify_stage2_results_v1.py",
+  "analysis/stage2_start_baseline_20261103.json",
+  "analysis/stage2_launch_20261103.json",
+  "analysis/stage2_resource_verification_20261103.json",
+  "analysis/STAGE2_PROTOCOL_20261103.zh-CN.md",
+  "runs/stage2_preflight_20261103_01/allocation.json",
+  "runs/stage2_preflight_20261103_01/status.json",
+  "runs/stage2_preflight_20261103_01/stdout.log",
+  "analysis/stage2_source_upload_20261103.json"
+]
