@@ -1,0 +1,5 @@
+[
+  "tools/publish_additions_v2.py",
+  "tools/verify_remote_snapshot_v1.py",
+  "analysis/resource_followup_verification_upload_20261103.json"
+]
