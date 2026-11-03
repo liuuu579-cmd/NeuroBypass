@@ -1,0 +1,14 @@
+{
+  "counts": {
+    "calibration": 8,
+    "test": 256
+  },
+  "training_prefixes_compared": 20,
+  "bos_and_content_prefix_training_matches": 0,
+  "duplicate_content_prefixes_or_inputs": 0,
+  "passed": true,
+  "limitations": [
+    "Latest v3 training stores only; legacy feature-only sources have incomplete provenance.",
+    "Separate blocks do not guarantee separate documents."
+  ]
+}

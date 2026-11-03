@@ -1,0 +1,49 @@
+{
+  "configuration": {
+    "source": "/home/liushenyu/test",
+    "snapshot": "/home/liushenyu/test/NeuroBypass",
+    "base_model": "/home/liushenyu/opt-13b",
+    "corpus": "/home/liushenyu/test/c4_subset_1024mb.txt",
+    "router_checkpoint": "/home/liushenyu/test/skip/transformer_router_raw_embed_epoch_20.pth",
+    "legacy_checkpoint": "/home/liushenyu/test/skip/router_rl_epoch_v4_4.pth",
+    "calibration_samples": 8,
+    "test_samples": 256,
+    "sequence_length": 256,
+    "k": [
+      6,
+      16
+    ],
+    "random_replicates": 3,
+    "seed": 579
+  },
+  "program_sha256": "eb118f4af3fa2cbef139683532394de898db6719bbc65962d1ccfa38f8d70a1f",
+  "router_sha256": "6bc0f365116143183dc82a629d56e955910e36737e9c42b167314b7e8c4b5ab7",
+  "legacy_router_sha256": "9c6b5900b5b3a45a6dc5ac0b56f255f9e855cb5f96ad527e925ba4e969260d79",
+  "model_config_sha256": "2c94ede930d5788e00573e671da80cc836bf7006c03c69696fd0f9a9dbc5e14f",
+  "torch_version": "2.7.1+cu126",
+  "cpu_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "gpu_visibility": "GPU-85476609-c27d-a916-aace-be120230c5dd,GPU-ba7178a1-5589-6027-eb47-28727d296893",
+  "metrics_scope": "C4 blocks, not PIQA, no measured speed claim."
+}

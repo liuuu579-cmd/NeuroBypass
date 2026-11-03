@@ -1,0 +1,62 @@
+[
+  {
+    "kind": "ready",
+    "rank": 1,
+    "pid": 1417686,
+    "cpu_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "torch_threads": 10,
+    "gpu_name": "NVIDIA RTX 6000 Ada Generation"
+  },
+  {
+    "kind": "ready",
+    "rank": 0,
+    "pid": 1417685,
+    "cpu_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "torch_threads": 10,
+    "gpu_name": "NVIDIA RTX 6000 Ada Generation"
+  }
+]

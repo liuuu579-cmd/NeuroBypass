@@ -1,0 +1,23 @@
+[
+  "analysis/STAGE1_LAUNCH_20261103.zh-CN.md",
+  "analysis/stage1_data_verification_20261103.json",
+  "analysis/stage1_launch_20261103.json",
+  "analysis/stage1_launch_20261103_v2.json",
+  "analysis/stage1_start_baseline_20261103.json",
+  "analysis/stage1_start_upload_20261103.json",
+  "runs/stage1_c4_20261103_01/allocation.json",
+  "runs/stage1_c4_20261103_01/experiment.json",
+  "runs/stage1_c4_20261103_01/status.json",
+  "runs/stage1_c4_20261103_01/stdout.log",
+  "runs/stage1_c4_20261103_02/allocation.json",
+  "runs/stage1_c4_20261103_02/data_manifest.json",
+  "runs/stage1_c4_20261103_02/experiment.json",
+  "runs/stage1_c4_20261103_02/workers.json",
+  "runs/stage1_preflight_20261103_01/allocation.json",
+  "runs/stage1_preflight_20261103_01/status.json",
+  "runs/stage1_preflight_20261103_01/stdout.log",
+  "tools/stage1_benchmark_v1.py",
+  "tools/stage1_benchmark_v2.py",
+  "tools/test_stage1_benchmark_v1.py",
+  "tools/verify_stage1_data_v1.py"
+]

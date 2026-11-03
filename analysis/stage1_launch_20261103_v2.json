@@ -1,0 +1,26 @@
+{
+  "launcher_pid": 1417453,
+  "command": [
+    "/home/liushenyu/anaconda3/bin/python",
+    "tools/run_with_resources_v2.py",
+    "--gpus",
+    "1,3",
+    "--run-dir",
+    "runs/stage1_c4_20261103_02",
+    "--",
+    "/home/liushenyu/anaconda3/envs/traindata/bin/python",
+    "-u",
+    "tools/stage1_benchmark_v2.py",
+    "--calibration-samples",
+    "8",
+    "--test-samples",
+    "256",
+    "--sequence-length",
+    "256",
+    "--k",
+    "6",
+    "16"
+  ],
+  "controller_log": "/home/liushenyu/test/NeuroBypass/runs/stage1_controller_20261103_02.log",
+  "run_dir": "/home/liushenyu/test/NeuroBypass/runs/stage1_c4_20261103_02"
+}
