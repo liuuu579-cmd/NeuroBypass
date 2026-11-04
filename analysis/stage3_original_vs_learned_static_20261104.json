@@ -1,0 +1,15 @@
+{
+  "population": "validation100",
+  "metric": "continuation_kl",
+  "difference": "original width256 router minus learned constant-input width64 router",
+  "comparison": {
+    "samples": 100,
+    "mean_delta": 0.00826347317546606,
+    "bootstrap_95pct": [
+      -0.0012533711292780933,
+      0.016884212133474647
+    ],
+    "fraction_negative": 0.34
+  },
+  "test_used": false
+}

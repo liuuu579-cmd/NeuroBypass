@@ -1,0 +1,7 @@
+{
+  "verified_existing_files": 272,
+  "preservation_before_sha256": "768f474dd0cc1909ca9b66d5567ad8acebcc91986d29b1a458bd3c43f246c038",
+  "checkpoint_sha256": "abc679d83667458cc92d2ace634a6800184e4c0652a68862476c8ae553d0a655",
+  "test_used": false,
+  "source_sha256": "0b94a38df0b336bf79bbf9beadad93f3077122764c82b1f39f782d123f0ce4cc"
+}

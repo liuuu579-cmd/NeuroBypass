@@ -1,0 +1,43 @@
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 34.70it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 34.32it/s]
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:09:35.081384+08:00", "rank": 0, "phase": "teacher_states_complete", "documents": 450}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:09:36.864655+08:00", "rank": 1, "phase": "teacher_states_complete", "documents": 450}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:09:40.123353+08:00", "rank": 0, "phase": "quality", "documents": 10, "total": 82}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:09:42.039705+08:00", "rank": 1, "phase": "quality", "documents": 10, "total": 82}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:09:45.116385+08:00", "rank": 0, "phase": "quality", "documents": 20, "total": 82}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:09:47.199647+08:00", "rank": 1, "phase": "quality", "documents": 20, "total": 82}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:09:50.202077+08:00", "rank": 0, "phase": "quality", "documents": 30, "total": 82}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:09:52.452844+08:00", "rank": 1, "phase": "quality", "documents": 30, "total": 82}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:09:55.377245+08:00", "rank": 0, "phase": "quality", "documents": 40, "total": 82}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:09:57.805430+08:00", "rank": 1, "phase": "quality", "documents": 40, "total": 82}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:10:00.645360+08:00", "rank": 0, "phase": "quality", "documents": 50, "total": 82}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:10:03.263648+08:00", "rank": 1, "phase": "quality", "documents": 50, "total": 82}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:10:06.003839+08:00", "rank": 0, "phase": "quality", "documents": 60, "total": 82}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:10:08.816086+08:00", "rank": 1, "phase": "quality", "documents": 60, "total": 82}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:10:11.440429+08:00", "rank": 0, "phase": "quality", "documents": 70, "total": 82}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:10:14.456956+08:00", "rank": 1, "phase": "quality", "documents": 70, "total": 82}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:10:16.972306+08:00", "rank": 0, "phase": "quality", "documents": 80, "total": 82}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:10:20.166468+08:00", "rank": 1, "phase": "quality", "documents": 80, "total": 82}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:10:28.471383+08:00", "rank": 0, "phase": "own_path_scan", "sample": 306, "candidate_forwards_so_far": 175}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:10:31.950016+08:00", "rank": 1, "phase": "own_path_scan", "sample": 338, "candidate_forwards_so_far": 175}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:10:32.391957+08:00", "rank": 0, "phase": "own_path_scan", "sample": 345, "candidate_forwards_so_far": 242}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:10:42.605678+08:00", "rank": 1, "phase": "own_path_scan", "sample": 420, "candidate_forwards_so_far": 350}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:10:42.771218+08:00", "rank": 0, "phase": "own_path_scan", "sample": 370, "candidate_forwards_so_far": 417}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:10:53.121186+08:00", "rank": 0, "phase": "own_path_scan", "sample": 375, "candidate_forwards_so_far": 592}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:10:53.250439+08:00", "rank": 1, "phase": "own_path_scan", "sample": 439, "candidate_forwards_so_far": 525}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:10:57.023027+08:00", "rank": 0, "phase": "own_path_scan", "sample": 382, "candidate_forwards_so_far": 659}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:11:03.873884+08:00", "rank": 1, "phase": "own_path_scan", "sample": 800, "candidate_forwards_so_far": 700}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:11:07.351149+08:00", "rank": 0, "phase": "own_path_scan", "sample": 425, "candidate_forwards_so_far": 834}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:11:14.485783+08:00", "rank": 1, "phase": "own_path_scan", "sample": 825, "candidate_forwards_so_far": 875}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:11:17.663983+08:00", "rank": 0, "phase": "own_path_scan", "sample": 473, "candidate_forwards_so_far": 1009}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:11:27.969052+08:00", "rank": 0, "phase": "own_path_scan", "sample": 551, "candidate_forwards_so_far": 1184}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:11:36.143778+08:00", "rank": 0, "phase": "own_path_scan", "sample": 694, "candidate_forwards_so_far": 1323}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:11:46.451431+08:00", "rank": 0, "phase": "own_path_scan", "sample": 939, "candidate_forwards_so_far": 1498}
+{"event": "router_diagnosis_progress", "time": "2026-11-04T15:11:56.757393+08:00", "rank": 0, "phase": "own_path_scan", "sample": 1030, "candidate_forwards_so_far": 1673}
+{"event": "router_diagnosis_complete", "time": "2026-11-04T15:11:57.891909+08:00", "counts": {"teacher_documents": 900, "teacher_states": 5400, "quality_rows": 1640, "off_policy_states": 96}, "elapsed_seconds": 155.14404624793679}

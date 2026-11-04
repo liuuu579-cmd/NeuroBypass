@@ -1,0 +1,11 @@
+{
+  "verified_teacher_states": 5400,
+  "verified_own_path_states": 96,
+  "verified_own_path_candidates": 3408,
+  "verified_quality_rows": 1640,
+  "preserved_existing_files": 272,
+  "summary_sha256": "eb068254702b2a9a33d638d197ec859daa204819e6ce00a2f40d434059cdff74",
+  "test_used": false,
+  "checkpoint_unchanged": true,
+  "data_unchanged": true
+}
