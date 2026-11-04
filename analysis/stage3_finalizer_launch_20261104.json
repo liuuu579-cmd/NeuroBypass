@@ -1,0 +1,21 @@
+{
+  "started_at": "2026-11-04T12:26:19.643543+08:00",
+  "pid": 2671452,
+  "command": [
+    "taskset",
+    "-c",
+    "0",
+    "python",
+    "-u",
+    "tools/finalize_prompt_fixed_v1.py",
+    "--root",
+    "/home/liushenyu/test/NeuroBypass",
+    "--run",
+    "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_main_20261104_01",
+    "--data-run",
+    "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_pilot_20261104_01",
+    "--wait",
+    "--publish"
+  ],
+  "scope": "Finite pipeline tail; verify, report and publish exactly this run on success; no outgoing messages"
+}

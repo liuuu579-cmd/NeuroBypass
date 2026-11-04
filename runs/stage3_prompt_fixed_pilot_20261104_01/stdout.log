@@ -1,0 +1,27 @@
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 34.22it/s]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 34.58it/s]
+{"event": "prompt_fixed_workers_ready", "time": "2026-11-04T11:47:07.895776+08:00", "workers": [{"kind": "ready", "rank": 1, "pid": 2629201, "cpu_ids": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "threads": 10, "gpu": "NVIDIA RTX 6000 Ada Generation"}, {"kind": "ready", "rank": 0, "pid": 2629200, "cpu_ids": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "threads": 10, "gpu": "NVIDIA RTX 6000 Ada Generation"}]}
+Traceback (most recent call last):
+  File "/home/liushenyu/test/NeuroBypass/tools/prompt_fixed_experiment_v1.py", line 340, in <module>
+    if __name__=='__main__':main()
+  File "/home/liushenyu/test/NeuroBypass/tools/prompt_fixed_experiment_v1.py", line 224, in main
+    probes=[receive(results,processes) for _ in range(2)]
+  File "/home/liushenyu/test/NeuroBypass/tools/prompt_fixed_experiment_v1.py", line 224, in <listcomp>
+    probes=[receive(results,processes) for _ in range(2)]
+  File "/home/liushenyu/test/NeuroBypass/tools/prompt_fixed_experiment_v1.py", line 33, in receive
+    if record['kind']=='error':raise RuntimeError(record['traceback'])
+RuntimeError: Traceback (most recent call last):
+  File "/home/liushenyu/test/NeuroBypass/tools/prompt_fixed_experiment_v1.py", line 78, in worker
+    probes=[cache_probe(model,ids,args.prompt_length,route) for route in [[],[2,5,9,11,14,18]]]
+  File "/home/liushenyu/test/NeuroBypass/tools/prompt_fixed_experiment_v1.py", line 78, in <listcomp>
+    probes=[cache_probe(model,ids,args.prompt_length,route) for route in [[],[2,5,9,11,14,18]]]
+  File "/home/liushenyu/test/NeuroBypass/tools/prompt_fixed_experiment_v1.py", line 46, in cache_probe
+    if kl>1e-4 or error.max().item()>.125:raise ValueError('Cached decoding differs materially from prefix recomputation')
+ValueError: Cached decoding differs materially from prefix recomputation
+

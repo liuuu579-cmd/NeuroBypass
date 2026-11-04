@@ -1,0 +1,18 @@
+{
+  "mode": "pilot",
+  "records": 1032,
+  "verified_labels": 16,
+  "verified_conditional_greedy_steps": 96,
+  "verified_candidate_scores": 3408,
+  "verified_metric_rows": 48,
+  "verified_timing_rows": 24,
+  "preserved_preexisting_text_evidence_files": 216,
+  "preserved_original_and_snapshot_pairs": 93,
+  "no_exact_record_prompt_or_lead_overlap_across_splits": true,
+  "evidence_sha256": {
+    "experiment.json": "44f218eba364c393afdf81b4950a6edc8e945a32793fdf56156bb2e676e6cbed",
+    "summary.json": "13602cfadbd136bbfbf6f027a8d4f9c986c07889b1e203033870421b56fc406f",
+    "sample_metrics.jsonl": "4ae7b91320a9cf452c094a31f73d6911a1799d96beb17e1dbb23202c53fe2acd"
+  },
+  "scope": "Structural, arithmetic and input/source hash checks; does not rerun model inference."
+}

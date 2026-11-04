@@ -1,0 +1,22 @@
+{
+  "started_at": "2026-11-04T12:06:26.793686+08:00",
+  "launcher_pid": 2649998,
+  "command": [
+    "python",
+    "tools/run_with_resources_v2.py",
+    "--gpus",
+    "1,3",
+    "--run-dir",
+    "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_pilot_20261104_02",
+    "--",
+    "/home/liushenyu/anaconda3/envs/traindata/bin/python",
+    "-u",
+    "tools/prompt_fixed_experiment_v2.py",
+    "--mode",
+    "pilot",
+    "--data-run",
+    "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_pilot_20261104_01"
+  ],
+  "run_directory": "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_pilot_20261104_02",
+  "numerical_probe": "runs/stage3_cache_numerics_20261104_01/cache_numerics.json"
+}

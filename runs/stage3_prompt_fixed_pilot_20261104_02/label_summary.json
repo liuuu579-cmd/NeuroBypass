@@ -1,0 +1,11 @@
+{
+  "samples": 16,
+  "split_counts": {
+    "train": 0,
+    "validation": 0,
+    "pilot": 16
+  },
+  "mean_seconds_per_sample_per_gpu": 12.813998743280536,
+  "mean_final_continuation_kl": 0.04745024209842086,
+  "unique_masks": 16
+}

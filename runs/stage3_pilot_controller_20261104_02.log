@@ -1,0 +1,21 @@
+{"event": "allocated", "machine_cpu_count": 64, "machine_gpu_count": 6, "gpu_indices": [1, 3], "gpu_uuids": ["GPU-85476609-c27d-a916-aace-be120230c5dd", "GPU-ba7178a1-5589-6027-eb47-28727d296893"], "cpu_count": 21, "cpu_ids": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "threads_per_worker": 10, "gpu_snapshot": [{"index": 1, "uuid": "GPU-85476609-c27d-a916-aace-be120230c5dd", "name": "NVIDIA RTX 6000 Ada Generation", "memory_used_mib": 2, "utilization_percent": 0}, {"index": 3, "uuid": "GPU-ba7178a1-5589-6027-eb47-28727d296893", "name": "NVIDIA RTX 6000 Ada Generation", "memory_used_mib": 2, "utilization_percent": 0}], "allocation_id": "4c790c645d03424982d3238799fbefa9", "command": ["/home/liushenyu/anaconda3/envs/traindata/bin/python", "-u", "tools/prompt_fixed_experiment_v2.py", "--mode", "pilot", "--data-run", "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_pilot_20261104_01"], "working_directory": "/home/liushenyu/test/NeuroBypass", "created_at": "2026-11-04T12:06:26.930727+08:00", "registry_scope": "same user, same host, jobs using this launcher"}
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 33.74it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 34.60it/s]
+{"event": "prompt_fixed_workers_ready", "time": "2026-11-04T12:06:38.036212+08:00", "workers": [{"kind": "ready", "rank": 1, "pid": 2650043, "cpu_ids": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "threads": 10, "gpu": "NVIDIA RTX 6000 Ada Generation"}, {"kind": "ready", "rank": 0, "pid": 2650042, "cpu_ids": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "threads": 10, "gpu": "NVIDIA RTX 6000 Ada Generation"}]}
+{"event": "cache_probes_passed", "time": "2026-11-04T12:06:40.327996+08:00"}
+{"event": "prompt_fixed_static_step", "time": "2026-11-04T12:06:59.212299+08:00", "step": 1, "layer": 3, "kl": 0.002952316208393313}
+{"event": "prompt_fixed_static_step", "time": "2026-11-04T12:07:18.210372+08:00", "step": 2, "layer": 7, "kl": 0.00776840683829505}
+{"event": "prompt_fixed_static_step", "time": "2026-11-04T12:07:36.919083+08:00", "step": 3, "layer": 11, "kl": 0.015689535532146692}
+{"event": "prompt_fixed_static_step", "time": "2026-11-04T12:07:54.611724+08:00", "step": 4, "layer": 15, "kl": 0.030637166928499937}
+{"event": "prompt_fixed_static_step", "time": "2026-11-04T12:08:11.385198+08:00", "step": 5, "layer": 25, "kl": 0.054346413584426045}
+{"event": "prompt_fixed_static_step", "time": "2026-11-04T12:08:27.238031+08:00", "step": 6, "layer": 36, "kl": 0.0798316637519747}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:09:33.428642+08:00", "completed": 10, "total": 16, "last_sample": 507, "elapsed_seconds": 184.84079645061865}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:10:12.541014+08:00", "completed": 16, "total": 16, "last_sample": 816, "elapsed_seconds": 223.9531672336161}
+{"event": "prompt_fixed_completed", "time": "2026-11-04T12:10:29.155777+08:00", "mode": "pilot", "elapsed_seconds": 240.56793238176033}
+{"state": "completed", "exit_code": 0, "finished_at": "2026-11-04T12:10:30.319749+08:00"}

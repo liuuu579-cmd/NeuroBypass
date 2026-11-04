@@ -1,0 +1,34 @@
+{
+  "started_at": "2026-11-04T12:21:22.729505+08:00",
+  "launcher_pid": 2666129,
+  "command": [
+    "python",
+    "tools/run_with_resources_v2.py",
+    "--gpus",
+    "1,3",
+    "--run-dir",
+    "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_main_20261104_01",
+    "--",
+    "/home/liushenyu/anaconda3/envs/traindata/bin/python",
+    "-u",
+    "tools/prompt_fixed_experiment_v2.py",
+    "--mode",
+    "main",
+    "--data-run",
+    "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_pilot_20261104_01",
+    "--static-run",
+    "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_pilot_20261104_02"
+  ],
+  "run_directory": "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_main_20261104_01",
+  "expected_labels": 900,
+  "expected_train_records": 800,
+  "expected_validation_records": 100,
+  "expected_test_records": 100,
+  "expected_pipeline": [
+    "joint greedy labels",
+    "DDP router SFT",
+    "validation checkpoint selection",
+    "test quality and input controls",
+    "cached generation timing"
+  ]
+}

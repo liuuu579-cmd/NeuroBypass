@@ -1,0 +1,11 @@
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+test_cached_logits_and_layer_calls (__main__.PromptFixedTests) ... ok
+test_joint_greedy_reconsiders_candidates (__main__.PromptFixedTests) ... ok
+test_route_change_and_exception_restore (__main__.PromptFixedTests) ... ok
+test_router_is_exact_k_and_conditions_on_selected_set (__main__.PromptFixedTests) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.061s
+
+OK
