@@ -1,0 +1,30 @@
+{
+  "ordered_skips": [
+    3,
+    7,
+    11,
+    15,
+    25,
+    36
+  ],
+  "calibration_samples": [
+    29,
+    70,
+    109,
+    204,
+    210,
+    281,
+    283,
+    294,
+    305,
+    357,
+    373,
+    395,
+    704,
+    917,
+    973,
+    1006
+  ],
+  "data_sha256": "52009bdab7fe650ff4bdaf46f80a1b740da0af050c2426f4f0c8f9f6e78c9393",
+  "objective": "Teacher KL averaged over 32 continuation predictions; same jointly selected route on prompt and continuation."
+}

@@ -1,0 +1,129 @@
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 33.92it/s]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 34.82it/s]
+{"event": "prompt_fixed_workers_ready", "time": "2026-11-04T12:21:33.686984+08:00", "workers": [{"kind": "ready", "rank": 1, "pid": 2666173, "cpu_ids": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "threads": 10, "gpu": "NVIDIA RTX 6000 Ada Generation"}, {"kind": "ready", "rank": 0, "pid": 2666172, "cpu_ids": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "threads": 10, "gpu": "NVIDIA RTX 6000 Ada Generation"}]}
+{"event": "cache_probes_passed", "time": "2026-11-04T12:21:35.980250+08:00"}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:22:39.450118+08:00", "completed": 10, "total": 900, "last_sample": 12, "elapsed_seconds": 74.89275192981586}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:23:44.826983+08:00", "completed": 20, "total": 900, "last_sample": 23, "elapsed_seconds": 140.26961625088006}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:24:50.024560+08:00", "completed": 30, "total": 900, "last_sample": 34, "elapsed_seconds": 205.4671939080581}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:25:55.069703+08:00", "completed": 40, "total": 900, "last_sample": 47, "elapsed_seconds": 270.51233585877344}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:27:00.125800+08:00", "completed": 50, "total": 900, "last_sample": 59, "elapsed_seconds": 335.56843343982473}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:28:03.535485+08:00", "completed": 60, "total": 900, "last_sample": 75, "elapsed_seconds": 398.97811811976135}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:29:06.115782+08:00", "completed": 70, "total": 900, "last_sample": 90, "elapsed_seconds": 461.558415482752}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:30:08.713085+08:00", "completed": 80, "total": 900, "last_sample": 107, "elapsed_seconds": 524.155719331}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:31:11.337806+08:00", "completed": 90, "total": 900, "last_sample": 124, "elapsed_seconds": 586.7804405898787}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:32:13.989471+08:00", "completed": 100, "total": 900, "last_sample": 138, "elapsed_seconds": 649.432103568688}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:33:17.807992+08:00", "completed": 110, "total": 900, "last_sample": 148, "elapsed_seconds": 713.2506254939362}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:34:22.939267+08:00", "completed": 120, "total": 900, "last_sample": 159, "elapsed_seconds": 778.3819003119133}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:35:28.084604+08:00", "completed": 130, "total": 900, "last_sample": 169, "elapsed_seconds": 843.5272373859771}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:36:33.127990+08:00", "completed": 140, "total": 900, "last_sample": 182, "elapsed_seconds": 908.5706230141222}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:37:38.199845+08:00", "completed": 150, "total": 900, "last_sample": 195, "elapsed_seconds": 973.6424771039747}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:38:41.686867+08:00", "completed": 160, "total": 900, "last_sample": 216, "elapsed_seconds": 1037.1295007630251}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:39:44.337654+08:00", "completed": 170, "total": 900, "last_sample": 229, "elapsed_seconds": 1099.7802878459916}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:40:47.013394+08:00", "completed": 180, "total": 900, "last_sample": 242, "elapsed_seconds": 1162.456027093809}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:41:49.705206+08:00", "completed": 190, "total": 900, "last_sample": 254, "elapsed_seconds": 1225.1478394409642}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:42:52.406227+08:00", "completed": 200, "total": 900, "last_sample": 271, "elapsed_seconds": 1287.8488602968864}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:43:56.037352+08:00", "completed": 210, "total": 900, "last_sample": 276, "elapsed_seconds": 1351.4799848427065}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:45:01.098869+08:00", "completed": 220, "total": 900, "last_sample": 290, "elapsed_seconds": 1416.5415021060035}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:46:06.259891+08:00", "completed": 230, "total": 900, "last_sample": 302, "elapsed_seconds": 1481.7025248780847}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:47:11.389481+08:00", "completed": 240, "total": 900, "last_sample": 316, "elapsed_seconds": 1546.8321152296849}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:48:16.507369+08:00", "completed": 250, "total": 900, "last_sample": 328, "elapsed_seconds": 1611.9500025599264}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:49:20.770569+08:00", "completed": 260, "total": 900, "last_sample": 355, "elapsed_seconds": 1676.2132025798783}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:50:23.440964+08:00", "completed": 270, "total": 900, "last_sample": 379, "elapsed_seconds": 1738.8835979830474}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:51:26.200426+08:00", "completed": 280, "total": 900, "last_sample": 392, "elapsed_seconds": 1801.643059994094}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:52:28.927701+08:00", "completed": 290, "total": 900, "last_sample": 406, "elapsed_seconds": 1864.3703344766982}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:53:31.771597+08:00", "completed": 300, "total": 900, "last_sample": 417, "elapsed_seconds": 1927.2142295679078}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:54:35.053534+08:00", "completed": 310, "total": 900, "last_sample": 416, "elapsed_seconds": 1990.496167562902}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:55:40.449865+08:00", "completed": 320, "total": 900, "last_sample": 428, "elapsed_seconds": 2055.8924985909835}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:56:45.731216+08:00", "completed": 330, "total": 900, "last_sample": 440, "elapsed_seconds": 2121.1738500730135}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:57:51.114576+08:00", "completed": 340, "total": 900, "last_sample": 452, "elapsed_seconds": 2186.557209568098}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T12:58:56.379276+08:00", "completed": 350, "total": 900, "last_sample": 466, "elapsed_seconds": 2251.821908530779}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:00:01.391168+08:00", "completed": 360, "total": 900, "last_sample": 493, "elapsed_seconds": 2316.8338015000336}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:01:04.401611+08:00", "completed": 370, "total": 900, "last_sample": 503, "elapsed_seconds": 2379.844243909698}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:02:07.413151+08:00", "completed": 380, "total": 900, "last_sample": 515, "elapsed_seconds": 2442.8557838778943}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:03:10.430298+08:00", "completed": 390, "total": 900, "last_sample": 525, "elapsed_seconds": 2505.8729320648126}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:04:13.623032+08:00", "completed": 400, "total": 900, "last_sample": 537, "elapsed_seconds": 2569.0656647109427}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:05:16.766525+08:00", "completed": 410, "total": 900, "last_sample": 550, "elapsed_seconds": 2632.209158801008}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:06:22.069118+08:00", "completed": 420, "total": 900, "last_sample": 544, "elapsed_seconds": 2697.511750775855}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:07:27.619266+08:00", "completed": 430, "total": 900, "last_sample": 558, "elapsed_seconds": 2763.061898848042}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:08:33.247028+08:00", "completed": 440, "total": 900, "last_sample": 569, "elapsed_seconds": 2828.689661005046}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:09:38.898717+08:00", "completed": 450, "total": 900, "last_sample": 582, "elapsed_seconds": 2894.341354958713}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:10:44.436126+08:00", "completed": 460, "total": 900, "last_sample": 592, "elapsed_seconds": 2959.878759322688}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:11:47.987587+08:00", "completed": 470, "total": 900, "last_sample": 624, "elapsed_seconds": 3023.430219742004}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:12:51.198573+08:00", "completed": 480, "total": 900, "last_sample": 636, "elapsed_seconds": 3086.6412046067417}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:13:54.377433+08:00", "completed": 490, "total": 900, "last_sample": 647, "elapsed_seconds": 3149.8200664077885}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:14:57.510659+08:00", "completed": 500, "total": 900, "last_sample": 662, "elapsed_seconds": 3212.953292137943}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:16:00.495692+08:00", "completed": 510, "total": 900, "last_sample": 676, "elapsed_seconds": 3275.938325149007}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:17:04.651931+08:00", "completed": 520, "total": 900, "last_sample": 663, "elapsed_seconds": 3340.09456406394}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:18:10.128779+08:00", "completed": 530, "total": 900, "last_sample": 678, "elapsed_seconds": 3405.57141552167}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:19:15.630392+08:00", "completed": 540, "total": 900, "last_sample": 690, "elapsed_seconds": 3471.073025704827}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:20:21.050788+08:00", "completed": 550, "total": 900, "last_sample": 705, "elapsed_seconds": 3536.4934213538654}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:21:26.544952+08:00", "completed": 560, "total": 900, "last_sample": 718, "elapsed_seconds": 3601.9875849490054}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:22:30.835218+08:00", "completed": 570, "total": 900, "last_sample": 753, "elapsed_seconds": 3666.2778507019393}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:23:33.796884+08:00", "completed": 580, "total": 900, "last_sample": 764, "elapsed_seconds": 3729.2395164608024}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:24:36.723911+08:00", "completed": 590, "total": 900, "last_sample": 775, "elapsed_seconds": 3792.166543992702}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:25:39.605505+08:00", "completed": 600, "total": 900, "last_sample": 787, "elapsed_seconds": 3855.048138062004}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:26:42.570527+08:00", "completed": 610, "total": 900, "last_sample": 802, "elapsed_seconds": 3918.0131604620256}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:27:46.402433+08:00", "completed": 620, "total": 900, "last_sample": 783, "elapsed_seconds": 3981.8450676337816}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:28:51.893902+08:00", "completed": 630, "total": 900, "last_sample": 798, "elapsed_seconds": 4047.3365351748653}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:29:57.262189+08:00", "completed": 640, "total": 900, "last_sample": 810, "elapsed_seconds": 4112.704822079744}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:31:02.709719+08:00", "completed": 650, "total": 900, "last_sample": 822, "elapsed_seconds": 4178.152351700701}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:32:08.217612+08:00", "completed": 660, "total": 900, "last_sample": 834, "elapsed_seconds": 4243.660244727042}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:33:12.705245+08:00", "completed": 670, "total": 900, "last_sample": 875, "elapsed_seconds": 4308.147877648007}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:34:15.614927+08:00", "completed": 680, "total": 900, "last_sample": 887, "elapsed_seconds": 4371.057559446897}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:35:18.600289+08:00", "completed": 690, "total": 900, "last_sample": 901, "elapsed_seconds": 4434.04292562278}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:36:21.544883+08:00", "completed": 700, "total": 900, "last_sample": 915, "elapsed_seconds": 4496.987514465116}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:37:24.446795+08:00", "completed": 710, "total": 900, "last_sample": 927, "elapsed_seconds": 4559.889428081922}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:38:27.893685+08:00", "completed": 720, "total": 900, "last_sample": 908, "elapsed_seconds": 4623.336318790913}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:39:33.271926+08:00", "completed": 730, "total": 900, "last_sample": 920, "elapsed_seconds": 4688.714558649808}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:40:38.689272+08:00", "completed": 740, "total": 900, "last_sample": 931, "elapsed_seconds": 4754.131904545706}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:41:44.140042+08:00", "completed": 750, "total": 900, "last_sample": 946, "elapsed_seconds": 4819.5826746090315}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:42:49.504976+08:00", "completed": 760, "total": 900, "last_sample": 956, "elapsed_seconds": 4884.947609402705}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:43:54.376473+08:00", "completed": 770, "total": 900, "last_sample": 1013, "elapsed_seconds": 4949.81910600001}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:44:57.149369+08:00", "completed": 780, "total": 900, "last_sample": 1024, "elapsed_seconds": 5012.592001945712}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:45:59.938026+08:00", "completed": 790, "total": 900, "last_sample": 81, "elapsed_seconds": 5075.38066289993}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:47:02.652175+08:00", "completed": 800, "total": 900, "last_sample": 122, "elapsed_seconds": 5138.094807547983}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:48:05.478218+08:00", "completed": 810, "total": 900, "last_sample": 225, "elapsed_seconds": 5200.920851313975}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:49:08.336295+08:00", "completed": 820, "total": 900, "last_sample": 275, "elapsed_seconds": 5263.778929227963}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:50:13.576199+08:00", "completed": 830, "total": 900, "last_sample": 120, "elapsed_seconds": 5329.018831027672}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:51:18.923646+08:00", "completed": 840, "total": 900, "last_sample": 217, "elapsed_seconds": 5394.366278925911}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:52:24.281488+08:00", "completed": 850, "total": 900, "last_sample": 272, "elapsed_seconds": 5459.724120841827}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:53:29.591086+08:00", "completed": 860, "total": 900, "last_sample": 365, "elapsed_seconds": 5525.033718463033}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:54:34.967569+08:00", "completed": 870, "total": 900, "last_sample": 412, "elapsed_seconds": 5590.4102007597685}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:55:38.038691+08:00", "completed": 880, "total": 900, "last_sample": 998, "elapsed_seconds": 5653.481327862944}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:57:24.576817+08:00", "completed": 890, "total": 900, "last_sample": 709, "elapsed_seconds": 5760.019449882675}
+{"event": "prompt_fixed_labels", "time": "2026-11-04T13:59:35.041490+08:00", "completed": 900, "total": 900, "last_sample": 1030, "elapsed_seconds": 5890.484122120775}
+{"event": "router_fit_progress", "time": "2026-11-04T13:59:42.364202+08:00", "epoch": 1, "mean_loss": 4.125874226093292, "lr": 0.00017, "validation_samples": 32, "continuation_kl": 0.22698846261482686, "continuation_nll": 2.8304509855806828, "static_continuation_kl": 0.09179387462791055, "static_continuation_nll": 2.7170677669346333}
+{"event": "router_fit_progress", "time": "2026-11-04T13:59:42.963712+08:00", "epoch": 2, "mean_loss": 3.8701346564292907, "lr": 0.00019945376095861545}
+{"event": "router_fit_progress", "time": "2026-11-04T13:59:43.421596+08:00", "epoch": 3, "mean_loss": 3.827756633758545, "lr": 0.00019724602393453975}
+{"event": "router_fit_progress", "time": "2026-11-04T13:59:46.649817+08:00", "epoch": 4, "mean_loss": 3.7717675447463987, "lr": 0.00019338446604933216, "validation_samples": 32, "continuation_kl": 0.08575123938499019, "continuation_nll": 2.7077908888459206, "static_continuation_kl": 0.09179387462791055, "static_continuation_nll": 2.7170677669346333}
+{"event": "router_fit_progress", "time": "2026-11-04T13:59:47.157988+08:00", "epoch": 5, "mean_loss": 3.7012445187568663, "lr": 0.0001879422863405995}
+{"event": "router_fit_progress", "time": "2026-11-04T13:59:47.596682+08:00", "epoch": 6, "mean_loss": 3.6341515970230103, "lr": 0.00018102264584567542}
+{"event": "router_fit_progress", "time": "2026-11-04T13:59:48.057855+08:00", "epoch": 7, "mean_loss": 3.5750734853744506, "lr": 0.00017275671209845958}
+{"event": "router_fit_progress", "time": "2026-11-04T13:59:51.263163+08:00", "epoch": 8, "mean_loss": 3.529246015548706, "lr": 0.00016330117273984822, "validation_samples": 32, "continuation_kl": 0.08537311793770641, "continuation_nll": 2.6827814392745495, "static_continuation_kl": 0.09179387462791055, "static_continuation_nll": 2.7170677669346333}
+{"event": "router_fit_progress", "time": "2026-11-04T13:59:51.718701+08:00", "epoch": 9, "mean_loss": 3.494691026210785, "lr": 0.00015283526537333662}
+{"event": "router_fit_progress", "time": "2026-11-04T13:59:52.130490+08:00", "epoch": 10, "mean_loss": 3.4653234004974367, "lr": 0.0001415573799673479}
+{"event": "router_fit_progress", "time": "2026-11-04T13:59:52.540846+08:00", "epoch": 11, "mean_loss": 3.4441241002082825, "lr": 0.00012968129820857384}
+{"event": "router_fit_progress", "time": "2026-11-04T13:59:55.803776+08:00", "epoch": 12, "mean_loss": 3.4259730529785157, "lr": 0.00011743214109250993, "validation_samples": 32, "continuation_kl": 0.08548133925069124, "continuation_nll": 2.701822254806757, "static_continuation_kl": 0.09179387462791055, "static_continuation_nll": 2.7170677669346333}
+{"event": "router_fit_progress", "time": "2026-11-04T13:59:56.333362+08:00", "epoch": 13, "mean_loss": 3.408909924030304, "lr": 0.00010504210156797209}
+{"event": "router_fit_progress", "time": "2026-11-04T13:59:56.787451+08:00", "epoch": 14, "mean_loss": 3.39578097820282, "lr": 9.274604312686357e-05}
+{"event": "router_fit_progress", "time": "2026-11-04T13:59:57.213626+08:00", "epoch": 15, "mean_loss": 3.3843986010551452, "lr": 8.077704777157851e-05}
+{"event": "router_fit_progress", "time": "2026-11-04T14:00:00.423965+08:00", "epoch": 16, "mean_loss": 3.374417586326599, "lr": 6.936199775201998e-05, "validation_samples": 32, "continuation_kl": 0.08215421601198614, "continuation_nll": 2.7028059028089046, "static_continuation_kl": 0.09179387462791055, "static_continuation_nll": 2.7170677669346333}
+{"event": "router_fit_progress", "time": "2026-11-04T14:00:00.897914+08:00", "epoch": 17, "mean_loss": 3.363446207046509, "lr": 5.8717274824076054e-05}
+{"event": "router_fit_progress", "time": "2026-11-04T14:00:01.316994+08:00", "epoch": 18, "mean_loss": 3.3561728811264038, "lr": 4.904465855368333e-05}
+{"event": "router_fit_progress", "time": "2026-11-04T14:00:01.787653+08:00", "epoch": 19, "mean_loss": 3.3495548796653747, "lr": 4.052750141753112e-05}
+{"event": "router_fit_progress", "time": "2026-11-04T14:00:04.982586+08:00", "epoch": 20, "mean_loss": 3.3444492506980894, "lr": 3.3327253204550576e-05, "validation_samples": 32, "continuation_kl": 0.09267335815820843, "continuation_nll": 2.71951125562191, "static_continuation_kl": 0.09179387462791055, "static_continuation_nll": 2.7170677669346333}
+{"event": "router_fit_progress", "time": "2026-11-04T14:00:05.446415+08:00", "epoch": 21, "mean_loss": 3.3401107001304626, "lr": 2.7580400601044826e-05}
+{"event": "router_fit_progress", "time": "2026-11-04T14:00:05.877110+08:00", "epoch": 22, "mean_loss": 3.3369795298576355, "lr": 2.3395879972167466e-05}
+{"event": "router_fit_progress", "time": "2026-11-04T14:00:06.304743+08:00", "epoch": 23, "mean_loss": 3.3348723244667053, "lr": 2.085301238262471e-05}
+{"event": "router_fit_progress", "time": "2026-11-04T14:00:09.475329+08:00", "epoch": 24, "mean_loss": 3.332677915096283, "lr": 2e-05, "validation_samples": 32, "continuation_kl": 0.09267796494532377, "continuation_nll": 2.706074234098196, "static_continuation_kl": 0.09179387462791055, "static_continuation_nll": 2.7170677669346333}
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/torch/distributed/distributed_c10d.py:4631: UserWarning: No device id is provided via `init_process_group` or `barrier `. Using the current device set by the user. 
+  warnings.warn(  # warn only once
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/torch/distributed/distributed_c10d.py:4631: UserWarning: No device id is provided via `init_process_group` or `barrier `. Using the current device set by the user. 
+  warnings.warn(  # warn only once
+{"event": "prompt_fixed_completed", "time": "2026-11-04T14:01:52.521246+08:00", "mode": "main", "elapsed_seconds": 6027.963870635722}

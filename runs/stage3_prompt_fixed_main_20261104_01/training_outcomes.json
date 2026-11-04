@@ -1,0 +1,16 @@
+[
+  {
+    "kind": "fit_done",
+    "rank": 0,
+    "checkpoint": "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_main_20261104_01/private_router_epoch_016.pth",
+    "training_documents_per_rank": 400,
+    "epochs": 24
+  },
+  {
+    "kind": "fit_done",
+    "rank": 1,
+    "checkpoint": "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_main_20261104_01/private_router_epoch_016.pth",
+    "training_documents_per_rank": 400,
+    "epochs": 24
+  }
+]

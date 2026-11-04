@@ -1,0 +1,59 @@
+{
+  "configuration": {
+    "mode": "main",
+    "base_model": "/home/liushenyu/opt-13b",
+    "data_run": "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_pilot_20261104_01",
+    "static_run": "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_pilot_20261104_02",
+    "prompt_length": 128,
+    "continuation_length": 32,
+    "k": 6,
+    "seed": 579,
+    "epochs": 24
+  },
+  "data_file": "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_pilot_20261104_01/private_prompt_continuation_ids.npy",
+  "data_sha256": "52009bdab7fe650ff4bdaf46f80a1b740da0af050c2426f4f0c8f9f6e78c9393",
+  "split_counts": {
+    "train": 800,
+    "validation": 100,
+    "test": 100,
+    "calibration": 16,
+    "pilot": 16
+  },
+  "source_sha256": {
+    "prompt_fixed_experiment_v2.py": "74625f6029cf75b9643a6172946d9a71c78740c2f7217d5830b9ec3e152265ef",
+    "prompt_fixed_core_v1.py": "b733338d20f9f52599b7c7c7ca76c6e0450dfc25ef38c50d7c51fbb689287f5e",
+    "prompt_fixed_data_v1.py": "87dfbae3f28483d5e74847dcd9bf8319765c50b2df6583e65fc10afe9c8e7e38"
+  },
+  "cpu_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "gpu_visibility": "GPU-85476609-c27d-a916-aace-be120230c5dd,GPU-ba7178a1-5589-6027-eb47-28727d296893",
+  "label_objective": "Teacher KL averaged over 32 continuation predictions; same jointly selected route on prompt and continuation.",
+  "router_observation": "Prompt token and position embeddings only; no continuation is passed to router.",
+  "limitations": [
+    "Line boundaries follow the archived corpus writer; original URLs and remote document IDs were not preserved.",
+    "Near-duplicate documents beyond exact content, prompt and lead filters remain possible.",
+    "Legacy feature-only training overlap cannot be exhaustively excluded.",
+    "Natural continuation is not a chat or downstream task benchmark."
+  ]
+}

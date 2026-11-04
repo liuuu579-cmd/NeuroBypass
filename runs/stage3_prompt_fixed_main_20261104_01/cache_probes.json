@@ -1,0 +1,78 @@
+[
+  {
+    "kind": "probe_done",
+    "rank": 1,
+    "sample": 44,
+    "probes": [
+      {
+        "route": [],
+        "cached_vs_recomputed_mean_kl": 9.099458111450076e-06,
+        "maximum_logit_abs_error": 0.0546875,
+        "mean_logit_abs_error": 0.008520521223545074,
+        "maximum_position_kl": 3.7542882637353614e-05,
+        "argmax_agreement": 1.0,
+        "tolerance_basis": "Measured SDPA FP16 serial-versus-parallel error; mean KL <=1e-4 and max-position KL <=1e-3",
+        "cache_bytes": 130252800,
+        "retained_cache_length": 159,
+        "all_layer_lengths_verified": true
+      },
+      {
+        "route": [
+          2,
+          5,
+          9,
+          11,
+          14,
+          18
+        ],
+        "cached_vs_recomputed_mean_kl": 3.1730931368656456e-05,
+        "maximum_logit_abs_error": 0.1953125,
+        "mean_logit_abs_error": 0.012865236960351467,
+        "maximum_position_kl": 0.0004841345362365246,
+        "argmax_agreement": 1.0,
+        "tolerance_basis": "Measured SDPA FP16 serial-versus-parallel error; mean KL <=1e-4 and max-position KL <=1e-3",
+        "cache_bytes": 110714880,
+        "retained_cache_length": 159,
+        "all_layer_lengths_verified": true
+      }
+    ]
+  },
+  {
+    "kind": "probe_done",
+    "rank": 0,
+    "sample": 16,
+    "probes": [
+      {
+        "route": [],
+        "cached_vs_recomputed_mean_kl": 1.394862283632392e-05,
+        "maximum_logit_abs_error": 0.0517578125,
+        "mean_logit_abs_error": 0.007113644387573004,
+        "maximum_position_kl": 3.384306910447776e-05,
+        "argmax_agreement": 1.0,
+        "tolerance_basis": "Measured SDPA FP16 serial-versus-parallel error; mean KL <=1e-4 and max-position KL <=1e-3",
+        "cache_bytes": 130252800,
+        "retained_cache_length": 159,
+        "all_layer_lengths_verified": true
+      },
+      {
+        "route": [
+          2,
+          5,
+          9,
+          11,
+          14,
+          18
+        ],
+        "cached_vs_recomputed_mean_kl": 1.4820145224803127e-05,
+        "maximum_logit_abs_error": 0.03125,
+        "mean_logit_abs_error": 0.0034278458915650845,
+        "maximum_position_kl": 6.102491170167923e-05,
+        "argmax_agreement": 1.0,
+        "tolerance_basis": "Measured SDPA FP16 serial-versus-parallel error; mean KL <=1e-4 and max-position KL <=1e-3",
+        "cache_bytes": 110714880,
+        "retained_cache_length": 159,
+        "all_layer_lengths_verified": true
+      }
+    ]
+  }
+]

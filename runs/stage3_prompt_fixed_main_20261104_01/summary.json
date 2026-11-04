@@ -1,0 +1,167 @@
+{
+  "mode": "main",
+  "policies": [
+    {
+      "policy": "fixed_input_router",
+      "samples": 100,
+      "k": 6,
+      "continuation_kl": 0.09443482283502817,
+      "first_next_token_kl": 0.10613870035158471,
+      "continuation_nll": 2.538246980905533,
+      "perplexity": 12.657462736926789,
+      "unique_masks": 1
+    },
+    {
+      "policy": "full",
+      "samples": 100,
+      "k": 0,
+      "continuation_kl": 0.0,
+      "first_next_token_kl": 0.0,
+      "continuation_nll": 2.4527185422182085,
+      "perplexity": 11.619892989524173,
+      "unique_masks": 1
+    },
+    {
+      "policy": "router",
+      "samples": 100,
+      "k": 6,
+      "continuation_kl": 0.08625445056706667,
+      "first_next_token_kl": 0.09801901168539189,
+      "continuation_nll": 2.5216743993759154,
+      "perplexity": 12.44942453029195,
+      "unique_masks": 98
+    },
+    {
+      "policy": "shuffled_router",
+      "samples": 100,
+      "k": 6,
+      "continuation_kl": 0.09152887135744095,
+      "first_next_token_kl": 0.11290588015574031,
+      "continuation_nll": 2.5309378796815873,
+      "perplexity": 12.565285337879802,
+      "unique_masks": 98
+    },
+    {
+      "policy": "static",
+      "samples": 100,
+      "k": 6,
+      "continuation_kl": 0.1001546798273921,
+      "first_next_token_kl": 0.12663106650434203,
+      "continuation_nll": 2.5533881855010985,
+      "perplexity": 12.850570220605762,
+      "unique_masks": 1
+    }
+  ],
+  "paired_comparisons": [
+    {
+      "policy": "router",
+      "reference": "static",
+      "metric": "continuation_kl",
+      "samples": 100,
+      "mean_delta": -0.013900229260325431,
+      "bootstrap_95pct": [
+        -0.02127422980032861,
+        -0.006032561778090895
+      ],
+      "fraction_better": 0.72
+    },
+    {
+      "policy": "router",
+      "reference": "static",
+      "metric": "continuation_nll",
+      "samples": 100,
+      "mean_delta": -0.03171378612518311,
+      "bootstrap_95pct": [
+        -0.05255945493280888,
+        -0.011215993031859398
+      ],
+      "fraction_better": 0.68
+    },
+    {
+      "policy": "router",
+      "reference": "shuffled_router",
+      "metric": "continuation_kl",
+      "samples": 100,
+      "mean_delta": -0.005274420790374279,
+      "bootstrap_95pct": [
+        -0.015620994710363446,
+        0.003915118886157871
+      ],
+      "fraction_better": 0.5
+    },
+    {
+      "policy": "router",
+      "reference": "shuffled_router",
+      "metric": "continuation_nll",
+      "samples": 100,
+      "mean_delta": -0.009263480305671692,
+      "bootstrap_95pct": [
+        -0.027957044869661333,
+        0.00968147255480288
+      ],
+      "fraction_better": 0.55
+    },
+    {
+      "policy": "router",
+      "reference": "fixed_input_router",
+      "metric": "continuation_kl",
+      "samples": 100,
+      "mean_delta": -0.008180372267961502,
+      "bootstrap_95pct": [
+        -0.018706712222658097,
+        0.0011782809449359746
+      ],
+      "fraction_better": 0.52
+    },
+    {
+      "policy": "router",
+      "reference": "fixed_input_router",
+      "metric": "continuation_nll",
+      "samples": 100,
+      "mean_delta": -0.01657258152961731,
+      "bootstrap_95pct": [
+        -0.03487929219007492,
+        0.0018939316719770367
+      ],
+      "fraction_better": 0.54
+    }
+  ],
+  "generation_timing_medians": [
+    {
+      "policy": "full",
+      "measured_runs": 24,
+      "route_seconds": 8.867820724844933e-06,
+      "prefill_seconds": 0.03957546851597726,
+      "decode_seconds": 1.991428405046463,
+      "total_seconds": 2.0309055680409074,
+      "cache_bytes": 156467200.0
+    },
+    {
+      "policy": "router",
+      "measured_runs": 24,
+      "route_seconds": 0.0023543122224509716,
+      "prefill_seconds": 0.033590903505682945,
+      "decode_seconds": 1.7053422175813466,
+      "total_seconds": 1.741307157324627,
+      "cache_bytes": 132997120.0
+    },
+    {
+      "policy": "static",
+      "measured_runs": 24,
+      "route_seconds": 8.849194273352623e-06,
+      "prefill_seconds": 0.033649126533418894,
+      "decode_seconds": 1.7050746786408126,
+      "total_seconds": 1.7388746654614806,
+      "cache_bytes": 132997120.0
+    }
+  ],
+  "elapsed_seconds": 6027.962663082872,
+  "scope": "Prompt-fixed K6 natural-text continuation; fixed-length free generation timing, EOS ignored for workload equality.",
+  "limitations": [
+    "Line boundaries follow the archived corpus writer; original URLs and remote document IDs were not preserved.",
+    "Near-duplicate documents beyond exact content, prompt and lead filters remain possible.",
+    "Legacy feature-only training overlap cannot be exhaustively excluded.",
+    "Natural continuation is not a chat or downstream task benchmark.",
+    "Timing workloads share a server and use only a few prompts; this is not a serving throughput benchmark."
+  ]
+}

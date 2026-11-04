@@ -1,0 +1,18 @@
+{
+  "mode": "main",
+  "records": 1032,
+  "verified_labels": 900,
+  "verified_conditional_greedy_steps": 5400,
+  "verified_candidate_scores": 191700,
+  "verified_metric_rows": 500,
+  "verified_timing_rows": 72,
+  "preserved_preexisting_text_evidence_files": 216,
+  "preserved_original_and_snapshot_pairs": 93,
+  "no_exact_record_prompt_or_lead_overlap_across_splits": true,
+  "evidence_sha256": {
+    "experiment.json": "6f7ebd3f996b3fe69b82ed857f436498eb3f019a0a20b059bf0fa160a7aa3b24",
+    "summary.json": "c90b8020c637b6c8743990d3be50abf2173d7985680d6ad2ff83c958b7c3c367",
+    "sample_metrics.jsonl": "40e7ae90176eedb7f86b23667e36ef61f0ec76e9ff9fbadf11d371875adc188f"
+  },
+  "scope": "Structural, arithmetic and input/source hash checks; does not rerun model inference."
+}

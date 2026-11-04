@@ -1,0 +1,6 @@
+{
+  "path": "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_main_20261104_01/private_router_epoch_016.pth",
+  "sha256": "abc679d83667458cc92d2ace634a6800184e4c0652a68862476c8ae553d0a655",
+  "best_validation_continuation_kl": 0.08215421601198614,
+  "selection_uses_test": false
+}
