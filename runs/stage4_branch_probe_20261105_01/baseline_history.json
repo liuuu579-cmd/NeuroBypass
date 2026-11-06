@@ -1,0 +1,10 @@
+[
+  {
+    "epoch": 1,
+    "mean_loss": 4.425073146820068,
+    "gradient_updates": 1,
+    "lr": 0.0002,
+    "continuation_kl": 0.14506544172763824,
+    "continuation_nll": 2.4678761959075928
+  }
+]

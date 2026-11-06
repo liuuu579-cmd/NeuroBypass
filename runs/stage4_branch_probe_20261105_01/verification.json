@@ -1,0 +1,15 @@
+{
+  "training_documents": 4,
+  "verified_branch_states": 12,
+  "verified_branch_candidate_scores": 408,
+  "new_candidate_forwards": 408,
+  "unique_added_states": 12,
+  "verified_quality_rows": 72,
+  "equal_initialization_and_capacity": true,
+  "equal_gradient_updates": true,
+  "equal_late_step_weighting": true,
+  "preserved_existing_files": 364,
+  "test_used": false,
+  "probe": true,
+  "summary_sha256": "e5f4684248c9180b2a08d05acff333eb1e7dce5b14600f6e5c420e3f664de860"
+}

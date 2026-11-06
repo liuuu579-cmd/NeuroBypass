@@ -1,0 +1,66 @@
+{
+  "main_run": "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_main_20261104_01",
+  "ablation_run": "/home/liushenyu/test/NeuroBypass/runs/stage3_small_prompt_ablation_20261104_01",
+  "base_model": "/home/liushenyu/opt-13b",
+  "seed": 579,
+  "probe": true,
+  "output": "/home/liushenyu/test/NeuroBypass/runs/stage4_branch_probe_20261105_01",
+  "data_file": "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_pilot_20261104_01/private_prompt_continuation_ids.npy",
+  "data_sha256": "52009bdab7fe650ff4bdaf46f80a1b740da0af050c2426f4f0c8f9f6e78c9393",
+  "old_checkpoint": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_main_20261104_01/private_router_epoch_016.pth",
+    "sha256": "abc679d83667458cc92d2ace634a6800184e4c0652a68862476c8ae553d0a655",
+    "best_validation_continuation_kl": 0.08215421601198614,
+    "selection_uses_test": false
+  },
+  "train_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "validation_ids": [
+    4,
+    9,
+    38,
+    65
+  ],
+  "selection_ids": [
+    4,
+    9
+  ],
+  "epochs": 1,
+  "static_old": [
+    3,
+    7,
+    11,
+    15,
+    25,
+    36
+  ],
+  "static_learned": [
+    4,
+    8,
+    2,
+    10,
+    16,
+    14
+  ],
+  "source_sha256": "858079a81b065dc235aed3dca7f610a1adc9802d42d6c9109f3b102c3ff3befd",
+  "base_model_frozen": true,
+  "test_used": false,
+  "branch_design": "Old router prefix3 if it differs from expert set3, otherwise expert prefix2 plus seeded rank2-5 third candidate; greedy complete steps4-6.",
+  "matched_training": "Same width256, initialization, batch16, prompt order, 50 updates per epoch, 24 epochs and nine state slots per document.",
+  "control_slots": "Six expert states plus repeated expert steps4-6.",
+  "augmented_slots": "Six expert states plus conditional greedy branch steps4-6.",
+  "loss": "Same per-state soft CE + 0.25 hard CE, with original candidate-temperature rule.",
+  "optimizer": "AdamW lr2e-4 weight_decay0.01, warmup5pct cosine, clip1.",
+  "selection": "Original fixed32 validation IDs at epochs1,4,...24; no validation cost used as a training label.",
+  "limitations": [
+    "Development validation has already been inspected; other68 are only excluded from checkpoint selection.",
+    "One seed and one frozen behavior router; this is not online iterative DAgger.",
+    "Branch oracle labels see real training continuations; prompt-only inference does not.",
+    "Repeated late-state control differs from historical six-state training; use the matched control for causal comparison.",
+    "C4 natural continuation and earlier data/near-duplicate limitations apply."
+  ]
+}

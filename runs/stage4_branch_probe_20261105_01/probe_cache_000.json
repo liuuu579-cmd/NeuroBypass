@@ -1,0 +1,33 @@
+[
+  {
+    "route": [],
+    "cached_vs_recomputed_mean_kl": 1.6682837667758577e-05,
+    "maximum_logit_abs_error": 0.033203125,
+    "mean_logit_abs_error": 0.005679797381162643,
+    "maximum_position_kl": 5.574570968747139e-05,
+    "argmax_agreement": 1.0,
+    "tolerance_basis": "Measured SDPA FP16 serial-versus-parallel error; mean KL <=1e-4 and max-position KL <=1e-3",
+    "cache_bytes": 130252800,
+    "retained_cache_length": 159,
+    "all_layer_lengths_verified": true
+  },
+  {
+    "route": [
+      3,
+      7,
+      11,
+      15,
+      25,
+      36
+    ],
+    "cached_vs_recomputed_mean_kl": 1.1974068002018612e-05,
+    "maximum_logit_abs_error": 0.05859375,
+    "mean_logit_abs_error": 0.00988837145268917,
+    "maximum_position_kl": 3.143795765936375e-05,
+    "argmax_agreement": 1.0,
+    "tolerance_basis": "Measured SDPA FP16 serial-versus-parallel error; mean KL <=1e-4 and max-position KL <=1e-3",
+    "cache_bytes": 110714880,
+    "retained_cache_length": 159,
+    "all_layer_lengths_verified": true
+  }
+]

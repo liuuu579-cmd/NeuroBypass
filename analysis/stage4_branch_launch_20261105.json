@@ -1,0 +1,23 @@
+{
+  "started_at_utc": "2026-11-06T02:56:54.810282+00:00",
+  "controller_pid": 3787300,
+  "command": [
+    "/home/liushenyu/anaconda3/bin/python",
+    "-u",
+    "/home/liushenyu/test/NeuroBypass/tools/run_branch_pipeline_v1.py",
+    "--root",
+    "/home/liushenyu/test/NeuroBypass",
+    "--run",
+    "/home/liushenyu/test/NeuroBypass/runs/stage4_branch_main_20261105_01",
+    "--main-run",
+    "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_main_20261104_01",
+    "--ablation-run",
+    "/home/liushenyu/test/NeuroBypass/runs/stage3_small_prompt_ablation_20261104_01"
+  ],
+  "run": "/home/liushenyu/test/NeuroBypass/runs/stage4_branch_main_20261105_01",
+  "controller_log": "/home/liushenyu/test/NeuroBypass/runs/stage4_branch_pipeline_20261105_01.log",
+  "expected_training_documents": 800,
+  "expected_branch_states": 2400,
+  "expected_candidate_scores": 81600,
+  "automatic_tail": "train both arms, validate, audit, report, publish"
+}

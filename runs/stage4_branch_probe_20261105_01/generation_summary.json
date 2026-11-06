@@ -1,0 +1,10 @@
+{
+  "documents": 4,
+  "states": 12,
+  "sources": {
+    "expert_low_cost_fork": 4
+  },
+  "candidate_scores": 408,
+  "new_candidate_forwards": 408,
+  "reused_expert_states": 0
+}
