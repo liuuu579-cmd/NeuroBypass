@@ -1,0 +1,29 @@
+{
+  "verified_quality_rows": 1168,
+  "verified_scalar_candidate_scores": 30528,
+  "calibration_documents": 16,
+  "pilot_documents": 16,
+  "budgets": [
+    6,
+    8,
+    10,
+    12,
+    16,
+    20,
+    24
+  ],
+  "source_preserved_files": 506,
+  "old_test_used": false,
+  "new_router_trained": false,
+  "probe": false,
+  "bootstrap_quality_file_order": [
+    "quality_001.jsonl",
+    "quality_000.jsonl"
+  ],
+  "bootstrap_order_note": "Production uses directory enumeration. Exact Monte Carlo replication uses this recorded file order; pairwise means and quality are unchanged by ordering.",
+  "fp16_cache_outcomes": [
+    "fp16_cache_consistent",
+    "fp16_numerical_difference_fp32_consistent"
+  ],
+  "summary_sha256": "e9a4243fc5a422af4b98bf91ed94b0d82f38cfe866f54f7474a576b6f66a1aa3"
+}

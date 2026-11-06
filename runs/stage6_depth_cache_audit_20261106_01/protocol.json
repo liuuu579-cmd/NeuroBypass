@@ -1,0 +1,6 @@
+{
+  "failed_run": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_papers_probe_20261106_01",
+  "data_sha256": "52009bdab7fe650ff4bdaf46f80a1b740da0af050c2426f4f0c8f9f6e78c9393",
+  "source_sha256": "4b41e73d3e2c1365fff508b6ad5555765c775332f9a473b65438f9138076e789",
+  "purpose": "Diagnose numerical versus structural cache disagreement; original tolerances unchanged."
+}

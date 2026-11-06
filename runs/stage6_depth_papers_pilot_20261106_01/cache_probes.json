@@ -1,0 +1,102 @@
+[
+  {
+    "fp16": {
+      "route": [
+        3,
+        6,
+        7,
+        12,
+        22,
+        32
+      ],
+      "precision": "torch.float16",
+      "mean_absolute_position_kl": 1.5978053852450103e-05,
+      "max_absolute_position_kl": 8.91820527613163e-05,
+      "argmax_agreement": 0.96875,
+      "mean_logit_abs_error": 0.004061155021190643,
+      "max_logit_abs_error": 0.09375,
+      "cache_bytes": 110714880,
+      "verified_all_layer_cache_lengths": true,
+      "passes_original_distribution_tolerance": true
+    },
+    "fp32": null,
+    "outcome": "fp16_cache_consistent"
+  },
+  {
+    "fp16": {
+      "route": [
+        2,
+        3,
+        6,
+        7,
+        10,
+        12,
+        14,
+        15,
+        17,
+        18,
+        20,
+        22,
+        24,
+        25,
+        27,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        39
+      ],
+      "precision": "torch.float16",
+      "mean_absolute_position_kl": 0.007571575231850147,
+      "max_absolute_position_kl": 0.04330205172300339,
+      "argmax_agreement": 0.90625,
+      "mean_logit_abs_error": 0.11934511363506317,
+      "max_logit_abs_error": 1.8515625,
+      "cache_bytes": 52101120,
+      "verified_all_layer_cache_lengths": true,
+      "passes_original_distribution_tolerance": false
+    },
+    "fp32": {
+      "route": [
+        2,
+        3,
+        6,
+        7,
+        10,
+        12,
+        14,
+        15,
+        17,
+        18,
+        20,
+        22,
+        24,
+        25,
+        27,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        39
+      ],
+      "precision": "torch.float32",
+      "mean_absolute_position_kl": 2.176036275614024e-07,
+      "max_absolute_position_kl": 5.205930051488394e-07,
+      "argmax_agreement": 1.0,
+      "mean_logit_abs_error": 5.063434218754992e-05,
+      "max_logit_abs_error": 0.0007600784301757812,
+      "cache_bytes": 104202240,
+      "verified_all_layer_cache_lengths": true,
+      "passes_original_distribution_tolerance": true
+    },
+    "outcome": "fp16_numerical_difference_fp32_consistent"
+  }
+]

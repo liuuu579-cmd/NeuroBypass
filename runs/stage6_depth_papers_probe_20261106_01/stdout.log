@@ -1,0 +1,56 @@
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 34.21it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 34.75it/s]
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:45:55.903146+08:00", "rank": 0, "objective": "nll", "documents": 2, "step": 1, "max_k": 24, "cost": 2.7685422897338867}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:45:56.041048+08:00", "rank": 1, "objective": "kl", "documents": 2, "step": 1, "max_k": 24, "cost": 0.0022684342693537474}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:04.534973+08:00", "rank": 0, "objective": "nll", "documents": 2, "step": 4, "max_k": 24, "cost": 2.76371431350708}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:04.734016+08:00", "rank": 1, "objective": "kl", "documents": 2, "step": 4, "max_k": 24, "cost": 0.01998261082917452}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:14.253086+08:00", "rank": 0, "objective": "nll", "documents": 2, "step": 8, "max_k": 24, "cost": 2.800580143928528}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:14.496843+08:00", "rank": 1, "objective": "kl", "documents": 2, "step": 8, "max_k": 24, "cost": 0.08500237390398979}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:22.049008+08:00", "rank": 0, "objective": "nll", "documents": 2, "step": 12, "max_k": 24, "cost": 2.94530713558197}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:22.268527+08:00", "rank": 1, "objective": "kl", "documents": 2, "step": 12, "max_k": 24, "cost": 0.28622856736183167}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:27.983560+08:00", "rank": 0, "objective": "nll", "documents": 2, "step": 16, "max_k": 24, "cost": 3.3092464208602905}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:28.176242+08:00", "rank": 1, "objective": "kl", "documents": 2, "step": 16, "max_k": 24, "cost": 0.6024316549301147}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:32.302269+08:00", "rank": 0, "objective": "nll", "documents": 2, "step": 20, "max_k": 24, "cost": 3.876245617866516}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:32.439539+08:00", "rank": 1, "objective": "kl", "documents": 2, "step": 20, "max_k": 24, "cost": 1.0434209108352661}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:35.204898+08:00", "rank": 0, "objective": "nll", "documents": 2, "step": 24, "max_k": 24, "cost": 4.961872816085815}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:35.283929+08:00", "rank": 1, "objective": "kl", "documents": 2, "step": 24, "max_k": 24, "cost": 2.331823229789734}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:37.026886+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 1, "max_k": 24, "cost": 0.0014516839291900396}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:37.089782+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 1, "max_k": 24, "cost": 0.002232958562672138}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:41.717794+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 4, "max_k": 24, "cost": 0.012122740969061852}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:41.817700+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 4, "max_k": 24, "cost": 0.023195654153823853}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:46.854977+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 8, "max_k": 24, "cost": 0.06395629048347473}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:47.008449+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 8, "max_k": 24, "cost": 0.08174757659435272}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:50.866142+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 12, "max_k": 24, "cost": 0.17575685679912567}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:51.052627+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 12, "max_k": 24, "cost": 0.39182984828948975}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:53.863065+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 16, "max_k": 24, "cost": 0.4152425527572632}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:54.074718+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 16, "max_k": 24, "cost": 1.3069828748703003}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:56.005956+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 20, "max_k": 24, "cost": 0.8313080072402954}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:56.235730+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 20, "max_k": 24, "cost": 2.0584731101989746}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:57.429551+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 24, "max_k": 24, "cost": 2.034067392349243}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:57.430357+08:00", "rank": 0, "phase": "oracle", "finished_documents": 1, "total": 1}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:57.671811+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 24, "max_k": 24, "cost": 3.537343978881836}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:46:57.672574+08:00", "rank": 1, "phase": "oracle", "finished_documents": 1, "total": 1}
+Traceback (most recent call last):
+  File "/home/liushenyu/test/NeuroBypass/tools/depth_paper_pilot_v1.py", line 353, in <module>
+    main()
+  File "/home/liushenyu/test/NeuroBypass/tools/depth_paper_pilot_v1.py", line 325, in main
+    workers = receive(messages, processes, 'evaluation_done')
+  File "/home/liushenyu/test/NeuroBypass/tools/depth_paper_pilot_v1.py", line 243, in receive
+    raise RuntimeError(item['traceback'])
+RuntimeError: Traceback (most recent call last):
+  File "/home/liushenyu/test/NeuroBypass/tools/depth_paper_pilot_v1.py", line 224, in worker
+    probes = [cache_probe(model, ids, 128, task['static_paths']['sleb_nll_opt'][:k])
+  File "/home/liushenyu/test/NeuroBypass/tools/depth_paper_pilot_v1.py", line 224, in <listcomp>
+    probes = [cache_probe(model, ids, 128, task['static_paths']['sleb_nll_opt'][:k])
+  File "/home/liushenyu/test/NeuroBypass/tools/prompt_fixed_experiment_v2.py", line 50, in cache_probe
+    if kl>1e-4 or position_kl.max().item()>1e-3:raise ValueError('Cached decoding differs materially from prefix recomputation')
+ValueError: Cached decoding differs materially from prefix recomputation
+
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/multiprocessing/resource_tracker.py:224: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '

@@ -1,0 +1,76 @@
+{
+  "output": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_papers_pilot_20261106_01",
+  "base_model": "/home/liushenyu/opt-13b",
+  "data_file": "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_pilot_20261104_01/private_prompt_continuation_ids.npy",
+  "data_sha256": "52009bdab7fe650ff4bdaf46f80a1b740da0af050c2426f4f0c8f9f6e78c9393",
+  "calibration_ids": [
+    29,
+    70,
+    109,
+    204,
+    210,
+    281,
+    283,
+    294,
+    305,
+    357,
+    373,
+    395,
+    704,
+    917,
+    973,
+    1006
+  ],
+  "pilot_ids": [
+    16,
+    44,
+    102,
+    218,
+    256,
+    258,
+    366,
+    380,
+    462,
+    507,
+    542,
+    673,
+    707,
+    786,
+    812,
+    816
+  ],
+  "budgets": [
+    6,
+    8,
+    10,
+    12,
+    16,
+    20,
+    24
+  ],
+  "router_checkpoint": "/home/liushenyu/test/NeuroBypass/runs/stage4_branch_main_20261105_01/private_augmented_epoch_004.pth",
+  "router_sha256": "8e73232cd8a6c89291c56bd8d2b5cc05e2a00c1d36977c79036e74641229b5fa",
+  "probe": false,
+  "old_test_used": false,
+  "trained_new_router": false,
+  "protected_layers": [
+    0,
+    1
+  ],
+  "source_sha256": "a28ab972c52e57c32afa08f8f6f9d4feb7bef00da9b20309b54ef03ad623e8b9",
+  "static_calibration": "16 existing calibration documents, all159 next-token NLL for SLEB/Shortened; all160 hidden-state positions for BI; continuation32 KL for matched static greedy.",
+  "oracle": "Offline search sees each pilot true continuation; not deployable, not globally optimal, not a learned-router result or prompt-predictable bound.",
+  "adaptations": [
+    "OPT implementation with common protected0,1 and C4 calibration, not native paper data/model recipes.",
+    "shortened_ppl_plus additionally preserves0,1,2,3,38,39 following the official plus heuristic.",
+    "SLEB original default protects first and last surviving blocks; this common-mask adaptation instead protects fixed0,1.",
+    "No Taylor+, recovery fine-tuning, BlockPruner or SkipDecode execution in this pilot.",
+    "Cache probes retain FP16 discrepancies and require FP32 confirmation if the original fixed distribution tolerances fail.",
+    "Candidate batching is offline search acceleration only; no deployment speed/memory measurement."
+  ],
+  "sources": {
+    "ShortGPT": "https://arxiv.org/html/2403.03853v2",
+    "ShortenedLLaMA": "https://github.com/Nota-NetsPresso/shortened-llm/tree/4031a9212aa0dbeec8f2ad504af9346c758b0147",
+    "SLEB": "https://github.com/jiwonsong-dev/SLEB/tree/d07129af60520e751087b8abb04a268a3c7ec861"
+  }
+}

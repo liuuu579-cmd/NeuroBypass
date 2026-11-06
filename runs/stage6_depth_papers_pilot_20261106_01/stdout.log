@@ -1,0 +1,151 @@
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 34.13it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 34.38it/s]
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:56:39.370402+08:00", "rank": 1, "objective": "kl", "documents": 16, "step": 1, "max_k": 24, "cost": 0.0029522622207878157}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:56:39.512994+08:00", "rank": 0, "objective": "nll", "documents": 16, "step": 1, "max_k": 24, "cost": 2.673467233777046}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:57:54.615900+08:00", "rank": 1, "objective": "kl", "documents": 16, "step": 4, "max_k": 24, "cost": 0.030640376382507384}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:57:55.180735+08:00", "rank": 0, "objective": "nll", "documents": 16, "step": 4, "max_k": 24, "cost": 2.6864194571971893}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:59:16.682053+08:00", "rank": 1, "objective": "kl", "documents": 16, "step": 8, "max_k": 24, "cost": 0.13988110097125173}
+{"event": "depth_pilot_progress", "time": "2026-11-06T16:59:17.429037+08:00", "rank": 0, "objective": "nll", "documents": 16, "step": 8, "max_k": 24, "cost": 2.7703268229961395}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:00:20.643655+08:00", "rank": 1, "objective": "kl", "documents": 16, "step": 12, "max_k": 24, "cost": 0.37101362738758326}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:00:21.296052+08:00", "rank": 0, "objective": "nll", "documents": 16, "step": 12, "max_k": 24, "cost": 2.9848713129758835}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:01:08.458963+08:00", "rank": 1, "objective": "kl", "documents": 16, "step": 16, "max_k": 24, "cost": 0.7537208124995232}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:01:09.081464+08:00", "rank": 0, "objective": "nll", "documents": 16, "step": 16, "max_k": 24, "cost": 3.464325249195099}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:01:42.715191+08:00", "rank": 1, "objective": "kl", "documents": 16, "step": 20, "max_k": 24, "cost": 1.389487661421299}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:01:43.460564+08:00", "rank": 0, "objective": "nll", "documents": 16, "step": 20, "max_k": 24, "cost": 4.146394670009613}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:05.421542+08:00", "rank": 1, "objective": "kl", "documents": 16, "step": 24, "max_k": 24, "cost": 3.1604344993829727}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:06.334857+08:00", "rank": 0, "objective": "nll", "documents": 16, "step": 24, "max_k": 24, "cost": 5.692658185958862}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:08.066351+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 1, "max_k": 24, "cost": 0.002232958562672138}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:08.097743+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 1, "max_k": 24, "cost": 0.0014516839291900396}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:12.709489+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 4, "max_k": 24, "cost": 0.012122740969061852}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:12.726945+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 4, "max_k": 24, "cost": 0.023195654153823853}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:17.757054+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 8, "max_k": 24, "cost": 0.06395629048347473}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:17.822407+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 8, "max_k": 24, "cost": 0.08174757659435272}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:21.681646+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 12, "max_k": 24, "cost": 0.17575685679912567}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:21.796667+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 12, "max_k": 24, "cost": 0.39182984828948975}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:24.613548+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 16, "max_k": 24, "cost": 0.4152425527572632}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:24.769384+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 16, "max_k": 24, "cost": 1.3069828748703003}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:26.715702+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 20, "max_k": 24, "cost": 0.8313080072402954}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:26.898743+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 20, "max_k": 24, "cost": 2.0584731101989746}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:28.108691+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 24, "max_k": 24, "cost": 2.034067392349243}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:28.109488+08:00", "rank": 0, "phase": "oracle", "finished_documents": 1, "total": 8}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:28.315842+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 24, "max_k": 24, "cost": 3.537343978881836}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:28.316025+08:00", "rank": 1, "phase": "oracle", "finished_documents": 1, "total": 8}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:29.865708+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 1, "max_k": 24, "cost": 0.0022744685411453247}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:30.098409+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 1, "max_k": 24, "cost": 0.0024254932068288326}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:34.476160+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 4, "max_k": 24, "cost": 0.01631850004196167}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:34.767606+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 4, "max_k": 24, "cost": 0.01605301909148693}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:39.519181+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 8, "max_k": 24, "cost": 0.07752764225006104}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:39.873095+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 8, "max_k": 24, "cost": 0.08618420362472534}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:43.416628+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 12, "max_k": 24, "cost": 0.22581258416175842}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:43.858406+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 12, "max_k": 24, "cost": 0.26090729236602783}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:46.340264+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 16, "max_k": 24, "cost": 0.6194670796394348}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:46.836510+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 16, "max_k": 24, "cost": 0.8572294116020203}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:48.441888+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 20, "max_k": 24, "cost": 1.2880951166152954}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:48.967518+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 20, "max_k": 24, "cost": 1.0558377504348755}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:49.840990+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 24, "max_k": 24, "cost": 3.092756509780884}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:49.841776+08:00", "rank": 0, "phase": "oracle", "finished_documents": 2, "total": 8}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:50.384956+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 24, "max_k": 24, "cost": 2.5776236057281494}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:50.385741+08:00", "rank": 1, "phase": "oracle", "finished_documents": 2, "total": 8}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:51.598829+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 1, "max_k": 24, "cost": 0.0013107259292155504}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:52.170186+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 1, "max_k": 24, "cost": 0.002095306757837534}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:56.197616+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 4, "max_k": 24, "cost": 0.013739798218011856}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:02:56.838841+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 4, "max_k": 24, "cost": 0.019618721678853035}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:01.224715+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 8, "max_k": 24, "cost": 0.058784712105989456}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:01.943582+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 8, "max_k": 24, "cost": 0.06016525253653526}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:05.145708+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 12, "max_k": 24, "cost": 0.15498477220535278}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:05.930386+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 12, "max_k": 24, "cost": 0.20200717449188232}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:08.060257+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 16, "max_k": 24, "cost": 0.5031852722167969}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:08.909814+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 16, "max_k": 24, "cost": 0.42833343148231506}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:10.163927+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 20, "max_k": 24, "cost": 0.7711855173110962}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:11.043100+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 20, "max_k": 24, "cost": 1.042224407196045}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:11.561632+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 24, "max_k": 24, "cost": 1.6837172508239746}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:11.562388+08:00", "rank": 0, "phase": "oracle", "finished_documents": 3, "total": 8}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:12.461419+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 24, "max_k": 24, "cost": 2.594172954559326}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:12.462172+08:00", "rank": 1, "phase": "oracle", "finished_documents": 3, "total": 8}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:13.321275+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 1, "max_k": 24, "cost": 0.004664657637476921}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:14.250717+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 1, "max_k": 24, "cost": 0.011950314044952393}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:17.925532+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 4, "max_k": 24, "cost": 0.018281565979123116}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:18.927912+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 4, "max_k": 24, "cost": 0.09292492270469666}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:22.945957+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 8, "max_k": 24, "cost": 0.10197621583938599}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:24.045920+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 8, "max_k": 24, "cost": 0.29216811060905457}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:26.862878+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 12, "max_k": 24, "cost": 0.24912071228027344}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:28.033048+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 12, "max_k": 24, "cost": 0.6116628050804138}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:29.799697+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 16, "max_k": 24, "cost": 0.4690772294998169}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:31.011675+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 16, "max_k": 24, "cost": 1.2052912712097168}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:31.900143+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 20, "max_k": 24, "cost": 1.0223608016967773}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:33.145590+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 20, "max_k": 24, "cost": 1.9348971843719482}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:33.295062+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 24, "max_k": 24, "cost": 2.2786030769348145}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:33.295760+08:00", "rank": 0, "phase": "oracle", "finished_documents": 4, "total": 8}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:34.568443+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 24, "max_k": 24, "cost": 3.4232614040374756}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:34.568585+08:00", "rank": 1, "phase": "oracle", "finished_documents": 4, "total": 8}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:35.053136+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 1, "max_k": 24, "cost": 0.0011491244658827782}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:36.355309+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 1, "max_k": 24, "cost": 0.001483856700360775}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:39.650535+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 4, "max_k": 24, "cost": 0.013184292241930962}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:41.027701+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 4, "max_k": 24, "cost": 0.016728971153497696}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:44.668298+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 8, "max_k": 24, "cost": 0.07247646152973175}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:46.141786+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 8, "max_k": 24, "cost": 0.05610927566885948}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:48.598906+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 12, "max_k": 24, "cost": 0.17417390644550323}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:50.125428+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 12, "max_k": 24, "cost": 0.19373705983161926}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:51.528082+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 16, "max_k": 24, "cost": 0.4457361698150635}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:53.103223+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 16, "max_k": 24, "cost": 0.5996216535568237}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:53.626353+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 20, "max_k": 24, "cost": 0.9770201444625854}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:55.027968+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 24, "max_k": 24, "cost": 1.9902799129486084}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:55.028141+08:00", "rank": 0, "phase": "oracle", "finished_documents": 5, "total": 8}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:55.237927+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 20, "max_k": 24, "cost": 1.295202374458313}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:56.656055+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 24, "max_k": 24, "cost": 2.4413294792175293}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:56.656972+08:00", "rank": 1, "phase": "oracle", "finished_documents": 5, "total": 8}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:56.781882+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 1, "max_k": 24, "cost": 0.0025470787659287453}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:03:58.448894+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 1, "max_k": 24, "cost": 0.001989375799894333}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:01.359903+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 4, "max_k": 24, "cost": 0.020892562344670296}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:03.130396+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 4, "max_k": 24, "cost": 0.023021191358566284}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:06.374970+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 8, "max_k": 24, "cost": 0.08991020172834396}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:08.251044+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 8, "max_k": 24, "cost": 0.09091244637966156}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:10.283733+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 12, "max_k": 24, "cost": 0.27602845430374146}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:12.242382+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 12, "max_k": 24, "cost": 0.255085289478302}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:13.198483+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 16, "max_k": 24, "cost": 0.770736813545227}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:15.223274+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 16, "max_k": 24, "cost": 0.40695488452911377}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:15.302062+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 20, "max_k": 24, "cost": 1.5133999586105347}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:16.699104+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 24, "max_k": 24, "cost": 2.8165245056152344}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:16.699246+08:00", "rank": 0, "phase": "oracle", "finished_documents": 6, "total": 8}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:17.361279+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 20, "max_k": 24, "cost": 0.9234233498573303}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:18.457219+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 1, "max_k": 24, "cost": 0.002104626502841711}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:18.782545+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 24, "max_k": 24, "cost": 3.061919689178467}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:18.783279+08:00", "rank": 1, "phase": "oracle", "finished_documents": 6, "total": 8}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:20.570402+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 1, "max_k": 24, "cost": 0.0031417228747159243}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:23.068079+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 4, "max_k": 24, "cost": 0.027920586988329887}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:25.247591+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 4, "max_k": 24, "cost": 0.035014547407627106}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:28.093001+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 8, "max_k": 24, "cost": 0.10804437100887299}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:30.361065+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 8, "max_k": 24, "cost": 0.12802451848983765}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:32.014654+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 12, "max_k": 24, "cost": 0.2989628314971924}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:34.352969+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 12, "max_k": 24, "cost": 0.3441559076309204}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:34.947751+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 16, "max_k": 24, "cost": 0.7354409694671631}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:37.033936+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 20, "max_k": 24, "cost": 1.4765952825546265}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:37.340428+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 16, "max_k": 24, "cost": 0.9659901857376099}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:38.423988+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 24, "max_k": 24, "cost": 2.386845588684082}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:38.424792+08:00", "rank": 0, "phase": "oracle", "finished_documents": 7, "total": 8}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:39.479933+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 20, "max_k": 24, "cost": 2.02307391166687}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:40.176413+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 1, "max_k": 24, "cost": 0.0015129207167774439}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:40.905630+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 24, "max_k": 24, "cost": 4.15118932723999}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:40.905824+08:00", "rank": 1, "phase": "oracle", "finished_documents": 7, "total": 8}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:42.691237+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 1, "max_k": 24, "cost": 0.0011672689579427242}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:44.785631+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 4, "max_k": 24, "cost": 0.010686630383133888}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:47.368309+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 4, "max_k": 24, "cost": 0.010104162618517876}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:49.834992+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 8, "max_k": 24, "cost": 0.054027259349823}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:52.477984+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 8, "max_k": 24, "cost": 0.04893239215016365}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:53.753157+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 12, "max_k": 24, "cost": 0.1740279495716095}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:56.449785+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 12, "max_k": 24, "cost": 0.19990259408950806}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:56.695582+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 16, "max_k": 24, "cost": 0.5422443747520447}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:58.794625+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 20, "max_k": 24, "cost": 1.1415798664093018}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:04:59.424801+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 16, "max_k": 24, "cost": 0.4106222987174988}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:05:00.188690+08:00", "rank": 0, "objective": "kl", "documents": 1, "step": 24, "max_k": 24, "cost": 2.266427993774414}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:05:00.189374+08:00", "rank": 0, "phase": "oracle", "finished_documents": 8, "total": 8}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:05:01.552902+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 20, "max_k": 24, "cost": 1.0272698402404785}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:05:02.964901+08:00", "rank": 1, "objective": "kl", "documents": 1, "step": 24, "max_k": 24, "cost": 2.4812734127044678}
+{"event": "depth_pilot_progress", "time": "2026-11-06T17:05:02.965589+08:00", "rank": 1, "phase": "oracle", "finished_documents": 8, "total": 8}
+{"event": "depth_pilot_complete", "time": "2026-11-06T17:05:39.000427+08:00", "elapsed_seconds": 576.4481020770036, "quality_rows": 1168}
