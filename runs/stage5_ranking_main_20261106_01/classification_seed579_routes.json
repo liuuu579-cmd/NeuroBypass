@@ -1,0 +1,1102 @@
+[
+  {
+    "sample": 4,
+    "ordered_skips": [
+      4,
+      6,
+      2,
+      12,
+      10,
+      24
+    ]
+  },
+  {
+    "sample": 9,
+    "ordered_skips": [
+      4,
+      6,
+      2,
+      11,
+      15,
+      22
+    ]
+  },
+  {
+    "sample": 38,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      12,
+      18,
+      22
+    ]
+  },
+  {
+    "sample": 65,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      11,
+      10,
+      22
+    ]
+  },
+  {
+    "sample": 81,
+    "ordered_skips": [
+      4,
+      9,
+      2,
+      11,
+      7,
+      22
+    ]
+  },
+  {
+    "sample": 82,
+    "ordered_skips": [
+      4,
+      6,
+      2,
+      12,
+      18,
+      11
+    ]
+  },
+  {
+    "sample": 84,
+    "ordered_skips": [
+      4,
+      8,
+      3,
+      15,
+      10,
+      20
+    ]
+  },
+  {
+    "sample": 87,
+    "ordered_skips": [
+      4,
+      6,
+      2,
+      12,
+      18,
+      10
+    ]
+  },
+  {
+    "sample": 92,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      11,
+      9,
+      22
+    ]
+  },
+  {
+    "sample": 94,
+    "ordered_skips": [
+      4,
+      6,
+      3,
+      8,
+      15,
+      37
+    ]
+  },
+  {
+    "sample": 97,
+    "ordered_skips": [
+      4,
+      11,
+      2,
+      8,
+      9,
+      22
+    ]
+  },
+  {
+    "sample": 98,
+    "ordered_skips": [
+      4,
+      2,
+      11,
+      8,
+      15,
+      22
+    ]
+  },
+  {
+    "sample": 101,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      15,
+      11,
+      22
+    ]
+  },
+  {
+    "sample": 120,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      11,
+      9,
+      16
+    ]
+  },
+  {
+    "sample": 122,
+    "ordered_skips": [
+      4,
+      3,
+      9,
+      15,
+      11,
+      37
+    ]
+  },
+  {
+    "sample": 123,
+    "ordered_skips": [
+      4,
+      2,
+      6,
+      11,
+      9,
+      8
+    ]
+  },
+  {
+    "sample": 140,
+    "ordered_skips": [
+      4,
+      3,
+      11,
+      8,
+      15,
+      22
+    ]
+  },
+  {
+    "sample": 158,
+    "ordered_skips": [
+      4,
+      6,
+      2,
+      11,
+      9,
+      24
+    ]
+  },
+  {
+    "sample": 173,
+    "ordered_skips": [
+      4,
+      3,
+      11,
+      8,
+      15,
+      22
+    ]
+  },
+  {
+    "sample": 183,
+    "ordered_skips": [
+      4,
+      11,
+      2,
+      8,
+      9,
+      22
+    ]
+  },
+  {
+    "sample": 194,
+    "ordered_skips": [
+      4,
+      11,
+      2,
+      7,
+      18,
+      24
+    ]
+  },
+  {
+    "sample": 213,
+    "ordered_skips": [
+      4,
+      6,
+      2,
+      8,
+      11,
+      18
+    ]
+  },
+  {
+    "sample": 215,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      6,
+      12,
+      18
+    ]
+  },
+  {
+    "sample": 217,
+    "ordered_skips": [
+      4,
+      9,
+      2,
+      11,
+      18,
+      7
+    ]
+  },
+  {
+    "sample": 225,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      11,
+      16,
+      10
+    ]
+  },
+  {
+    "sample": 235,
+    "ordered_skips": [
+      4,
+      10,
+      2,
+      8,
+      18,
+      14
+    ]
+  },
+  {
+    "sample": 239,
+    "ordered_skips": [
+      4,
+      6,
+      2,
+      12,
+      18,
+      22
+    ]
+  },
+  {
+    "sample": 249,
+    "ordered_skips": [
+      4,
+      3,
+      11,
+      8,
+      15,
+      37
+    ]
+  },
+  {
+    "sample": 252,
+    "ordered_skips": [
+      4,
+      6,
+      2,
+      9,
+      18,
+      14
+    ]
+  },
+  {
+    "sample": 257,
+    "ordered_skips": [
+      4,
+      6,
+      2,
+      11,
+      18,
+      8
+    ]
+  },
+  {
+    "sample": 260,
+    "ordered_skips": [
+      4,
+      6,
+      2,
+      11,
+      18,
+      8
+    ]
+  },
+  {
+    "sample": 261,
+    "ordered_skips": [
+      4,
+      11,
+      3,
+      8,
+      18,
+      25
+    ]
+  },
+  {
+    "sample": 262,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      15,
+      18,
+      11
+    ]
+  },
+  {
+    "sample": 272,
+    "ordered_skips": [
+      4,
+      6,
+      11,
+      2,
+      9,
+      37
+    ]
+  },
+  {
+    "sample": 275,
+    "ordered_skips": [
+      4,
+      9,
+      2,
+      8,
+      11,
+      22
+    ]
+  },
+  {
+    "sample": 301,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      11,
+      18,
+      10
+    ]
+  },
+  {
+    "sample": 306,
+    "ordered_skips": [
+      4,
+      6,
+      2,
+      11,
+      9,
+      22
+    ]
+  },
+  {
+    "sample": 325,
+    "ordered_skips": [
+      4,
+      11,
+      3,
+      8,
+      18,
+      25
+    ]
+  },
+  {
+    "sample": 338,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      10,
+      18,
+      17
+    ]
+  },
+  {
+    "sample": 345,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      14,
+      9,
+      18
+    ]
+  },
+  {
+    "sample": 352,
+    "ordered_skips": [
+      4,
+      11,
+      2,
+      7,
+      9,
+      22
+    ]
+  },
+  {
+    "sample": 359,
+    "ordered_skips": [
+      4,
+      6,
+      2,
+      13,
+      9,
+      22
+    ]
+  },
+  {
+    "sample": 363,
+    "ordered_skips": [
+      4,
+      3,
+      11,
+      8,
+      16,
+      22
+    ]
+  },
+  {
+    "sample": 365,
+    "ordered_skips": [
+      4,
+      9,
+      2,
+      8,
+      18,
+      11
+    ]
+  },
+  {
+    "sample": 369,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      11,
+      14,
+      22
+    ]
+  },
+  {
+    "sample": 370,
+    "ordered_skips": [
+      4,
+      6,
+      2,
+      8,
+      11,
+      22
+    ]
+  },
+  {
+    "sample": 372,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      15,
+      10,
+      22
+    ]
+  },
+  {
+    "sample": 374,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      10,
+      18,
+      16
+    ]
+  },
+  {
+    "sample": 375,
+    "ordered_skips": [
+      4,
+      11,
+      2,
+      9,
+      18,
+      22
+    ]
+  },
+  {
+    "sample": 377,
+    "ordered_skips": [
+      4,
+      9,
+      2,
+      11,
+      7,
+      37
+    ]
+  },
+  {
+    "sample": 382,
+    "ordered_skips": [
+      4,
+      2,
+      11,
+      8,
+      18,
+      14
+    ]
+  },
+  {
+    "sample": 384,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      14,
+      18,
+      10
+    ]
+  },
+  {
+    "sample": 397,
+    "ordered_skips": [
+      4,
+      3,
+      10,
+      8,
+      18,
+      37
+    ]
+  },
+  {
+    "sample": 412,
+    "ordered_skips": [
+      4,
+      9,
+      2,
+      11,
+      7,
+      14
+    ]
+  },
+  {
+    "sample": 420,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      11,
+      18,
+      22
+    ]
+  },
+  {
+    "sample": 425,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      11,
+      16,
+      22
+    ]
+  },
+  {
+    "sample": 439,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      11,
+      18,
+      22
+    ]
+  },
+  {
+    "sample": 446,
+    "ordered_skips": [
+      4,
+      6,
+      2,
+      8,
+      11,
+      25
+    ]
+  },
+  {
+    "sample": 448,
+    "ordered_skips": [
+      4,
+      6,
+      2,
+      11,
+      9,
+      22
+    ]
+  },
+  {
+    "sample": 461,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      11,
+      7,
+      16
+    ]
+  },
+  {
+    "sample": 472,
+    "ordered_skips": [
+      4,
+      6,
+      2,
+      11,
+      9,
+      18
+    ]
+  },
+  {
+    "sample": 473,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      14,
+      9,
+      11
+    ]
+  },
+  {
+    "sample": 477,
+    "ordered_skips": [
+      4,
+      6,
+      12,
+      2,
+      18,
+      17
+    ]
+  },
+  {
+    "sample": 492,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      11,
+      15,
+      37
+    ]
+  },
+  {
+    "sample": 531,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      6,
+      10,
+      18
+    ]
+  },
+  {
+    "sample": 551,
+    "ordered_skips": [
+      4,
+      11,
+      2,
+      8,
+      18,
+      22
+    ]
+  },
+  {
+    "sample": 556,
+    "ordered_skips": [
+      4,
+      9,
+      2,
+      11,
+      7,
+      22
+    ]
+  },
+  {
+    "sample": 564,
+    "ordered_skips": [
+      4,
+      11,
+      2,
+      8,
+      10,
+      22
+    ]
+  },
+  {
+    "sample": 576,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      11,
+      14,
+      9
+    ]
+  },
+  {
+    "sample": 602,
+    "ordered_skips": [
+      4,
+      11,
+      2,
+      8,
+      15,
+      22
+    ]
+  },
+  {
+    "sample": 607,
+    "ordered_skips": [
+      4,
+      6,
+      2,
+      11,
+      9,
+      22
+    ]
+  },
+  {
+    "sample": 614,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      11,
+      18,
+      9
+    ]
+  },
+  {
+    "sample": 620,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      11,
+      18,
+      9
+    ]
+  },
+  {
+    "sample": 657,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      15,
+      9,
+      18
+    ]
+  },
+  {
+    "sample": 659,
+    "ordered_skips": [
+      4,
+      9,
+      2,
+      11,
+      18,
+      7
+    ]
+  },
+  {
+    "sample": 664,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      6,
+      15,
+      11
+    ]
+  },
+  {
+    "sample": 694,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      6,
+      12,
+      22
+    ]
+  },
+  {
+    "sample": 698,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      10,
+      18,
+      14
+    ]
+  },
+  {
+    "sample": 701,
+    "ordered_skips": [
+      4,
+      6,
+      2,
+      11,
+      9,
+      22
+    ]
+  },
+  {
+    "sample": 709,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      15,
+      11,
+      22
+    ]
+  },
+  {
+    "sample": 763,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      14,
+      10,
+      20
+    ]
+  },
+  {
+    "sample": 795,
+    "ordered_skips": [
+      4,
+      11,
+      2,
+      7,
+      9,
+      18
+    ]
+  },
+  {
+    "sample": 800,
+    "ordered_skips": [
+      4,
+      11,
+      2,
+      7,
+      18,
+      9
+    ]
+  },
+  {
+    "sample": 806,
+    "ordered_skips": [
+      4,
+      3,
+      12,
+      8,
+      15,
+      22
+    ]
+  },
+  {
+    "sample": 825,
+    "ordered_skips": [
+      4,
+      3,
+      11,
+      15,
+      9,
+      37
+    ]
+  },
+  {
+    "sample": 835,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      10,
+      15,
+      16
+    ]
+  },
+  {
+    "sample": 838,
+    "ordered_skips": [
+      4,
+      6,
+      2,
+      11,
+      9,
+      16
+    ]
+  },
+  {
+    "sample": 890,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      14,
+      11,
+      18
+    ]
+  },
+  {
+    "sample": 898,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      11,
+      18,
+      16
+    ]
+  },
+  {
+    "sample": 903,
+    "ordered_skips": [
+      4,
+      9,
+      2,
+      8,
+      11,
+      37
+    ]
+  },
+  {
+    "sample": 939,
+    "ordered_skips": [
+      4,
+      6,
+      2,
+      11,
+      9,
+      22
+    ]
+  },
+  {
+    "sample": 945,
+    "ordered_skips": [
+      4,
+      11,
+      2,
+      6,
+      9,
+      22
+    ]
+  },
+  {
+    "sample": 964,
+    "ordered_skips": [
+      4,
+      11,
+      2,
+      13,
+      9,
+      25
+    ]
+  },
+  {
+    "sample": 979,
+    "ordered_skips": [
+      4,
+      6,
+      2,
+      8,
+      15,
+      11
+    ]
+  },
+  {
+    "sample": 981,
+    "ordered_skips": [
+      4,
+      9,
+      2,
+      6,
+      18,
+      14
+    ]
+  },
+  {
+    "sample": 990,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      15,
+      11,
+      22
+    ]
+  },
+  {
+    "sample": 998,
+    "ordered_skips": [
+      4,
+      6,
+      2,
+      11,
+      18,
+      9
+    ]
+  },
+  {
+    "sample": 1005,
+    "ordered_skips": [
+      4,
+      8,
+      2,
+      11,
+      16,
+      9
+    ]
+  },
+  {
+    "sample": 1012,
+    "ordered_skips": [
+      4,
+      6,
+      2,
+      11,
+      9,
+      18
+    ]
+  },
+  {
+    "sample": 1030,
+    "ordered_skips": [
+      4,
+      11,
+      2,
+      6,
+      9,
+      22
+    ]
+  }
+]

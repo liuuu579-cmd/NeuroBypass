@@ -1,0 +1,67 @@
+{
+  "output": "/home/liushenyu/test/NeuroBypass/runs/stage5_ranking_probe_20261106_01",
+  "main_run": "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_main_20261104_01",
+  "branch_run": "/home/liushenyu/test/NeuroBypass/runs/stage4_branch_main_20261105_01",
+  "base_model": "/home/liushenyu/opt-13b",
+  "data_file": "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_pilot_20261104_01/private_prompt_continuation_ids.npy",
+  "data_sha256": "52009bdab7fe650ff4bdaf46f80a1b740da0af050c2426f4f0c8f9f6e78c9393",
+  "train_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "validation_ids": [
+    4,
+    9,
+    38,
+    65
+  ],
+  "selection_ids": [
+    4,
+    9
+  ],
+  "static_old": [
+    3,
+    7,
+    11,
+    15,
+    25,
+    36
+  ],
+  "static_learned": [
+    4,
+    8,
+    2,
+    10,
+    16,
+    14
+  ],
+  "seeds": [
+    579
+  ],
+  "epochs": 1,
+  "probe": true,
+  "test_used": false,
+  "base_model_frozen": true,
+  "source_sha256": "611d3629b2edc190cb4b1425ea5a74942eb8e4232045d16232b454b13074a014",
+  "branch_label_sha256": {
+    "/home/liushenyu/test/NeuroBypass/runs/stage4_branch_main_20261105_01/branch_labels_000.jsonl": "ac09e396fc25c9733e94b3917f017e0a07cddc6779f22a5c813af7767d161208",
+    "/home/liushenyu/test/NeuroBypass/runs/stage4_branch_main_20261105_01/branch_labels_001.jsonl": "d5d5ab6e1587b9d0ea69d8a11c4066785ffdcaf3eb0449946192151aa35674b7"
+  },
+  "classification_loss": "Original soft target CE + 0.25 hard greedy-choice CE.",
+  "pairwise_loss": "Per-state sum[(c_j-c_i)_+ softplus(s_i-s_j)] / sum[(c_j-c_i)_+], only valid pairs.",
+  "pairwise_scale": "Raw router scores, no additional temperature/margin; equal costs have zero pair weight.",
+  "matched_training": "Width256; identical per-seed initialization, document order, batch16, nine states/document, 50 updates/epoch, 24 epochs.",
+  "optimizer": "AdamW lr2e-4 weight_decay0.01, warmup5pct cosine schedule, clip1.",
+  "checkpoint_selection": "Existing fixed32 validation IDs, epochs1,4,8,12,16,20,24 by real continuation KL.",
+  "donor_seed": 579,
+  "seed_summary": "Average metrics within target document over seeds; then paired document bootstrap.",
+  "limitations": [
+    "This is reused development validation, not an independent test.",
+    "Three seeds are a small replication; document bootstrap of their mean does not estimate all training-seed uncertainty.",
+    "Objective scale changes while optimizer is fixed; no per-objective hyperparameter tuning is performed.",
+    "Pairwise weights include all valid unequal candidate pairs, so very damaging candidates receive more weight.",
+    "C4 natural continuation and previous data/near-duplicate limitations apply."
+  ]
+}

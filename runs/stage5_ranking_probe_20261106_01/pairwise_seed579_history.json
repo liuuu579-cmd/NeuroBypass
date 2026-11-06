@@ -1,0 +1,11 @@
+[
+  {
+    "epoch": 1,
+    "mean_loss": 0.7187765836715698,
+    "mean_unclipped_gradient_norm": 3.2648725509643555,
+    "gradient_updates": 1,
+    "lr": 0.0002,
+    "continuation_kl": 0.717654176056385,
+    "continuation_nll": 3.3733729124069214
+  }
+]

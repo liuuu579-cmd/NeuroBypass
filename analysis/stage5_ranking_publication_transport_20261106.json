@@ -1,0 +1,9 @@
+{
+  "v4_outcome": "HTTP400 on first blob POST; branch not updated",
+  "git_transport_probe": "git ls-remote timed out connecting to github.com:443",
+  "read_blob_by_sha": "success",
+  "same_report_post_with_unique_request_query": "success and expected SHA170919d13990c2430b8a886ae9e38cb3a11b7b72",
+  "interpretation": "Encoding alone did not resolve the failure. A fresh-query API request succeeded; no definitive upstream root cause established.",
+  "replacement": "tools/publish_additions_v5.py",
+  "preserved_safety": "Fresh nonce on API requests; same append-only path checks, non-force ref update and old-blob verification. No existing source edits."
+}

@@ -1,0 +1,13 @@
+{
+  "verified_quality_rows": 72,
+  "verified_training_runs": 2,
+  "verified_epochs": 2,
+  "training_documents": 4,
+  "matched_per_seed_initialization_capacity_updates": true,
+  "reused_branch_labels_unchanged": true,
+  "preserved_existing_files": 418,
+  "historical_ce_seed579_reproduction": null,
+  "test_used": false,
+  "probe": true,
+  "summary_sha256": "085918ff462e0e4e7f97ef7f0102e8a5e663204558e209398804cac3ec2f0575"
+}

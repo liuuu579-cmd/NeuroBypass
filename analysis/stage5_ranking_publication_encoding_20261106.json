@@ -1,0 +1,9 @@
+{
+  "prior_publisher": "tools/publish_additions_v3.py",
+  "prior_attempts": 2,
+  "failure": "GitHub HTTP400 creating immutable blobs; branch remained at 905d14dfbf17f18418534bcfeeaf5eb202e5f065 in both preflights",
+  "diagnostic_message": "We received a malformed request from your client.",
+  "diagnostic_base64_same_report_blob_sha": "170919d13990c2430b8a886ae9e38cb3a11b7b72",
+  "replacement_publisher": "tools/publish_additions_v4.py",
+  "change": "Use base64 blob content and ASCII JSON with explicit User-Agent. No old file edits, no remote overwrite or force update."
+}

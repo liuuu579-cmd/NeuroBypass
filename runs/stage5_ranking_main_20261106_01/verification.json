@@ -1,0 +1,17 @@
+{
+  "verified_quality_rows": 5400,
+  "verified_training_runs": 6,
+  "verified_epochs": 144,
+  "training_documents": 800,
+  "matched_per_seed_initialization_capacity_updates": true,
+  "reused_branch_labels_unchanged": true,
+  "preserved_existing_files": 434,
+  "historical_ce_seed579_reproduction": {
+    "same_routes": 100,
+    "documents": 100,
+    "max_kl_abs_difference": 0.0
+  },
+  "test_used": false,
+  "probe": false,
+  "summary_sha256": "c1f8f368dc7064b6bb3ba2ad76646bc7c3721504d0feab21afd1712bc9105bf4"
+}
