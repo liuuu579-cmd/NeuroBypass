@@ -1,0 +1,11 @@
+{
+  "documents": 800,
+  "states": 2400,
+  "sources": {
+    "expert_low_cost_fork": 776,
+    "own_prefix": 24
+  },
+  "candidate_scores": 81600,
+  "new_candidate_forwards": 74482,
+  "reused_expert_states": 213
+}
