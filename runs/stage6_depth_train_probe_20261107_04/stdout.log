@@ -1,0 +1,50 @@
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 33.84it/s]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 34.36it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 34.79it/s]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 34.99it/s]
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:59:36.620002+08:00", "step": 1, "joint_kl_layer": 4, "sleb_layer": 10}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:59:39.004668+08:00", "step": 2, "joint_kl_layer": 11, "sleb_layer": 6}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:59:41.315953+08:00", "step": 3, "joint_kl_layer": 8, "sleb_layer": 7}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:59:43.536144+08:00", "step": 4, "joint_kl_layer": 3, "sleb_layer": 2}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:59:45.663733+08:00", "step": 5, "joint_kl_layer": 14, "sleb_layer": 8}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:59:47.702125+08:00", "step": 6, "joint_kl_layer": 17, "sleb_layer": 20}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:59:49.648830+08:00", "step": 7, "joint_kl_layer": 37, "sleb_layer": 14}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:59:51.502246+08:00", "step": 8, "joint_kl_layer": 25, "sleb_layer": 28}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:59:53.265657+08:00", "step": 9, "joint_kl_layer": 31, "sleb_layer": 37}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:59:54.945541+08:00", "step": 10, "joint_kl_layer": 22, "sleb_layer": 33}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:59:56.542438+08:00", "step": 11, "joint_kl_layer": 30, "sleb_layer": 27}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:59:58.056787+08:00", "step": 12, "joint_kl_layer": 10, "sleb_layer": 26}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:59:59.488347+08:00", "step": 13, "joint_kl_layer": 36, "sleb_layer": 16}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T21:00:00.844214+08:00", "step": 14, "joint_kl_layer": 20, "sleb_layer": 35}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T21:00:02.119836+08:00", "step": 15, "joint_kl_layer": 33, "sleb_layer": 22}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T21:00:03.322445+08:00", "step": 16, "joint_kl_layer": 39, "sleb_layer": 39}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T21:00:04.453843+08:00", "step": 17, "joint_kl_layer": 26, "sleb_layer": 32}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T21:00:05.515970+08:00", "step": 18, "joint_kl_layer": 24, "sleb_layer": 36}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T21:00:06.508039+08:00", "step": 19, "joint_kl_layer": 34, "sleb_layer": 24}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T21:00:07.436654+08:00", "step": 20, "joint_kl_layer": 18, "sleb_layer": 18}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T21:00:08.304390+08:00", "step": 21, "joint_kl_layer": 35, "sleb_layer": 34}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T21:00:09.115230+08:00", "step": 22, "joint_kl_layer": 32, "sleb_layer": 25}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T21:00:09.867559+08:00", "step": 23, "joint_kl_layer": 38, "sleb_layer": 30}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T21:00:10.569135+08:00", "step": 24, "joint_kl_layer": 28, "sleb_layer": 38}
+{"event": "prompt_depth_progress", "time": "2026-11-07T21:00:29.758330+08:00", "phase": "labels", "rank": 0, "completed_documents": 1, "total_documents": 2, "elapsed_seconds": 18.835842478001723}
+{"event": "prompt_depth_progress", "time": "2026-11-07T21:00:31.163339+08:00", "phase": "labels", "rank": 2, "completed_documents": 1, "total_documents": 2, "elapsed_seconds": 20.223074389999965}
+{"event": "prompt_depth_progress", "time": "2026-11-07T21:00:31.822840+08:00", "phase": "labels", "rank": 3, "completed_documents": 1, "total_documents": 2, "elapsed_seconds": 20.915318315994227}
+{"event": "prompt_depth_progress", "time": "2026-11-07T21:00:39.135575+08:00", "phase": "labels", "rank": 1, "completed_documents": 1, "total_documents": 2, "elapsed_seconds": 28.19679835900024}
+{"event": "prompt_depth_progress", "time": "2026-11-07T21:00:47.077499+08:00", "phase": "labels", "rank": 0, "completed_documents": 2, "total_documents": 2, "elapsed_seconds": 36.15499878600531}
+{"event": "prompt_depth_progress", "time": "2026-11-07T21:00:49.530607+08:00", "phase": "labels", "rank": 3, "completed_documents": 2, "total_documents": 2, "elapsed_seconds": 38.62305197698879}
+{"event": "prompt_depth_progress", "time": "2026-11-07T21:00:49.584860+08:00", "phase": "labels", "rank": 2, "completed_documents": 2, "total_documents": 2, "elapsed_seconds": 38.6445903040003}
+{"event": "prompt_depth_progress", "time": "2026-11-07T21:00:56.751519+08:00", "phase": "labels", "rank": 1, "completed_documents": 2, "total_documents": 2, "elapsed_seconds": 45.81272875600553}
+{"event": "prompt_depth_labels_complete", "time": "2026-11-07T21:00:56.989679+08:00", "documents": 8}
+{"event": "prompt_depth_progress", "time": "2026-11-07T21:01:00.802831+08:00", "phase": "fit", "rank": 0, "arm": "pure", "seed": 579, "epoch": 1, "mean_loss": 3.985020637512207, "selection_kl_by_k": {"6": 0.3301179111003876, "8": 0.40140441060066223, "10": 0.46667900681495667, "12": 0.5943385064601898, "16": 1.035400390625, "20": 1.6814906597137451, "24": 4.698867559432983}}
+{"event": "prompt_depth_progress", "time": "2026-11-07T21:01:00.840002+08:00", "phase": "fit", "rank": 1, "arm": "hybrid", "seed": 579, "epoch": 1, "mean_loss": 3.8533406257629395, "selection_kl_by_k": {"6": 0.15872139483690262, "8": 0.4277704358100891, "10": 0.4765165448188782, "12": 0.5053446590900421, "16": 1.0683337450027466, "20": 1.6060702800750732, "24": 3.4368703365325928}}
+{"event": "prompt_depth_complete", "time": "2026-11-07T21:01:05.679049+08:00", "elapsed_seconds": 102.41166382600204}

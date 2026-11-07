@@ -1,0 +1,44 @@
+{
+  "6": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_probe_20261107_04/private_pure_seed579_epoch001.pth",
+    "sha256": "463bb9525d6717ae4c5bb69d2523da6cee8bee5bba68dd251b90d6d4cb479c0b",
+    "epoch": 1,
+    "selection_continuation_kl": 0.3301179111003876
+  },
+  "8": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_probe_20261107_04/private_pure_seed579_epoch001.pth",
+    "sha256": "463bb9525d6717ae4c5bb69d2523da6cee8bee5bba68dd251b90d6d4cb479c0b",
+    "epoch": 1,
+    "selection_continuation_kl": 0.40140441060066223
+  },
+  "10": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_probe_20261107_04/private_pure_seed579_epoch001.pth",
+    "sha256": "463bb9525d6717ae4c5bb69d2523da6cee8bee5bba68dd251b90d6d4cb479c0b",
+    "epoch": 1,
+    "selection_continuation_kl": 0.46667900681495667
+  },
+  "12": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_probe_20261107_04/private_pure_seed579_epoch001.pth",
+    "sha256": "463bb9525d6717ae4c5bb69d2523da6cee8bee5bba68dd251b90d6d4cb479c0b",
+    "epoch": 1,
+    "selection_continuation_kl": 0.5943385064601898
+  },
+  "16": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_probe_20261107_04/private_pure_seed579_epoch001.pth",
+    "sha256": "463bb9525d6717ae4c5bb69d2523da6cee8bee5bba68dd251b90d6d4cb479c0b",
+    "epoch": 1,
+    "selection_continuation_kl": 1.035400390625
+  },
+  "20": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_probe_20261107_04/private_pure_seed579_epoch001.pth",
+    "sha256": "463bb9525d6717ae4c5bb69d2523da6cee8bee5bba68dd251b90d6d4cb479c0b",
+    "epoch": 1,
+    "selection_continuation_kl": 1.6814906597137451
+  },
+  "24": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_probe_20261107_04/private_pure_seed579_epoch001.pth",
+    "sha256": "463bb9525d6717ae4c5bb69d2523da6cee8bee5bba68dd251b90d6d4cb479c0b",
+    "epoch": 1,
+    "selection_continuation_kl": 4.698867559432983
+  }
+}

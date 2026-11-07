@@ -1,0 +1,28 @@
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 34.03it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 34.49it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 33.95it/s]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 34.01it/s]
+Traceback (most recent call last):
+  File "/home/liushenyu/test/NeuroBypass/tools/train_prompt_depth_four_gpu_v2.py", line 461, in <module>
+    if __name__ == '__main__': main()
+  File "/home/liushenyu/test/NeuroBypass/tools/train_prompt_depth_four_gpu_v2.py", line 388, in main
+    receive(messages, processes, 4, 'worker_ready')
+  File "/home/liushenyu/test/NeuroBypass/tools/train_prompt_depth_four_gpu_v2.py", line 298, in receive
+    if row['kind'] == 'error': raise RuntimeError(row['traceback'])
+RuntimeError: Traceback (most recent call last):
+  File "/home/liushenyu/test/NeuroBypass/tools/train_prompt_depth_four_gpu_v2.py", line 257, in worker
+    if error > 1e-6: raise ValueError('Shared prefix differs from full serial route')
+ValueError: Shared prefix differs from full serial route
+
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/multiprocessing/resource_tracker.py:224: UserWarning: resource_tracker: There appear to be 4 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '

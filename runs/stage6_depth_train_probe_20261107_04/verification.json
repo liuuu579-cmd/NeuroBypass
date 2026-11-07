@@ -1,0 +1,26 @@
+{
+  "probe": true,
+  "source_preserved_files": 644,
+  "verified_label_states": 432,
+  "verified_candidate_scores": 10524,
+  "verified_quality_rows": 396,
+  "training_documents": 4,
+  "validation_documents": 4,
+  "seeds": [
+    579
+  ],
+  "budgets": [
+    6,
+    8,
+    10,
+    12,
+    16,
+    20,
+    24
+  ],
+  "summary_sha256": "0082eff1e68c9630db29708756be894d087f8fc1d4488069b39f50e2e56eaf73",
+  "old_test_used": false,
+  "cpu_worker_union": 40,
+  "cpu_task_budget": 42,
+  "limits": "Checks recorded choices, scores, provenance and aggregates; does not independently rerun every model forward."
+}

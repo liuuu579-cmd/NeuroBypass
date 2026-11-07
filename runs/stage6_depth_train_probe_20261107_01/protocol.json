@@ -1,0 +1,75 @@
+{
+  "output": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_probe_20261107_01",
+  "main_run": "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_main_20261104_01",
+  "base_model": "/home/liushenyu/opt-13b",
+  "data_file": "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_pilot_20261104_01/private_prompt_continuation_ids.npy",
+  "data_sha256": "52009bdab7fe650ff4bdaf46f80a1b740da0af050c2426f4f0c8f9f6e78c9393",
+  "probe": true,
+  "train_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "validation_ids": [
+    4,
+    9,
+    38,
+    65
+  ],
+  "selection_ids": [
+    4,
+    9
+  ],
+  "static_calibration_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "fixed_prefix": [
+    4,
+    8,
+    2,
+    10,
+    16,
+    14
+  ],
+  "fixed_prefix_source": "/home/liushenyu/test/NeuroBypass/runs/stage3_small_prompt_ablation_20261104_01/small_constant_routes.json",
+  "fixed_prefix_source_sha256": "d748e1c1821fd300227bcdb6b9b19b9a124d28fc042a4e43882cb55b81fb3765",
+  "budgets": [
+    6,
+    8,
+    10,
+    12,
+    16,
+    20,
+    24
+  ],
+  "epochs": 1,
+  "seeds": [
+    579
+  ],
+  "label_seed": 579,
+  "source_sha256": {
+    "train_prompt_depth_four_gpu_v1.py": "2928afb681f32f85371bfd5c10f8ba7963c803a937344be6ef06097121e01d43",
+    "prompt_depth_core_v1.py": "6cd8be69951bcf7173a677e1417bfc0e6dd35707b48801e4ff6d28b8661ba304"
+  },
+  "old_test_used": false,
+  "weights_frozen": true,
+  "new_router_max_k": 24,
+  "input": "128 prompt token+position embeddings only",
+  "labels": "32 actual continuation tokens joint KL, each already-skipped set plus candidate",
+  "old_labels_reuse": "Only identical sample, input and entire skipped-set state",
+  "branches": "One deterministic low-cost alternative per training document; fork lengths5/9/13/17 pure or7/11/15/19 hybrid, greedily complete to24.",
+  "training": "Fresh initialization; per-document mean soft CE+0.25 hardCE; AdamW2e-4, batch16,24epochs; three fixed seeds.",
+  "checkpoint_selection": "Per-budget lowest continuation KL on original selection32 at epochs1,4,...24; full development curves retained.",
+  "limitations": [
+    "Validation100 already used for development; other68 are not an independent test.",
+    "Offline experts see actual continuations and are not deployable prompt-only bounds.",
+    "Variable branch lengths and fewer hybrid states are documented; comparisons are descriptive.",
+    "Fixed6 prefix comes from prior800train learning; static128 calibration is stronger than prior16 but not a full paper recipe.",
+    "No recovery training or formal downstream/timing benchmark in this experiment.",
+    "Candidate batching numerics can perturb near ties; probes are local checks, not a proof for every state."
+  ]
+}

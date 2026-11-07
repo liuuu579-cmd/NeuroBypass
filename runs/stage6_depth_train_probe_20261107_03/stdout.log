@@ -1,0 +1,50 @@
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 34.67it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 33.55it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 33.92it/s]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 33.35it/s]
+{"event": "prompt_depth_progress", "time": "2026-11-07T20:52:31.890160+08:00", "phase": "labels", "rank": 0, "completed_documents": 1, "total_documents": 2, "elapsed_seconds": 17.330353666009614}
+{"event": "prompt_depth_progress", "time": "2026-11-07T20:52:33.735369+08:00", "phase": "labels", "rank": 3, "completed_documents": 1, "total_documents": 2, "elapsed_seconds": 19.167525637007202}
+{"event": "prompt_depth_progress", "time": "2026-11-07T20:52:36.701543+08:00", "phase": "labels", "rank": 2, "completed_documents": 1, "total_documents": 2, "elapsed_seconds": 22.141574148990912}
+{"event": "prompt_depth_progress", "time": "2026-11-07T20:52:40.694202+08:00", "phase": "labels", "rank": 1, "completed_documents": 1, "total_documents": 2, "elapsed_seconds": 26.148914189994684}
+{"event": "prompt_depth_progress", "time": "2026-11-07T20:52:48.459039+08:00", "phase": "labels", "rank": 0, "completed_documents": 2, "total_documents": 2, "elapsed_seconds": 33.89941825999995}
+{"event": "prompt_depth_progress", "time": "2026-11-07T20:52:51.072835+08:00", "phase": "labels", "rank": 3, "completed_documents": 2, "total_documents": 2, "elapsed_seconds": 36.50494471100683}
+{"event": "prompt_depth_progress", "time": "2026-11-07T20:52:54.703451+08:00", "phase": "labels", "rank": 2, "completed_documents": 2, "total_documents": 2, "elapsed_seconds": 40.14353553199908}
+{"event": "prompt_depth_progress", "time": "2026-11-07T20:52:57.801407+08:00", "phase": "labels", "rank": 1, "completed_documents": 2, "total_documents": 2, "elapsed_seconds": 43.255905953003094}
+{"event": "prompt_depth_labels_complete", "time": "2026-11-07T20:52:58.067041+08:00", "documents": 8}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:53:00.713769+08:00", "step": 1, "joint_kl_layer": 4, "sleb_layer": 10}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:53:03.294575+08:00", "step": 2, "joint_kl_layer": 11, "sleb_layer": 6}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:53:05.724790+08:00", "step": 3, "joint_kl_layer": 8, "sleb_layer": 7}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:53:08.043475+08:00", "step": 4, "joint_kl_layer": 3, "sleb_layer": 2}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:53:10.249920+08:00", "step": 5, "joint_kl_layer": 14, "sleb_layer": 8}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:53:12.362589+08:00", "step": 6, "joint_kl_layer": 17, "sleb_layer": 20}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:53:14.376718+08:00", "step": 7, "joint_kl_layer": 37, "sleb_layer": 14}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:53:16.292170+08:00", "step": 8, "joint_kl_layer": 25, "sleb_layer": 28}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:53:18.107548+08:00", "step": 9, "joint_kl_layer": 31, "sleb_layer": 37}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:53:19.833305+08:00", "step": 10, "joint_kl_layer": 22, "sleb_layer": 33}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:53:21.470374+08:00", "step": 11, "joint_kl_layer": 30, "sleb_layer": 27}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:53:23.016851+08:00", "step": 12, "joint_kl_layer": 10, "sleb_layer": 26}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:53:24.477057+08:00", "step": 13, "joint_kl_layer": 36, "sleb_layer": 16}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:53:25.853612+08:00", "step": 14, "joint_kl_layer": 20, "sleb_layer": 35}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:53:27.164487+08:00", "step": 15, "joint_kl_layer": 33, "sleb_layer": 22}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:53:28.360627+08:00", "step": 16, "joint_kl_layer": 39, "sleb_layer": 39}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:53:29.501226+08:00", "step": 17, "joint_kl_layer": 26, "sleb_layer": 32}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:53:30.573890+08:00", "step": 18, "joint_kl_layer": 24, "sleb_layer": 36}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:53:31.568811+08:00", "step": 19, "joint_kl_layer": 34, "sleb_layer": 24}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:53:32.499008+08:00", "step": 20, "joint_kl_layer": 18, "sleb_layer": 18}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:53:33.363616+08:00", "step": 21, "joint_kl_layer": 35, "sleb_layer": 34}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:53:34.174058+08:00", "step": 22, "joint_kl_layer": 32, "sleb_layer": 25}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:53:34.927559+08:00", "step": 23, "joint_kl_layer": 38, "sleb_layer": 30}
+{"event": "prompt_depth_static_step", "time": "2026-11-07T20:53:35.624861+08:00", "step": 24, "joint_kl_layer": 28, "sleb_layer": 38}
+{"event": "prompt_depth_progress", "time": "2026-11-07T20:53:40.034706+08:00", "phase": "fit", "rank": 1, "arm": "hybrid", "seed": 579, "epoch": 1, "mean_loss": 3.877845287322998, "selection_kl_by_k": {"6": 0.113261379301548, "8": 0.29714639484882355, "10": 0.4250643849372864, "12": 0.4785999208688736, "16": 0.8766032159328461, "20": 3.4749884605407715, "24": 7.179554462432861}}
+{"event": "prompt_depth_progress", "time": "2026-11-07T20:53:40.034959+08:00", "phase": "fit", "rank": 0, "arm": "pure", "seed": 579, "epoch": 1, "mean_loss": 3.985020637512207, "selection_kl_by_k": {"6": 0.3301179111003876, "8": 0.40140441060066223, "10": 0.46667900681495667, "12": 0.5943385064601898, "16": 1.035400390625, "20": 1.6814906597137451, "24": 4.698867559432983}}
+{"event": "prompt_depth_complete", "time": "2026-11-07T20:53:44.988333+08:00", "elapsed_seconds": 101.15708005199849}

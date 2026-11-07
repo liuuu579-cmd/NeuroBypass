@@ -1,0 +1,20 @@
+{
+  "ordered_skips": [
+    4,
+    11,
+    8,
+    3,
+    14,
+    17
+  ],
+  "calibration_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "split": "train",
+  "objective": "joint continuation KL",
+  "validation_used": false,
+  "source": "First six steps of this run train-only static joint greedy path"
+}

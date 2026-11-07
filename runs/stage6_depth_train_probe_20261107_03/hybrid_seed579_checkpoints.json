@@ -1,0 +1,44 @@
+{
+  "6": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_probe_20261107_03/private_hybrid_seed579_epoch001.pth",
+    "sha256": "6b8ac735fefd11c4e35ffdcb8ec18501efd269d67a86c881da194abe69b4ff74",
+    "epoch": 1,
+    "selection_continuation_kl": 0.113261379301548
+  },
+  "8": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_probe_20261107_03/private_hybrid_seed579_epoch001.pth",
+    "sha256": "6b8ac735fefd11c4e35ffdcb8ec18501efd269d67a86c881da194abe69b4ff74",
+    "epoch": 1,
+    "selection_continuation_kl": 0.29714639484882355
+  },
+  "10": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_probe_20261107_03/private_hybrid_seed579_epoch001.pth",
+    "sha256": "6b8ac735fefd11c4e35ffdcb8ec18501efd269d67a86c881da194abe69b4ff74",
+    "epoch": 1,
+    "selection_continuation_kl": 0.4250643849372864
+  },
+  "12": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_probe_20261107_03/private_hybrid_seed579_epoch001.pth",
+    "sha256": "6b8ac735fefd11c4e35ffdcb8ec18501efd269d67a86c881da194abe69b4ff74",
+    "epoch": 1,
+    "selection_continuation_kl": 0.4785999208688736
+  },
+  "16": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_probe_20261107_03/private_hybrid_seed579_epoch001.pth",
+    "sha256": "6b8ac735fefd11c4e35ffdcb8ec18501efd269d67a86c881da194abe69b4ff74",
+    "epoch": 1,
+    "selection_continuation_kl": 0.8766032159328461
+  },
+  "20": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_probe_20261107_03/private_hybrid_seed579_epoch001.pth",
+    "sha256": "6b8ac735fefd11c4e35ffdcb8ec18501efd269d67a86c881da194abe69b4ff74",
+    "epoch": 1,
+    "selection_continuation_kl": 3.4749884605407715
+  },
+  "24": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_probe_20261107_03/private_hybrid_seed579_epoch001.pth",
+    "sha256": "6b8ac735fefd11c4e35ffdcb8ec18501efd269d67a86c881da194abe69b4ff74",
+    "epoch": 1,
+    "selection_continuation_kl": 7.179554462432861
+  }
+}

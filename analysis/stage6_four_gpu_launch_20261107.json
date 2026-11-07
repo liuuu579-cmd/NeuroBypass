@@ -1,0 +1,13 @@
+{
+  "pid": 44840,
+  "run": "runs/stage6_depth_train_main_20261107_01",
+  "log": "/home/liushenyu/test/NeuroBypass/analysis/stage6_four_gpu_pipeline_20261107.log",
+  "gpus": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "cpu_budget": 42,
+  "pipeline": "tools/run_depth_four_gpu_pipeline_v1.py"
+}

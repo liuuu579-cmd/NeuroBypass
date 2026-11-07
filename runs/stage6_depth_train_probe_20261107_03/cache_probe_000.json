@@ -1,0 +1,25 @@
+[
+  {
+    "fp16": {
+      "route": [
+        2,
+        6,
+        7,
+        8,
+        10,
+        20
+      ],
+      "precision": "torch.float16",
+      "mean_absolute_position_kl": 3.434222162468359e-05,
+      "max_absolute_position_kl": 0.00013129040598869324,
+      "argmax_agreement": 1.0,
+      "mean_logit_abs_error": 0.03598189726471901,
+      "max_logit_abs_error": 0.16015625,
+      "cache_bytes": 110714880,
+      "verified_all_layer_cache_lengths": true,
+      "passes_original_distribution_tolerance": true
+    },
+    "fp32": null,
+    "outcome": "fp16_cache_consistent"
+  }
+]

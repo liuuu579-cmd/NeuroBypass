@@ -1,0 +1,28 @@
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.67s/it]Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.67s/it]Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.68s/it]Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.68s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.68s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.68s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.68s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.67s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:04<00:00,  1.33s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:04<00:00,  1.43s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:04<00:00,  1.34s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:04<00:00,  1.43s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:04<00:00,  1.34s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:04<00:00,  1.34s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:04<00:00,  1.43s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:04<00:00,  1.43s/it]
+Traceback (most recent call last):
+  File "/home/liushenyu/test/NeuroBypass/tools/train_prompt_depth_four_gpu_v1.py", line 445, in <module>
+    if __name__ == '__main__': main()
+  File "/home/liushenyu/test/NeuroBypass/tools/train_prompt_depth_four_gpu_v1.py", line 380, in main
+    receive(messages, processes, 4, 'worker_ready')
+  File "/home/liushenyu/test/NeuroBypass/tools/train_prompt_depth_four_gpu_v1.py", line 290, in receive
+    if row['kind'] == 'error': raise RuntimeError(row['traceback'])
+RuntimeError: Traceback (most recent call last):
+  File "/home/liushenyu/test/NeuroBypass/tools/train_prompt_depth_four_gpu_v1.py", line 254, in worker
+    if error > .01: raise ValueError('Deep candidate batch/serial probe differs by more than0.01 KL')
+ValueError: Deep candidate batch/serial probe differs by more than0.01 KL
+
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/multiprocessing/resource_tracker.py:224: UserWarning: resource_tracker: There appear to be 3 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
