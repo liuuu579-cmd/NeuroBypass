@@ -1,0 +1,392 @@
+[
+  {
+    "kind": "fit_done",
+    "rank": 1,
+    "arm": "hybrid",
+    "seed": 579,
+    "training_documents": 800,
+    "max_k": 24,
+    "checkpoints": {
+      "6": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed579_epoch001.pth",
+        "sha256": "eb43dd30114b15cac21a4e4df83b1304584dba2455573a51dbd2ebd3f7d26297",
+        "epoch": 1,
+        "selection_continuation_kl": 0.08222015236970037
+      },
+      "8": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed579_epoch001.pth",
+        "sha256": "eb43dd30114b15cac21a4e4df83b1304584dba2455573a51dbd2ebd3f7d26297",
+        "epoch": 1,
+        "selection_continuation_kl": 0.1380120252724737
+      },
+      "10": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed579_epoch012.pth",
+        "sha256": "ea97363069c27596b1a63c24fdc766c3963dcf100e76d76029eeda3eaa36eec6",
+        "epoch": 12,
+        "selection_continuation_kl": 0.22504204977303743
+      },
+      "12": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed579_epoch012.pth",
+        "sha256": "ea97363069c27596b1a63c24fdc766c3963dcf100e76d76029eeda3eaa36eec6",
+        "epoch": 12,
+        "selection_continuation_kl": 0.3742779162712395
+      },
+      "16": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed579_epoch008.pth",
+        "sha256": "83fd4328b5ed0458412ec37d570ad6224eb1d6ad8f46611bc393556406f92432",
+        "epoch": 8,
+        "selection_continuation_kl": 0.7779956571757793
+      },
+      "20": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed579_epoch012.pth",
+        "sha256": "ea97363069c27596b1a63c24fdc766c3963dcf100e76d76029eeda3eaa36eec6",
+        "epoch": 12,
+        "selection_continuation_kl": 1.2216715291142464
+      },
+      "24": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed579_epoch012.pth",
+        "sha256": "ea97363069c27596b1a63c24fdc766c3963dcf100e76d76029eeda3eaa36eec6",
+        "epoch": 12,
+        "selection_continuation_kl": 2.6556597277522087
+      }
+    },
+    "cpu_ids": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "threads": 10
+  },
+  {
+    "kind": "fit_done",
+    "rank": 0,
+    "arm": "pure",
+    "seed": 579,
+    "training_documents": 800,
+    "max_k": 24,
+    "checkpoints": {
+      "6": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed579_epoch016.pth",
+        "sha256": "a404a67c858271dd38b817a589af16fda57d6538d2733c37426237cfd163310c",
+        "epoch": 16,
+        "selection_continuation_kl": 0.0843703966238536
+      },
+      "8": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed579_epoch016.pth",
+        "sha256": "a404a67c858271dd38b817a589af16fda57d6538d2733c37426237cfd163310c",
+        "epoch": 16,
+        "selection_continuation_kl": 0.14654478104785085
+      },
+      "10": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed579_epoch020.pth",
+        "sha256": "efe32a111d7236d66df44cab2a1628c71f4be87d15a20f223d6fac59c3d19042",
+        "epoch": 20,
+        "selection_continuation_kl": 0.24323706328868866
+      },
+      "12": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed579_epoch020.pth",
+        "sha256": "efe32a111d7236d66df44cab2a1628c71f4be87d15a20f223d6fac59c3d19042",
+        "epoch": 20,
+        "selection_continuation_kl": 0.4075836921110749
+      },
+      "16": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed579_epoch020.pth",
+        "sha256": "efe32a111d7236d66df44cab2a1628c71f4be87d15a20f223d6fac59c3d19042",
+        "epoch": 20,
+        "selection_continuation_kl": 0.8534885393455625
+      },
+      "20": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed579_epoch016.pth",
+        "sha256": "a404a67c858271dd38b817a589af16fda57d6538d2733c37426237cfd163310c",
+        "epoch": 16,
+        "selection_continuation_kl": 1.5494534634053707
+      },
+      "24": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed579_epoch016.pth",
+        "sha256": "a404a67c858271dd38b817a589af16fda57d6538d2733c37426237cfd163310c",
+        "epoch": 16,
+        "selection_continuation_kl": 2.9318549931049347
+      }
+    },
+    "cpu_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "threads": 10
+  },
+  {
+    "kind": "fit_done",
+    "rank": 2,
+    "arm": "pure",
+    "seed": 580,
+    "training_documents": 800,
+    "max_k": 24,
+    "checkpoints": {
+      "6": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed580_epoch024.pth",
+        "sha256": "ad2aba15dde25e22645e7b4d78cc7db69d05b23aa2f128ccb08a2356f485eacd",
+        "epoch": 24,
+        "selection_continuation_kl": 0.0880334572866559
+      },
+      "8": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed580_epoch024.pth",
+        "sha256": "ad2aba15dde25e22645e7b4d78cc7db69d05b23aa2f128ccb08a2356f485eacd",
+        "epoch": 24,
+        "selection_continuation_kl": 0.14977865479886532
+      },
+      "10": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed580_epoch016.pth",
+        "sha256": "f731739754e48dc5d67ad7917e90fea9737f006c8604d8673f0fbf0bbe065247",
+        "epoch": 16,
+        "selection_continuation_kl": 0.2402132609859109
+      },
+      "12": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed580_epoch016.pth",
+        "sha256": "f731739754e48dc5d67ad7917e90fea9737f006c8604d8673f0fbf0bbe065247",
+        "epoch": 16,
+        "selection_continuation_kl": 0.4036958469077945
+      },
+      "16": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed580_epoch024.pth",
+        "sha256": "ad2aba15dde25e22645e7b4d78cc7db69d05b23aa2f128ccb08a2356f485eacd",
+        "epoch": 24,
+        "selection_continuation_kl": 0.8191090989857912
+      },
+      "20": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed580_epoch020.pth",
+        "sha256": "d12f733d07f3bb2c467dd91bc661f835ccab72e9cbac3ff39535ce51f0bfed33",
+        "epoch": 20,
+        "selection_continuation_kl": 1.4645401258021593
+      },
+      "24": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed580_epoch020.pth",
+        "sha256": "d12f733d07f3bb2c467dd91bc661f835ccab72e9cbac3ff39535ce51f0bfed33",
+        "epoch": 20,
+        "selection_continuation_kl": 2.985895663499832
+      }
+    },
+    "cpu_ids": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "threads": 10
+  },
+  {
+    "kind": "fit_done",
+    "rank": 3,
+    "arm": "hybrid",
+    "seed": 580,
+    "training_documents": 800,
+    "max_k": 24,
+    "checkpoints": {
+      "6": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed580_epoch001.pth",
+        "sha256": "b1712bbe2ceb4b2ac57dc131d3218d3226c7a6f00fc65fdcb8b7afae766eb848",
+        "epoch": 1,
+        "selection_continuation_kl": 0.08222015236970037
+      },
+      "8": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed580_epoch004.pth",
+        "sha256": "90d3694e93edfcfbc4757e1846ba18a59d8c9d51eafbb271d40c812d4a1867f2",
+        "epoch": 4,
+        "selection_continuation_kl": 0.13770527648739517
+      },
+      "10": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed580_epoch008.pth",
+        "sha256": "574da1cfaa42d88bd09c29909d7ea23c5cdf5e6de26919dcb8e7cc0e5fbe34c2",
+        "epoch": 8,
+        "selection_continuation_kl": 0.2263415683992207
+      },
+      "12": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed580_epoch008.pth",
+        "sha256": "574da1cfaa42d88bd09c29909d7ea23c5cdf5e6de26919dcb8e7cc0e5fbe34c2",
+        "epoch": 8,
+        "selection_continuation_kl": 0.3573951153084636
+      },
+      "16": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed580_epoch012.pth",
+        "sha256": "afd7f21b6fb2bcbb5f556e17b1d475c09cc1f3fac1f7c9e3d49d7a0199283ddb",
+        "epoch": 12,
+        "selection_continuation_kl": 0.7440258599817753
+      },
+      "20": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed580_epoch024.pth",
+        "sha256": "4a80b11eb8ddc605caa16b54a188fa787cb9dae354fcc2add904057bec46a077",
+        "epoch": 24,
+        "selection_continuation_kl": 1.2824116218835115
+      },
+      "24": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed580_epoch016.pth",
+        "sha256": "91e86030d7f2e5a3fd2cffb4040ab0432ba5454f89263520f9b460125d46ec95",
+        "epoch": 16,
+        "selection_continuation_kl": 2.6713801585137844
+      }
+    },
+    "cpu_ids": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "threads": 10
+  },
+  {
+    "kind": "fit_done",
+    "rank": 1,
+    "arm": "hybrid",
+    "seed": 581,
+    "training_documents": 800,
+    "max_k": 24,
+    "checkpoints": {
+      "6": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed581_epoch001.pth",
+        "sha256": "2579ad59c0accd8ef58d2ee5f3503118e228d8abffaff28a813dad969e186fad",
+        "epoch": 1,
+        "selection_continuation_kl": 0.08222015236970037
+      },
+      "8": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed581_epoch008.pth",
+        "sha256": "bbef8094a1476d82fc1e42da00d23d427410b329da3c92fbe4b5bb83ed8c2b11",
+        "epoch": 8,
+        "selection_continuation_kl": 0.13686386495828629
+      },
+      "10": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed581_epoch024.pth",
+        "sha256": "6b3121a34789a256b725fb59b6033e8fe4eeb930a2af1a22a84ea32df4e06484",
+        "epoch": 24,
+        "selection_continuation_kl": 0.22309625148773193
+      },
+      "12": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed581_epoch020.pth",
+        "sha256": "b4ad06ab1e7464bdf119a9b3ad798cf700ae0f2ca9422b19c60035ad10600148",
+        "epoch": 20,
+        "selection_continuation_kl": 0.36302921269088984
+      },
+      "16": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed581_epoch008.pth",
+        "sha256": "bbef8094a1476d82fc1e42da00d23d427410b329da3c92fbe4b5bb83ed8c2b11",
+        "epoch": 8,
+        "selection_continuation_kl": 0.7707424322143197
+      },
+      "20": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed581_epoch020.pth",
+        "sha256": "b4ad06ab1e7464bdf119a9b3ad798cf700ae0f2ca9422b19c60035ad10600148",
+        "epoch": 20,
+        "selection_continuation_kl": 1.312575627118349
+      },
+      "24": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed581_epoch008.pth",
+        "sha256": "bbef8094a1476d82fc1e42da00d23d427410b329da3c92fbe4b5bb83ed8c2b11",
+        "epoch": 8,
+        "selection_continuation_kl": 2.698259375989437
+      }
+    },
+    "cpu_ids": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "threads": 10
+  },
+  {
+    "kind": "fit_done",
+    "rank": 0,
+    "arm": "pure",
+    "seed": 581,
+    "training_documents": 800,
+    "max_k": 24,
+    "checkpoints": {
+      "6": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed581_epoch016.pth",
+        "sha256": "922600b07e4f4d749c8c2f01bd27bc5aa6319927dff05bb39a5d81017eb7e3a9",
+        "epoch": 16,
+        "selection_continuation_kl": 0.08556171576492488
+      },
+      "8": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed581_epoch024.pth",
+        "sha256": "304803df9a7f91eda46f25fcf1e01ae19e23dc7d3b031177ef7c2575948af838",
+        "epoch": 24,
+        "selection_continuation_kl": 0.14807273331098258
+      },
+      "10": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed581_epoch016.pth",
+        "sha256": "922600b07e4f4d749c8c2f01bd27bc5aa6319927dff05bb39a5d81017eb7e3a9",
+        "epoch": 16,
+        "selection_continuation_kl": 0.24311603466048837
+      },
+      "12": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed581_epoch020.pth",
+        "sha256": "bd6cf2cf2f53661cc10091085cf2f7078f0d672b03f9e8cd3fcb6df46cbbd789",
+        "epoch": 20,
+        "selection_continuation_kl": 0.4205618528649211
+      },
+      "16": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed581_epoch008.pth",
+        "sha256": "b6ade0933d530ee4d6cb7fa03b216975983b6bc4d1ee272b090d71953897ea63",
+        "epoch": 8,
+        "selection_continuation_kl": 0.832476893439889
+      },
+      "20": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed581_epoch016.pth",
+        "sha256": "922600b07e4f4d749c8c2f01bd27bc5aa6319927dff05bb39a5d81017eb7e3a9",
+        "epoch": 16,
+        "selection_continuation_kl": 1.5343166831880808
+      },
+      "24": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed581_epoch012.pth",
+        "sha256": "bc14ba4029f38164bc916644a1c3ddc6d21cabf9203e32316f3eda182d9c5b33",
+        "epoch": 12,
+        "selection_continuation_kl": 2.936615440994501
+      }
+    },
+    "cpu_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "threads": 10
+  }
+]

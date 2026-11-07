@@ -1,0 +1,44 @@
+{
+  "6": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed581_epoch001.pth",
+    "sha256": "2579ad59c0accd8ef58d2ee5f3503118e228d8abffaff28a813dad969e186fad",
+    "epoch": 1,
+    "selection_continuation_kl": 0.08222015236970037
+  },
+  "8": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed581_epoch008.pth",
+    "sha256": "bbef8094a1476d82fc1e42da00d23d427410b329da3c92fbe4b5bb83ed8c2b11",
+    "epoch": 8,
+    "selection_continuation_kl": 0.13686386495828629
+  },
+  "10": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed581_epoch024.pth",
+    "sha256": "6b3121a34789a256b725fb59b6033e8fe4eeb930a2af1a22a84ea32df4e06484",
+    "epoch": 24,
+    "selection_continuation_kl": 0.22309625148773193
+  },
+  "12": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed581_epoch020.pth",
+    "sha256": "b4ad06ab1e7464bdf119a9b3ad798cf700ae0f2ca9422b19c60035ad10600148",
+    "epoch": 20,
+    "selection_continuation_kl": 0.36302921269088984
+  },
+  "16": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed581_epoch008.pth",
+    "sha256": "bbef8094a1476d82fc1e42da00d23d427410b329da3c92fbe4b5bb83ed8c2b11",
+    "epoch": 8,
+    "selection_continuation_kl": 0.7707424322143197
+  },
+  "20": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed581_epoch020.pth",
+    "sha256": "b4ad06ab1e7464bdf119a9b3ad798cf700ae0f2ca9422b19c60035ad10600148",
+    "epoch": 20,
+    "selection_continuation_kl": 1.312575627118349
+  },
+  "24": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed581_epoch008.pth",
+    "sha256": "bbef8094a1476d82fc1e42da00d23d427410b329da3c92fbe4b5bb83ed8c2b11",
+    "epoch": 8,
+    "selection_continuation_kl": 2.698259375989437
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "6": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed581_epoch016.pth",
+    "sha256": "922600b07e4f4d749c8c2f01bd27bc5aa6319927dff05bb39a5d81017eb7e3a9",
+    "epoch": 16,
+    "selection_continuation_kl": 0.08556171576492488
+  },
+  "8": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed581_epoch024.pth",
+    "sha256": "304803df9a7f91eda46f25fcf1e01ae19e23dc7d3b031177ef7c2575948af838",
+    "epoch": 24,
+    "selection_continuation_kl": 0.14807273331098258
+  },
+  "10": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed581_epoch016.pth",
+    "sha256": "922600b07e4f4d749c8c2f01bd27bc5aa6319927dff05bb39a5d81017eb7e3a9",
+    "epoch": 16,
+    "selection_continuation_kl": 0.24311603466048837
+  },
+  "12": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed581_epoch020.pth",
+    "sha256": "bd6cf2cf2f53661cc10091085cf2f7078f0d672b03f9e8cd3fcb6df46cbbd789",
+    "epoch": 20,
+    "selection_continuation_kl": 0.4205618528649211
+  },
+  "16": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed581_epoch008.pth",
+    "sha256": "b6ade0933d530ee4d6cb7fa03b216975983b6bc4d1ee272b090d71953897ea63",
+    "epoch": 8,
+    "selection_continuation_kl": 0.832476893439889
+  },
+  "20": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed581_epoch016.pth",
+    "sha256": "922600b07e4f4d749c8c2f01bd27bc5aa6319927dff05bb39a5d81017eb7e3a9",
+    "epoch": 16,
+    "selection_continuation_kl": 1.5343166831880808
+  },
+  "24": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed581_epoch012.pth",
+    "sha256": "bc14ba4029f38164bc916644a1c3ddc6d21cabf9203e32316f3eda182d9c5b33",
+    "epoch": 12,
+    "selection_continuation_kl": 2.936615440994501
+  }
+}
