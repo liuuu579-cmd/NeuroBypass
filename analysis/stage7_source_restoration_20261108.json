@@ -1,0 +1,14 @@
+{
+  "event": "restored inadvertently changed new source files",
+  "restored_files": {
+    "tools/horizontal_quality_v2.py": "7c0ed66e628689a308efcfa746217c4602fb2c4e6bd7c43dce4978c1790f8c62",
+    "tools/verify_horizontal_quality_v1.py": "dded5029ac232f3063c6d438d376e264410032917fb72d0cce84e138a7800b55"
+  },
+  "quality_sha_matches_successful_probe": true,
+  "new_versions": [
+    "tools/horizontal_quality_v3.py",
+    "tools/verify_horizontal_quality_v2.py"
+  ],
+  "affected_run": "runs/stage7_horizontal_main_20261108_01",
+  "action": "run interrupted; preserve evidence and restart under new version"
+}

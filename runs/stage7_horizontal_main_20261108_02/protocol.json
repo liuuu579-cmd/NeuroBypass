@@ -1,0 +1,728 @@
+{
+  "output": "/home/liushenyu/test/NeuroBypass/runs/stage7_horizontal_main_20261108_02",
+  "model": "/home/liushenyu/opt-13b",
+  "training_run": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01",
+  "budgets": [
+    10,
+    12,
+    16
+  ],
+  "policies": [
+    {
+      "name": "full",
+      "kind": "static",
+      "k": 0,
+      "skips": [],
+      "seed": null
+    },
+    {
+      "name": "static_joint_kl",
+      "kind": "static",
+      "k": 10,
+      "skips": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7,
+        24,
+        37,
+        15,
+        29
+      ],
+      "seed": null
+    },
+    {
+      "name": "sleb_nll_opt",
+      "kind": "static",
+      "k": 10,
+      "skips": [
+        5,
+        11,
+        3,
+        8,
+        18,
+        14,
+        27,
+        37,
+        24,
+        32
+      ],
+      "seed": null
+    },
+    {
+      "name": "shortgpt_bi_opt",
+      "kind": "static",
+      "k": 10,
+      "skips": [
+        3,
+        4,
+        5,
+        6,
+        2,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "seed": null
+    },
+    {
+      "name": "shortened_ppl_opt",
+      "kind": "static",
+      "k": 10,
+      "skips": [
+        5,
+        7,
+        6,
+        10,
+        8,
+        2,
+        3,
+        12,
+        11,
+        9
+      ],
+      "seed": null
+    },
+    {
+      "name": "shortened_ppl_plus",
+      "kind": "static",
+      "k": 10,
+      "skips": [
+        5,
+        7,
+        6,
+        10,
+        8,
+        12,
+        11,
+        9,
+        13,
+        4
+      ],
+      "seed": null
+    },
+    {
+      "name": "random_static_seed579",
+      "kind": "static",
+      "k": 10,
+      "skips": [
+        8,
+        38,
+        24,
+        20,
+        36,
+        11,
+        19,
+        9,
+        6,
+        29
+      ],
+      "seed": null
+    },
+    {
+      "name": "pure",
+      "kind": "router",
+      "seed": 579,
+      "k": 10,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed579_epoch020.pth",
+        "sha256": "efe32a111d7236d66df44cab2a1628c71f4be87d15a20f223d6fac59c3d19042",
+        "epoch": 20,
+        "selection_continuation_kl": 0.24323706328868866
+      },
+      "prefix": []
+    },
+    {
+      "name": "pure",
+      "kind": "router",
+      "seed": 580,
+      "k": 10,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed580_epoch016.pth",
+        "sha256": "f731739754e48dc5d67ad7917e90fea9737f006c8604d8673f0fbf0bbe065247",
+        "epoch": 16,
+        "selection_continuation_kl": 0.2402132609859109
+      },
+      "prefix": []
+    },
+    {
+      "name": "pure",
+      "kind": "router",
+      "seed": 581,
+      "k": 10,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed581_epoch016.pth",
+        "sha256": "922600b07e4f4d749c8c2f01bd27bc5aa6319927dff05bb39a5d81017eb7e3a9",
+        "epoch": 16,
+        "selection_continuation_kl": 0.24311603466048837
+      },
+      "prefix": []
+    },
+    {
+      "name": "hybrid",
+      "kind": "router",
+      "seed": 579,
+      "k": 10,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed579_epoch012.pth",
+        "sha256": "ea97363069c27596b1a63c24fdc766c3963dcf100e76d76029eeda3eaa36eec6",
+        "epoch": 12,
+        "selection_continuation_kl": 0.22504204977303743
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ]
+    },
+    {
+      "name": "hybrid",
+      "kind": "router",
+      "seed": 580,
+      "k": 10,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed580_epoch008.pth",
+        "sha256": "574da1cfaa42d88bd09c29909d7ea23c5cdf5e6de26919dcb8e7cc0e5fbe34c2",
+        "epoch": 8,
+        "selection_continuation_kl": 0.2263415683992207
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ]
+    },
+    {
+      "name": "hybrid",
+      "kind": "router",
+      "seed": 581,
+      "k": 10,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed581_epoch024.pth",
+        "sha256": "6b3121a34789a256b725fb59b6033e8fe4eeb930a2af1a22a84ea32df4e06484",
+        "epoch": 24,
+        "selection_continuation_kl": 0.22309625148773193
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ]
+    },
+    {
+      "name": "static_joint_kl",
+      "kind": "static",
+      "k": 12,
+      "skips": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7,
+        24,
+        37,
+        15,
+        29,
+        22,
+        34
+      ],
+      "seed": null
+    },
+    {
+      "name": "sleb_nll_opt",
+      "kind": "static",
+      "k": 12,
+      "skips": [
+        5,
+        11,
+        3,
+        8,
+        18,
+        14,
+        27,
+        37,
+        24,
+        32,
+        10,
+        25
+      ],
+      "seed": null
+    },
+    {
+      "name": "shortgpt_bi_opt",
+      "kind": "static",
+      "k": 12,
+      "skips": [
+        3,
+        4,
+        5,
+        6,
+        2,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "seed": null
+    },
+    {
+      "name": "shortened_ppl_opt",
+      "kind": "static",
+      "k": 12,
+      "skips": [
+        5,
+        7,
+        6,
+        10,
+        8,
+        2,
+        3,
+        12,
+        11,
+        9,
+        13,
+        4
+      ],
+      "seed": null
+    },
+    {
+      "name": "shortened_ppl_plus",
+      "kind": "static",
+      "k": 12,
+      "skips": [
+        5,
+        7,
+        6,
+        10,
+        8,
+        12,
+        11,
+        9,
+        13,
+        4,
+        14,
+        16
+      ],
+      "seed": null
+    },
+    {
+      "name": "random_static_seed579",
+      "kind": "static",
+      "k": 12,
+      "skips": [
+        8,
+        38,
+        24,
+        20,
+        36,
+        11,
+        19,
+        9,
+        6,
+        29,
+        3,
+        28
+      ],
+      "seed": null
+    },
+    {
+      "name": "pure",
+      "kind": "router",
+      "seed": 579,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed579_epoch020.pth",
+        "sha256": "efe32a111d7236d66df44cab2a1628c71f4be87d15a20f223d6fac59c3d19042",
+        "epoch": 20,
+        "selection_continuation_kl": 0.4075836921110749
+      },
+      "prefix": []
+    },
+    {
+      "name": "pure",
+      "kind": "router",
+      "seed": 580,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed580_epoch016.pth",
+        "sha256": "f731739754e48dc5d67ad7917e90fea9737f006c8604d8673f0fbf0bbe065247",
+        "epoch": 16,
+        "selection_continuation_kl": 0.4036958469077945
+      },
+      "prefix": []
+    },
+    {
+      "name": "pure",
+      "kind": "router",
+      "seed": 581,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed581_epoch020.pth",
+        "sha256": "bd6cf2cf2f53661cc10091085cf2f7078f0d672b03f9e8cd3fcb6df46cbbd789",
+        "epoch": 20,
+        "selection_continuation_kl": 0.4205618528649211
+      },
+      "prefix": []
+    },
+    {
+      "name": "hybrid",
+      "kind": "router",
+      "seed": 579,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed579_epoch012.pth",
+        "sha256": "ea97363069c27596b1a63c24fdc766c3963dcf100e76d76029eeda3eaa36eec6",
+        "epoch": 12,
+        "selection_continuation_kl": 0.3742779162712395
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ]
+    },
+    {
+      "name": "hybrid",
+      "kind": "router",
+      "seed": 580,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed580_epoch008.pth",
+        "sha256": "574da1cfaa42d88bd09c29909d7ea23c5cdf5e6de26919dcb8e7cc0e5fbe34c2",
+        "epoch": 8,
+        "selection_continuation_kl": 0.3573951153084636
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ]
+    },
+    {
+      "name": "hybrid",
+      "kind": "router",
+      "seed": 581,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed581_epoch020.pth",
+        "sha256": "b4ad06ab1e7464bdf119a9b3ad798cf700ae0f2ca9422b19c60035ad10600148",
+        "epoch": 20,
+        "selection_continuation_kl": 0.36302921269088984
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ]
+    },
+    {
+      "name": "static_joint_kl",
+      "kind": "static",
+      "k": 16,
+      "skips": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7,
+        24,
+        37,
+        15,
+        29,
+        22,
+        34,
+        27,
+        20,
+        32,
+        39
+      ],
+      "seed": null
+    },
+    {
+      "name": "sleb_nll_opt",
+      "kind": "static",
+      "k": 16,
+      "skips": [
+        5,
+        11,
+        3,
+        8,
+        18,
+        14,
+        27,
+        37,
+        24,
+        32,
+        10,
+        25,
+        34,
+        20,
+        30,
+        39
+      ],
+      "seed": null
+    },
+    {
+      "name": "shortgpt_bi_opt",
+      "kind": "static",
+      "k": 16,
+      "skips": [
+        3,
+        4,
+        5,
+        6,
+        2,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "seed": null
+    },
+    {
+      "name": "shortened_ppl_opt",
+      "kind": "static",
+      "k": 16,
+      "skips": [
+        5,
+        7,
+        6,
+        10,
+        8,
+        2,
+        3,
+        12,
+        11,
+        9,
+        13,
+        4,
+        14,
+        16,
+        18,
+        15
+      ],
+      "seed": null
+    },
+    {
+      "name": "shortened_ppl_plus",
+      "kind": "static",
+      "k": 16,
+      "skips": [
+        5,
+        7,
+        6,
+        10,
+        8,
+        12,
+        11,
+        9,
+        13,
+        4,
+        14,
+        16,
+        18,
+        15,
+        17,
+        20
+      ],
+      "seed": null
+    },
+    {
+      "name": "random_static_seed579",
+      "kind": "static",
+      "k": 16,
+      "skips": [
+        8,
+        38,
+        24,
+        20,
+        36,
+        11,
+        19,
+        9,
+        6,
+        29,
+        3,
+        28,
+        25,
+        35,
+        15,
+        33
+      ],
+      "seed": null
+    },
+    {
+      "name": "pure",
+      "kind": "router",
+      "seed": 579,
+      "k": 16,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed579_epoch020.pth",
+        "sha256": "efe32a111d7236d66df44cab2a1628c71f4be87d15a20f223d6fac59c3d19042",
+        "epoch": 20,
+        "selection_continuation_kl": 0.8534885393455625
+      },
+      "prefix": []
+    },
+    {
+      "name": "pure",
+      "kind": "router",
+      "seed": 580,
+      "k": 16,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed580_epoch024.pth",
+        "sha256": "ad2aba15dde25e22645e7b4d78cc7db69d05b23aa2f128ccb08a2356f485eacd",
+        "epoch": 24,
+        "selection_continuation_kl": 0.8191090989857912
+      },
+      "prefix": []
+    },
+    {
+      "name": "pure",
+      "kind": "router",
+      "seed": 581,
+      "k": 16,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed581_epoch008.pth",
+        "sha256": "b6ade0933d530ee4d6cb7fa03b216975983b6bc4d1ee272b090d71953897ea63",
+        "epoch": 8,
+        "selection_continuation_kl": 0.832476893439889
+      },
+      "prefix": []
+    },
+    {
+      "name": "hybrid",
+      "kind": "router",
+      "seed": 579,
+      "k": 16,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed579_epoch008.pth",
+        "sha256": "83fd4328b5ed0458412ec37d570ad6224eb1d6ad8f46611bc393556406f92432",
+        "epoch": 8,
+        "selection_continuation_kl": 0.7779956571757793
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ]
+    },
+    {
+      "name": "hybrid",
+      "kind": "router",
+      "seed": 580,
+      "k": 16,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed580_epoch012.pth",
+        "sha256": "afd7f21b6fb2bcbb5f556e17b1d475c09cc1f3fac1f7c9e3d49d7a0199283ddb",
+        "epoch": 12,
+        "selection_continuation_kl": 0.7440258599817753
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ]
+    },
+    {
+      "name": "hybrid",
+      "kind": "router",
+      "seed": 581,
+      "k": 16,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed581_epoch008.pth",
+        "sha256": "bbef8094a1476d82fc1e42da00d23d427410b329da3c92fbe4b5bb83ed8c2b11",
+        "epoch": 8,
+        "selection_continuation_kl": 0.7707424322143197
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ]
+    }
+  ],
+  "fixed_prefix": [
+    4,
+    9,
+    2,
+    12,
+    17,
+    7
+  ],
+  "probe": false,
+  "private_inputs": "/home/liushenyu/test/NeuroBypass/runs/stage7_horizontal_main_20261108_02/private_benchmark_inputs.jsonl",
+  "source_sha256": {
+    "horizontal_quality_v3.py": "837159ca5b4875a71a6ee1ab05bf1cd5946f2c78a212ccca6bf964e93f6775ff",
+    "horizontal_data_v1.py": "8bbb90678a23199ee70e89578df8e50b81dc1063b4e993ac6a8179979589213b",
+    "prompt_depth_core_v1.py": "6cd8be69951bcf7173a677e1417bfc0e6dd35707b48801e4ff6d28b8661ba304",
+    "prompt_fixed_core_v1.py": "b733338d20f9f52599b7c7c7ca76c6e0450dfc25ef38c50d7c51fbb689287f5e"
+  },
+  "harness": {
+    "root": "/home/liushenyu/test/skip/lm-evaluation-harness",
+    "commit": "95d580638385578c1c07fa554cf16ad7f5b5f460",
+    "task_files": {
+      "piqa/piqa.yaml": "e874f7956ccac325b888d4a5dc600bad867b79fba2bd358fe8761ab8263270fb",
+      "hellaswag/hellaswag.yaml": "e9ef8ac3fed02bf283777d946ae76cbf906152e9c92533c9794e5a9dad78d1cf",
+      "hellaswag/utils.py": "07d23b60b28f2a4f658dcf8440623a63fe6644854ce9b846a114dde980dc1214",
+      "winogrande/default.yaml": "7a73c28f1c760f1f54b4185f21f8df5927c1fe7278a8520f38ee03cc7f40d9e7",
+      "winogrande/preprocess_winogrande.py": "e55327629264a98f1d383fda24645b6779afb53fa0bce2150042b9416b1ae006"
+    }
+  },
+  "data_manifest_sha256": "3c2fe0d054b7221f2c99bf15666f66fd3edca5fde938c48241775ec52b20652d",
+  "observation": "MC common question prefix only: BOS+first127 text tokens, variable short length without padding. WinoGrande uses only text before blank, no option or scored suffix. Wiki observes first128tokens of localwindow.",
+  "route": "Exactly one path per question/policy and all options reuse it; no correct label, answer option or future Wiki target reaches router.",
+  "scoring": "FP16 OPT SDPA, batch1, use_cache=False, genuine layer bypass; full-sequence LM head GEMM then target slicing and FP64 loss reduction; teacher forcing. Explicit BOS, max input2048, char normalized acc as pinned task recipe.",
+  "selection": "Existing per-K C4 development-selected checkpoints, all3seeds; no checkpoint/hyperparameter/static path selection using benchmark.",
+  "cost_policy": "No throughput/peak-memory timing in this quality stage. User requests cost comparison after quality results justify it.",
+  "limitations": [
+    "Custom adapter audited against pinned task recipes; local old dataset revisions differ from latest task dataset identifiers.",
+    "WikiText conditional128+up-to384window PPL is not standard rolling/full corpus PPL.",
+    "WinoGrande routing only sees pre-blank common prefix, intentionally less information than filled scoring contexts.",
+    "Baseline methods are frozen OPT adaptations without recovery, not complete official paper replications.",
+    "Three seeds are repeated models on the same questions, not three times as many independent benchmark samples."
+  ]
+}

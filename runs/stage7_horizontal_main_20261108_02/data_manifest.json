@@ -1,0 +1,44 @@
+{
+  "tasks": {
+    "piqa": {
+      "sha256": "6e14731c78016adc6a5738d661111f5cb4c6bce461c454561eb66be4abc39222",
+      "split": "validation",
+      "available_records": 1838,
+      "evaluated_records": 1838,
+      "router_tokens_min": 7,
+      "router_tokens_max": 33,
+      "truncated_context_tokens": 0
+    },
+    "hellaswag": {
+      "sha256": "fdd100245fae28e387869527dd0b8af1a0a931f7cf364abaf6f3138de7f0d27b",
+      "split": "validation",
+      "available_records": 10042,
+      "evaluated_records": 10042,
+      "router_tokens_min": 13,
+      "router_tokens_max": 106,
+      "truncated_context_tokens": 0
+    },
+    "winogrande": {
+      "sha256": "992af8404b202ada4356228ed2ebb27f10495126efdf78678ced33e94e82b830",
+      "split": "validation",
+      "available_records": 1267,
+      "evaluated_records": 1267,
+      "router_tokens_min": 2,
+      "router_tokens_max": 34,
+      "truncated_context_tokens": 0
+    },
+    "wikitext_conditional": {
+      "sha256": "2b8a3efac7b468cbe6432edba5f55c21e435d93873acc6727431f08d5ed328ea",
+      "split": "test",
+      "text_lines": 4358,
+      "evaluated_windows": 746,
+      "evaluated_documents": 61,
+      "scored_tokens": 276824
+    }
+  },
+  "private_input_sha256": "d61ff817887545ac9b72e78e93b7c4a03bb24500cf13a0beba9f4bb017820347",
+  "tokenizer": "OPT local slow tokenizer; explicit add_special_tokens=True for MC and BOS for each Wiki window",
+  "wiki": "Article boundaries at single-equals headings; within each article local512token windows with128context+up to384targets, stride384; first127 article text tokens unscored, scored targets do not overlap; token-weighted conditional PPL.",
+  "mc": "Zero-shot task templates from pinned harness; context trailing whitespace moves to target, boundary tokenization asserted; all target tokens scored; left context truncated only if total exceeds2049.",
+  "normalization": "PIQA/HellaSwag acc_norm divides option loglikelihood by choice CHARACTER length as pinned harness; WinoGrande reports acc only."
+}

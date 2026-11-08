@@ -1,0 +1,39 @@
+{
+  "status": "passed",
+  "multiple_choice_records": {
+    "piqa": 1838,
+    "hellaswag": 10042,
+    "winogrande": 1267
+  },
+  "router_observation_tokens": {
+    "piqa": {
+      "min": 7,
+      "max": 33
+    },
+    "hellaswag": {
+      "min": 13,
+      "max": 106
+    },
+    "winogrande": {
+      "min": 2,
+      "max": 34
+    }
+  },
+  "truncated_context_tokens": {
+    "piqa": 0,
+    "hellaswag": 0,
+    "winogrande": 0
+  },
+  "wiki_articles": 63,
+  "wiki_windows": 746,
+  "wiki_scored_tokens": 276824,
+  "checks": [
+    "all task templates vs pinned upstream helper functions",
+    "all option token boundaries and explicit BOS",
+    "character normalization lengths",
+    "routing invariant to labels and changed options",
+    "Wino routing invariant to future suffix",
+    "Wiki article boundaries and nonoverlapping exhaustive conditional targets"
+  ],
+  "gpu_used": false
+}

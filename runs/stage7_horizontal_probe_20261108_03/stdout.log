@@ -1,0 +1,23 @@
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 34.69it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 34.24it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 34.31it/s]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 33.93it/s]
+{"event": "horizontal_quality_progress", "time": "2026-11-08T21:15:15.050953+08:00", "rank": 0, "completed_records": 1, "total_records": 4, "task": "piqa", "elapsed_seconds": 1.8579843970073853}
+{"event": "horizontal_quality_progress", "time": "2026-11-08T21:15:15.496158+08:00", "rank": 3, "completed_records": 1, "total_records": 4, "task": "piqa", "elapsed_seconds": 1.7637734199815895}
+{"event": "horizontal_quality_progress", "time": "2026-11-08T21:15:15.764362+08:00", "rank": 2, "completed_records": 1, "total_records": 4, "task": "piqa", "elapsed_seconds": 1.8115430460020434}
+{"event": "horizontal_quality_progress", "time": "2026-11-08T21:15:15.767183+08:00", "rank": 1, "completed_records": 1, "total_records": 4, "task": "piqa", "elapsed_seconds": 1.8666531239869073}
+{"event": "horizontal_quality_progress", "time": "2026-11-08T21:15:23.934475+08:00", "rank": 0, "completed_records": 4, "total_records": 4, "task": "wikitext_conditional", "elapsed_seconds": 10.74208820000058}
+{"event": "horizontal_quality_progress", "time": "2026-11-08T21:15:24.628589+08:00", "rank": 3, "completed_records": 4, "total_records": 4, "task": "wikitext_conditional", "elapsed_seconds": 10.896562377980445}
+{"event": "horizontal_quality_progress", "time": "2026-11-08T21:15:24.792165+08:00", "rank": 1, "completed_records": 4, "total_records": 4, "task": "wikitext_conditional", "elapsed_seconds": 10.892133267974714}
+{"event": "horizontal_quality_progress", "time": "2026-11-08T21:15:24.989141+08:00", "rank": 2, "completed_records": 4, "total_records": 4, "task": "wikitext_conditional", "elapsed_seconds": 11.036682006000774}
+{"event": "horizontal_quality_complete", "time": "2026-11-08T21:15:26.088093+08:00", "elapsed_seconds": 27.29307866099407, "rows": 592}
