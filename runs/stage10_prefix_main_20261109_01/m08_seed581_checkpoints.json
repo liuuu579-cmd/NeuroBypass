@@ -1,0 +1,14 @@
+{
+  "10": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage10_prefix_main_20261109_01/private_m08_seed581_epoch012.pth",
+    "sha256": "7d8a3113b3ffd24ac1fbb1b0ca63b78562ad61395240007311ef1fd569e8006b",
+    "epoch": 12,
+    "selection_continuation_kl": 0.2185477027669549
+  },
+  "12": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage10_prefix_main_20261109_01/private_m08_seed581_epoch012.pth",
+    "sha256": "7d8a3113b3ffd24ac1fbb1b0ca63b78562ad61395240007311ef1fd569e8006b",
+    "epoch": 12,
+    "selection_continuation_kl": 0.3567132423631847
+  }
+}

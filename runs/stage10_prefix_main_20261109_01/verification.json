@@ -1,0 +1,38 @@
+{
+  "status": "passed",
+  "probe": false,
+  "preserved_files": 1023,
+  "verified_label_states": 81572,
+  "verified_candidate_scores": 1906790,
+  "reused_identical_document_states": 13088,
+  "states_by_m": [
+    {
+      "m": 2,
+      "expert_records": 900,
+      "training_branches": 800,
+      "expert_states": 19800,
+      "branch_states": 11924
+    },
+    {
+      "m": 4,
+      "expert_records": 900,
+      "training_branches": 800,
+      "expert_states": 18000,
+      "branch_states": 10324
+    },
+    {
+      "m": 8,
+      "expert_records": 900,
+      "training_branches": 800,
+      "expert_states": 14400,
+      "branch_states": 7124
+    }
+  ],
+  "verified_training_runs": 9,
+  "candidate_probes": 12,
+  "endpoint_replays": 48,
+  "quality_rows_including_reused_controls": 6200,
+  "cpu_budget": 42,
+  "old_test_used": false,
+  "limits": "Audits recorded search scores and training outputs; not an independent replay of every forward or router update."
+}
