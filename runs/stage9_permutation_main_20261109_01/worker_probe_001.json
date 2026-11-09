@@ -1,0 +1,881 @@
+{
+  "rank": 1,
+  "cpu_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "thread_cpu_ids": {
+    "997185": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997194": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997195": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997196": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997197": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997198": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997199": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997200": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997201": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997202": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997237": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997239": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997241": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997243": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997245": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997247": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997249": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997251": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997253": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997274": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997296": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997297": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997333": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997334": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997335": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997336": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997337": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997338": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997339": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997340": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997341": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997345": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "997357": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  "likelihood_probes": [
+    {
+      "task": "hellaswag",
+      "skips": [],
+      "score": -11.921125829219818,
+      "reference_score": -11.921125829219818,
+      "absolute_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "skips": [],
+      "score": -37.58509439229965,
+      "reference_score": -37.58509439229965,
+      "absolute_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "skips": [],
+      "score": -911.3207706091634,
+      "reference_score": -911.3207706091634,
+      "absolute_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "skips": [],
+      "score": -17.240651071071625,
+      "reference_score": -17.240651071071625,
+      "absolute_error": 0.0,
+      "tolerance": 0.0002
+    }
+  ],
+  "matched_score_replays": [
+    {
+      "task": "hellaswag",
+      "sample": 3,
+      "policy": "pure",
+      "seed": 579,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 3,
+      "policy": "pure",
+      "seed": 580,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 3,
+      "policy": "pure",
+      "seed": 581,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 3,
+      "policy": "hybrid",
+      "seed": 579,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 3,
+      "policy": "hybrid",
+      "seed": 580,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 3,
+      "policy": "hybrid",
+      "seed": 581,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 3,
+      "policy": "pure",
+      "seed": 579,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 3,
+      "policy": "pure",
+      "seed": 580,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 3,
+      "policy": "pure",
+      "seed": 581,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 3,
+      "policy": "hybrid",
+      "seed": 579,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 3,
+      "policy": "hybrid",
+      "seed": 580,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 3,
+      "policy": "hybrid",
+      "seed": 581,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 1,
+      "policy": "pure",
+      "seed": 579,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 1,
+      "policy": "pure",
+      "seed": 580,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 1,
+      "policy": "pure",
+      "seed": 581,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 1,
+      "policy": "hybrid",
+      "seed": 579,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 1,
+      "policy": "hybrid",
+      "seed": 580,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 1,
+      "policy": "hybrid",
+      "seed": 581,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 1,
+      "policy": "pure",
+      "seed": 579,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 1,
+      "policy": "pure",
+      "seed": 580,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 1,
+      "policy": "pure",
+      "seed": 581,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 1,
+      "policy": "hybrid",
+      "seed": 579,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 1,
+      "policy": "hybrid",
+      "seed": 580,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 1,
+      "policy": "hybrid",
+      "seed": 581,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 2,
+      "policy": "pure",
+      "seed": 579,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 2,
+      "policy": "pure",
+      "seed": 580,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 2,
+      "policy": "pure",
+      "seed": 581,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 2,
+      "policy": "hybrid",
+      "seed": 579,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 2,
+      "policy": "hybrid",
+      "seed": 580,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 2,
+      "policy": "hybrid",
+      "seed": 581,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 2,
+      "policy": "pure",
+      "seed": 579,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 2,
+      "policy": "pure",
+      "seed": 580,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 2,
+      "policy": "pure",
+      "seed": 581,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 2,
+      "policy": "hybrid",
+      "seed": 579,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 2,
+      "policy": "hybrid",
+      "seed": 580,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 2,
+      "policy": "hybrid",
+      "seed": 581,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 1,
+      "policy": "pure",
+      "seed": 579,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 1,
+      "policy": "pure",
+      "seed": 580,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 1,
+      "policy": "pure",
+      "seed": 581,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 1,
+      "policy": "hybrid",
+      "seed": 579,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 1,
+      "policy": "hybrid",
+      "seed": 580,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 1,
+      "policy": "hybrid",
+      "seed": 581,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 1,
+      "policy": "pure",
+      "seed": 579,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 1,
+      "policy": "pure",
+      "seed": 580,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 1,
+      "policy": "pure",
+      "seed": 581,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 1,
+      "policy": "hybrid",
+      "seed": 579,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 1,
+      "policy": "hybrid",
+      "seed": 580,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 1,
+      "policy": "hybrid",
+      "seed": 581,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    }
+  ]
+}

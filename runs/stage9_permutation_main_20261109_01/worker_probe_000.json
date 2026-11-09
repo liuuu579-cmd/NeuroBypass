@@ -1,0 +1,881 @@
+{
+  "rank": 0,
+  "cpu_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "thread_cpu_ids": {
+    "997184": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997212": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997213": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997214": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997215": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997216": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997217": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997218": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997219": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997220": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997263": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997264": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997265": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997266": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997267": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997268": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997269": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997270": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997271": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997275": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997306": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997307": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997308": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997309": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997310": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997311": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997312": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997313": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997314": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997342": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997352": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997353": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "997354": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "likelihood_probes": [
+    {
+      "task": "hellaswag",
+      "skips": [],
+      "score": -41.22734720061999,
+      "reference_score": -41.22734720061999,
+      "absolute_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "skips": [],
+      "score": -94.93752347794361,
+      "reference_score": -94.93752347794361,
+      "absolute_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "skips": [],
+      "score": -929.345980838505,
+      "reference_score": -929.345980838505,
+      "absolute_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "skips": [],
+      "score": -16.739083141088486,
+      "reference_score": -16.739083141088486,
+      "absolute_error": 0.0,
+      "tolerance": 0.0002
+    }
+  ],
+  "matched_score_replays": [
+    {
+      "task": "hellaswag",
+      "sample": 2,
+      "policy": "pure",
+      "seed": 579,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 2,
+      "policy": "pure",
+      "seed": 580,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 2,
+      "policy": "pure",
+      "seed": 581,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 2,
+      "policy": "hybrid",
+      "seed": 579,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 2,
+      "policy": "hybrid",
+      "seed": 580,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 2,
+      "policy": "hybrid",
+      "seed": 581,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 2,
+      "policy": "pure",
+      "seed": 579,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 2,
+      "policy": "pure",
+      "seed": 580,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 2,
+      "policy": "pure",
+      "seed": 581,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 2,
+      "policy": "hybrid",
+      "seed": 579,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 2,
+      "policy": "hybrid",
+      "seed": 580,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 2,
+      "policy": "hybrid",
+      "seed": 581,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 0,
+      "policy": "pure",
+      "seed": 579,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 0,
+      "policy": "pure",
+      "seed": 580,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 0,
+      "policy": "pure",
+      "seed": 581,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 0,
+      "policy": "hybrid",
+      "seed": 579,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 0,
+      "policy": "hybrid",
+      "seed": 580,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 0,
+      "policy": "hybrid",
+      "seed": 581,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 0,
+      "policy": "pure",
+      "seed": 579,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 0,
+      "policy": "pure",
+      "seed": 580,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 0,
+      "policy": "pure",
+      "seed": 581,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 0,
+      "policy": "hybrid",
+      "seed": 579,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 0,
+      "policy": "hybrid",
+      "seed": 580,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 0,
+      "policy": "hybrid",
+      "seed": 581,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 1,
+      "policy": "pure",
+      "seed": 579,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 1,
+      "policy": "pure",
+      "seed": 580,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 1,
+      "policy": "pure",
+      "seed": 581,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 1,
+      "policy": "hybrid",
+      "seed": 579,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 1,
+      "policy": "hybrid",
+      "seed": 580,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 1,
+      "policy": "hybrid",
+      "seed": 581,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 1,
+      "policy": "pure",
+      "seed": 579,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 1,
+      "policy": "pure",
+      "seed": 580,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 1,
+      "policy": "pure",
+      "seed": 581,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 1,
+      "policy": "hybrid",
+      "seed": 579,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 1,
+      "policy": "hybrid",
+      "seed": 580,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 1,
+      "policy": "hybrid",
+      "seed": 581,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 0,
+      "policy": "pure",
+      "seed": 579,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 0,
+      "policy": "pure",
+      "seed": 580,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 0,
+      "policy": "pure",
+      "seed": 581,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 0,
+      "policy": "hybrid",
+      "seed": 579,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 0,
+      "policy": "hybrid",
+      "seed": 580,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 0,
+      "policy": "hybrid",
+      "seed": 581,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 0,
+      "policy": "pure",
+      "seed": 579,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 0,
+      "policy": "pure",
+      "seed": 580,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 0,
+      "policy": "pure",
+      "seed": 581,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 0,
+      "policy": "hybrid",
+      "seed": 579,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 0,
+      "policy": "hybrid",
+      "seed": 580,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 0,
+      "policy": "hybrid",
+      "seed": 581,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    }
+  ]
+}

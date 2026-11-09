@@ -1,0 +1,881 @@
+{
+  "rank": 2,
+  "cpu_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "thread_cpu_ids": {
+    "997186": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997221": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997222": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997223": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997224": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997225": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997226": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997227": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997228": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997229": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997236": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997238": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997240": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997242": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997244": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997246": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997248": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997250": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997252": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997273": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997288": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997289": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997315": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997316": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997317": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997318": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997319": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997320": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997321": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997322": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997323": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997344": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "997356": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ]
+  },
+  "likelihood_probes": [
+    {
+      "task": "hellaswag",
+      "skips": [],
+      "score": -41.33956991881132,
+      "reference_score": -41.33956991881132,
+      "absolute_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "skips": [],
+      "score": -28.47356416657567,
+      "reference_score": -28.47356416657567,
+      "absolute_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "skips": [],
+      "score": -1042.0800585595498,
+      "reference_score": -1042.0800585595498,
+      "absolute_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "skips": [],
+      "score": -18.340877056121826,
+      "reference_score": -18.340877056121826,
+      "absolute_error": 0.0,
+      "tolerance": 0.0002
+    }
+  ],
+  "matched_score_replays": [
+    {
+      "task": "hellaswag",
+      "sample": 0,
+      "policy": "pure",
+      "seed": 579,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 0,
+      "policy": "pure",
+      "seed": 580,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 0,
+      "policy": "pure",
+      "seed": 581,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 0,
+      "policy": "hybrid",
+      "seed": 579,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 0,
+      "policy": "hybrid",
+      "seed": 580,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 0,
+      "policy": "hybrid",
+      "seed": 581,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 0,
+      "policy": "pure",
+      "seed": 579,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 0,
+      "policy": "pure",
+      "seed": 580,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 0,
+      "policy": "pure",
+      "seed": 581,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 0,
+      "policy": "hybrid",
+      "seed": 579,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 0,
+      "policy": "hybrid",
+      "seed": 580,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "hellaswag",
+      "sample": 0,
+      "policy": "hybrid",
+      "seed": 581,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 2,
+      "policy": "pure",
+      "seed": 579,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 2,
+      "policy": "pure",
+      "seed": 580,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 2,
+      "policy": "pure",
+      "seed": 581,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 2,
+      "policy": "hybrid",
+      "seed": 579,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 2,
+      "policy": "hybrid",
+      "seed": 580,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 2,
+      "policy": "hybrid",
+      "seed": 581,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 2,
+      "policy": "pure",
+      "seed": 579,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 2,
+      "policy": "pure",
+      "seed": 580,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 2,
+      "policy": "pure",
+      "seed": 581,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 2,
+      "policy": "hybrid",
+      "seed": 579,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 2,
+      "policy": "hybrid",
+      "seed": 580,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "piqa",
+      "sample": 2,
+      "policy": "hybrid",
+      "seed": 581,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 3,
+      "policy": "pure",
+      "seed": 579,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 3,
+      "policy": "pure",
+      "seed": 580,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 3,
+      "policy": "pure",
+      "seed": 581,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 3,
+      "policy": "hybrid",
+      "seed": 579,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 3,
+      "policy": "hybrid",
+      "seed": 580,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 3,
+      "policy": "hybrid",
+      "seed": 581,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 3,
+      "policy": "pure",
+      "seed": 579,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 3,
+      "policy": "pure",
+      "seed": 580,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 3,
+      "policy": "pure",
+      "seed": 581,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 3,
+      "policy": "hybrid",
+      "seed": 579,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 3,
+      "policy": "hybrid",
+      "seed": 580,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "wikitext_conditional",
+      "sample": 3,
+      "policy": "hybrid",
+      "seed": 581,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 2,
+      "policy": "pure",
+      "seed": 579,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 2,
+      "policy": "pure",
+      "seed": 580,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 2,
+      "policy": "pure",
+      "seed": 581,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 2,
+      "policy": "hybrid",
+      "seed": 579,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 2,
+      "policy": "hybrid",
+      "seed": 580,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 2,
+      "policy": "hybrid",
+      "seed": 581,
+      "k": 10,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 2,
+      "policy": "pure",
+      "seed": 579,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 2,
+      "policy": "pure",
+      "seed": 580,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 2,
+      "policy": "pure",
+      "seed": 581,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 2,
+      "policy": "hybrid",
+      "seed": 579,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 2,
+      "policy": "hybrid",
+      "seed": 580,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    },
+    {
+      "task": "winogrande",
+      "sample": 2,
+      "policy": "hybrid",
+      "seed": 581,
+      "k": 12,
+      "max_score_error": 0.0,
+      "tolerance": 0.0002
+    }
+  ]
+}

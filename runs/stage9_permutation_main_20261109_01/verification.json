@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "probe": false,
+  "verified_rows": 500148,
+  "exact_mask_multisets_preserved": true,
+  "wiki_cross_article_donors": true,
+  "counterfactual_assignment_test": true,
+  "matched_score_replays": 192,
+  "likelihood_probes": 16,
+  "preserved_files": 938,
+  "cpu_budget": 42
+}
