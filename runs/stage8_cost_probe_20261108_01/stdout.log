@@ -1,0 +1,19 @@
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+/home/liushenyu/anaconda3/envs/traindata/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (6.0.0.post1)/charset_normalizer (3.4.2) doesn't match a supported version!
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 34.16it/s]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 33.93it/s]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 34.11it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00, 33.67it/s]
+{"event": "cost_round_complete", "time": "2026-11-09T10:36:42.808677+08:00", "rank": 3, "round": 1, "rounds": 1, "length": 512}
+{"event": "cost_round_complete", "time": "2026-11-09T10:36:44.331958+08:00", "rank": 0, "round": 1, "rounds": 1, "length": 128}
+{"event": "cost_round_complete", "time": "2026-11-09T10:36:45.000221+08:00", "rank": 1, "round": 1, "rounds": 1, "length": 512}
+{"event": "cost_round_complete", "time": "2026-11-09T10:36:47.062119+08:00", "rank": 2, "round": 1, "rounds": 1, "length": 1024}
+{"event": "cost_measurement_complete", "time": "2026-11-09T10:36:48.364966+08:00", "elapsed_seconds": 67.71992328198394}

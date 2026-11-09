@@ -1,0 +1,7 @@
+{
+  "state": "completed",
+  "elapsed_seconds": 67.71985714198672,
+  "expected_rows": 60,
+  "policies": 15,
+  "probe": true
+}
