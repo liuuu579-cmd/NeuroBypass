@@ -1,0 +1,102 @@
+{
+  "machine_cpu_count": 64,
+  "machine_gpu_count": 6,
+  "gpu_indices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "gpu_uuids": [
+    "GPU-38c83f4f-d558-ec8d-327c-444fffe1352c",
+    "GPU-85476609-c27d-a916-aace-be120230c5dd",
+    "GPU-87c74231-f0a4-917d-e639-161adb00b528",
+    "GPU-ba7178a1-5589-6027-eb47-28727d296893"
+  ],
+  "cpu_count": 42,
+  "cpu_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41
+  ],
+  "threads_per_worker": 10,
+  "gpu_snapshot": [
+    {
+      "index": 0,
+      "uuid": "GPU-38c83f4f-d558-ec8d-327c-444fffe1352c",
+      "name": "NVIDIA RTX 6000 Ada Generation",
+      "memory_used_mib": 2,
+      "utilization_percent": 0
+    },
+    {
+      "index": 1,
+      "uuid": "GPU-85476609-c27d-a916-aace-be120230c5dd",
+      "name": "NVIDIA RTX 6000 Ada Generation",
+      "memory_used_mib": 2,
+      "utilization_percent": 0
+    },
+    {
+      "index": 2,
+      "uuid": "GPU-87c74231-f0a4-917d-e639-161adb00b528",
+      "name": "NVIDIA RTX 6000 Ada Generation",
+      "memory_used_mib": 2,
+      "utilization_percent": 0
+    },
+    {
+      "index": 3,
+      "uuid": "GPU-ba7178a1-5589-6027-eb47-28727d296893",
+      "name": "NVIDIA RTX 6000 Ada Generation",
+      "memory_used_mib": 2,
+      "utilization_percent": 0
+    }
+  ],
+  "allocation_id": "08700ab2628040f28402e95321a6c949",
+  "command": [
+    "/home/liushenyu/anaconda3/envs/traindata/bin/python",
+    "-B",
+    "-u",
+    "/home/liushenyu/test/NeuroBypass/tools/measure_prompt_cost_four_gpu_v1.py"
+  ],
+  "working_directory": "/home/liushenyu/test/NeuroBypass",
+  "created_at": "2026-11-09T10:45:47.222349+08:00",
+  "registry_scope": "same user, same host, jobs using this launcher"
+}

@@ -1,0 +1,337 @@
+{
+  "output": "/home/liushenyu/test/NeuroBypass/runs/stage8_cost_main_20261108_01",
+  "private_inputs": "/home/liushenyu/test/NeuroBypass/runs/stage8_cost_main_20261108_01/private_cost_inputs.npy",
+  "input_sha256": "c12676cead3289beb3608ddd2351918f591e48dc4fc1189b81fa0f7edf8638e8",
+  "source_input_sha256": "52009bdab7fe650ff4bdaf46f80a1b740da0af050c2426f4f0c8f9f6e78c9393",
+  "input_construction": "25 nonoverlapping composed1024token blocks from frozen training records only; per-request BOS explicitly set; timing content is not a quality dataset.",
+  "policies": [
+    {
+      "name": "full",
+      "kind": "static",
+      "k": 0,
+      "skips": [],
+      "seed": null,
+      "deployment": "bypass"
+    },
+    {
+      "name": "static_joint_kl",
+      "kind": "static",
+      "k": 10,
+      "skips": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7,
+        24,
+        37,
+        15,
+        29
+      ],
+      "seed": null,
+      "deployment": "bypass"
+    },
+    {
+      "name": "sleb_nll_opt",
+      "kind": "static",
+      "k": 10,
+      "skips": [
+        5,
+        11,
+        3,
+        8,
+        18,
+        14,
+        27,
+        37,
+        24,
+        32
+      ],
+      "seed": null,
+      "deployment": "bypass"
+    },
+    {
+      "name": "hybrid",
+      "kind": "router",
+      "seed": 579,
+      "k": 10,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed579_epoch012.pth",
+        "sha256": "ea97363069c27596b1a63c24fdc766c3963dcf100e76d76029eeda3eaa36eec6",
+        "epoch": 12,
+        "selection_continuation_kl": 0.22504204977303743
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ],
+      "deployment": "bypass"
+    },
+    {
+      "name": "hybrid",
+      "kind": "router",
+      "seed": 580,
+      "k": 10,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed580_epoch008.pth",
+        "sha256": "574da1cfaa42d88bd09c29909d7ea23c5cdf5e6de26919dcb8e7cc0e5fbe34c2",
+        "epoch": 8,
+        "selection_continuation_kl": 0.2263415683992207
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ],
+      "deployment": "bypass"
+    },
+    {
+      "name": "hybrid",
+      "kind": "router",
+      "seed": 581,
+      "k": 10,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed581_epoch024.pth",
+        "sha256": "6b3121a34789a256b725fb59b6033e8fe4eeb930a2af1a22a84ea32df4e06484",
+        "epoch": 24,
+        "selection_continuation_kl": 0.22309625148773193
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ],
+      "deployment": "bypass"
+    },
+    {
+      "name": "static_joint_kl",
+      "kind": "static",
+      "k": 12,
+      "skips": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7,
+        24,
+        37,
+        15,
+        29,
+        22,
+        34
+      ],
+      "seed": null,
+      "deployment": "bypass"
+    },
+    {
+      "name": "sleb_nll_opt",
+      "kind": "static",
+      "k": 12,
+      "skips": [
+        5,
+        11,
+        3,
+        8,
+        18,
+        14,
+        27,
+        37,
+        24,
+        32,
+        10,
+        25
+      ],
+      "seed": null,
+      "deployment": "bypass"
+    },
+    {
+      "name": "hybrid",
+      "kind": "router",
+      "seed": 579,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed579_epoch012.pth",
+        "sha256": "ea97363069c27596b1a63c24fdc766c3963dcf100e76d76029eeda3eaa36eec6",
+        "epoch": 12,
+        "selection_continuation_kl": 0.3742779162712395
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ],
+      "deployment": "bypass"
+    },
+    {
+      "name": "hybrid",
+      "kind": "router",
+      "seed": 580,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed580_epoch008.pth",
+        "sha256": "574da1cfaa42d88bd09c29909d7ea23c5cdf5e6de26919dcb8e7cc0e5fbe34c2",
+        "epoch": 8,
+        "selection_continuation_kl": 0.3573951153084636
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ],
+      "deployment": "bypass"
+    },
+    {
+      "name": "hybrid",
+      "kind": "router",
+      "seed": 581,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed581_epoch020.pth",
+        "sha256": "b4ad06ab1e7464bdf119a9b3ad798cf700ae0f2ca9422b19c60035ad10600148",
+        "epoch": 20,
+        "selection_continuation_kl": 0.36302921269088984
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ],
+      "deployment": "bypass"
+    },
+    {
+      "name": "static_joint_kl",
+      "kind": "static",
+      "k": 10,
+      "skips": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7,
+        24,
+        37,
+        15,
+        29
+      ],
+      "seed": null,
+      "deployment": "physical"
+    },
+    {
+      "name": "sleb_nll_opt",
+      "kind": "static",
+      "k": 10,
+      "skips": [
+        5,
+        11,
+        3,
+        8,
+        18,
+        14,
+        27,
+        37,
+        24,
+        32
+      ],
+      "seed": null,
+      "deployment": "physical"
+    },
+    {
+      "name": "static_joint_kl",
+      "kind": "static",
+      "k": 12,
+      "skips": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7,
+        24,
+        37,
+        15,
+        29,
+        22,
+        34
+      ],
+      "seed": null,
+      "deployment": "physical"
+    },
+    {
+      "name": "sleb_nll_opt",
+      "kind": "static",
+      "k": 12,
+      "skips": [
+        5,
+        11,
+        3,
+        8,
+        18,
+        14,
+        27,
+        37,
+        24,
+        32,
+        10,
+        25
+      ],
+      "seed": null,
+      "deployment": "physical"
+    }
+  ],
+  "gpu_indices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "probe": false,
+  "warmups": 5,
+  "repeats": 20,
+  "new_tokens": 128,
+  "source_sha256": {
+    "measure_prompt_cost_four_gpu_v1.py": "1d3c840da736a481cb15b0259d404117c824d777a53af5fb3b8166d4ee042d9c",
+    "prompt_cost_core_v1.py": "443278395bf0899b5fafe9c4fe0b09a3b96799a8a15d94dff7791357a826b543",
+    "prompt_fixed_core_v1.py": "b733338d20f9f52599b7c7c7ca76c6e0450dfc25ef38c50d7c51fbb689287f5e",
+    "prompt_depth_core_v1.py": "6cd8be69951bcf7173a677e1417bfc0e6dd35707b48801e4ff6d28b8661ba304"
+  },
+  "quality_source": "runs/stage7_horizontal_main_20261108_02/summary.json",
+  "lengths_by_rank": [
+    128,
+    512,
+    1024,
+    512
+  ],
+  "precision": "FP16 SDPA batch1",
+  "timing": "Within-card round-interleaved randomized policies; same prompt per round; CUDA sync at start/router/prefill/end; EOS ignored; dynamic includes router; first token belongs to prefill; decode throughput uses127later tokens.",
+  "memory": "PyTorch peak allocated/reserved after per-request allocator cleanup; actual KV tensor bytes, model CUDA parameter bytes, router CUDA parameter bytes. CUDA context and CPU shadow copies excluded; not whole-process NVML peak.",
+  "physical": "Remove blocks from runtime decoder and CUDA; renumber cache indices; CPU shadow only permits next policy restoration. Layout/weight transfer before timing is excluded as deployment setup.",
+  "cache": "Each request starts fresh; path fixed throughout. Changing populated cache path rejected. New turn must prefill entire accumulated context; prompt-length timings include full rebuild but do not separately time old-cache disposal.",
+  "limitations": [
+    "No multi-request dynamic batching or serving scheduler benchmark.",
+    "Timing uses normal OPT CausalLM full-sequence prefill head.",
+    "K10/12 selected after quality review; K16 remains quality stress point.",
+    "Rank3 repeats512token setting; speed ratios computed within each physical card, not across cards."
+  ]
+}

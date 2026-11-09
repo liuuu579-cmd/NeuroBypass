@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "probe": false,
+  "verified_trials": 1500,
+  "verified_cache_probes": 44,
+  "preserved_files": 892,
+  "cpu_budget": 42,
+  "static_physical_vs_bypass_generated_hashes_identical": true
+}
