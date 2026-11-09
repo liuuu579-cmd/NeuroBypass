@@ -1,0 +1,41 @@
+{
+  "utc": "2026-11-09T08:11:54.322026+00:00",
+  "status": "CPU_preflight_passed_GPU_probe_pending",
+  "preserved_stage9_snapshot_files": 938,
+  "new_program_sha256": {
+    "tools/finalize_prefix_ablation_v1.py": "9f905f5cd63c564bddd02e6498dd78d76c951aa08cd9df82ab5aa9d852378050",
+    "tools/prefix_ablation_core_v1.py": "91f83adc0e0661f87009eec2c6ff135eac14be1c89b97aae0629e3fa8e9fd40a",
+    "tools/run_prefix_ablation_pipeline_v1.py": "bd09a9b535a7c7b9e72e6e93c0085db7b813b8e7dbca5b4993b534f9bd8ef208",
+    "tools/run_prefix_ablation_pipeline_v2.py": "aa1a0d187a03c977e6f77c496721aefdf11327a6eee21a88575e013cff56bd13",
+    "tools/test_prefix_ablation_v1.py": "a9908d6bda49b863145d62b4a021214d824c6062a4d24c48e0b13b45cebb867d",
+    "tools/train_prefix_ablation_four_gpu_v1.py": "70f711f0f239a5c676b8f0f8d058a0b58b4b4e91cf9b0c2ecd37ac61808ea968",
+    "tools/verify_prefix_ablation_v1.py": "fbec914fc8faa884a818099f3424fc2e09cdee37d341aabfc26feacd22dcf24a"
+  },
+  "unit_tests": {
+    "count": 4,
+    "status": "passed",
+    "covers": [
+      "fixed-prefix protected forks",
+      "same-document entire-state candidate cache",
+      "exact K with protected0/1",
+      "padding loss and gradient isolation"
+    ]
+  },
+  "CPU_synthetic_audit_fixture": {
+    "status": "passed",
+    "label_states": 612,
+    "candidate_scores": 14504,
+    "quality_records_including_controls": 88,
+    "is_model_result": false
+  },
+  "CPU_queue_mocks": {
+    "positive_order": "GPU probe,CPU audit,GPU main,CPU report/publication",
+    "failed_predecessor_starts_no_GPU": true,
+    "status": "passed",
+    "is_GPU_probe": false
+  },
+  "existing900_document_candidate_state_cache_consistency": "passed,0 conflicts",
+  "GPU_probe": "Not yet run; must wait for stage9 and pass before main training",
+  "active_queue_program": "tools/run_prefix_ablation_pipeline_v2.py",
+  "inactive_draft_preserved": "tools/run_prefix_ablation_pipeline_v1.py"
+}

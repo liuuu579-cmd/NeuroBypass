@@ -1,0 +1,32 @@
+{
+  "pid": 1028821,
+  "command": [
+    "/home/liushenyu/anaconda3/envs/traindata/bin/python",
+    "-B",
+    "-u",
+    "/home/liushenyu/test/NeuroBypass/tools/run_prefix_ablation_pipeline_v2.py",
+    "--root",
+    "/home/liushenyu/test/NeuroBypass",
+    "--predecessor-run",
+    "/home/liushenyu/test/NeuroBypass/runs/stage9_permutation_main_20261109_01",
+    "--predecessor-pid",
+    "997145",
+    "--probe-run",
+    "/home/liushenyu/test/NeuroBypass/runs/stage10_prefix_probe_20261109_01",
+    "--main-run",
+    "/home/liushenyu/test/NeuroBypass/runs/stage10_prefix_main_20261109_01"
+  ],
+  "log": "/home/liushenyu/test/NeuroBypass/analysis/stage10_prefix_pipeline_20261109.log",
+  "predecessor_pid": 997145,
+  "utc": "2026-11-09T08:13:05.158774+00:00",
+  "state": "queued_waiting_for_stage9",
+  "GPU_budget": 4,
+  "CPU_budget": 42,
+  "sequence": [
+    "stage9 audited completion",
+    "stage10 GPU small probe",
+    "stage10 CPU audit",
+    "stage10 main training",
+    "stage10 CPU audit/report/append-only publication"
+  ]
+}
