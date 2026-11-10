@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "arms": [
+    0,
+    4,
+    6,
+    8
+  ],
+  "documents": 8,
+  "conditional_joint_candidates_complete": true,
+  "no_old_labels_reused": true,
+  "test_documents_used": 0
+}

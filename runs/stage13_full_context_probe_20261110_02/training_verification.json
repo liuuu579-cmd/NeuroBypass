@@ -1,0 +1,79 @@
+{
+  "passed": true,
+  "checkpoints": [
+    {
+      "m": 0,
+      "seed": 579,
+      "k": 10,
+      "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_probe_20261110_02/private_m00_seed579_epoch001.pth",
+      "sha256": "2f71039c74bb8cf3cbce11def062ffe4813c714b7c3eca4c3dd465d43efc360e",
+      "epoch": 1,
+      "selection_continuation_kl": 0.35346492379903793
+    },
+    {
+      "m": 0,
+      "seed": 579,
+      "k": 12,
+      "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_probe_20261110_02/private_m00_seed579_epoch001.pth",
+      "sha256": "2f71039c74bb8cf3cbce11def062ffe4813c714b7c3eca4c3dd465d43efc360e",
+      "epoch": 1,
+      "selection_continuation_kl": 0.6045337915420532
+    },
+    {
+      "m": 4,
+      "seed": 579,
+      "k": 10,
+      "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_probe_20261110_02/private_m04_seed579_epoch001.pth",
+      "sha256": "bd672d9c4c617e964ee19f2f25e549a1e22e97c94d4657cd05dd1289d55dd3db",
+      "epoch": 1,
+      "selection_continuation_kl": 0.29380060359835625
+    },
+    {
+      "m": 4,
+      "seed": 579,
+      "k": 12,
+      "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_probe_20261110_02/private_m04_seed579_epoch001.pth",
+      "sha256": "bd672d9c4c617e964ee19f2f25e549a1e22e97c94d4657cd05dd1289d55dd3db",
+      "epoch": 1,
+      "selection_continuation_kl": 0.47913414239883423
+    },
+    {
+      "m": 6,
+      "seed": 579,
+      "k": 10,
+      "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_probe_20261110_02/private_m06_seed579_epoch001.pth",
+      "sha256": "1adbad83c4541d14f9698c5e0840636e33d901146fdb4682f25385a87bae6eaa",
+      "epoch": 1,
+      "selection_continuation_kl": 0.29821061342954636
+    },
+    {
+      "m": 6,
+      "seed": 579,
+      "k": 12,
+      "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_probe_20261110_02/private_m06_seed579_epoch001.pth",
+      "sha256": "1adbad83c4541d14f9698c5e0840636e33d901146fdb4682f25385a87bae6eaa",
+      "epoch": 1,
+      "selection_continuation_kl": 0.47851987928152084
+    },
+    {
+      "m": 8,
+      "seed": 579,
+      "k": 10,
+      "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_probe_20261110_02/private_m08_seed579_epoch001.pth",
+      "sha256": "d322aa146958dcc142a42b3f21db14f2ce4ce88a9298df6687de7b3087f2d621",
+      "epoch": 1,
+      "selection_continuation_kl": 0.2596290409564972
+    },
+    {
+      "m": 8,
+      "seed": 579,
+      "k": 12,
+      "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_probe_20261110_02/private_m08_seed579_epoch001.pth",
+      "sha256": "d322aa146958dcc142a42b3f21db14f2ce4ce88a9298df6687de7b3087f2d621",
+      "epoch": 1,
+      "selection_continuation_kl": 0.4495585709810257
+    }
+  ],
+  "test_documents_used": 0,
+  "elapsed_seconds": 427.4750770200044
+}

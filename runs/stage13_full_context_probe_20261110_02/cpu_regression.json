@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "observed_tokens": 513,
+  "suffix_after128_reaches_encoder": true,
+  "target_changes_leave_observation_unchanged": true,
+  "padding_max_abs_error": 5.960464477539063e-08,
+  "legacy_unpadded_encoder_max_abs_error": 0.0,
+  "left_truncation_retains_latest_token": true,
+  "context_overflow_rejected": true,
+  "fixed_prefix_and_protected_layers_checked": true
+}

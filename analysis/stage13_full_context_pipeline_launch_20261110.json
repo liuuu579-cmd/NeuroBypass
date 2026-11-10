@@ -1,0 +1,5 @@
+{
+  "pid": 1568128,
+  "log": "/home/liushenyu/test/NeuroBypass/analysis/stage13_full_context_pipeline_20261110.log",
+  "plan": "probe quality -> probe cost -> train -> development -> horizontal -> cost -> audit and publish"
+}
