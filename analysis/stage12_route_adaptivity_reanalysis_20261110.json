@@ -1,0 +1,286 @@
+{
+  "status": "completed",
+  "source_sha256": {
+    "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/protocol.json": "d1cfe6725a6f4bf36af696d3f57c7037f95a330d7e97c9316ad8e39b1d872d65",
+    "/home/liushenyu/test/NeuroBypass/tools/prompt_cost_core_v1.py": "443278395bf0899b5fafe9c4fe0b09a3b96799a8a15d94dff7791357a826b543",
+    "/home/liushenyu/test/NeuroBypass/runs/stage11_prefix_downstream_main_20261109_01/quality_000.jsonl": "aff591167738b285de4cdb8066f9f28a454360e385dace72541f08e12f168dab",
+    "/home/liushenyu/test/NeuroBypass/runs/stage11_prefix_downstream_main_20261109_01/quality_001.jsonl": "689893b5f0452f9dafac89f885cf072f029d6ee9cbbc4a9d343486ce5e534a26",
+    "/home/liushenyu/test/NeuroBypass/runs/stage11_prefix_downstream_main_20261109_01/quality_002.jsonl": "ddca58d9039555490f07c39e24478c875efb9591836da93effff7f5d08768b5f",
+    "/home/liushenyu/test/NeuroBypass/runs/stage11_prefix_downstream_main_20261109_01/quality_003.jsonl": "3df5c764ab2a777a010324b0629a04d22ce167b8a0f10c3e6f07927b2ec8e741",
+    "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/hybrid_seed579_quality.jsonl": "2e4c272d7bdf3c876fbb61f6dad6c1a5b82dac60cc5da875584ec3d50890842f",
+    "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/hybrid_seed580_quality.jsonl": "4464d6cb47f7fa9c5c0f10a43c2424e02baa0b04a31b2b0b7974453be08fcbb6",
+    "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/hybrid_seed581_quality.jsonl": "62e1c6979805903cbcb3213697f8456c032c0073e3416e3c43aee9f0c34c23b4"
+  },
+  "mask_diversity": [
+    {
+      "task": "hellaswag",
+      "seed": 579,
+      "k": 10,
+      "records": 10042,
+      "unique_masks": 1476,
+      "dominant_mask_fraction": 0.020513841864170483,
+      "mask_entropy_bits": 9.000060229018768,
+      "same_mask_probability_independent_draws": 0.004314383076440432
+    },
+    {
+      "task": "hellaswag",
+      "seed": 579,
+      "k": 12,
+      "records": 10042,
+      "unique_masks": 3831,
+      "dominant_mask_fraction": 0.006671977693686517,
+      "mask_entropy_bits": 11.072019802398843,
+      "same_mask_probability_independent_draws": 0.0009205114658644805
+    },
+    {
+      "task": "hellaswag",
+      "seed": 580,
+      "k": 10,
+      "records": 10042,
+      "unique_masks": 1154,
+      "dominant_mask_fraction": 0.059649472216689904,
+      "mask_entropy_bits": 8.187235835200498,
+      "same_mask_probability_independent_draws": 0.010228559667004635
+    },
+    {
+      "task": "hellaswag",
+      "seed": 580,
+      "k": 12,
+      "records": 10042,
+      "unique_masks": 3080,
+      "dominant_mask_fraction": 0.016132244572794264,
+      "mask_entropy_bits": 10.457188186868402,
+      "same_mask_probability_independent_draws": 0.0017536980015541972
+    },
+    {
+      "task": "hellaswag",
+      "seed": 581,
+      "k": 10,
+      "records": 10042,
+      "unique_masks": 2287,
+      "dominant_mask_fraction": 0.017625970922127067,
+      "mask_entropy_bits": 9.884902588260214,
+      "same_mask_probability_independent_draws": 0.002595254085400569
+    },
+    {
+      "task": "hellaswag",
+      "seed": 581,
+      "k": 12,
+      "records": 10042,
+      "unique_masks": 5044,
+      "dominant_mask_fraction": 0.004879506074487154,
+      "mask_entropy_bits": 11.654496218990499,
+      "same_mask_probability_independent_draws": 0.0005993945127734973
+    },
+    {
+      "task": "piqa",
+      "seed": 579,
+      "k": 10,
+      "records": 1838,
+      "unique_masks": 434,
+      "dominant_mask_fraction": 0.1893362350380849,
+      "mask_entropy_bits": 6.743370491579441,
+      "same_mask_probability_independent_draws": 0.0452471757516627
+    },
+    {
+      "task": "piqa",
+      "seed": 579,
+      "k": 12,
+      "records": 1838,
+      "unique_masks": 871,
+      "dominant_mask_fraction": 0.026115342763873776,
+      "mask_entropy_bits": 8.966799105715102,
+      "same_mask_probability_independent_draws": 0.004316443690864247
+    },
+    {
+      "task": "piqa",
+      "seed": 580,
+      "k": 10,
+      "records": 1838,
+      "unique_masks": 481,
+      "dominant_mask_fraction": 0.0897714907508161,
+      "mask_entropy_bits": 7.494836450719386,
+      "same_mask_probability_independent_draws": 0.017361682578286235
+    },
+    {
+      "task": "piqa",
+      "seed": 580,
+      "k": 12,
+      "records": 1838,
+      "unique_masks": 989,
+      "dominant_mask_fraction": 0.019042437431991296,
+      "mask_entropy_bits": 9.35329502063018,
+      "same_mask_probability_independent_draws": 0.0028233603019793716
+    },
+    {
+      "task": "piqa",
+      "seed": 581,
+      "k": 10,
+      "records": 1838,
+      "unique_masks": 789,
+      "dominant_mask_fraction": 0.023394994559303592,
+      "mask_entropy_bits": 8.77903696430937,
+      "same_mask_probability_independent_draws": 0.004665737584378157
+    },
+    {
+      "task": "piqa",
+      "seed": 581,
+      "k": 12,
+      "records": 1838,
+      "unique_masks": 1285,
+      "dominant_mask_fraction": 0.013057671381936888,
+      "mask_entropy_bits": 9.914142718459704,
+      "same_mask_probability_independent_draws": 0.0018429693059471134
+    },
+    {
+      "task": "wikitext_conditional",
+      "seed": 579,
+      "k": 10,
+      "records": 746,
+      "unique_masks": 231,
+      "dominant_mask_fraction": 0.0777479892761394,
+      "mask_entropy_bits": 6.864639401481478,
+      "same_mask_probability_independent_draws": 0.017332834994860883
+    },
+    {
+      "task": "wikitext_conditional",
+      "seed": 579,
+      "k": 12,
+      "records": 746,
+      "unique_masks": 360,
+      "dominant_mask_fraction": 0.03753351206434316,
+      "mask_entropy_bits": 7.854968862780959,
+      "same_mask_probability_independent_draws": 0.007773361412789569
+    },
+    {
+      "task": "wikitext_conditional",
+      "seed": 580,
+      "k": 10,
+      "records": 746,
+      "unique_masks": 133,
+      "dominant_mask_fraction": 0.0938337801608579,
+      "mask_entropy_bits": 5.856415539101829,
+      "same_mask_probability_independent_draws": 0.03074125451918723
+    },
+    {
+      "task": "wikitext_conditional",
+      "seed": 580,
+      "k": 12,
+      "records": 746,
+      "unique_masks": 311,
+      "dominant_mask_fraction": 0.020107238605898123,
+      "mask_entropy_bits": 7.679098685616806,
+      "same_mask_probability_independent_draws": 0.007191167908919061
+    },
+    {
+      "task": "wikitext_conditional",
+      "seed": 581,
+      "k": 10,
+      "records": 746,
+      "unique_masks": 306,
+      "dominant_mask_fraction": 0.036193029490616625,
+      "mask_entropy_bits": 7.5134701551258445,
+      "same_mask_probability_independent_draws": 0.009785882166909846
+    },
+    {
+      "task": "wikitext_conditional",
+      "seed": 581,
+      "k": 12,
+      "records": 746,
+      "unique_masks": 426,
+      "dominant_mask_fraction": 0.03485254691689008,
+      "mask_entropy_bits": 8.249433622535346,
+      "same_mask_probability_independent_draws": 0.005415837100820102
+    },
+    {
+      "task": "winogrande",
+      "seed": 579,
+      "k": 10,
+      "records": 1267,
+      "unique_masks": 451,
+      "dominant_mask_fraction": 0.035516969218626675,
+      "mask_entropy_bits": 7.956502053251762,
+      "same_mask_probability_independent_draws": 0.008138721438943394
+    },
+    {
+      "task": "winogrande",
+      "seed": 579,
+      "k": 12,
+      "records": 1267,
+      "unique_masks": 709,
+      "dominant_mask_fraction": 0.022099447513812154,
+      "mask_entropy_bits": 9.042089258759747,
+      "same_mask_probability_independent_draws": 0.003109097489610905
+    },
+    {
+      "task": "winogrande",
+      "seed": 580,
+      "k": 10,
+      "records": 1267,
+      "unique_masks": 437,
+      "dominant_mask_fraction": 0.030781373322809787,
+      "mask_entropy_bits": 7.98760846100611,
+      "same_mask_probability_independent_draws": 0.007520764173927561
+    },
+    {
+      "task": "winogrande",
+      "seed": 580,
+      "k": 12,
+      "records": 1267,
+      "unique_masks": 737,
+      "dominant_mask_fraction": 0.011049723756906077,
+      "mask_entropy_bits": 9.221926748665833,
+      "same_mask_probability_independent_draws": 0.002217046276402567
+    },
+    {
+      "task": "winogrande",
+      "seed": 581,
+      "k": 10,
+      "records": 1267,
+      "unique_masks": 575,
+      "dominant_mask_fraction": 0.01499605367008682,
+      "mask_entropy_bits": 8.695430543937892,
+      "same_mask_probability_independent_draws": 0.00359623718844395
+    },
+    {
+      "task": "winogrande",
+      "seed": 581,
+      "k": 12,
+      "records": 1267,
+      "unique_masks": 826,
+      "dominant_mask_fraction": 0.009471191791633781,
+      "mask_entropy_bits": 9.47551908119817,
+      "same_mask_probability_independent_draws": 0.0017162018801598965
+    }
+  ],
+  "c4_nonselection_development": [
+    {
+      "k": 10,
+      "documents": 68,
+      "matched_kl": 0.24460109177173356,
+      "shuffled_kl": 0.2460544232790377,
+      "shuffled_minus_matched_kl": 0.0014533315073041375,
+      "ci95_low": -0.0068436242859153205,
+      "ci95_high": 0.010626500461469676,
+      "bootstrap_replicates": 5000,
+      "unit": "document after averaging three training seeds"
+    },
+    {
+      "k": 12,
+      "documents": 68,
+      "matched_kl": 0.3887890709527568,
+      "shuffled_kl": 0.39860639187927344,
+      "shuffled_minus_matched_kl": 0.009817320926516663,
+      "ci95_low": -0.0017668510257613378,
+      "ci95_high": 0.021430146190173475,
+      "bootstrap_replicates": 5000,
+      "unit": "document after averaging three training seeds"
+    }
+  ],
+  "multi_turn_observation": "Current choose() slices ids[:,:128]. Unchanged first128 tokens imply identical deterministic routes for the same checkpoint/K.",
+  "limits": [
+    "Reanalysis of previously used development data, not independent confirmation.",
+    "C4 shuffled routes are the original one-permutation control.",
+    "Mask diversity alone does not establish beneficial input-path matching."
+  ]
+}

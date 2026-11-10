@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "records": 324,
+  "diagnostic_rows": 9720,
+  "conditions": 5,
+  "policies": 6,
+  "cpu_budget": 42,
+  "source_preserved_files": 1227,
+  "likelihood_reference_probes": 40,
+  "limits": [
+    "Frozen development crossover; not an independent final test.",
+    "Future-target minimum KL is diagnostic only and is not deployable."
+  ]
+}

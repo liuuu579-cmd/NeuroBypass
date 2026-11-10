@@ -1,0 +1,7778 @@
+[
+  {
+    "task": "c4_development",
+    "sample": 262,
+    "permutation_seed": 1701,
+    "donor_sample": 835,
+    "recipient_document": 262,
+    "donor_document": 835
+  },
+  {
+    "task": "c4_development",
+    "sample": 262,
+    "permutation_seed": 1702,
+    "donor_sample": 939,
+    "recipient_document": 262,
+    "donor_document": 939
+  },
+  {
+    "task": "c4_development",
+    "sample": 262,
+    "permutation_seed": 1703,
+    "donor_sample": 564,
+    "recipient_document": 262,
+    "donor_document": 564
+  },
+  {
+    "task": "c4_development",
+    "sample": 272,
+    "permutation_seed": 1701,
+    "donor_sample": 659,
+    "recipient_document": 272,
+    "donor_document": 659
+  },
+  {
+    "task": "c4_development",
+    "sample": 272,
+    "permutation_seed": 1702,
+    "donor_sample": 377,
+    "recipient_document": 272,
+    "donor_document": 377
+  },
+  {
+    "task": "c4_development",
+    "sample": 272,
+    "permutation_seed": 1703,
+    "donor_sample": 990,
+    "recipient_document": 272,
+    "donor_document": 990
+  },
+  {
+    "task": "c4_development",
+    "sample": 275,
+    "permutation_seed": 1701,
+    "donor_sample": 306,
+    "recipient_document": 275,
+    "donor_document": 306
+  },
+  {
+    "task": "c4_development",
+    "sample": 275,
+    "permutation_seed": 1702,
+    "donor_sample": 382,
+    "recipient_document": 275,
+    "donor_document": 382
+  },
+  {
+    "task": "c4_development",
+    "sample": 275,
+    "permutation_seed": 1703,
+    "donor_sample": 964,
+    "recipient_document": 275,
+    "donor_document": 964
+  },
+  {
+    "task": "c4_development",
+    "sample": 301,
+    "permutation_seed": 1701,
+    "donor_sample": 477,
+    "recipient_document": 301,
+    "donor_document": 477
+  },
+  {
+    "task": "c4_development",
+    "sample": 301,
+    "permutation_seed": 1702,
+    "donor_sample": 903,
+    "recipient_document": 301,
+    "donor_document": 903
+  },
+  {
+    "task": "c4_development",
+    "sample": 301,
+    "permutation_seed": 1703,
+    "donor_sample": 272,
+    "recipient_document": 301,
+    "donor_document": 272
+  },
+  {
+    "task": "c4_development",
+    "sample": 306,
+    "permutation_seed": 1701,
+    "donor_sample": 564,
+    "recipient_document": 306,
+    "donor_document": 564
+  },
+  {
+    "task": "c4_development",
+    "sample": 306,
+    "permutation_seed": 1702,
+    "donor_sample": 531,
+    "recipient_document": 306,
+    "donor_document": 531
+  },
+  {
+    "task": "c4_development",
+    "sample": 306,
+    "permutation_seed": 1703,
+    "donor_sample": 370,
+    "recipient_document": 306,
+    "donor_document": 370
+  },
+  {
+    "task": "c4_development",
+    "sample": 325,
+    "permutation_seed": 1701,
+    "donor_sample": 338,
+    "recipient_document": 325,
+    "donor_document": 338
+  },
+  {
+    "task": "c4_development",
+    "sample": 325,
+    "permutation_seed": 1702,
+    "donor_sample": 272,
+    "recipient_document": 325,
+    "donor_document": 272
+  },
+  {
+    "task": "c4_development",
+    "sample": 325,
+    "permutation_seed": 1703,
+    "donor_sample": 898,
+    "recipient_document": 325,
+    "donor_document": 898
+  },
+  {
+    "task": "c4_development",
+    "sample": 338,
+    "permutation_seed": 1701,
+    "donor_sample": 446,
+    "recipient_document": 338,
+    "donor_document": 446
+  },
+  {
+    "task": "c4_development",
+    "sample": 338,
+    "permutation_seed": 1702,
+    "donor_sample": 898,
+    "recipient_document": 338,
+    "donor_document": 898
+  },
+  {
+    "task": "c4_development",
+    "sample": 338,
+    "permutation_seed": 1703,
+    "donor_sample": 377,
+    "recipient_document": 338,
+    "donor_document": 377
+  },
+  {
+    "task": "c4_development",
+    "sample": 345,
+    "permutation_seed": 1701,
+    "donor_sample": 614,
+    "recipient_document": 345,
+    "donor_document": 614
+  },
+  {
+    "task": "c4_development",
+    "sample": 345,
+    "permutation_seed": 1702,
+    "donor_sample": 461,
+    "recipient_document": 345,
+    "donor_document": 461
+  },
+  {
+    "task": "c4_development",
+    "sample": 345,
+    "permutation_seed": 1703,
+    "donor_sample": 835,
+    "recipient_document": 345,
+    "donor_document": 835
+  },
+  {
+    "task": "c4_development",
+    "sample": 352,
+    "permutation_seed": 1701,
+    "donor_sample": 325,
+    "recipient_document": 352,
+    "donor_document": 325
+  },
+  {
+    "task": "c4_development",
+    "sample": 352,
+    "permutation_seed": 1702,
+    "donor_sample": 262,
+    "recipient_document": 352,
+    "donor_document": 262
+  },
+  {
+    "task": "c4_development",
+    "sample": 352,
+    "permutation_seed": 1703,
+    "donor_sample": 448,
+    "recipient_document": 352,
+    "donor_document": 448
+  },
+  {
+    "task": "c4_development",
+    "sample": 359,
+    "permutation_seed": 1701,
+    "donor_sample": 607,
+    "recipient_document": 359,
+    "donor_document": 607
+  },
+  {
+    "task": "c4_development",
+    "sample": 359,
+    "permutation_seed": 1702,
+    "donor_sample": 374,
+    "recipient_document": 359,
+    "donor_document": 374
+  },
+  {
+    "task": "c4_development",
+    "sample": 359,
+    "permutation_seed": 1703,
+    "donor_sample": 372,
+    "recipient_document": 359,
+    "donor_document": 372
+  },
+  {
+    "task": "c4_development",
+    "sample": 363,
+    "permutation_seed": 1701,
+    "donor_sample": 694,
+    "recipient_document": 363,
+    "donor_document": 694
+  },
+  {
+    "task": "c4_development",
+    "sample": 363,
+    "permutation_seed": 1702,
+    "donor_sample": 698,
+    "recipient_document": 363,
+    "donor_document": 698
+  },
+  {
+    "task": "c4_development",
+    "sample": 363,
+    "permutation_seed": 1703,
+    "donor_sample": 477,
+    "recipient_document": 363,
+    "donor_document": 477
+  },
+  {
+    "task": "c4_development",
+    "sample": 365,
+    "permutation_seed": 1701,
+    "donor_sample": 352,
+    "recipient_document": 365,
+    "donor_document": 352
+  },
+  {
+    "task": "c4_development",
+    "sample": 365,
+    "permutation_seed": 1702,
+    "donor_sample": 369,
+    "recipient_document": 365,
+    "donor_document": 369
+  },
+  {
+    "task": "c4_development",
+    "sample": 365,
+    "permutation_seed": 1703,
+    "donor_sample": 301,
+    "recipient_document": 365,
+    "donor_document": 301
+  },
+  {
+    "task": "c4_development",
+    "sample": 369,
+    "permutation_seed": 1701,
+    "donor_sample": 473,
+    "recipient_document": 369,
+    "donor_document": 473
+  },
+  {
+    "task": "c4_development",
+    "sample": 369,
+    "permutation_seed": 1702,
+    "donor_sample": 795,
+    "recipient_document": 369,
+    "donor_document": 795
+  },
+  {
+    "task": "c4_development",
+    "sample": 369,
+    "permutation_seed": 1703,
+    "donor_sample": 903,
+    "recipient_document": 369,
+    "donor_document": 903
+  },
+  {
+    "task": "c4_development",
+    "sample": 370,
+    "permutation_seed": 1701,
+    "donor_sample": 1030,
+    "recipient_document": 370,
+    "donor_document": 1030
+  },
+  {
+    "task": "c4_development",
+    "sample": 370,
+    "permutation_seed": 1702,
+    "donor_sample": 576,
+    "recipient_document": 370,
+    "donor_document": 576
+  },
+  {
+    "task": "c4_development",
+    "sample": 370,
+    "permutation_seed": 1703,
+    "donor_sample": 614,
+    "recipient_document": 370,
+    "donor_document": 614
+  },
+  {
+    "task": "c4_development",
+    "sample": 372,
+    "permutation_seed": 1701,
+    "donor_sample": 412,
+    "recipient_document": 372,
+    "donor_document": 412
+  },
+  {
+    "task": "c4_development",
+    "sample": 372,
+    "permutation_seed": 1702,
+    "donor_sample": 763,
+    "recipient_document": 372,
+    "donor_document": 763
+  },
+  {
+    "task": "c4_development",
+    "sample": 372,
+    "permutation_seed": 1703,
+    "donor_sample": 664,
+    "recipient_document": 372,
+    "donor_document": 664
+  },
+  {
+    "task": "c4_development",
+    "sample": 374,
+    "permutation_seed": 1701,
+    "donor_sample": 576,
+    "recipient_document": 374,
+    "donor_document": 576
+  },
+  {
+    "task": "c4_development",
+    "sample": 374,
+    "permutation_seed": 1702,
+    "donor_sample": 838,
+    "recipient_document": 374,
+    "donor_document": 838
+  },
+  {
+    "task": "c4_development",
+    "sample": 374,
+    "permutation_seed": 1703,
+    "donor_sample": 439,
+    "recipient_document": 374,
+    "donor_document": 439
+  },
+  {
+    "task": "c4_development",
+    "sample": 375,
+    "permutation_seed": 1701,
+    "donor_sample": 620,
+    "recipient_document": 375,
+    "donor_document": 620
+  },
+  {
+    "task": "c4_development",
+    "sample": 375,
+    "permutation_seed": 1702,
+    "donor_sample": 472,
+    "recipient_document": 375,
+    "donor_document": 472
+  },
+  {
+    "task": "c4_development",
+    "sample": 375,
+    "permutation_seed": 1703,
+    "donor_sample": 325,
+    "recipient_document": 375,
+    "donor_document": 325
+  },
+  {
+    "task": "c4_development",
+    "sample": 377,
+    "permutation_seed": 1701,
+    "donor_sample": 709,
+    "recipient_document": 377,
+    "donor_document": 709
+  },
+  {
+    "task": "c4_development",
+    "sample": 377,
+    "permutation_seed": 1702,
+    "donor_sample": 800,
+    "recipient_document": 377,
+    "donor_document": 800
+  },
+  {
+    "task": "c4_development",
+    "sample": 377,
+    "permutation_seed": 1703,
+    "donor_sample": 369,
+    "recipient_document": 377,
+    "donor_document": 369
+  },
+  {
+    "task": "c4_development",
+    "sample": 382,
+    "permutation_seed": 1701,
+    "donor_sample": 838,
+    "recipient_document": 382,
+    "donor_document": 838
+  },
+  {
+    "task": "c4_development",
+    "sample": 382,
+    "permutation_seed": 1702,
+    "donor_sample": 964,
+    "recipient_document": 382,
+    "donor_document": 964
+  },
+  {
+    "task": "c4_development",
+    "sample": 382,
+    "permutation_seed": 1703,
+    "donor_sample": 262,
+    "recipient_document": 382,
+    "donor_document": 262
+  },
+  {
+    "task": "c4_development",
+    "sample": 384,
+    "permutation_seed": 1701,
+    "donor_sample": 425,
+    "recipient_document": 384,
+    "donor_document": 425
+  },
+  {
+    "task": "c4_development",
+    "sample": 384,
+    "permutation_seed": 1702,
+    "donor_sample": 477,
+    "recipient_document": 384,
+    "donor_document": 477
+  },
+  {
+    "task": "c4_development",
+    "sample": 384,
+    "permutation_seed": 1703,
+    "donor_sample": 382,
+    "recipient_document": 384,
+    "donor_document": 382
+  },
+  {
+    "task": "c4_development",
+    "sample": 397,
+    "permutation_seed": 1701,
+    "donor_sample": 664,
+    "recipient_document": 397,
+    "donor_document": 664
+  },
+  {
+    "task": "c4_development",
+    "sample": 397,
+    "permutation_seed": 1702,
+    "donor_sample": 412,
+    "recipient_document": 397,
+    "donor_document": 412
+  },
+  {
+    "task": "c4_development",
+    "sample": 397,
+    "permutation_seed": 1703,
+    "donor_sample": 384,
+    "recipient_document": 397,
+    "donor_document": 384
+  },
+  {
+    "task": "c4_development",
+    "sample": 412,
+    "permutation_seed": 1701,
+    "donor_sample": 657,
+    "recipient_document": 412,
+    "donor_document": 657
+  },
+  {
+    "task": "c4_development",
+    "sample": 412,
+    "permutation_seed": 1702,
+    "donor_sample": 306,
+    "recipient_document": 412,
+    "donor_document": 306
+  },
+  {
+    "task": "c4_development",
+    "sample": 412,
+    "permutation_seed": 1703,
+    "donor_sample": 795,
+    "recipient_document": 412,
+    "donor_document": 795
+  },
+  {
+    "task": "c4_development",
+    "sample": 420,
+    "permutation_seed": 1701,
+    "donor_sample": 964,
+    "recipient_document": 420,
+    "donor_document": 964
+  },
+  {
+    "task": "c4_development",
+    "sample": 420,
+    "permutation_seed": 1702,
+    "donor_sample": 835,
+    "recipient_document": 420,
+    "donor_document": 835
+  },
+  {
+    "task": "c4_development",
+    "sample": 420,
+    "permutation_seed": 1703,
+    "donor_sample": 446,
+    "recipient_document": 420,
+    "donor_document": 446
+  },
+  {
+    "task": "c4_development",
+    "sample": 425,
+    "permutation_seed": 1701,
+    "donor_sample": 990,
+    "recipient_document": 425,
+    "donor_document": 990
+  },
+  {
+    "task": "c4_development",
+    "sample": 425,
+    "permutation_seed": 1702,
+    "donor_sample": 664,
+    "recipient_document": 425,
+    "donor_document": 664
+  },
+  {
+    "task": "c4_development",
+    "sample": 425,
+    "permutation_seed": 1703,
+    "donor_sample": 461,
+    "recipient_document": 425,
+    "donor_document": 461
+  },
+  {
+    "task": "c4_development",
+    "sample": 439,
+    "permutation_seed": 1701,
+    "donor_sample": 345,
+    "recipient_document": 439,
+    "donor_document": 345
+  },
+  {
+    "task": "c4_development",
+    "sample": 439,
+    "permutation_seed": 1702,
+    "donor_sample": 425,
+    "recipient_document": 439,
+    "donor_document": 425
+  },
+  {
+    "task": "c4_development",
+    "sample": 439,
+    "permutation_seed": 1703,
+    "donor_sample": 838,
+    "recipient_document": 439,
+    "donor_document": 838
+  },
+  {
+    "task": "c4_development",
+    "sample": 446,
+    "permutation_seed": 1701,
+    "donor_sample": 492,
+    "recipient_document": 446,
+    "donor_document": 492
+  },
+  {
+    "task": "c4_development",
+    "sample": 446,
+    "permutation_seed": 1702,
+    "donor_sample": 564,
+    "recipient_document": 446,
+    "donor_document": 564
+  },
+  {
+    "task": "c4_development",
+    "sample": 446,
+    "permutation_seed": 1703,
+    "donor_sample": 701,
+    "recipient_document": 446,
+    "donor_document": 701
+  },
+  {
+    "task": "c4_development",
+    "sample": 448,
+    "permutation_seed": 1701,
+    "donor_sample": 1005,
+    "recipient_document": 448,
+    "donor_document": 1005
+  },
+  {
+    "task": "c4_development",
+    "sample": 448,
+    "permutation_seed": 1702,
+    "donor_sample": 446,
+    "recipient_document": 448,
+    "donor_document": 446
+  },
+  {
+    "task": "c4_development",
+    "sample": 448,
+    "permutation_seed": 1703,
+    "donor_sample": 1030,
+    "recipient_document": 448,
+    "donor_document": 1030
+  },
+  {
+    "task": "c4_development",
+    "sample": 461,
+    "permutation_seed": 1701,
+    "donor_sample": 701,
+    "recipient_document": 461,
+    "donor_document": 701
+  },
+  {
+    "task": "c4_development",
+    "sample": 461,
+    "permutation_seed": 1702,
+    "donor_sample": 694,
+    "recipient_document": 461,
+    "donor_document": 694
+  },
+  {
+    "task": "c4_development",
+    "sample": 461,
+    "permutation_seed": 1703,
+    "donor_sample": 352,
+    "recipient_document": 461,
+    "donor_document": 352
+  },
+  {
+    "task": "c4_development",
+    "sample": 472,
+    "permutation_seed": 1701,
+    "donor_sample": 384,
+    "recipient_document": 472,
+    "donor_document": 384
+  },
+  {
+    "task": "c4_development",
+    "sample": 472,
+    "permutation_seed": 1702,
+    "donor_sample": 492,
+    "recipient_document": 472,
+    "donor_document": 492
+  },
+  {
+    "task": "c4_development",
+    "sample": 472,
+    "permutation_seed": 1703,
+    "donor_sample": 425,
+    "recipient_document": 472,
+    "donor_document": 425
+  },
+  {
+    "task": "c4_development",
+    "sample": 473,
+    "permutation_seed": 1701,
+    "donor_sample": 365,
+    "recipient_document": 473,
+    "donor_document": 365
+  },
+  {
+    "task": "c4_development",
+    "sample": 473,
+    "permutation_seed": 1702,
+    "donor_sample": 890,
+    "recipient_document": 473,
+    "donor_document": 890
+  },
+  {
+    "task": "c4_development",
+    "sample": 473,
+    "permutation_seed": 1703,
+    "donor_sample": 602,
+    "recipient_document": 473,
+    "donor_document": 602
+  },
+  {
+    "task": "c4_development",
+    "sample": 477,
+    "permutation_seed": 1701,
+    "donor_sample": 374,
+    "recipient_document": 477,
+    "donor_document": 374
+  },
+  {
+    "task": "c4_development",
+    "sample": 477,
+    "permutation_seed": 1702,
+    "donor_sample": 979,
+    "recipient_document": 477,
+    "donor_document": 979
+  },
+  {
+    "task": "c4_development",
+    "sample": 477,
+    "permutation_seed": 1703,
+    "donor_sample": 659,
+    "recipient_document": 477,
+    "donor_document": 659
+  },
+  {
+    "task": "c4_development",
+    "sample": 492,
+    "permutation_seed": 1701,
+    "donor_sample": 369,
+    "recipient_document": 492,
+    "donor_document": 369
+  },
+  {
+    "task": "c4_development",
+    "sample": 492,
+    "permutation_seed": 1702,
+    "donor_sample": 375,
+    "recipient_document": 492,
+    "donor_document": 375
+  },
+  {
+    "task": "c4_development",
+    "sample": 492,
+    "permutation_seed": 1703,
+    "donor_sample": 698,
+    "recipient_document": 492,
+    "donor_document": 698
+  },
+  {
+    "task": "c4_development",
+    "sample": 531,
+    "permutation_seed": 1701,
+    "donor_sample": 825,
+    "recipient_document": 531,
+    "donor_document": 825
+  },
+  {
+    "task": "c4_development",
+    "sample": 531,
+    "permutation_seed": 1702,
+    "donor_sample": 384,
+    "recipient_document": 531,
+    "donor_document": 384
+  },
+  {
+    "task": "c4_development",
+    "sample": 531,
+    "permutation_seed": 1703,
+    "donor_sample": 492,
+    "recipient_document": 531,
+    "donor_document": 492
+  },
+  {
+    "task": "c4_development",
+    "sample": 551,
+    "permutation_seed": 1701,
+    "donor_sample": 602,
+    "recipient_document": 551,
+    "donor_document": 602
+  },
+  {
+    "task": "c4_development",
+    "sample": 551,
+    "permutation_seed": 1702,
+    "donor_sample": 607,
+    "recipient_document": 551,
+    "donor_document": 607
+  },
+  {
+    "task": "c4_development",
+    "sample": 551,
+    "permutation_seed": 1703,
+    "donor_sample": 1012,
+    "recipient_document": 551,
+    "donor_document": 1012
+  },
+  {
+    "task": "c4_development",
+    "sample": 556,
+    "permutation_seed": 1701,
+    "donor_sample": 262,
+    "recipient_document": 556,
+    "donor_document": 262
+  },
+  {
+    "task": "c4_development",
+    "sample": 556,
+    "permutation_seed": 1702,
+    "donor_sample": 301,
+    "recipient_document": 556,
+    "donor_document": 301
+  },
+  {
+    "task": "c4_development",
+    "sample": 556,
+    "permutation_seed": 1703,
+    "donor_sample": 363,
+    "recipient_document": 556,
+    "donor_document": 363
+  },
+  {
+    "task": "c4_development",
+    "sample": 564,
+    "permutation_seed": 1701,
+    "donor_sample": 698,
+    "recipient_document": 564,
+    "donor_document": 698
+  },
+  {
+    "task": "c4_development",
+    "sample": 564,
+    "permutation_seed": 1702,
+    "donor_sample": 439,
+    "recipient_document": 564,
+    "donor_document": 439
+  },
+  {
+    "task": "c4_development",
+    "sample": 564,
+    "permutation_seed": 1703,
+    "donor_sample": 890,
+    "recipient_document": 564,
+    "donor_document": 890
+  },
+  {
+    "task": "c4_development",
+    "sample": 576,
+    "permutation_seed": 1701,
+    "donor_sample": 1012,
+    "recipient_document": 576,
+    "donor_document": 1012
+  },
+  {
+    "task": "c4_development",
+    "sample": 576,
+    "permutation_seed": 1702,
+    "donor_sample": 659,
+    "recipient_document": 576,
+    "donor_document": 659
+  },
+  {
+    "task": "c4_development",
+    "sample": 576,
+    "permutation_seed": 1703,
+    "donor_sample": 998,
+    "recipient_document": 576,
+    "donor_document": 998
+  },
+  {
+    "task": "c4_development",
+    "sample": 602,
+    "permutation_seed": 1701,
+    "donor_sample": 556,
+    "recipient_document": 602,
+    "donor_document": 556
+  },
+  {
+    "task": "c4_development",
+    "sample": 602,
+    "permutation_seed": 1702,
+    "donor_sample": 998,
+    "recipient_document": 602,
+    "donor_document": 998
+  },
+  {
+    "task": "c4_development",
+    "sample": 602,
+    "permutation_seed": 1703,
+    "donor_sample": 694,
+    "recipient_document": 602,
+    "donor_document": 694
+  },
+  {
+    "task": "c4_development",
+    "sample": 607,
+    "permutation_seed": 1701,
+    "donor_sample": 795,
+    "recipient_document": 607,
+    "donor_document": 795
+  },
+  {
+    "task": "c4_development",
+    "sample": 607,
+    "permutation_seed": 1702,
+    "donor_sample": 1012,
+    "recipient_document": 607,
+    "donor_document": 1012
+  },
+  {
+    "task": "c4_development",
+    "sample": 607,
+    "permutation_seed": 1703,
+    "donor_sample": 412,
+    "recipient_document": 607,
+    "donor_document": 412
+  },
+  {
+    "task": "c4_development",
+    "sample": 614,
+    "permutation_seed": 1701,
+    "donor_sample": 981,
+    "recipient_document": 614,
+    "donor_document": 981
+  },
+  {
+    "task": "c4_development",
+    "sample": 614,
+    "permutation_seed": 1702,
+    "donor_sample": 556,
+    "recipient_document": 614,
+    "donor_document": 556
+  },
+  {
+    "task": "c4_development",
+    "sample": 614,
+    "permutation_seed": 1703,
+    "donor_sample": 620,
+    "recipient_document": 614,
+    "donor_document": 620
+  },
+  {
+    "task": "c4_development",
+    "sample": 620,
+    "permutation_seed": 1701,
+    "donor_sample": 800,
+    "recipient_document": 620,
+    "donor_document": 800
+  },
+  {
+    "task": "c4_development",
+    "sample": 620,
+    "permutation_seed": 1702,
+    "donor_sample": 1030,
+    "recipient_document": 620,
+    "donor_document": 1030
+  },
+  {
+    "task": "c4_development",
+    "sample": 620,
+    "permutation_seed": 1703,
+    "donor_sample": 763,
+    "recipient_document": 620,
+    "donor_document": 763
+  },
+  {
+    "task": "c4_development",
+    "sample": 657,
+    "permutation_seed": 1701,
+    "donor_sample": 763,
+    "recipient_document": 657,
+    "donor_document": 763
+  },
+  {
+    "task": "c4_development",
+    "sample": 657,
+    "permutation_seed": 1702,
+    "donor_sample": 1005,
+    "recipient_document": 657,
+    "donor_document": 1005
+  },
+  {
+    "task": "c4_development",
+    "sample": 657,
+    "permutation_seed": 1703,
+    "donor_sample": 825,
+    "recipient_document": 657,
+    "donor_document": 825
+  },
+  {
+    "task": "c4_development",
+    "sample": 659,
+    "permutation_seed": 1701,
+    "donor_sample": 472,
+    "recipient_document": 659,
+    "donor_document": 472
+  },
+  {
+    "task": "c4_development",
+    "sample": 659,
+    "permutation_seed": 1702,
+    "donor_sample": 325,
+    "recipient_document": 659,
+    "donor_document": 325
+  },
+  {
+    "task": "c4_development",
+    "sample": 659,
+    "permutation_seed": 1703,
+    "donor_sample": 551,
+    "recipient_document": 659,
+    "donor_document": 551
+  },
+  {
+    "task": "c4_development",
+    "sample": 664,
+    "permutation_seed": 1701,
+    "donor_sample": 382,
+    "recipient_document": 664,
+    "donor_document": 382
+  },
+  {
+    "task": "c4_development",
+    "sample": 664,
+    "permutation_seed": 1702,
+    "donor_sample": 352,
+    "recipient_document": 664,
+    "donor_document": 352
+  },
+  {
+    "task": "c4_development",
+    "sample": 664,
+    "permutation_seed": 1703,
+    "donor_sample": 1005,
+    "recipient_document": 664,
+    "donor_document": 1005
+  },
+  {
+    "task": "c4_development",
+    "sample": 694,
+    "permutation_seed": 1701,
+    "donor_sample": 420,
+    "recipient_document": 694,
+    "donor_document": 420
+  },
+  {
+    "task": "c4_development",
+    "sample": 694,
+    "permutation_seed": 1702,
+    "donor_sample": 825,
+    "recipient_document": 694,
+    "donor_document": 825
+  },
+  {
+    "task": "c4_development",
+    "sample": 694,
+    "permutation_seed": 1703,
+    "donor_sample": 472,
+    "recipient_document": 694,
+    "donor_document": 472
+  },
+  {
+    "task": "c4_development",
+    "sample": 698,
+    "permutation_seed": 1701,
+    "donor_sample": 301,
+    "recipient_document": 698,
+    "donor_document": 301
+  },
+  {
+    "task": "c4_development",
+    "sample": 698,
+    "permutation_seed": 1702,
+    "donor_sample": 990,
+    "recipient_document": 698,
+    "donor_document": 990
+  },
+  {
+    "task": "c4_development",
+    "sample": 698,
+    "permutation_seed": 1703,
+    "donor_sample": 531,
+    "recipient_document": 698,
+    "donor_document": 531
+  },
+  {
+    "task": "c4_development",
+    "sample": 701,
+    "permutation_seed": 1701,
+    "donor_sample": 397,
+    "recipient_document": 701,
+    "donor_document": 397
+  },
+  {
+    "task": "c4_development",
+    "sample": 701,
+    "permutation_seed": 1702,
+    "donor_sample": 359,
+    "recipient_document": 701,
+    "donor_document": 359
+  },
+  {
+    "task": "c4_development",
+    "sample": 701,
+    "permutation_seed": 1703,
+    "donor_sample": 397,
+    "recipient_document": 701,
+    "donor_document": 397
+  },
+  {
+    "task": "c4_development",
+    "sample": 709,
+    "permutation_seed": 1701,
+    "donor_sample": 945,
+    "recipient_document": 709,
+    "donor_document": 945
+  },
+  {
+    "task": "c4_development",
+    "sample": 709,
+    "permutation_seed": 1702,
+    "donor_sample": 981,
+    "recipient_document": 709,
+    "donor_document": 981
+  },
+  {
+    "task": "c4_development",
+    "sample": 709,
+    "permutation_seed": 1703,
+    "donor_sample": 806,
+    "recipient_document": 709,
+    "donor_document": 806
+  },
+  {
+    "task": "c4_development",
+    "sample": 763,
+    "permutation_seed": 1701,
+    "donor_sample": 903,
+    "recipient_document": 763,
+    "donor_document": 903
+  },
+  {
+    "task": "c4_development",
+    "sample": 763,
+    "permutation_seed": 1702,
+    "donor_sample": 945,
+    "recipient_document": 763,
+    "donor_document": 945
+  },
+  {
+    "task": "c4_development",
+    "sample": 763,
+    "permutation_seed": 1703,
+    "donor_sample": 375,
+    "recipient_document": 763,
+    "donor_document": 375
+  },
+  {
+    "task": "c4_development",
+    "sample": 795,
+    "permutation_seed": 1701,
+    "donor_sample": 806,
+    "recipient_document": 795,
+    "donor_document": 806
+  },
+  {
+    "task": "c4_development",
+    "sample": 795,
+    "permutation_seed": 1702,
+    "donor_sample": 614,
+    "recipient_document": 795,
+    "donor_document": 614
+  },
+  {
+    "task": "c4_development",
+    "sample": 795,
+    "permutation_seed": 1703,
+    "donor_sample": 359,
+    "recipient_document": 795,
+    "donor_document": 359
+  },
+  {
+    "task": "c4_development",
+    "sample": 800,
+    "permutation_seed": 1701,
+    "donor_sample": 898,
+    "recipient_document": 800,
+    "donor_document": 898
+  },
+  {
+    "task": "c4_development",
+    "sample": 800,
+    "permutation_seed": 1702,
+    "donor_sample": 806,
+    "recipient_document": 800,
+    "donor_document": 806
+  },
+  {
+    "task": "c4_development",
+    "sample": 800,
+    "permutation_seed": 1703,
+    "donor_sample": 657,
+    "recipient_document": 800,
+    "donor_document": 657
+  },
+  {
+    "task": "c4_development",
+    "sample": 806,
+    "permutation_seed": 1701,
+    "donor_sample": 448,
+    "recipient_document": 806,
+    "donor_document": 448
+  },
+  {
+    "task": "c4_development",
+    "sample": 806,
+    "permutation_seed": 1702,
+    "donor_sample": 370,
+    "recipient_document": 806,
+    "donor_document": 370
+  },
+  {
+    "task": "c4_development",
+    "sample": 806,
+    "permutation_seed": 1703,
+    "donor_sample": 345,
+    "recipient_document": 806,
+    "donor_document": 345
+  },
+  {
+    "task": "c4_development",
+    "sample": 825,
+    "permutation_seed": 1701,
+    "donor_sample": 359,
+    "recipient_document": 825,
+    "donor_document": 359
+  },
+  {
+    "task": "c4_development",
+    "sample": 825,
+    "permutation_seed": 1702,
+    "donor_sample": 338,
+    "recipient_document": 825,
+    "donor_document": 338
+  },
+  {
+    "task": "c4_development",
+    "sample": 825,
+    "permutation_seed": 1703,
+    "donor_sample": 420,
+    "recipient_document": 825,
+    "donor_document": 420
+  },
+  {
+    "task": "c4_development",
+    "sample": 835,
+    "permutation_seed": 1701,
+    "donor_sample": 531,
+    "recipient_document": 835,
+    "donor_document": 531
+  },
+  {
+    "task": "c4_development",
+    "sample": 835,
+    "permutation_seed": 1702,
+    "donor_sample": 275,
+    "recipient_document": 835,
+    "donor_document": 275
+  },
+  {
+    "task": "c4_development",
+    "sample": 835,
+    "permutation_seed": 1703,
+    "donor_sample": 939,
+    "recipient_document": 835,
+    "donor_document": 939
+  },
+  {
+    "task": "c4_development",
+    "sample": 838,
+    "permutation_seed": 1701,
+    "donor_sample": 979,
+    "recipient_document": 838,
+    "donor_document": 979
+  },
+  {
+    "task": "c4_development",
+    "sample": 838,
+    "permutation_seed": 1702,
+    "donor_sample": 345,
+    "recipient_document": 838,
+    "donor_document": 345
+  },
+  {
+    "task": "c4_development",
+    "sample": 838,
+    "permutation_seed": 1703,
+    "donor_sample": 306,
+    "recipient_document": 838,
+    "donor_document": 306
+  },
+  {
+    "task": "c4_development",
+    "sample": 890,
+    "permutation_seed": 1701,
+    "donor_sample": 363,
+    "recipient_document": 890,
+    "donor_document": 363
+  },
+  {
+    "task": "c4_development",
+    "sample": 890,
+    "permutation_seed": 1702,
+    "donor_sample": 701,
+    "recipient_document": 890,
+    "donor_document": 701
+  },
+  {
+    "task": "c4_development",
+    "sample": 890,
+    "permutation_seed": 1703,
+    "donor_sample": 374,
+    "recipient_document": 890,
+    "donor_document": 374
+  },
+  {
+    "task": "c4_development",
+    "sample": 898,
+    "permutation_seed": 1701,
+    "donor_sample": 461,
+    "recipient_document": 898,
+    "donor_document": 461
+  },
+  {
+    "task": "c4_development",
+    "sample": 898,
+    "permutation_seed": 1702,
+    "donor_sample": 363,
+    "recipient_document": 898,
+    "donor_document": 363
+  },
+  {
+    "task": "c4_development",
+    "sample": 898,
+    "permutation_seed": 1703,
+    "donor_sample": 981,
+    "recipient_document": 898,
+    "donor_document": 981
+  },
+  {
+    "task": "c4_development",
+    "sample": 903,
+    "permutation_seed": 1701,
+    "donor_sample": 370,
+    "recipient_document": 903,
+    "donor_document": 370
+  },
+  {
+    "task": "c4_development",
+    "sample": 903,
+    "permutation_seed": 1702,
+    "donor_sample": 709,
+    "recipient_document": 903,
+    "donor_document": 709
+  },
+  {
+    "task": "c4_development",
+    "sample": 903,
+    "permutation_seed": 1703,
+    "donor_sample": 607,
+    "recipient_document": 903,
+    "donor_document": 607
+  },
+  {
+    "task": "c4_development",
+    "sample": 939,
+    "permutation_seed": 1701,
+    "donor_sample": 372,
+    "recipient_document": 939,
+    "donor_document": 372
+  },
+  {
+    "task": "c4_development",
+    "sample": 939,
+    "permutation_seed": 1702,
+    "donor_sample": 365,
+    "recipient_document": 939,
+    "donor_document": 365
+  },
+  {
+    "task": "c4_development",
+    "sample": 939,
+    "permutation_seed": 1703,
+    "donor_sample": 945,
+    "recipient_document": 939,
+    "donor_document": 945
+  },
+  {
+    "task": "c4_development",
+    "sample": 945,
+    "permutation_seed": 1701,
+    "donor_sample": 272,
+    "recipient_document": 945,
+    "donor_document": 272
+  },
+  {
+    "task": "c4_development",
+    "sample": 945,
+    "permutation_seed": 1702,
+    "donor_sample": 420,
+    "recipient_document": 945,
+    "donor_document": 420
+  },
+  {
+    "task": "c4_development",
+    "sample": 945,
+    "permutation_seed": 1703,
+    "donor_sample": 556,
+    "recipient_document": 945,
+    "donor_document": 556
+  },
+  {
+    "task": "c4_development",
+    "sample": 964,
+    "permutation_seed": 1701,
+    "donor_sample": 275,
+    "recipient_document": 964,
+    "donor_document": 275
+  },
+  {
+    "task": "c4_development",
+    "sample": 964,
+    "permutation_seed": 1702,
+    "donor_sample": 372,
+    "recipient_document": 964,
+    "donor_document": 372
+  },
+  {
+    "task": "c4_development",
+    "sample": 964,
+    "permutation_seed": 1703,
+    "donor_sample": 800,
+    "recipient_document": 964,
+    "donor_document": 800
+  },
+  {
+    "task": "c4_development",
+    "sample": 979,
+    "permutation_seed": 1701,
+    "donor_sample": 939,
+    "recipient_document": 979,
+    "donor_document": 939
+  },
+  {
+    "task": "c4_development",
+    "sample": 979,
+    "permutation_seed": 1702,
+    "donor_sample": 657,
+    "recipient_document": 979,
+    "donor_document": 657
+  },
+  {
+    "task": "c4_development",
+    "sample": 979,
+    "permutation_seed": 1703,
+    "donor_sample": 576,
+    "recipient_document": 979,
+    "donor_document": 576
+  },
+  {
+    "task": "c4_development",
+    "sample": 981,
+    "permutation_seed": 1701,
+    "donor_sample": 551,
+    "recipient_document": 981,
+    "donor_document": 551
+  },
+  {
+    "task": "c4_development",
+    "sample": 981,
+    "permutation_seed": 1702,
+    "donor_sample": 448,
+    "recipient_document": 981,
+    "donor_document": 448
+  },
+  {
+    "task": "c4_development",
+    "sample": 981,
+    "permutation_seed": 1703,
+    "donor_sample": 338,
+    "recipient_document": 981,
+    "donor_document": 338
+  },
+  {
+    "task": "c4_development",
+    "sample": 990,
+    "permutation_seed": 1701,
+    "donor_sample": 377,
+    "recipient_document": 990,
+    "donor_document": 377
+  },
+  {
+    "task": "c4_development",
+    "sample": 990,
+    "permutation_seed": 1702,
+    "donor_sample": 620,
+    "recipient_document": 990,
+    "donor_document": 620
+  },
+  {
+    "task": "c4_development",
+    "sample": 990,
+    "permutation_seed": 1703,
+    "donor_sample": 709,
+    "recipient_document": 990,
+    "donor_document": 709
+  },
+  {
+    "task": "c4_development",
+    "sample": 998,
+    "permutation_seed": 1701,
+    "donor_sample": 890,
+    "recipient_document": 998,
+    "donor_document": 890
+  },
+  {
+    "task": "c4_development",
+    "sample": 998,
+    "permutation_seed": 1702,
+    "donor_sample": 602,
+    "recipient_document": 998,
+    "donor_document": 602
+  },
+  {
+    "task": "c4_development",
+    "sample": 998,
+    "permutation_seed": 1703,
+    "donor_sample": 473,
+    "recipient_document": 998,
+    "donor_document": 473
+  },
+  {
+    "task": "c4_development",
+    "sample": 1005,
+    "permutation_seed": 1701,
+    "donor_sample": 439,
+    "recipient_document": 1005,
+    "donor_document": 439
+  },
+  {
+    "task": "c4_development",
+    "sample": 1005,
+    "permutation_seed": 1702,
+    "donor_sample": 397,
+    "recipient_document": 1005,
+    "donor_document": 397
+  },
+  {
+    "task": "c4_development",
+    "sample": 1005,
+    "permutation_seed": 1703,
+    "donor_sample": 979,
+    "recipient_document": 1005,
+    "donor_document": 979
+  },
+  {
+    "task": "c4_development",
+    "sample": 1012,
+    "permutation_seed": 1701,
+    "donor_sample": 375,
+    "recipient_document": 1012,
+    "donor_document": 375
+  },
+  {
+    "task": "c4_development",
+    "sample": 1012,
+    "permutation_seed": 1702,
+    "donor_sample": 551,
+    "recipient_document": 1012,
+    "donor_document": 551
+  },
+  {
+    "task": "c4_development",
+    "sample": 1012,
+    "permutation_seed": 1703,
+    "donor_sample": 275,
+    "recipient_document": 1012,
+    "donor_document": 275
+  },
+  {
+    "task": "c4_development",
+    "sample": 1030,
+    "permutation_seed": 1701,
+    "donor_sample": 998,
+    "recipient_document": 1030,
+    "donor_document": 998
+  },
+  {
+    "task": "c4_development",
+    "sample": 1030,
+    "permutation_seed": 1702,
+    "donor_sample": 473,
+    "recipient_document": 1030,
+    "donor_document": 473
+  },
+  {
+    "task": "c4_development",
+    "sample": 1030,
+    "permutation_seed": 1703,
+    "donor_sample": 365,
+    "recipient_document": 1030,
+    "donor_document": 365
+  },
+  {
+    "task": "hellaswag",
+    "sample": 165,
+    "permutation_seed": 1701,
+    "donor_sample": 1239,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 165,
+    "permutation_seed": 1702,
+    "donor_sample": 9880,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 165,
+    "permutation_seed": 1703,
+    "donor_sample": 7792,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 298,
+    "permutation_seed": 1701,
+    "donor_sample": 2412,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 298,
+    "permutation_seed": 1702,
+    "donor_sample": 165,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 298,
+    "permutation_seed": 1703,
+    "donor_sample": 4812,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 426,
+    "permutation_seed": 1701,
+    "donor_sample": 1354,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 426,
+    "permutation_seed": 1702,
+    "donor_sample": 9096,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 426,
+    "permutation_seed": 1703,
+    "donor_sample": 718,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 718,
+    "permutation_seed": 1701,
+    "donor_sample": 6558,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 718,
+    "permutation_seed": 1702,
+    "donor_sample": 1239,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 718,
+    "permutation_seed": 1703,
+    "donor_sample": 3094,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 812,
+    "permutation_seed": 1701,
+    "donor_sample": 2553,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 812,
+    "permutation_seed": 1702,
+    "donor_sample": 1354,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 812,
+    "permutation_seed": 1703,
+    "donor_sample": 7144,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 1239,
+    "permutation_seed": 1701,
+    "donor_sample": 9405,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 1239,
+    "permutation_seed": 1702,
+    "donor_sample": 3094,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 1239,
+    "permutation_seed": 1703,
+    "donor_sample": 2553,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 1303,
+    "permutation_seed": 1701,
+    "donor_sample": 9154,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 1303,
+    "permutation_seed": 1702,
+    "donor_sample": 6751,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 1303,
+    "permutation_seed": 1703,
+    "donor_sample": 4161,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 1313,
+    "permutation_seed": 1701,
+    "donor_sample": 3239,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 1313,
+    "permutation_seed": 1702,
+    "donor_sample": 9355,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 1313,
+    "permutation_seed": 1703,
+    "donor_sample": 6751,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 1320,
+    "permutation_seed": 1701,
+    "donor_sample": 9524,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 1320,
+    "permutation_seed": 1702,
+    "donor_sample": 7817,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 1320,
+    "permutation_seed": 1703,
+    "donor_sample": 3219,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 1354,
+    "permutation_seed": 1701,
+    "donor_sample": 7792,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 1354,
+    "permutation_seed": 1702,
+    "donor_sample": 8034,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 1354,
+    "permutation_seed": 1703,
+    "donor_sample": 7669,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 1437,
+    "permutation_seed": 1701,
+    "donor_sample": 1320,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 1437,
+    "permutation_seed": 1702,
+    "donor_sample": 3370,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 1437,
+    "permutation_seed": 1703,
+    "donor_sample": 1313,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2030,
+    "permutation_seed": 1701,
+    "donor_sample": 9399,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2030,
+    "permutation_seed": 1702,
+    "donor_sample": 7403,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2030,
+    "permutation_seed": 1703,
+    "donor_sample": 5091,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2216,
+    "permutation_seed": 1701,
+    "donor_sample": 2030,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2216,
+    "permutation_seed": 1702,
+    "donor_sample": 4161,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2216,
+    "permutation_seed": 1703,
+    "donor_sample": 6291,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2345,
+    "permutation_seed": 1701,
+    "donor_sample": 3475,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2345,
+    "permutation_seed": 1702,
+    "donor_sample": 9524,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2345,
+    "permutation_seed": 1703,
+    "donor_sample": 1354,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2412,
+    "permutation_seed": 1701,
+    "donor_sample": 7669,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2412,
+    "permutation_seed": 1702,
+    "donor_sample": 6337,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2412,
+    "permutation_seed": 1703,
+    "donor_sample": 9355,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2515,
+    "permutation_seed": 1701,
+    "donor_sample": 4408,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2515,
+    "permutation_seed": 1702,
+    "donor_sample": 2345,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2515,
+    "permutation_seed": 1703,
+    "donor_sample": 6558,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2553,
+    "permutation_seed": 1701,
+    "donor_sample": 7817,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2553,
+    "permutation_seed": 1702,
+    "donor_sample": 2649,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2553,
+    "permutation_seed": 1703,
+    "donor_sample": 8046,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2629,
+    "permutation_seed": 1701,
+    "donor_sample": 4161,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2629,
+    "permutation_seed": 1702,
+    "donor_sample": 2515,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2629,
+    "permutation_seed": 1703,
+    "donor_sample": 6318,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2649,
+    "permutation_seed": 1701,
+    "donor_sample": 6316,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2649,
+    "permutation_seed": 1702,
+    "donor_sample": 4557,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2649,
+    "permutation_seed": 1703,
+    "donor_sample": 1239,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2699,
+    "permutation_seed": 1701,
+    "donor_sample": 4311,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2699,
+    "permutation_seed": 1702,
+    "donor_sample": 5669,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 2699,
+    "permutation_seed": 1703,
+    "donor_sample": 4826,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 3054,
+    "permutation_seed": 1701,
+    "donor_sample": 718,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 3054,
+    "permutation_seed": 1702,
+    "donor_sample": 298,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 3054,
+    "permutation_seed": 1703,
+    "donor_sample": 9399,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 3094,
+    "permutation_seed": 1701,
+    "donor_sample": 165,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 3094,
+    "permutation_seed": 1702,
+    "donor_sample": 3054,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 3094,
+    "permutation_seed": 1703,
+    "donor_sample": 1303,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 3219,
+    "permutation_seed": 1701,
+    "donor_sample": 426,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 3219,
+    "permutation_seed": 1702,
+    "donor_sample": 6291,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 3219,
+    "permutation_seed": 1703,
+    "donor_sample": 8034,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 3239,
+    "permutation_seed": 1701,
+    "donor_sample": 4557,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 3239,
+    "permutation_seed": 1702,
+    "donor_sample": 7144,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 3239,
+    "permutation_seed": 1703,
+    "donor_sample": 4557,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 3370,
+    "permutation_seed": 1701,
+    "donor_sample": 6999,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 3370,
+    "permutation_seed": 1702,
+    "donor_sample": 1303,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 3370,
+    "permutation_seed": 1703,
+    "donor_sample": 5631,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 3475,
+    "permutation_seed": 1701,
+    "donor_sample": 3219,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 3475,
+    "permutation_seed": 1702,
+    "donor_sample": 5295,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 3475,
+    "permutation_seed": 1703,
+    "donor_sample": 4311,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 3714,
+    "permutation_seed": 1701,
+    "donor_sample": 3370,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 3714,
+    "permutation_seed": 1702,
+    "donor_sample": 4408,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 3714,
+    "permutation_seed": 1703,
+    "donor_sample": 3054,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4015,
+    "permutation_seed": 1701,
+    "donor_sample": 5295,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4015,
+    "permutation_seed": 1702,
+    "donor_sample": 3219,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4015,
+    "permutation_seed": 1703,
+    "donor_sample": 3475,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4161,
+    "permutation_seed": 1701,
+    "donor_sample": 812,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4161,
+    "permutation_seed": 1702,
+    "donor_sample": 2216,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4161,
+    "permutation_seed": 1703,
+    "donor_sample": 7403,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4311,
+    "permutation_seed": 1701,
+    "donor_sample": 2649,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4311,
+    "permutation_seed": 1702,
+    "donor_sample": 6558,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4311,
+    "permutation_seed": 1703,
+    "donor_sample": 5669,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4408,
+    "permutation_seed": 1701,
+    "donor_sample": 6337,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4408,
+    "permutation_seed": 1702,
+    "donor_sample": 6316,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4408,
+    "permutation_seed": 1703,
+    "donor_sample": 2216,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4557,
+    "permutation_seed": 1701,
+    "donor_sample": 2345,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4557,
+    "permutation_seed": 1702,
+    "donor_sample": 3239,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4557,
+    "permutation_seed": 1703,
+    "donor_sample": 2649,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4761,
+    "permutation_seed": 1701,
+    "donor_sample": 4938,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4761,
+    "permutation_seed": 1702,
+    "donor_sample": 4015,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4761,
+    "permutation_seed": 1703,
+    "donor_sample": 9096,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4812,
+    "permutation_seed": 1701,
+    "donor_sample": 4761,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4812,
+    "permutation_seed": 1702,
+    "donor_sample": 7792,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4812,
+    "permutation_seed": 1703,
+    "donor_sample": 3239,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4826,
+    "permutation_seed": 1701,
+    "donor_sample": 9355,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4826,
+    "permutation_seed": 1702,
+    "donor_sample": 3714,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4826,
+    "permutation_seed": 1703,
+    "donor_sample": 6316,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4938,
+    "permutation_seed": 1701,
+    "donor_sample": 7144,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4938,
+    "permutation_seed": 1702,
+    "donor_sample": 2553,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 4938,
+    "permutation_seed": 1703,
+    "donor_sample": 9154,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 5091,
+    "permutation_seed": 1701,
+    "donor_sample": 3054,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 5091,
+    "permutation_seed": 1702,
+    "donor_sample": 812,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 5091,
+    "permutation_seed": 1703,
+    "donor_sample": 4015,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 5156,
+    "permutation_seed": 1701,
+    "donor_sample": 8034,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 5156,
+    "permutation_seed": 1702,
+    "donor_sample": 718,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 5156,
+    "permutation_seed": 1703,
+    "donor_sample": 6337,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 5295,
+    "permutation_seed": 1701,
+    "donor_sample": 8046,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 5295,
+    "permutation_seed": 1702,
+    "donor_sample": 426,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 5295,
+    "permutation_seed": 1703,
+    "donor_sample": 2030,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 5631,
+    "permutation_seed": 1701,
+    "donor_sample": 1437,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 5631,
+    "permutation_seed": 1702,
+    "donor_sample": 7669,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 5631,
+    "permutation_seed": 1703,
+    "donor_sample": 5156,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 5669,
+    "permutation_seed": 1701,
+    "donor_sample": 7403,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 5669,
+    "permutation_seed": 1702,
+    "donor_sample": 9405,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 5669,
+    "permutation_seed": 1703,
+    "donor_sample": 298,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 6291,
+    "permutation_seed": 1701,
+    "donor_sample": 4812,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 6291,
+    "permutation_seed": 1702,
+    "donor_sample": 2412,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 6291,
+    "permutation_seed": 1703,
+    "donor_sample": 9405,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 6316,
+    "permutation_seed": 1701,
+    "donor_sample": 2629,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 6316,
+    "permutation_seed": 1702,
+    "donor_sample": 1437,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 6316,
+    "permutation_seed": 1703,
+    "donor_sample": 2345,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 6318,
+    "permutation_seed": 1701,
+    "donor_sample": 2699,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 6318,
+    "permutation_seed": 1702,
+    "donor_sample": 2629,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 6318,
+    "permutation_seed": 1703,
+    "donor_sample": 6999,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 6337,
+    "permutation_seed": 1701,
+    "donor_sample": 3714,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 6337,
+    "permutation_seed": 1702,
+    "donor_sample": 8046,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 6337,
+    "permutation_seed": 1703,
+    "donor_sample": 8302,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 6558,
+    "permutation_seed": 1701,
+    "donor_sample": 8302,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 6558,
+    "permutation_seed": 1702,
+    "donor_sample": 5156,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 6558,
+    "permutation_seed": 1703,
+    "donor_sample": 4938,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 6751,
+    "permutation_seed": 1701,
+    "donor_sample": 5669,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 6751,
+    "permutation_seed": 1702,
+    "donor_sample": 1313,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 6751,
+    "permutation_seed": 1703,
+    "donor_sample": 2629,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 6999,
+    "permutation_seed": 1701,
+    "donor_sample": 9096,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 6999,
+    "permutation_seed": 1702,
+    "donor_sample": 8933,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 6999,
+    "permutation_seed": 1703,
+    "donor_sample": 5295,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 7144,
+    "permutation_seed": 1701,
+    "donor_sample": 1303,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 7144,
+    "permutation_seed": 1702,
+    "donor_sample": 4826,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 7144,
+    "permutation_seed": 1703,
+    "donor_sample": 165,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 7403,
+    "permutation_seed": 1701,
+    "donor_sample": 3094,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 7403,
+    "permutation_seed": 1702,
+    "donor_sample": 1320,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 7403,
+    "permutation_seed": 1703,
+    "donor_sample": 9524,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 7669,
+    "permutation_seed": 1701,
+    "donor_sample": 6291,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 7669,
+    "permutation_seed": 1702,
+    "donor_sample": 9154,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 7669,
+    "permutation_seed": 1703,
+    "donor_sample": 3714,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 7792,
+    "permutation_seed": 1701,
+    "donor_sample": 4826,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 7792,
+    "permutation_seed": 1702,
+    "donor_sample": 2030,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 7792,
+    "permutation_seed": 1703,
+    "donor_sample": 8933,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 7817,
+    "permutation_seed": 1701,
+    "donor_sample": 5091,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 7817,
+    "permutation_seed": 1702,
+    "donor_sample": 5091,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 7817,
+    "permutation_seed": 1703,
+    "donor_sample": 426,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 8034,
+    "permutation_seed": 1701,
+    "donor_sample": 9880,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 8034,
+    "permutation_seed": 1702,
+    "donor_sample": 4938,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 8034,
+    "permutation_seed": 1703,
+    "donor_sample": 2515,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 8046,
+    "permutation_seed": 1701,
+    "donor_sample": 298,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 8046,
+    "permutation_seed": 1702,
+    "donor_sample": 6999,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 8046,
+    "permutation_seed": 1703,
+    "donor_sample": 4408,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 8302,
+    "permutation_seed": 1701,
+    "donor_sample": 6318,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 8302,
+    "permutation_seed": 1702,
+    "donor_sample": 5631,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 8302,
+    "permutation_seed": 1703,
+    "donor_sample": 1320,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 8933,
+    "permutation_seed": 1701,
+    "donor_sample": 4015,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 8933,
+    "permutation_seed": 1702,
+    "donor_sample": 4311,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 8933,
+    "permutation_seed": 1703,
+    "donor_sample": 812,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 9096,
+    "permutation_seed": 1701,
+    "donor_sample": 1313,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 9096,
+    "permutation_seed": 1702,
+    "donor_sample": 2699,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 9096,
+    "permutation_seed": 1703,
+    "donor_sample": 9880,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 9154,
+    "permutation_seed": 1701,
+    "donor_sample": 5156,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 9154,
+    "permutation_seed": 1702,
+    "donor_sample": 9399,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 9154,
+    "permutation_seed": 1703,
+    "donor_sample": 1437,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 9355,
+    "permutation_seed": 1701,
+    "donor_sample": 6751,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 9355,
+    "permutation_seed": 1702,
+    "donor_sample": 8302,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 9355,
+    "permutation_seed": 1703,
+    "donor_sample": 3370,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 9399,
+    "permutation_seed": 1701,
+    "donor_sample": 5631,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 9399,
+    "permutation_seed": 1702,
+    "donor_sample": 3475,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 9399,
+    "permutation_seed": 1703,
+    "donor_sample": 2699,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 9405,
+    "permutation_seed": 1701,
+    "donor_sample": 2216,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 9405,
+    "permutation_seed": 1702,
+    "donor_sample": 6318,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 9405,
+    "permutation_seed": 1703,
+    "donor_sample": 7817,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 9524,
+    "permutation_seed": 1701,
+    "donor_sample": 2515,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 9524,
+    "permutation_seed": 1702,
+    "donor_sample": 4812,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 9524,
+    "permutation_seed": 1703,
+    "donor_sample": 4761,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 9880,
+    "permutation_seed": 1701,
+    "donor_sample": 8933,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 9880,
+    "permutation_seed": 1702,
+    "donor_sample": 4761,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "hellaswag",
+    "sample": 9880,
+    "permutation_seed": 1703,
+    "donor_sample": 2412,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 20,
+    "permutation_seed": 1701,
+    "donor_sample": 496,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 20,
+    "permutation_seed": 1702,
+    "donor_sample": 234,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 20,
+    "permutation_seed": 1703,
+    "donor_sample": 212,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 50,
+    "permutation_seed": 1701,
+    "donor_sample": 1109,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 50,
+    "permutation_seed": 1702,
+    "donor_sample": 1764,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 50,
+    "permutation_seed": 1703,
+    "donor_sample": 992,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 139,
+    "permutation_seed": 1701,
+    "donor_sample": 1631,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 139,
+    "permutation_seed": 1702,
+    "donor_sample": 1322,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 139,
+    "permutation_seed": 1703,
+    "donor_sample": 921,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 141,
+    "permutation_seed": 1701,
+    "donor_sample": 1305,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 141,
+    "permutation_seed": 1702,
+    "donor_sample": 1622,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 141,
+    "permutation_seed": 1703,
+    "donor_sample": 139,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 154,
+    "permutation_seed": 1701,
+    "donor_sample": 994,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 154,
+    "permutation_seed": 1702,
+    "donor_sample": 767,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 154,
+    "permutation_seed": 1703,
+    "donor_sample": 1452,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 212,
+    "permutation_seed": 1701,
+    "donor_sample": 723,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 212,
+    "permutation_seed": 1702,
+    "donor_sample": 1328,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 212,
+    "permutation_seed": 1703,
+    "donor_sample": 953,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 234,
+    "permutation_seed": 1701,
+    "donor_sample": 515,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 234,
+    "permutation_seed": 1702,
+    "donor_sample": 396,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 234,
+    "permutation_seed": 1703,
+    "donor_sample": 515,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 269,
+    "permutation_seed": 1701,
+    "donor_sample": 1622,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 269,
+    "permutation_seed": 1702,
+    "donor_sample": 921,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 269,
+    "permutation_seed": 1703,
+    "donor_sample": 396,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 284,
+    "permutation_seed": 1701,
+    "donor_sample": 269,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 284,
+    "permutation_seed": 1702,
+    "donor_sample": 1263,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 284,
+    "permutation_seed": 1703,
+    "donor_sample": 1322,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 301,
+    "permutation_seed": 1701,
+    "donor_sample": 891,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 301,
+    "permutation_seed": 1702,
+    "donor_sample": 953,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 301,
+    "permutation_seed": 1703,
+    "donor_sample": 1622,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 396,
+    "permutation_seed": 1701,
+    "donor_sample": 767,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 396,
+    "permutation_seed": 1702,
+    "donor_sample": 932,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 396,
+    "permutation_seed": 1703,
+    "donor_sample": 1201,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 412,
+    "permutation_seed": 1701,
+    "donor_sample": 1450,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 412,
+    "permutation_seed": 1702,
+    "donor_sample": 1201,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 412,
+    "permutation_seed": 1703,
+    "donor_sample": 301,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 493,
+    "permutation_seed": 1701,
+    "donor_sample": 934,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 493,
+    "permutation_seed": 1702,
+    "donor_sample": 1038,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 493,
+    "permutation_seed": 1703,
+    "donor_sample": 1109,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 496,
+    "permutation_seed": 1701,
+    "donor_sample": 141,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 496,
+    "permutation_seed": 1702,
+    "donor_sample": 1236,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 496,
+    "permutation_seed": 1703,
+    "donor_sample": 1038,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 513,
+    "permutation_seed": 1701,
+    "donor_sample": 992,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 513,
+    "permutation_seed": 1702,
+    "donor_sample": 412,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 513,
+    "permutation_seed": 1703,
+    "donor_sample": 1236,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 514,
+    "permutation_seed": 1701,
+    "donor_sample": 1764,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 514,
+    "permutation_seed": 1702,
+    "donor_sample": 1286,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 514,
+    "permutation_seed": 1703,
+    "donor_sample": 821,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 515,
+    "permutation_seed": 1701,
+    "donor_sample": 953,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 515,
+    "permutation_seed": 1702,
+    "donor_sample": 154,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 515,
+    "permutation_seed": 1703,
+    "donor_sample": 154,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 527,
+    "permutation_seed": 1701,
+    "donor_sample": 1386,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 527,
+    "permutation_seed": 1702,
+    "donor_sample": 141,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 527,
+    "permutation_seed": 1703,
+    "donor_sample": 1377,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 573,
+    "permutation_seed": 1701,
+    "donor_sample": 527,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 573,
+    "permutation_seed": 1702,
+    "donor_sample": 1306,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 573,
+    "permutation_seed": 1703,
+    "donor_sample": 1135,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 701,
+    "permutation_seed": 1701,
+    "donor_sample": 821,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 701,
+    "permutation_seed": 1702,
+    "donor_sample": 821,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 701,
+    "permutation_seed": 1703,
+    "donor_sample": 782,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 723,
+    "permutation_seed": 1701,
+    "donor_sample": 932,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 723,
+    "permutation_seed": 1702,
+    "donor_sample": 515,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 723,
+    "permutation_seed": 1703,
+    "donor_sample": 1250,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 760,
+    "permutation_seed": 1701,
+    "donor_sample": 1485,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 760,
+    "permutation_seed": 1702,
+    "donor_sample": 1450,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 760,
+    "permutation_seed": 1703,
+    "donor_sample": 50,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 767,
+    "permutation_seed": 1701,
+    "donor_sample": 852,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 767,
+    "permutation_seed": 1702,
+    "donor_sample": 1499,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 767,
+    "permutation_seed": 1703,
+    "donor_sample": 514,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 782,
+    "permutation_seed": 1701,
+    "donor_sample": 154,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 782,
+    "permutation_seed": 1702,
+    "donor_sample": 493,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 782,
+    "permutation_seed": 1703,
+    "donor_sample": 994,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 788,
+    "permutation_seed": 1701,
+    "donor_sample": 1452,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 788,
+    "permutation_seed": 1702,
+    "donor_sample": 1580,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 788,
+    "permutation_seed": 1703,
+    "donor_sample": 1485,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 821,
+    "permutation_seed": 1701,
+    "donor_sample": 1236,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 821,
+    "permutation_seed": 1702,
+    "donor_sample": 50,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 821,
+    "permutation_seed": 1703,
+    "donor_sample": 788,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 852,
+    "permutation_seed": 1701,
+    "donor_sample": 1265,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 852,
+    "permutation_seed": 1702,
+    "donor_sample": 1386,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 852,
+    "permutation_seed": 1703,
+    "donor_sample": 701,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 891,
+    "permutation_seed": 1701,
+    "donor_sample": 1135,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 891,
+    "permutation_seed": 1702,
+    "donor_sample": 20,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 891,
+    "permutation_seed": 1703,
+    "donor_sample": 1386,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 921,
+    "permutation_seed": 1701,
+    "donor_sample": 301,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 921,
+    "permutation_seed": 1702,
+    "donor_sample": 1265,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 921,
+    "permutation_seed": 1703,
+    "donor_sample": 971,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 932,
+    "permutation_seed": 1701,
+    "donor_sample": 573,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 932,
+    "permutation_seed": 1702,
+    "donor_sample": 527,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 932,
+    "permutation_seed": 1703,
+    "donor_sample": 1811,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 934,
+    "permutation_seed": 1701,
+    "donor_sample": 20,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 934,
+    "permutation_seed": 1702,
+    "donor_sample": 1597,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 934,
+    "permutation_seed": 1703,
+    "donor_sample": 760,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 953,
+    "permutation_seed": 1701,
+    "donor_sample": 412,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 953,
+    "permutation_seed": 1702,
+    "donor_sample": 1109,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 953,
+    "permutation_seed": 1703,
+    "donor_sample": 1328,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 971,
+    "permutation_seed": 1701,
+    "donor_sample": 513,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 971,
+    "permutation_seed": 1702,
+    "donor_sample": 573,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 971,
+    "permutation_seed": 1703,
+    "donor_sample": 1305,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 986,
+    "permutation_seed": 1701,
+    "donor_sample": 284,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 986,
+    "permutation_seed": 1702,
+    "donor_sample": 1135,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 986,
+    "permutation_seed": 1703,
+    "donor_sample": 1306,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 992,
+    "permutation_seed": 1701,
+    "donor_sample": 1811,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 992,
+    "permutation_seed": 1702,
+    "donor_sample": 1631,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 992,
+    "permutation_seed": 1703,
+    "donor_sample": 284,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 994,
+    "permutation_seed": 1701,
+    "donor_sample": 1186,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 994,
+    "permutation_seed": 1702,
+    "donor_sample": 782,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 994,
+    "permutation_seed": 1703,
+    "donor_sample": 1764,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1038,
+    "permutation_seed": 1701,
+    "donor_sample": 1201,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1038,
+    "permutation_seed": 1702,
+    "donor_sample": 513,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1038,
+    "permutation_seed": 1703,
+    "donor_sample": 1760,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1109,
+    "permutation_seed": 1701,
+    "donor_sample": 1263,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1109,
+    "permutation_seed": 1702,
+    "donor_sample": 269,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1109,
+    "permutation_seed": 1703,
+    "donor_sample": 1355,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1135,
+    "permutation_seed": 1701,
+    "donor_sample": 1597,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1135,
+    "permutation_seed": 1702,
+    "donor_sample": 1452,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1135,
+    "permutation_seed": 1703,
+    "donor_sample": 1286,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1186,
+    "permutation_seed": 1701,
+    "donor_sample": 788,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1186,
+    "permutation_seed": 1702,
+    "donor_sample": 1305,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1186,
+    "permutation_seed": 1703,
+    "donor_sample": 234,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1201,
+    "permutation_seed": 1701,
+    "donor_sample": 514,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1201,
+    "permutation_seed": 1702,
+    "donor_sample": 301,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1201,
+    "permutation_seed": 1703,
+    "donor_sample": 852,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1236,
+    "permutation_seed": 1701,
+    "donor_sample": 986,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1236,
+    "permutation_seed": 1702,
+    "donor_sample": 496,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1236,
+    "permutation_seed": 1703,
+    "donor_sample": 1263,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1250,
+    "permutation_seed": 1701,
+    "donor_sample": 1499,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1250,
+    "permutation_seed": 1702,
+    "donor_sample": 994,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1250,
+    "permutation_seed": 1703,
+    "donor_sample": 723,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1263,
+    "permutation_seed": 1701,
+    "donor_sample": 212,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1263,
+    "permutation_seed": 1702,
+    "donor_sample": 514,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1263,
+    "permutation_seed": 1703,
+    "donor_sample": 513,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1265,
+    "permutation_seed": 1701,
+    "donor_sample": 1328,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1265,
+    "permutation_seed": 1702,
+    "donor_sample": 1377,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1265,
+    "permutation_seed": 1703,
+    "donor_sample": 141,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1286,
+    "permutation_seed": 1701,
+    "donor_sample": 1355,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1286,
+    "permutation_seed": 1702,
+    "donor_sample": 1250,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1286,
+    "permutation_seed": 1703,
+    "donor_sample": 1265,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1305,
+    "permutation_seed": 1701,
+    "donor_sample": 1760,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1305,
+    "permutation_seed": 1702,
+    "donor_sample": 1811,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1305,
+    "permutation_seed": 1703,
+    "donor_sample": 493,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1306,
+    "permutation_seed": 1701,
+    "donor_sample": 493,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1306,
+    "permutation_seed": 1702,
+    "donor_sample": 284,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1306,
+    "permutation_seed": 1703,
+    "donor_sample": 932,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1322,
+    "permutation_seed": 1701,
+    "donor_sample": 1038,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1322,
+    "permutation_seed": 1702,
+    "donor_sample": 788,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1322,
+    "permutation_seed": 1703,
+    "donor_sample": 573,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1328,
+    "permutation_seed": 1701,
+    "donor_sample": 921,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1328,
+    "permutation_seed": 1702,
+    "donor_sample": 852,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1328,
+    "permutation_seed": 1703,
+    "donor_sample": 934,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1355,
+    "permutation_seed": 1701,
+    "donor_sample": 234,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1355,
+    "permutation_seed": 1702,
+    "donor_sample": 139,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1355,
+    "permutation_seed": 1703,
+    "donor_sample": 891,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1377,
+    "permutation_seed": 1701,
+    "donor_sample": 1580,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1377,
+    "permutation_seed": 1702,
+    "donor_sample": 212,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1377,
+    "permutation_seed": 1703,
+    "donor_sample": 1499,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1386,
+    "permutation_seed": 1701,
+    "donor_sample": 139,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1386,
+    "permutation_seed": 1702,
+    "donor_sample": 1186,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1386,
+    "permutation_seed": 1703,
+    "donor_sample": 1597,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1450,
+    "permutation_seed": 1701,
+    "donor_sample": 1322,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1450,
+    "permutation_seed": 1702,
+    "donor_sample": 701,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1450,
+    "permutation_seed": 1703,
+    "donor_sample": 986,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1452,
+    "permutation_seed": 1701,
+    "donor_sample": 1250,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1452,
+    "permutation_seed": 1702,
+    "donor_sample": 1760,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1452,
+    "permutation_seed": 1703,
+    "donor_sample": 496,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1485,
+    "permutation_seed": 1701,
+    "donor_sample": 50,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1485,
+    "permutation_seed": 1702,
+    "donor_sample": 934,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1485,
+    "permutation_seed": 1703,
+    "donor_sample": 527,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1499,
+    "permutation_seed": 1701,
+    "donor_sample": 701,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1499,
+    "permutation_seed": 1702,
+    "donor_sample": 723,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1499,
+    "permutation_seed": 1703,
+    "donor_sample": 1631,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1580,
+    "permutation_seed": 1701,
+    "donor_sample": 760,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1580,
+    "permutation_seed": 1702,
+    "donor_sample": 1355,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1580,
+    "permutation_seed": 1703,
+    "donor_sample": 412,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1597,
+    "permutation_seed": 1701,
+    "donor_sample": 1306,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1597,
+    "permutation_seed": 1702,
+    "donor_sample": 1485,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1597,
+    "permutation_seed": 1703,
+    "donor_sample": 1186,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1622,
+    "permutation_seed": 1701,
+    "donor_sample": 1286,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1622,
+    "permutation_seed": 1702,
+    "donor_sample": 760,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1622,
+    "permutation_seed": 1703,
+    "donor_sample": 1450,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1631,
+    "permutation_seed": 1701,
+    "donor_sample": 971,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1631,
+    "permutation_seed": 1702,
+    "donor_sample": 992,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1631,
+    "permutation_seed": 1703,
+    "donor_sample": 767,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1760,
+    "permutation_seed": 1701,
+    "donor_sample": 782,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1760,
+    "permutation_seed": 1702,
+    "donor_sample": 891,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1760,
+    "permutation_seed": 1703,
+    "donor_sample": 269,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1764,
+    "permutation_seed": 1701,
+    "donor_sample": 1377,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1764,
+    "permutation_seed": 1702,
+    "donor_sample": 971,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1764,
+    "permutation_seed": 1703,
+    "donor_sample": 1580,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1811,
+    "permutation_seed": 1701,
+    "donor_sample": 396,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1811,
+    "permutation_seed": 1702,
+    "donor_sample": 986,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "piqa",
+    "sample": 1811,
+    "permutation_seed": 1703,
+    "donor_sample": 20,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 0,
+    "permutation_seed": 1701,
+    "donor_sample": 582,
+    "recipient_document": 1,
+    "donor_document": 43
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 0,
+    "permutation_seed": 1702,
+    "donor_sample": 374,
+    "recipient_document": 1,
+    "donor_document": 31
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 0,
+    "permutation_seed": 1703,
+    "donor_sample": 110,
+    "recipient_document": 1,
+    "donor_document": 9
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 5,
+    "permutation_seed": 1701,
+    "donor_sample": 265,
+    "recipient_document": 2,
+    "donor_document": 24
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 5,
+    "permutation_seed": 1702,
+    "donor_sample": 510,
+    "recipient_document": 2,
+    "donor_document": 39
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 5,
+    "permutation_seed": 1703,
+    "donor_sample": 725,
+    "recipient_document": 2,
+    "donor_document": 61
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 15,
+    "permutation_seed": 1701,
+    "donor_sample": 270,
+    "recipient_document": 2,
+    "donor_document": 24
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 15,
+    "permutation_seed": 1702,
+    "donor_sample": 707,
+    "recipient_document": 2,
+    "donor_document": 60
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 15,
+    "permutation_seed": 1703,
+    "donor_sample": 514,
+    "recipient_document": 2,
+    "donor_document": 40
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 39,
+    "permutation_seed": 1701,
+    "donor_sample": 566,
+    "recipient_document": 4,
+    "donor_document": 41
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 39,
+    "permutation_seed": 1702,
+    "donor_sample": 566,
+    "recipient_document": 4,
+    "donor_document": 41
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 39,
+    "permutation_seed": 1703,
+    "donor_sample": 259,
+    "recipient_document": 4,
+    "donor_document": 23
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 44,
+    "permutation_seed": 1701,
+    "donor_sample": 145,
+    "recipient_document": 4,
+    "donor_document": 12
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 44,
+    "permutation_seed": 1702,
+    "donor_sample": 560,
+    "recipient_document": 4,
+    "donor_document": 41
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 44,
+    "permutation_seed": 1703,
+    "donor_sample": 260,
+    "recipient_document": 4,
+    "donor_document": 23
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 61,
+    "permutation_seed": 1701,
+    "donor_sample": 169,
+    "recipient_document": 7,
+    "donor_document": 12
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 61,
+    "permutation_seed": 1702,
+    "donor_sample": 44,
+    "recipient_document": 7,
+    "donor_document": 4
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 61,
+    "permutation_seed": 1703,
+    "donor_sample": 586,
+    "recipient_document": 7,
+    "donor_document": 44
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 79,
+    "permutation_seed": 1701,
+    "donor_sample": 162,
+    "recipient_document": 7,
+    "donor_document": 12
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 79,
+    "permutation_seed": 1702,
+    "donor_sample": 39,
+    "recipient_document": 7,
+    "donor_document": 4
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 79,
+    "permutation_seed": 1703,
+    "donor_sample": 179,
+    "recipient_document": 7,
+    "donor_document": 14
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 83,
+    "permutation_seed": 1701,
+    "donor_sample": 302,
+    "recipient_document": 7,
+    "donor_document": 25
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 83,
+    "permutation_seed": 1702,
+    "donor_sample": 717,
+    "recipient_document": 7,
+    "donor_document": 60
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 83,
+    "permutation_seed": 1703,
+    "donor_sample": 743,
+    "recipient_document": 7,
+    "donor_document": 62
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 99,
+    "permutation_seed": 1701,
+    "donor_sample": 349,
+    "recipient_document": 9,
+    "donor_document": 27
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 99,
+    "permutation_seed": 1702,
+    "donor_sample": 168,
+    "recipient_document": 9,
+    "donor_document": 12
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 99,
+    "permutation_seed": 1703,
+    "donor_sample": 509,
+    "recipient_document": 9,
+    "donor_document": 39
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 105,
+    "permutation_seed": 1701,
+    "donor_sample": 344,
+    "recipient_document": 9,
+    "donor_document": 27
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 105,
+    "permutation_seed": 1702,
+    "donor_sample": 231,
+    "recipient_document": 9,
+    "donor_document": 20
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 105,
+    "permutation_seed": 1703,
+    "donor_sample": 265,
+    "recipient_document": 9,
+    "donor_document": 24
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 110,
+    "permutation_seed": 1701,
+    "donor_sample": 357,
+    "recipient_document": 9,
+    "donor_document": 27
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 110,
+    "permutation_seed": 1702,
+    "donor_sample": 145,
+    "recipient_document": 9,
+    "donor_document": 12
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 110,
+    "permutation_seed": 1703,
+    "donor_sample": 270,
+    "recipient_document": 9,
+    "donor_document": 24
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 120,
+    "permutation_seed": 1701,
+    "donor_sample": 319,
+    "recipient_document": 9,
+    "donor_document": 26
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 120,
+    "permutation_seed": 1702,
+    "donor_sample": 586,
+    "recipient_document": 9,
+    "donor_document": 44
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 120,
+    "permutation_seed": 1703,
+    "donor_sample": 633,
+    "recipient_document": 9,
+    "donor_document": 48
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 129,
+    "permutation_seed": 1701,
+    "donor_sample": 472,
+    "recipient_document": 9,
+    "donor_document": 38
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 129,
+    "permutation_seed": 1702,
+    "donor_sample": 167,
+    "recipient_document": 9,
+    "donor_document": 12
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 129,
+    "permutation_seed": 1703,
+    "donor_sample": 510,
+    "recipient_document": 9,
+    "donor_document": 39
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 145,
+    "permutation_seed": 1701,
+    "donor_sample": 216,
+    "recipient_document": 12,
+    "donor_document": 19
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 145,
+    "permutation_seed": 1702,
+    "donor_sample": 349,
+    "recipient_document": 12,
+    "donor_document": 27
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 145,
+    "permutation_seed": 1703,
+    "donor_sample": 357,
+    "recipient_document": 12,
+    "donor_document": 27
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 162,
+    "permutation_seed": 1701,
+    "donor_sample": 367,
+    "recipient_document": 12,
+    "donor_document": 31
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 162,
+    "permutation_seed": 1702,
+    "donor_sample": 199,
+    "recipient_document": 12,
+    "donor_document": 17
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 162,
+    "permutation_seed": 1703,
+    "donor_sample": 39,
+    "recipient_document": 12,
+    "donor_document": 4
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 167,
+    "permutation_seed": 1701,
+    "donor_sample": 514,
+    "recipient_document": 12,
+    "donor_document": 40
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 167,
+    "permutation_seed": 1702,
+    "donor_sample": 216,
+    "recipient_document": 12,
+    "donor_document": 19
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 167,
+    "permutation_seed": 1703,
+    "donor_sample": 344,
+    "recipient_document": 12,
+    "donor_document": 27
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 168,
+    "permutation_seed": 1701,
+    "donor_sample": 743,
+    "recipient_document": 12,
+    "donor_document": 62
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 168,
+    "permutation_seed": 1702,
+    "donor_sample": 201,
+    "recipient_document": 12,
+    "donor_document": 17
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 168,
+    "permutation_seed": 1703,
+    "donor_sample": 231,
+    "recipient_document": 12,
+    "donor_document": 20
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 169,
+    "permutation_seed": 1701,
+    "donor_sample": 374,
+    "recipient_document": 12,
+    "donor_document": 31
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 169,
+    "permutation_seed": 1702,
+    "donor_sample": 203,
+    "recipient_document": 12,
+    "donor_document": 17
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 169,
+    "permutation_seed": 1703,
+    "donor_sample": 349,
+    "recipient_document": 12,
+    "donor_document": 27
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 179,
+    "permutation_seed": 1701,
+    "donor_sample": 725,
+    "recipient_document": 14,
+    "donor_document": 61
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 179,
+    "permutation_seed": 1702,
+    "donor_sample": 455,
+    "recipient_document": 14,
+    "donor_document": 37
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 179,
+    "permutation_seed": 1703,
+    "donor_sample": 168,
+    "recipient_document": 14,
+    "donor_document": 12
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 199,
+    "permutation_seed": 1701,
+    "donor_sample": 260,
+    "recipient_document": 17,
+    "donor_document": 23
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 199,
+    "permutation_seed": 1702,
+    "donor_sample": 99,
+    "recipient_document": 17,
+    "donor_document": 9
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 199,
+    "permutation_seed": 1703,
+    "donor_sample": 167,
+    "recipient_document": 17,
+    "donor_document": 12
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 201,
+    "permutation_seed": 1701,
+    "donor_sample": 257,
+    "recipient_document": 17,
+    "donor_document": 23
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 201,
+    "permutation_seed": 1702,
+    "donor_sample": 129,
+    "recipient_document": 17,
+    "donor_document": 9
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 201,
+    "permutation_seed": 1703,
+    "donor_sample": 733,
+    "recipient_document": 17,
+    "donor_document": 61
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 203,
+    "permutation_seed": 1701,
+    "donor_sample": 179,
+    "recipient_document": 17,
+    "donor_document": 14
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 203,
+    "permutation_seed": 1702,
+    "donor_sample": 635,
+    "recipient_document": 17,
+    "donor_document": 48
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 203,
+    "permutation_seed": 1703,
+    "donor_sample": 162,
+    "recipient_document": 17,
+    "donor_document": 12
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 216,
+    "permutation_seed": 1701,
+    "donor_sample": 510,
+    "recipient_document": 19,
+    "donor_document": 39
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 216,
+    "permutation_seed": 1702,
+    "donor_sample": 110,
+    "recipient_document": 19,
+    "donor_document": 9
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 216,
+    "permutation_seed": 1703,
+    "donor_sample": 560,
+    "recipient_document": 19,
+    "donor_document": 41
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 231,
+    "permutation_seed": 1701,
+    "donor_sample": 509,
+    "recipient_document": 20,
+    "donor_document": 39
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 231,
+    "permutation_seed": 1702,
+    "donor_sample": 344,
+    "recipient_document": 20,
+    "donor_document": 27
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 231,
+    "permutation_seed": 1703,
+    "donor_sample": 249,
+    "recipient_document": 20,
+    "donor_document": 22
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 238,
+    "permutation_seed": 1701,
+    "donor_sample": 0,
+    "recipient_document": 21,
+    "donor_document": 1
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 238,
+    "permutation_seed": 1702,
+    "donor_sample": 733,
+    "recipient_document": 21,
+    "donor_document": 61
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 238,
+    "permutation_seed": 1703,
+    "donor_sample": 367,
+    "recipient_document": 21,
+    "donor_document": 31
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 249,
+    "permutation_seed": 1701,
+    "donor_sample": 610,
+    "recipient_document": 22,
+    "donor_document": 46
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 249,
+    "permutation_seed": 1702,
+    "donor_sample": 179,
+    "recipient_document": 22,
+    "donor_document": 14
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 249,
+    "permutation_seed": 1703,
+    "donor_sample": 203,
+    "recipient_document": 22,
+    "donor_document": 17
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 257,
+    "permutation_seed": 1701,
+    "donor_sample": 633,
+    "recipient_document": 23,
+    "donor_document": 48
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 257,
+    "permutation_seed": 1702,
+    "donor_sample": 5,
+    "recipient_document": 23,
+    "donor_document": 2
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 257,
+    "permutation_seed": 1703,
+    "donor_sample": 5,
+    "recipient_document": 23,
+    "donor_document": 2
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 259,
+    "permutation_seed": 1701,
+    "donor_sample": 626,
+    "recipient_document": 23,
+    "donor_document": 48
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 259,
+    "permutation_seed": 1702,
+    "donor_sample": 265,
+    "recipient_document": 23,
+    "donor_document": 24
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 259,
+    "permutation_seed": 1703,
+    "donor_sample": 15,
+    "recipient_document": 23,
+    "donor_document": 2
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 260,
+    "permutation_seed": 1701,
+    "donor_sample": 733,
+    "recipient_document": 23,
+    "donor_document": 61
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 260,
+    "permutation_seed": 1702,
+    "donor_sample": 319,
+    "recipient_document": 23,
+    "donor_document": 26
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 260,
+    "permutation_seed": 1703,
+    "donor_sample": 638,
+    "recipient_document": 23,
+    "donor_document": 49
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 265,
+    "permutation_seed": 1701,
+    "donor_sample": 201,
+    "recipient_document": 24,
+    "donor_document": 17
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 265,
+    "permutation_seed": 1702,
+    "donor_sample": 725,
+    "recipient_document": 24,
+    "donor_document": 61
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 265,
+    "permutation_seed": 1703,
+    "donor_sample": 648,
+    "recipient_document": 24,
+    "donor_document": 51
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 270,
+    "permutation_seed": 1701,
+    "donor_sample": 199,
+    "recipient_document": 24,
+    "donor_document": 17
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 270,
+    "permutation_seed": 1702,
+    "donor_sample": 731,
+    "recipient_document": 24,
+    "donor_document": 61
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 270,
+    "permutation_seed": 1703,
+    "donor_sample": 582,
+    "recipient_document": 24,
+    "donor_document": 43
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 302,
+    "permutation_seed": 1701,
+    "donor_sample": 455,
+    "recipient_document": 25,
+    "donor_document": 37
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 302,
+    "permutation_seed": 1702,
+    "donor_sample": 448,
+    "recipient_document": 25,
+    "donor_document": 36
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 302,
+    "permutation_seed": 1703,
+    "donor_sample": 626,
+    "recipient_document": 25,
+    "donor_document": 48
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 319,
+    "permutation_seed": 1701,
+    "donor_sample": 717,
+    "recipient_document": 26,
+    "donor_document": 60
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 319,
+    "permutation_seed": 1702,
+    "donor_sample": 509,
+    "recipient_document": 26,
+    "donor_document": 39
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 319,
+    "permutation_seed": 1703,
+    "donor_sample": 83,
+    "recipient_document": 26,
+    "donor_document": 7
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 344,
+    "permutation_seed": 1701,
+    "donor_sample": 448,
+    "recipient_document": 27,
+    "donor_document": 36
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 344,
+    "permutation_seed": 1702,
+    "donor_sample": 604,
+    "recipient_document": 27,
+    "donor_document": 45
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 344,
+    "permutation_seed": 1703,
+    "donor_sample": 257,
+    "recipient_document": 27,
+    "donor_document": 23
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 349,
+    "permutation_seed": 1701,
+    "donor_sample": 638,
+    "recipient_document": 27,
+    "donor_document": 49
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 349,
+    "permutation_seed": 1702,
+    "donor_sample": 120,
+    "recipient_document": 27,
+    "donor_document": 9
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 349,
+    "permutation_seed": 1703,
+    "donor_sample": 707,
+    "recipient_document": 27,
+    "donor_document": 60
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 357,
+    "permutation_seed": 1701,
+    "donor_sample": 433,
+    "recipient_document": 27,
+    "donor_document": 36
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 357,
+    "permutation_seed": 1702,
+    "donor_sample": 105,
+    "recipient_document": 27,
+    "donor_document": 9
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 357,
+    "permutation_seed": 1703,
+    "donor_sample": 717,
+    "recipient_document": 27,
+    "donor_document": 60
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 367,
+    "permutation_seed": 1701,
+    "donor_sample": 604,
+    "recipient_document": 31,
+    "donor_document": 45
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 367,
+    "permutation_seed": 1702,
+    "donor_sample": 626,
+    "recipient_document": 31,
+    "donor_document": 48
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 367,
+    "permutation_seed": 1703,
+    "donor_sample": 99,
+    "recipient_document": 31,
+    "donor_document": 9
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 374,
+    "permutation_seed": 1701,
+    "donor_sample": 39,
+    "recipient_document": 31,
+    "donor_document": 4
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 374,
+    "permutation_seed": 1702,
+    "donor_sample": 633,
+    "recipient_document": 31,
+    "donor_document": 48
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 374,
+    "permutation_seed": 1703,
+    "donor_sample": 79,
+    "recipient_document": 31,
+    "donor_document": 7
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 399,
+    "permutation_seed": 1701,
+    "donor_sample": 259,
+    "recipient_document": 33,
+    "donor_document": 23
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 399,
+    "permutation_seed": 1702,
+    "donor_sample": 433,
+    "recipient_document": 33,
+    "donor_document": 36
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 399,
+    "permutation_seed": 1703,
+    "donor_sample": 566,
+    "recipient_document": 33,
+    "donor_document": 41
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 433,
+    "permutation_seed": 1701,
+    "donor_sample": 83,
+    "recipient_document": 36,
+    "donor_document": 7
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 433,
+    "permutation_seed": 1702,
+    "donor_sample": 582,
+    "recipient_document": 36,
+    "donor_document": 43
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 433,
+    "permutation_seed": 1703,
+    "donor_sample": 455,
+    "recipient_document": 36,
+    "donor_document": 37
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 448,
+    "permutation_seed": 1701,
+    "donor_sample": 61,
+    "recipient_document": 36,
+    "donor_document": 7
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 448,
+    "permutation_seed": 1702,
+    "donor_sample": 610,
+    "recipient_document": 36,
+    "donor_document": 46
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 448,
+    "permutation_seed": 1703,
+    "donor_sample": 472,
+    "recipient_document": 36,
+    "donor_document": 38
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 455,
+    "permutation_seed": 1701,
+    "donor_sample": 44,
+    "recipient_document": 37,
+    "donor_document": 4
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 455,
+    "permutation_seed": 1702,
+    "donor_sample": 61,
+    "recipient_document": 37,
+    "donor_document": 7
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 455,
+    "permutation_seed": 1703,
+    "donor_sample": 61,
+    "recipient_document": 37,
+    "donor_document": 7
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 472,
+    "permutation_seed": 1701,
+    "donor_sample": 731,
+    "recipient_document": 38,
+    "donor_document": 61
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 472,
+    "permutation_seed": 1702,
+    "donor_sample": 15,
+    "recipient_document": 38,
+    "donor_document": 2
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 472,
+    "permutation_seed": 1703,
+    "donor_sample": 610,
+    "recipient_document": 38,
+    "donor_document": 46
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 509,
+    "permutation_seed": 1701,
+    "donor_sample": 635,
+    "recipient_document": 39,
+    "donor_document": 48
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 509,
+    "permutation_seed": 1702,
+    "donor_sample": 259,
+    "recipient_document": 39,
+    "donor_document": 23
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 509,
+    "permutation_seed": 1703,
+    "donor_sample": 448,
+    "recipient_document": 39,
+    "donor_document": 36
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 510,
+    "permutation_seed": 1701,
+    "donor_sample": 690,
+    "recipient_document": 39,
+    "donor_document": 57
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 510,
+    "permutation_seed": 1702,
+    "donor_sample": 260,
+    "recipient_document": 39,
+    "donor_document": 23
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 510,
+    "permutation_seed": 1703,
+    "donor_sample": 433,
+    "recipient_document": 39,
+    "donor_document": 36
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 514,
+    "permutation_seed": 1701,
+    "donor_sample": 5,
+    "recipient_document": 40,
+    "donor_document": 2
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 514,
+    "permutation_seed": 1702,
+    "donor_sample": 399,
+    "recipient_document": 40,
+    "donor_document": 33
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 514,
+    "permutation_seed": 1703,
+    "donor_sample": 120,
+    "recipient_document": 40,
+    "donor_document": 9
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 560,
+    "permutation_seed": 1701,
+    "donor_sample": 399,
+    "recipient_document": 41,
+    "donor_document": 33
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 560,
+    "permutation_seed": 1702,
+    "donor_sample": 79,
+    "recipient_document": 41,
+    "donor_document": 7
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 560,
+    "permutation_seed": 1703,
+    "donor_sample": 129,
+    "recipient_document": 41,
+    "donor_document": 9
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 566,
+    "permutation_seed": 1701,
+    "donor_sample": 231,
+    "recipient_document": 41,
+    "donor_document": 20
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 566,
+    "permutation_seed": 1702,
+    "donor_sample": 83,
+    "recipient_document": 41,
+    "donor_document": 7
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 566,
+    "permutation_seed": 1703,
+    "donor_sample": 105,
+    "recipient_document": 41,
+    "donor_document": 9
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 582,
+    "permutation_seed": 1701,
+    "donor_sample": 168,
+    "recipient_document": 43,
+    "donor_document": 12
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 582,
+    "permutation_seed": 1702,
+    "donor_sample": 302,
+    "recipient_document": 43,
+    "donor_document": 25
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 582,
+    "permutation_seed": 1703,
+    "donor_sample": 374,
+    "recipient_document": 43,
+    "donor_document": 31
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 586,
+    "permutation_seed": 1701,
+    "donor_sample": 167,
+    "recipient_document": 44,
+    "donor_document": 12
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 586,
+    "permutation_seed": 1702,
+    "donor_sample": 357,
+    "recipient_document": 44,
+    "donor_document": 27
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 586,
+    "permutation_seed": 1703,
+    "donor_sample": 169,
+    "recipient_document": 44,
+    "donor_document": 12
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 604,
+    "permutation_seed": 1701,
+    "donor_sample": 560,
+    "recipient_document": 45,
+    "donor_document": 41
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 604,
+    "permutation_seed": 1702,
+    "donor_sample": 648,
+    "recipient_document": 45,
+    "donor_document": 51
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 604,
+    "permutation_seed": 1703,
+    "donor_sample": 731,
+    "recipient_document": 45,
+    "donor_document": 61
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 610,
+    "permutation_seed": 1701,
+    "donor_sample": 707,
+    "recipient_document": 46,
+    "donor_document": 60
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 610,
+    "permutation_seed": 1702,
+    "donor_sample": 249,
+    "recipient_document": 46,
+    "donor_document": 22
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 610,
+    "permutation_seed": 1703,
+    "donor_sample": 199,
+    "recipient_document": 46,
+    "donor_document": 17
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 626,
+    "permutation_seed": 1701,
+    "donor_sample": 99,
+    "recipient_document": 48,
+    "donor_document": 9
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 626,
+    "permutation_seed": 1702,
+    "donor_sample": 0,
+    "recipient_document": 48,
+    "donor_document": 1
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 626,
+    "permutation_seed": 1703,
+    "donor_sample": 216,
+    "recipient_document": 48,
+    "donor_document": 19
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 633,
+    "permutation_seed": 1701,
+    "donor_sample": 110,
+    "recipient_document": 48,
+    "donor_document": 9
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 633,
+    "permutation_seed": 1702,
+    "donor_sample": 169,
+    "recipient_document": 48,
+    "donor_document": 12
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 633,
+    "permutation_seed": 1703,
+    "donor_sample": 238,
+    "recipient_document": 48,
+    "donor_document": 21
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 635,
+    "permutation_seed": 1701,
+    "donor_sample": 129,
+    "recipient_document": 48,
+    "donor_document": 9
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 635,
+    "permutation_seed": 1702,
+    "donor_sample": 162,
+    "recipient_document": 48,
+    "donor_document": 12
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 635,
+    "permutation_seed": 1703,
+    "donor_sample": 399,
+    "recipient_document": 48,
+    "donor_document": 33
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 638,
+    "permutation_seed": 1701,
+    "donor_sample": 648,
+    "recipient_document": 49,
+    "donor_document": 51
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 638,
+    "permutation_seed": 1702,
+    "donor_sample": 270,
+    "recipient_document": 49,
+    "donor_document": 24
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 638,
+    "permutation_seed": 1703,
+    "donor_sample": 0,
+    "recipient_document": 49,
+    "donor_document": 1
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 648,
+    "permutation_seed": 1701,
+    "donor_sample": 238,
+    "recipient_document": 51,
+    "donor_document": 21
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 648,
+    "permutation_seed": 1702,
+    "donor_sample": 743,
+    "recipient_document": 51,
+    "donor_document": 62
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 648,
+    "permutation_seed": 1703,
+    "donor_sample": 319,
+    "recipient_document": 51,
+    "donor_document": 26
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 690,
+    "permutation_seed": 1701,
+    "donor_sample": 203,
+    "recipient_document": 57,
+    "donor_document": 17
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 690,
+    "permutation_seed": 1702,
+    "donor_sample": 238,
+    "recipient_document": 57,
+    "donor_document": 21
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 690,
+    "permutation_seed": 1703,
+    "donor_sample": 635,
+    "recipient_document": 57,
+    "donor_document": 48
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 707,
+    "permutation_seed": 1701,
+    "donor_sample": 586,
+    "recipient_document": 60,
+    "donor_document": 44
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 707,
+    "permutation_seed": 1702,
+    "donor_sample": 257,
+    "recipient_document": 60,
+    "donor_document": 23
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 707,
+    "permutation_seed": 1703,
+    "donor_sample": 604,
+    "recipient_document": 60,
+    "donor_document": 45
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 717,
+    "permutation_seed": 1701,
+    "donor_sample": 79,
+    "recipient_document": 60,
+    "donor_document": 7
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 717,
+    "permutation_seed": 1702,
+    "donor_sample": 472,
+    "recipient_document": 60,
+    "donor_document": 38
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 717,
+    "permutation_seed": 1703,
+    "donor_sample": 201,
+    "recipient_document": 60,
+    "donor_document": 17
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 725,
+    "permutation_seed": 1701,
+    "donor_sample": 120,
+    "recipient_document": 61,
+    "donor_document": 9
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 725,
+    "permutation_seed": 1702,
+    "donor_sample": 638,
+    "recipient_document": 61,
+    "donor_document": 49
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 725,
+    "permutation_seed": 1703,
+    "donor_sample": 302,
+    "recipient_document": 61,
+    "donor_document": 25
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 731,
+    "permutation_seed": 1701,
+    "donor_sample": 249,
+    "recipient_document": 61,
+    "donor_document": 22
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 731,
+    "permutation_seed": 1702,
+    "donor_sample": 690,
+    "recipient_document": 61,
+    "donor_document": 57
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 731,
+    "permutation_seed": 1703,
+    "donor_sample": 690,
+    "recipient_document": 61,
+    "donor_document": 57
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 733,
+    "permutation_seed": 1701,
+    "donor_sample": 105,
+    "recipient_document": 61,
+    "donor_document": 9
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 733,
+    "permutation_seed": 1702,
+    "donor_sample": 367,
+    "recipient_document": 61,
+    "donor_document": 31
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 733,
+    "permutation_seed": 1703,
+    "donor_sample": 44,
+    "recipient_document": 61,
+    "donor_document": 4
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 743,
+    "permutation_seed": 1701,
+    "donor_sample": 15,
+    "recipient_document": 62,
+    "donor_document": 2
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 743,
+    "permutation_seed": 1702,
+    "donor_sample": 514,
+    "recipient_document": 62,
+    "donor_document": 40
+  },
+  {
+    "task": "wikitext_conditional",
+    "sample": 743,
+    "permutation_seed": 1703,
+    "donor_sample": 145,
+    "recipient_document": 62,
+    "donor_document": 12
+  },
+  {
+    "task": "winogrande",
+    "sample": 19,
+    "permutation_seed": 1701,
+    "donor_sample": 134,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 19,
+    "permutation_seed": 1702,
+    "donor_sample": 1234,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 19,
+    "permutation_seed": 1703,
+    "donor_sample": 267,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 34,
+    "permutation_seed": 1701,
+    "donor_sample": 1262,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 34,
+    "permutation_seed": 1702,
+    "donor_sample": 903,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 34,
+    "permutation_seed": 1703,
+    "donor_sample": 615,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 96,
+    "permutation_seed": 1701,
+    "donor_sample": 615,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 96,
+    "permutation_seed": 1702,
+    "donor_sample": 267,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 96,
+    "permutation_seed": 1703,
+    "donor_sample": 229,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 134,
+    "permutation_seed": 1701,
+    "donor_sample": 1092,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 134,
+    "permutation_seed": 1702,
+    "donor_sample": 19,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 134,
+    "permutation_seed": 1703,
+    "donor_sample": 959,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 159,
+    "permutation_seed": 1701,
+    "donor_sample": 1265,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 159,
+    "permutation_seed": 1702,
+    "donor_sample": 34,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 159,
+    "permutation_seed": 1703,
+    "donor_sample": 1234,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 182,
+    "permutation_seed": 1701,
+    "donor_sample": 1246,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 182,
+    "permutation_seed": 1702,
+    "donor_sample": 283,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 182,
+    "permutation_seed": 1703,
+    "donor_sample": 261,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 203,
+    "permutation_seed": 1701,
+    "donor_sample": 423,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 203,
+    "permutation_seed": 1702,
+    "donor_sample": 1131,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 203,
+    "permutation_seed": 1703,
+    "donor_sample": 419,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 204,
+    "permutation_seed": 1701,
+    "donor_sample": 400,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 204,
+    "permutation_seed": 1702,
+    "donor_sample": 642,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 204,
+    "permutation_seed": 1703,
+    "donor_sample": 1223,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 206,
+    "permutation_seed": 1701,
+    "donor_sample": 804,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 206,
+    "permutation_seed": 1702,
+    "donor_sample": 407,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 206,
+    "permutation_seed": 1703,
+    "donor_sample": 903,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 229,
+    "permutation_seed": 1701,
+    "donor_sample": 1147,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 229,
+    "permutation_seed": 1702,
+    "donor_sample": 623,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 229,
+    "permutation_seed": 1703,
+    "donor_sample": 182,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 261,
+    "permutation_seed": 1701,
+    "donor_sample": 832,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 261,
+    "permutation_seed": 1702,
+    "donor_sample": 721,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 261,
+    "permutation_seed": 1703,
+    "donor_sample": 19,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 267,
+    "permutation_seed": 1701,
+    "donor_sample": 283,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 267,
+    "permutation_seed": 1702,
+    "donor_sample": 1007,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 267,
+    "permutation_seed": 1703,
+    "donor_sample": 1092,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 283,
+    "permutation_seed": 1701,
+    "donor_sample": 34,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 283,
+    "permutation_seed": 1702,
+    "donor_sample": 819,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 283,
+    "permutation_seed": 1703,
+    "donor_sample": 721,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 298,
+    "permutation_seed": 1701,
+    "donor_sample": 1116,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 298,
+    "permutation_seed": 1702,
+    "donor_sample": 159,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 298,
+    "permutation_seed": 1703,
+    "donor_sample": 359,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 359,
+    "permutation_seed": 1701,
+    "donor_sample": 903,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 359,
+    "permutation_seed": 1702,
+    "donor_sample": 1147,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 359,
+    "permutation_seed": 1703,
+    "donor_sample": 1116,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 400,
+    "permutation_seed": 1701,
+    "donor_sample": 571,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 400,
+    "permutation_seed": 1702,
+    "donor_sample": 423,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 400,
+    "permutation_seed": 1703,
+    "donor_sample": 832,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 407,
+    "permutation_seed": 1701,
+    "donor_sample": 159,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 407,
+    "permutation_seed": 1702,
+    "donor_sample": 510,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 407,
+    "permutation_seed": 1703,
+    "donor_sample": 1118,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 416,
+    "permutation_seed": 1701,
+    "donor_sample": 298,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 416,
+    "permutation_seed": 1702,
+    "donor_sample": 1246,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 416,
+    "permutation_seed": 1703,
+    "donor_sample": 34,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 419,
+    "permutation_seed": 1701,
+    "donor_sample": 510,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 419,
+    "permutation_seed": 1702,
+    "donor_sample": 1116,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 419,
+    "permutation_seed": 1703,
+    "donor_sample": 804,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 423,
+    "permutation_seed": 1701,
+    "donor_sample": 721,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 423,
+    "permutation_seed": 1702,
+    "donor_sample": 924,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 423,
+    "permutation_seed": 1703,
+    "donor_sample": 206,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 463,
+    "permutation_seed": 1701,
+    "donor_sample": 845,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 463,
+    "permutation_seed": 1702,
+    "donor_sample": 261,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 463,
+    "permutation_seed": 1703,
+    "donor_sample": 845,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 499,
+    "permutation_seed": 1701,
+    "donor_sample": 546,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 499,
+    "permutation_seed": 1702,
+    "donor_sample": 906,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 499,
+    "permutation_seed": 1703,
+    "donor_sample": 618,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 510,
+    "permutation_seed": 1701,
+    "donor_sample": 204,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 510,
+    "permutation_seed": 1702,
+    "donor_sample": 1118,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 510,
+    "permutation_seed": 1703,
+    "donor_sample": 593,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 545,
+    "permutation_seed": 1701,
+    "donor_sample": 642,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 545,
+    "permutation_seed": 1702,
+    "donor_sample": 96,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 545,
+    "permutation_seed": 1703,
+    "donor_sample": 510,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 546,
+    "permutation_seed": 1701,
+    "donor_sample": 623,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 546,
+    "permutation_seed": 1702,
+    "donor_sample": 876,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 546,
+    "permutation_seed": 1703,
+    "donor_sample": 629,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 567,
+    "permutation_seed": 1701,
+    "donor_sample": 419,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 567,
+    "permutation_seed": 1702,
+    "donor_sample": 1146,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 567,
+    "permutation_seed": 1703,
+    "donor_sample": 298,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 571,
+    "permutation_seed": 1701,
+    "donor_sample": 19,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 571,
+    "permutation_seed": 1702,
+    "donor_sample": 1223,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 571,
+    "permutation_seed": 1703,
+    "donor_sample": 423,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 573,
+    "permutation_seed": 1701,
+    "donor_sample": 1146,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 573,
+    "permutation_seed": 1702,
+    "donor_sample": 229,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 573,
+    "permutation_seed": 1703,
+    "donor_sample": 643,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 593,
+    "permutation_seed": 1701,
+    "donor_sample": 1234,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 593,
+    "permutation_seed": 1702,
+    "donor_sample": 959,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 593,
+    "permutation_seed": 1703,
+    "donor_sample": 96,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 615,
+    "permutation_seed": 1701,
+    "donor_sample": 819,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 615,
+    "permutation_seed": 1702,
+    "donor_sample": 463,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 615,
+    "permutation_seed": 1703,
+    "donor_sample": 642,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 618,
+    "permutation_seed": 1701,
+    "donor_sample": 261,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 618,
+    "permutation_seed": 1702,
+    "donor_sample": 419,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 618,
+    "permutation_seed": 1703,
+    "donor_sample": 978,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 623,
+    "permutation_seed": 1701,
+    "donor_sample": 924,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 623,
+    "permutation_seed": 1702,
+    "donor_sample": 615,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 623,
+    "permutation_seed": 1703,
+    "donor_sample": 1111,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 629,
+    "permutation_seed": 1701,
+    "donor_sample": 359,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 629,
+    "permutation_seed": 1702,
+    "donor_sample": 206,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 629,
+    "permutation_seed": 1703,
+    "donor_sample": 567,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 642,
+    "permutation_seed": 1701,
+    "donor_sample": 416,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 642,
+    "permutation_seed": 1702,
+    "donor_sample": 359,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 642,
+    "permutation_seed": 1703,
+    "donor_sample": 1147,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 643,
+    "permutation_seed": 1701,
+    "donor_sample": 1015,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 643,
+    "permutation_seed": 1702,
+    "donor_sample": 618,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 643,
+    "permutation_seed": 1703,
+    "donor_sample": 499,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 721,
+    "permutation_seed": 1701,
+    "donor_sample": 182,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 721,
+    "permutation_seed": 1702,
+    "donor_sample": 1111,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 721,
+    "permutation_seed": 1703,
+    "donor_sample": 571,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 804,
+    "permutation_seed": 1701,
+    "donor_sample": 1170,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 804,
+    "permutation_seed": 1702,
+    "donor_sample": 629,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 804,
+    "permutation_seed": 1703,
+    "donor_sample": 623,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 819,
+    "permutation_seed": 1701,
+    "donor_sample": 499,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 819,
+    "permutation_seed": 1702,
+    "donor_sample": 804,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 819,
+    "permutation_seed": 1703,
+    "donor_sample": 573,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 832,
+    "permutation_seed": 1701,
+    "donor_sample": 593,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 832,
+    "permutation_seed": 1702,
+    "donor_sample": 204,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 832,
+    "permutation_seed": 1703,
+    "donor_sample": 546,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 845,
+    "permutation_seed": 1701,
+    "donor_sample": 206,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 845,
+    "permutation_seed": 1702,
+    "donor_sample": 134,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 845,
+    "permutation_seed": 1703,
+    "donor_sample": 924,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 876,
+    "permutation_seed": 1701,
+    "donor_sample": 203,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 876,
+    "permutation_seed": 1702,
+    "donor_sample": 593,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 876,
+    "permutation_seed": 1703,
+    "donor_sample": 1246,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 903,
+    "permutation_seed": 1701,
+    "donor_sample": 1223,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 903,
+    "permutation_seed": 1702,
+    "donor_sample": 1250,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 903,
+    "permutation_seed": 1703,
+    "donor_sample": 134,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 906,
+    "permutation_seed": 1701,
+    "donor_sample": 959,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 906,
+    "permutation_seed": 1702,
+    "donor_sample": 567,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 906,
+    "permutation_seed": 1703,
+    "donor_sample": 1250,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 924,
+    "permutation_seed": 1701,
+    "donor_sample": 573,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 924,
+    "permutation_seed": 1702,
+    "donor_sample": 573,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 924,
+    "permutation_seed": 1703,
+    "donor_sample": 1265,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 959,
+    "permutation_seed": 1701,
+    "donor_sample": 643,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 959,
+    "permutation_seed": 1702,
+    "donor_sample": 546,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 959,
+    "permutation_seed": 1703,
+    "donor_sample": 1262,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 978,
+    "permutation_seed": 1701,
+    "donor_sample": 906,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 978,
+    "permutation_seed": 1702,
+    "donor_sample": 1262,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 978,
+    "permutation_seed": 1703,
+    "donor_sample": 545,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1007,
+    "permutation_seed": 1701,
+    "donor_sample": 567,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1007,
+    "permutation_seed": 1702,
+    "donor_sample": 1170,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1007,
+    "permutation_seed": 1703,
+    "donor_sample": 283,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1015,
+    "permutation_seed": 1701,
+    "donor_sample": 1131,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1015,
+    "permutation_seed": 1702,
+    "donor_sample": 298,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1015,
+    "permutation_seed": 1703,
+    "donor_sample": 1144,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1081,
+    "permutation_seed": 1701,
+    "donor_sample": 267,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1081,
+    "permutation_seed": 1702,
+    "donor_sample": 1265,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1081,
+    "permutation_seed": 1703,
+    "donor_sample": 1146,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1092,
+    "permutation_seed": 1701,
+    "donor_sample": 1007,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1092,
+    "permutation_seed": 1702,
+    "donor_sample": 545,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1092,
+    "permutation_seed": 1703,
+    "donor_sample": 1015,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1111,
+    "permutation_seed": 1701,
+    "donor_sample": 1144,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1111,
+    "permutation_seed": 1702,
+    "donor_sample": 499,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1111,
+    "permutation_seed": 1703,
+    "donor_sample": 159,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1116,
+    "permutation_seed": 1701,
+    "donor_sample": 1250,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1116,
+    "permutation_seed": 1702,
+    "donor_sample": 643,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1116,
+    "permutation_seed": 1703,
+    "donor_sample": 203,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1118,
+    "permutation_seed": 1701,
+    "donor_sample": 229,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1118,
+    "permutation_seed": 1702,
+    "donor_sample": 416,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1118,
+    "permutation_seed": 1703,
+    "donor_sample": 204,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1131,
+    "permutation_seed": 1701,
+    "donor_sample": 1081,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1131,
+    "permutation_seed": 1702,
+    "donor_sample": 400,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1131,
+    "permutation_seed": 1703,
+    "donor_sample": 819,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1144,
+    "permutation_seed": 1701,
+    "donor_sample": 463,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1144,
+    "permutation_seed": 1702,
+    "donor_sample": 978,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1144,
+    "permutation_seed": 1703,
+    "donor_sample": 1170,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1146,
+    "permutation_seed": 1701,
+    "donor_sample": 1118,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1146,
+    "permutation_seed": 1702,
+    "donor_sample": 1092,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1146,
+    "permutation_seed": 1703,
+    "donor_sample": 1131,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1147,
+    "permutation_seed": 1701,
+    "donor_sample": 618,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1147,
+    "permutation_seed": 1702,
+    "donor_sample": 845,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1147,
+    "permutation_seed": 1703,
+    "donor_sample": 1081,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1170,
+    "permutation_seed": 1701,
+    "donor_sample": 978,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1170,
+    "permutation_seed": 1702,
+    "donor_sample": 182,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1170,
+    "permutation_seed": 1703,
+    "donor_sample": 1007,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1223,
+    "permutation_seed": 1701,
+    "donor_sample": 876,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1223,
+    "permutation_seed": 1702,
+    "donor_sample": 203,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1223,
+    "permutation_seed": 1703,
+    "donor_sample": 400,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1234,
+    "permutation_seed": 1701,
+    "donor_sample": 1111,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1234,
+    "permutation_seed": 1702,
+    "donor_sample": 832,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1234,
+    "permutation_seed": 1703,
+    "donor_sample": 407,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1246,
+    "permutation_seed": 1701,
+    "donor_sample": 545,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1246,
+    "permutation_seed": 1702,
+    "donor_sample": 1144,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1246,
+    "permutation_seed": 1703,
+    "donor_sample": 416,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1250,
+    "permutation_seed": 1701,
+    "donor_sample": 629,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1250,
+    "permutation_seed": 1702,
+    "donor_sample": 571,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1250,
+    "permutation_seed": 1703,
+    "donor_sample": 463,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1262,
+    "permutation_seed": 1701,
+    "donor_sample": 96,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1262,
+    "permutation_seed": 1702,
+    "donor_sample": 1081,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1262,
+    "permutation_seed": 1703,
+    "donor_sample": 906,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1265,
+    "permutation_seed": 1701,
+    "donor_sample": 407,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1265,
+    "permutation_seed": 1702,
+    "donor_sample": 1015,
+    "recipient_document": null,
+    "donor_document": null
+  },
+  {
+    "task": "winogrande",
+    "sample": 1265,
+    "permutation_seed": 1703,
+    "donor_sample": 876,
+    "recipient_document": null,
+    "donor_document": null
+  }
+]

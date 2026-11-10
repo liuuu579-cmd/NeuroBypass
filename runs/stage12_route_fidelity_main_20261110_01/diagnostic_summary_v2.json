@@ -1,0 +1,1356 @@
+{
+  "groups": [
+    {
+      "task": "c4_development",
+      "condition": "matched",
+      "seed": 579,
+      "k": 10,
+      "records": 68,
+      "metric_mean": 0.2439194955737575,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "matched",
+      "seed": 579,
+      "k": 12,
+      "records": 68,
+      "metric_mean": 0.3859608008817157,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "matched",
+      "seed": 580,
+      "k": 10,
+      "records": 68,
+      "metric_mean": 0.2514440779293603,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "matched",
+      "seed": 580,
+      "k": 12,
+      "records": 68,
+      "metric_mean": 0.40038487037723436,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "matched",
+      "seed": 581,
+      "k": 10,
+      "records": 68,
+      "metric_mean": 0.23845428817273837,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "matched",
+      "seed": 581,
+      "k": 12,
+      "records": 68,
+      "metric_mean": 0.38005338093492635,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "shuffled_1701",
+      "seed": 579,
+      "k": 10,
+      "records": 68,
+      "metric_mean": 0.24975237820244695,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "shuffled_1701",
+      "seed": 579,
+      "k": 12,
+      "records": 68,
+      "metric_mean": 0.4027730063841375,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "shuffled_1701",
+      "seed": 580,
+      "k": 10,
+      "records": 68,
+      "metric_mean": 0.2572261980788924,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "shuffled_1701",
+      "seed": 580,
+      "k": 12,
+      "records": 68,
+      "metric_mean": 0.41787684997266566,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "shuffled_1701",
+      "seed": 581,
+      "k": 10,
+      "records": 68,
+      "metric_mean": 0.25066722663026925,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "shuffled_1701",
+      "seed": 581,
+      "k": 12,
+      "records": 68,
+      "metric_mean": 0.38811784343826283,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "shuffled_1702",
+      "seed": 579,
+      "k": 10,
+      "records": 68,
+      "metric_mean": 0.256286004127289,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "shuffled_1702",
+      "seed": 579,
+      "k": 12,
+      "records": 68,
+      "metric_mean": 0.4187285700068996,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "shuffled_1702",
+      "seed": 580,
+      "k": 10,
+      "records": 68,
+      "metric_mean": 0.25265617566649423,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "shuffled_1702",
+      "seed": 580,
+      "k": 12,
+      "records": 68,
+      "metric_mean": 0.40821231242685485,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "shuffled_1702",
+      "seed": 581,
+      "k": 10,
+      "records": 68,
+      "metric_mean": 0.2513542366172835,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "shuffled_1702",
+      "seed": 581,
+      "k": 12,
+      "records": 68,
+      "metric_mean": 0.3909786352271032,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "shuffled_1703",
+      "seed": 579,
+      "k": 10,
+      "records": 68,
+      "metric_mean": 0.25133456721375114,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "shuffled_1703",
+      "seed": 579,
+      "k": 12,
+      "records": 68,
+      "metric_mean": 0.4093833834904468,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "shuffled_1703",
+      "seed": 580,
+      "k": 10,
+      "records": 68,
+      "metric_mean": 0.24870814240178957,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "shuffled_1703",
+      "seed": 580,
+      "k": 12,
+      "records": 68,
+      "metric_mean": 0.4119698522632321,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "shuffled_1703",
+      "seed": 581,
+      "k": 10,
+      "records": 68,
+      "metric_mean": 0.24613675056421785,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "shuffled_1703",
+      "seed": 581,
+      "k": 12,
+      "records": 68,
+      "metric_mean": 0.3865045815894632,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "static_joint_kl",
+      "seed": 579,
+      "k": 10,
+      "records": 68,
+      "metric_mean": 0.23866127528555772,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "static_joint_kl",
+      "seed": 579,
+      "k": 12,
+      "records": 68,
+      "metric_mean": 0.3821697701890464,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "static_joint_kl",
+      "seed": 580,
+      "k": 10,
+      "records": 68,
+      "metric_mean": 0.23866127528555772,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "static_joint_kl",
+      "seed": 580,
+      "k": 12,
+      "records": 68,
+      "metric_mean": 0.3821697701890464,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "static_joint_kl",
+      "seed": 581,
+      "k": 10,
+      "records": 68,
+      "metric_mean": 0.23866127528555772,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "c4_development",
+      "condition": "static_joint_kl",
+      "seed": 581,
+      "k": 12,
+      "records": 68,
+      "metric_mean": 0.3821697701890464,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "matched",
+      "seed": 579,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.71875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "matched",
+      "seed": 579,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.6875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "matched",
+      "seed": 580,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.75,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "matched",
+      "seed": 580,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.6875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "matched",
+      "seed": 581,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.671875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "matched",
+      "seed": 581,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.671875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "shuffled_1701",
+      "seed": 579,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.734375,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "shuffled_1701",
+      "seed": 579,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.6875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "shuffled_1701",
+      "seed": 580,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.734375,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "shuffled_1701",
+      "seed": 580,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.65625,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "shuffled_1701",
+      "seed": 581,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.71875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "shuffled_1701",
+      "seed": 581,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.65625,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "shuffled_1702",
+      "seed": 579,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.6875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "shuffled_1702",
+      "seed": 579,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.6875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "shuffled_1702",
+      "seed": 580,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.671875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "shuffled_1702",
+      "seed": 580,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.6875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "shuffled_1702",
+      "seed": 581,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.703125,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "shuffled_1702",
+      "seed": 581,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.640625,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "shuffled_1703",
+      "seed": 579,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.71875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "shuffled_1703",
+      "seed": 579,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.703125,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "shuffled_1703",
+      "seed": 580,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.703125,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "shuffled_1703",
+      "seed": 580,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.71875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "shuffled_1703",
+      "seed": 581,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.6875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "shuffled_1703",
+      "seed": 581,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.65625,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "static_joint_kl",
+      "seed": 579,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.6875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "static_joint_kl",
+      "seed": 579,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.671875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "static_joint_kl",
+      "seed": 580,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.6875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "static_joint_kl",
+      "seed": 580,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.671875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "static_joint_kl",
+      "seed": 581,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.6875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "hellaswag",
+      "condition": "static_joint_kl",
+      "seed": 581,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.671875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "matched",
+      "seed": 579,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.734375,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "matched",
+      "seed": 579,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.71875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "matched",
+      "seed": 580,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.71875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "matched",
+      "seed": 580,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.734375,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "matched",
+      "seed": 581,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.734375,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "matched",
+      "seed": 581,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.703125,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "shuffled_1701",
+      "seed": 579,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.734375,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "shuffled_1701",
+      "seed": 579,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.71875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "shuffled_1701",
+      "seed": 580,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.703125,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "shuffled_1701",
+      "seed": 580,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.703125,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "shuffled_1701",
+      "seed": 581,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.734375,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "shuffled_1701",
+      "seed": 581,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.703125,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "shuffled_1702",
+      "seed": 579,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.703125,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "shuffled_1702",
+      "seed": 579,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.703125,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "shuffled_1702",
+      "seed": 580,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.6875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "shuffled_1702",
+      "seed": 580,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.671875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "shuffled_1702",
+      "seed": 581,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.71875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "shuffled_1702",
+      "seed": 581,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.671875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "shuffled_1703",
+      "seed": 579,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.71875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "shuffled_1703",
+      "seed": 579,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.75,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "shuffled_1703",
+      "seed": 580,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.703125,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "shuffled_1703",
+      "seed": 580,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.703125,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "shuffled_1703",
+      "seed": 581,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.671875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "shuffled_1703",
+      "seed": 581,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.671875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "static_joint_kl",
+      "seed": 579,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.734375,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "static_joint_kl",
+      "seed": 579,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.703125,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "static_joint_kl",
+      "seed": 580,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.734375,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "static_joint_kl",
+      "seed": 580,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.703125,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "static_joint_kl",
+      "seed": 581,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.734375,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "piqa",
+      "condition": "static_joint_kl",
+      "seed": 581,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.703125,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "matched",
+      "seed": 579,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.31404026781932887,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "matched",
+      "seed": 579,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.49466300925347434,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "matched",
+      "seed": 580,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.32004890787675366,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "matched",
+      "seed": 580,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.5270635935064647,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "matched",
+      "seed": 581,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.31246926207463,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "matched",
+      "seed": 581,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.4816313914093154,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "shuffled_1701",
+      "seed": 579,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.3099937861430575,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "shuffled_1701",
+      "seed": 579,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.4934900048510123,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "shuffled_1701",
+      "seed": 580,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.3168144024996114,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "shuffled_1701",
+      "seed": 580,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.525427251673607,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "shuffled_1701",
+      "seed": 581,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.31014512633178826,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "shuffled_1701",
+      "seed": 581,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.47994675796016184,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "shuffled_1702",
+      "seed": 579,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.3072677651583572,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "shuffled_1702",
+      "seed": 579,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.48829761006961514,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "shuffled_1702",
+      "seed": 580,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.3188079533222742,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "shuffled_1702",
+      "seed": 580,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.516287640634561,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "shuffled_1702",
+      "seed": 581,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.30753370902994126,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "shuffled_1702",
+      "seed": 581,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.48165973517969146,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "shuffled_1703",
+      "seed": 579,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.31231713454341464,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "shuffled_1703",
+      "seed": 579,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.4981803443138966,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "shuffled_1703",
+      "seed": 580,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.3231166041392764,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "shuffled_1703",
+      "seed": 580,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.5216179447630327,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "shuffled_1703",
+      "seed": 581,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.3114135647949412,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "shuffled_1703",
+      "seed": 581,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.47895977369573756,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "static_joint_kl",
+      "seed": 579,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.3029794779234185,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "static_joint_kl",
+      "seed": 579,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.46853342862126063,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "static_joint_kl",
+      "seed": 580,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.3029794779234185,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "static_joint_kl",
+      "seed": 580,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.46853342862126063,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "static_joint_kl",
+      "seed": 581,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.3029794779234185,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "wikitext_conditional",
+      "condition": "static_joint_kl",
+      "seed": 581,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.46853342862126063,
+      "metric": "teacher_kl_per_token"
+    },
+    {
+      "task": "winogrande",
+      "condition": "matched",
+      "seed": 579,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.640625,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "matched",
+      "seed": 579,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.65625,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "matched",
+      "seed": 580,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.671875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "matched",
+      "seed": 580,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.703125,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "matched",
+      "seed": 581,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.6875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "matched",
+      "seed": 581,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.609375,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "shuffled_1701",
+      "seed": 579,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.671875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "shuffled_1701",
+      "seed": 579,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.6875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "shuffled_1701",
+      "seed": 580,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.703125,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "shuffled_1701",
+      "seed": 580,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.6875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "shuffled_1701",
+      "seed": 581,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.65625,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "shuffled_1701",
+      "seed": 581,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.65625,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "shuffled_1702",
+      "seed": 579,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.6875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "shuffled_1702",
+      "seed": 579,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.6875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "shuffled_1702",
+      "seed": 580,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.71875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "shuffled_1702",
+      "seed": 580,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.6875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "shuffled_1702",
+      "seed": 581,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.734375,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "shuffled_1702",
+      "seed": 581,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.640625,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "shuffled_1703",
+      "seed": 579,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.703125,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "shuffled_1703",
+      "seed": 579,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.671875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "shuffled_1703",
+      "seed": 580,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.59375,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "shuffled_1703",
+      "seed": 580,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.65625,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "shuffled_1703",
+      "seed": 581,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.6875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "shuffled_1703",
+      "seed": 581,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.671875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "static_joint_kl",
+      "seed": 579,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.71875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "static_joint_kl",
+      "seed": 579,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.65625,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "static_joint_kl",
+      "seed": 580,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.71875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "static_joint_kl",
+      "seed": 580,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.65625,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "static_joint_kl",
+      "seed": 581,
+      "k": 10,
+      "records": 64,
+      "metric_mean": 0.71875,
+      "metric": "accuracy_or_norm_accuracy"
+    },
+    {
+      "task": "winogrande",
+      "condition": "static_joint_kl",
+      "seed": 581,
+      "k": 12,
+      "records": 64,
+      "metric_mean": 0.65625,
+      "metric": "accuracy_or_norm_accuracy"
+    }
+  ],
+  "interpretation": "Teacher KL/token for C4/Wiki; accuracy for MC. Matched, three shuffled donors and static joint KL.",
+  "seed_note": "Model seeds are aggregated per record and are not independent samples."
+}

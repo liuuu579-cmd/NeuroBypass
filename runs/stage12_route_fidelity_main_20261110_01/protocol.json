@@ -1,0 +1,184 @@
+{
+  "output": "/home/liushenyu/test/NeuroBypass/runs/stage12_route_fidelity_main_20261110_01",
+  "model": "/home/liushenyu/opt-13b",
+  "policies": [
+    {
+      "name": "m06",
+      "kind": "router",
+      "seed": 579,
+      "k": 10,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed579_epoch012.pth",
+        "sha256": "ea97363069c27596b1a63c24fdc766c3963dcf100e76d76029eeda3eaa36eec6",
+        "epoch": 12,
+        "selection_continuation_kl": 0.22504204977303743
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ],
+      "m": 6
+    },
+    {
+      "name": "m06",
+      "kind": "router",
+      "seed": 580,
+      "k": 10,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed580_epoch008.pth",
+        "sha256": "574da1cfaa42d88bd09c29909d7ea23c5cdf5e6de26919dcb8e7cc0e5fbe34c2",
+        "epoch": 8,
+        "selection_continuation_kl": 0.2263415683992207
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ],
+      "m": 6
+    },
+    {
+      "name": "m06",
+      "kind": "router",
+      "seed": 581,
+      "k": 10,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed581_epoch024.pth",
+        "sha256": "6b3121a34789a256b725fb59b6033e8fe4eeb930a2af1a22a84ea32df4e06484",
+        "epoch": 24,
+        "selection_continuation_kl": 0.22309625148773193
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ],
+      "m": 6
+    },
+    {
+      "name": "m06",
+      "kind": "router",
+      "seed": 579,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed579_epoch012.pth",
+        "sha256": "ea97363069c27596b1a63c24fdc766c3963dcf100e76d76029eeda3eaa36eec6",
+        "epoch": 12,
+        "selection_continuation_kl": 0.3742779162712395
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ],
+      "m": 6
+    },
+    {
+      "name": "m06",
+      "kind": "router",
+      "seed": 580,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed580_epoch008.pth",
+        "sha256": "574da1cfaa42d88bd09c29909d7ea23c5cdf5e6de26919dcb8e7cc0e5fbe34c2",
+        "epoch": 8,
+        "selection_continuation_kl": 0.3573951153084636
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ],
+      "m": 6
+    },
+    {
+      "name": "m06",
+      "kind": "router",
+      "seed": 581,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed581_epoch020.pth",
+        "sha256": "b4ad06ab1e7464bdf119a9b3ad798cf700ae0f2ca9422b19c60035ad10600148",
+        "epoch": 20,
+        "selection_continuation_kl": 0.36302921269088984
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ],
+      "m": 6
+    }
+  ],
+  "global_path": [
+    4,
+    9,
+    2,
+    12,
+    17,
+    7,
+    24,
+    37,
+    15,
+    29,
+    22,
+    34,
+    27,
+    20,
+    32,
+    39,
+    35,
+    25,
+    36,
+    10,
+    31,
+    18,
+    33,
+    26
+  ],
+  "probe": false,
+  "input_records": 324,
+  "private_input_sha256": "862e094ae59073c988d7be972284ede8f871d0f225456cc7628f2d803fcb34bb",
+  "assignments_sha256": "f8d91e64e12596d1c1078a7321c1e269f9fae0e55d7cb373640e5ed04980c074",
+  "source_sha256": {
+    "/home/liushenyu/test/NeuroBypass/tools/evaluate_route_fidelity_four_gpu_v2.py": "3551cd6516d7dcbc99587f011db63e597d5a676d7acc022497443d654e100891",
+    "/home/liushenyu/test/NeuroBypass/tools/prompt_permutation_core_v1.py": "56fab96bcd8f9dd1e33214b9b55b98aa4f505a25c7a01a1a7c6437b43f853fea",
+    "/home/liushenyu/test/NeuroBypass/tools/horizontal_quality_v3.py": "837159ca5b4875a71a6ee1ab05bf1cd5946f2c78a212ccca6bf964e93f6775ff",
+    "/home/liushenyu/test/NeuroBypass/tools/prefix_downstream_correction_core_v1.py": "430ff86ba643b70ee26e90c3713a60d236789eee37a1691802bee3af6bb8c982",
+    "/home/liushenyu/test/NeuroBypass/tools/prompt_fixed_core_v1.py": "b733338d20f9f52599b7c7c7ca76c6e0450dfc25ef38c50d7c51fbb689287f5e"
+  },
+  "provenance_sha256": {
+    "/home/liushenyu/test/NeuroBypass/runs/stage11_prefix_downstream_main_20261109_01/protocol.json": "596892b6fb9db630bda8b6d0f6767f1aef6279870c692eea8d03944e7e69a496",
+    "/home/liushenyu/test/NeuroBypass/runs/stage11_prefix_downstream_main_20261109_01/data_manifest.json": "3c2fe0d054b7221f2c99bf15666f66fd3edca5fde938c48241775ec52b20652d",
+    "/home/liushenyu/test/NeuroBypass/runs/stage11_prefix_downstream_main_20261109_01/private_benchmark_inputs.jsonl": "d61ff817887545ac9b72e78e93b7c4a03bb24500cf13a0beba9f4bb017820347",
+    "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/protocol.json": "d1cfe6725a6f4bf36af696d3f57c7037f95a330d7e97c9316ad8e39b1d872d65",
+    "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_pilot_20261104_01/private_prompt_continuation_ids.npy": "52009bdab7fe650ff4bdaf46f80a1b740da0af050c2426f4f0c8f9f6e78c9393",
+    "/home/liushenyu/test/NeuroBypass/runs/stage3_prompt_fixed_pilot_20261104_01/data_manifest.json": "f29f21a391b07497d434fd7fcde3bd9b69645b63856d797a945e0f2a930c81ca"
+  },
+  "selection": "Fixed random seed579 subset; no outcome-based sample/checkpoint/mask selection.",
+  "metric": "Teacher full-vocabulary forward KL on all target tokens; all MC options, no gold-dependent path selection.",
+  "limits": [
+    "Development diagnosis on previously reviewed tasks, not an independent final test.",
+    "C4 uses68 non-checkpoint-selection development documents; benchmark subsets64 each.",
+    "Candidate minimum KL sees future targets and is not deployable or globally optimal."
+  ]
+}
