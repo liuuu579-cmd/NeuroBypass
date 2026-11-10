@@ -1,0 +1,7 @@
+{
+  "pid": 1571794,
+  "log": "/home/liushenyu/test/NeuroBypass/analysis/stage13_full_context_pipeline_v3_20261110.log",
+  "main_training": "runs/stage13_full_context_20261110_02_training",
+  "prefix": "stage13_full_context_20261110_02",
+  "supersedes": "analysis/stage13_full_context_pipeline_v2_launch_20261110.json"
+}

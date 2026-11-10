@@ -1,0 +1,6 @@
+{
+  "retired_controller_pid": 1569487,
+  "reason": "Freeze its JSONL coordination log so later preservation audits can remain strict. GPU training is adopted without interruption. New controller writes progress to a log extension excluded from immutable evidence snapshots.",
+  "training_run": "runs/stage13_full_context_20261110_02_training",
+  "main_training_interrupted": false
+}

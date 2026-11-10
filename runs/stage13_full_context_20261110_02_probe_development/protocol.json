@@ -1,0 +1,421 @@
+{
+  "output": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_20261110_02_probe_development",
+  "training_run": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_probe_20261110_02",
+  "model": "/home/liushenyu/opt-13b",
+  "mode": "development",
+  "probe": true,
+  "policies": [
+    {
+      "name": "full",
+      "kind": "static",
+      "k": 0,
+      "seed": null,
+      "skips": []
+    },
+    {
+      "name": "static_joint_kl",
+      "kind": "static",
+      "k": 10,
+      "seed": null,
+      "skips": [
+        4,
+        8,
+        3,
+        11,
+        14,
+        18,
+        24,
+        37,
+        31,
+        36
+      ]
+    },
+    {
+      "name": "sleb_nll_opt",
+      "kind": "static",
+      "k": 10,
+      "seed": null,
+      "skips": [
+        18,
+        6,
+        2,
+        10,
+        7,
+        20,
+        12,
+        35,
+        29,
+        24
+      ]
+    },
+    {
+      "name": "shortgpt_bi_opt",
+      "kind": "static",
+      "k": 10,
+      "seed": null,
+      "skips": [
+        3,
+        4,
+        5,
+        6,
+        2,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "name": "shortened_ppl_opt",
+      "kind": "static",
+      "k": 10,
+      "seed": null,
+      "skips": [
+        18,
+        5,
+        6,
+        2,
+        7,
+        4,
+        3,
+        8,
+        10,
+        11
+      ]
+    },
+    {
+      "name": "shortened_ppl_plus",
+      "kind": "static",
+      "k": 10,
+      "seed": null,
+      "skips": [
+        18,
+        5,
+        6,
+        7,
+        4,
+        8,
+        10,
+        11,
+        9,
+        13
+      ]
+    },
+    {
+      "name": "random_static_seed579",
+      "kind": "static",
+      "k": 10,
+      "seed": null,
+      "skips": [
+        8,
+        38,
+        24,
+        20,
+        36,
+        11,
+        19,
+        9,
+        6,
+        29
+      ]
+    },
+    {
+      "name": "m00",
+      "m": 0,
+      "kind": "router",
+      "seed": 579,
+      "k": 10,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_probe_20261110_02/private_m00_seed579_epoch001.pth",
+        "sha256": "2f71039c74bb8cf3cbce11def062ffe4813c714b7c3eca4c3dd465d43efc360e",
+        "epoch": 1,
+        "selection_continuation_kl": 0.35346492379903793
+      },
+      "prefix": []
+    },
+    {
+      "name": "m04",
+      "m": 4,
+      "kind": "router",
+      "seed": 579,
+      "k": 10,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_probe_20261110_02/private_m04_seed579_epoch001.pth",
+        "sha256": "bd672d9c4c617e964ee19f2f25e549a1e22e97c94d4657cd05dd1289d55dd3db",
+        "epoch": 1,
+        "selection_continuation_kl": 0.29380060359835625
+      },
+      "prefix": [
+        4,
+        8,
+        3,
+        11
+      ]
+    },
+    {
+      "name": "m06",
+      "m": 6,
+      "kind": "router",
+      "seed": 579,
+      "k": 10,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_probe_20261110_02/private_m06_seed579_epoch001.pth",
+        "sha256": "1adbad83c4541d14f9698c5e0840636e33d901146fdb4682f25385a87bae6eaa",
+        "epoch": 1,
+        "selection_continuation_kl": 0.29821061342954636
+      },
+      "prefix": [
+        4,
+        8,
+        3,
+        11,
+        14,
+        18
+      ]
+    },
+    {
+      "name": "m08",
+      "m": 8,
+      "kind": "router",
+      "seed": 579,
+      "k": 10,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_probe_20261110_02/private_m08_seed579_epoch001.pth",
+        "sha256": "d322aa146958dcc142a42b3f21db14f2ce4ce88a9298df6687de7b3087f2d621",
+        "epoch": 1,
+        "selection_continuation_kl": 0.2596290409564972
+      },
+      "prefix": [
+        4,
+        8,
+        3,
+        11,
+        14,
+        18,
+        24,
+        37
+      ]
+    },
+    {
+      "name": "static_joint_kl",
+      "kind": "static",
+      "k": 12,
+      "seed": null,
+      "skips": [
+        4,
+        8,
+        3,
+        11,
+        14,
+        18,
+        24,
+        37,
+        31,
+        36,
+        25,
+        22
+      ]
+    },
+    {
+      "name": "sleb_nll_opt",
+      "kind": "static",
+      "k": 12,
+      "seed": null,
+      "skips": [
+        18,
+        6,
+        2,
+        10,
+        7,
+        20,
+        12,
+        35,
+        29,
+        24,
+        36,
+        15
+      ]
+    },
+    {
+      "name": "shortgpt_bi_opt",
+      "kind": "static",
+      "k": 12,
+      "seed": null,
+      "skips": [
+        3,
+        4,
+        5,
+        6,
+        2,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "name": "shortened_ppl_opt",
+      "kind": "static",
+      "k": 12,
+      "seed": null,
+      "skips": [
+        18,
+        5,
+        6,
+        2,
+        7,
+        4,
+        3,
+        8,
+        10,
+        11,
+        9,
+        13
+      ]
+    },
+    {
+      "name": "shortened_ppl_plus",
+      "kind": "static",
+      "k": 12,
+      "seed": null,
+      "skips": [
+        18,
+        5,
+        6,
+        7,
+        4,
+        8,
+        10,
+        11,
+        9,
+        13,
+        15,
+        12
+      ]
+    },
+    {
+      "name": "random_static_seed579",
+      "kind": "static",
+      "k": 12,
+      "seed": null,
+      "skips": [
+        8,
+        38,
+        24,
+        20,
+        36,
+        11,
+        19,
+        9,
+        6,
+        29,
+        3,
+        28
+      ]
+    },
+    {
+      "name": "m00",
+      "m": 0,
+      "kind": "router",
+      "seed": 579,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_probe_20261110_02/private_m00_seed579_epoch001.pth",
+        "sha256": "2f71039c74bb8cf3cbce11def062ffe4813c714b7c3eca4c3dd465d43efc360e",
+        "epoch": 1,
+        "selection_continuation_kl": 0.6045337915420532
+      },
+      "prefix": []
+    },
+    {
+      "name": "m04",
+      "m": 4,
+      "kind": "router",
+      "seed": 579,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_probe_20261110_02/private_m04_seed579_epoch001.pth",
+        "sha256": "bd672d9c4c617e964ee19f2f25e549a1e22e97c94d4657cd05dd1289d55dd3db",
+        "epoch": 1,
+        "selection_continuation_kl": 0.47913414239883423
+      },
+      "prefix": [
+        4,
+        8,
+        3,
+        11
+      ]
+    },
+    {
+      "name": "m06",
+      "m": 6,
+      "kind": "router",
+      "seed": 579,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_probe_20261110_02/private_m06_seed579_epoch001.pth",
+        "sha256": "1adbad83c4541d14f9698c5e0840636e33d901146fdb4682f25385a87bae6eaa",
+        "epoch": 1,
+        "selection_continuation_kl": 0.47851987928152084
+      },
+      "prefix": [
+        4,
+        8,
+        3,
+        11,
+        14,
+        18
+      ]
+    },
+    {
+      "name": "m08",
+      "m": 8,
+      "kind": "router",
+      "seed": 579,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_probe_20261110_02/private_m08_seed579_epoch001.pth",
+        "sha256": "d322aa146958dcc142a42b3f21db14f2ce4ce88a9298df6687de7b3087f2d621",
+        "epoch": 1,
+        "selection_continuation_kl": 0.4495585709810257
+      },
+      "prefix": [
+        4,
+        8,
+        3,
+        11,
+        14,
+        18,
+        24,
+        37
+      ]
+    }
+  ],
+  "global_path": [
+    4,
+    8,
+    3,
+    11,
+    14,
+    18,
+    24,
+    37,
+    31,
+    36,
+    25,
+    22
+  ],
+  "observation_version": "full-visible-prompt-v1",
+  "training_protocol_sha256": "cd7079af45ff216ea2989cfb079e35d3e045321f6085393a07a05fa3e29368f7",
+  "private_input_sha256": "c8eb924947621a96f2f571b0f269a9370310a3a06b68089dc51772c51ddb9c45",
+  "source_sha256": {
+    "/home/liushenyu/test/NeuroBypass/tools/evaluate_full_context_four_gpu_v1.py": "322e8eaa49d70edb78dad0f89d0a05b0a073f890a580d58f49cdcd48b39e0691",
+    "/home/liushenyu/test/NeuroBypass/tools/full_context_core_v1.py": "080b9f352628eec568f2cf50dfa448d07fb75170bdbf50f4f3cb080702b6af68"
+  },
+  "development_limits": "C4 prompts vary in length; task-wise permutations can cross lengths. Report length strata separately; no causal content-only attribution.",
+  "baseline_scope": "Frozen OPT adaptations without recovery; not full official recipe replications."
+}
