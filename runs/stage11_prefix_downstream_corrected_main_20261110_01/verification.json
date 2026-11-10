@@ -1,0 +1,34 @@
+{
+  "status": "passed",
+  "probe": false,
+  "verified_rows": 375111,
+  "new_quality_rows": 83358,
+  "reused_quality_rows": 291753,
+  "policies": 27,
+  "records_by_task": {
+    "piqa": 1838,
+    "hellaswag": 10042,
+    "winogrande": 1267,
+    "wikitext_conditional": 746
+  },
+  "cpu_budget": 42,
+  "source_preserved_files": 1170,
+  "likelihood_reference_probes": 32,
+  "unchanged_control_gpu_replays": 80,
+  "replay_max_absolute_error": 0,
+  "fixed_m08_prefix": [
+    4,
+    9,
+    2,
+    12,
+    17,
+    7,
+    24,
+    37
+  ],
+  "independent_prediction_and_nll_reduction": true,
+  "limits": [
+    "Full m08 is recomputed; unchanged controls have hash validation and sampled GPU replay.",
+    "Existing downstream development tasks are reused; this is not an independent final test."
+  ]
+}
