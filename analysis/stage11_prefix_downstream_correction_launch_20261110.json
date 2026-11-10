@@ -1,0 +1,11 @@
+{
+  "pid": 1433652,
+  "probe_run": "/home/liushenyu/test/NeuroBypass/runs/stage11_prefix_downstream_corrected_probe_20261110_01",
+  "main_run": "/home/liushenyu/test/NeuroBypass/runs/stage11_prefix_downstream_corrected_main_20261110_01",
+  "log": "/home/liushenyu/test/NeuroBypass/analysis/stage11_prefix_downstream_correction_pipeline_20261110.log",
+  "started_utc": "2026-11-10T01:54:02.579964+00:00",
+  "gpu_count": 4,
+  "cpu_budget": 42,
+  "new_main_quality_rows": 83358,
+  "reused_main_quality_rows": 291753
+}

@@ -1,0 +1,44 @@
+{
+  "tasks": {
+    "piqa": {
+      "sha256": "e3048a459376b16ec8daaf9733090ce7425f12e134c08f2e3334077c56908785",
+      "split": "train",
+      "available_records": 16113,
+      "evaluated_records": 4,
+      "router_tokens_min": 12,
+      "router_tokens_max": 17,
+      "truncated_context_tokens": 0
+    },
+    "hellaswag": {
+      "sha256": "92a7294a7a191f19a9eb02e5947a20a21d91f4d1aab62bdeff57b1f2d599a17e",
+      "split": "train",
+      "available_records": 39905,
+      "evaluated_records": 4,
+      "router_tokens_min": 26,
+      "router_tokens_max": 39,
+      "truncated_context_tokens": 0
+    },
+    "winogrande": {
+      "sha256": "8e3c8ec1e0f25ae126ea7d2da2e540a25d7f81d225945256e8cb7630fa24ca7e",
+      "split": "train",
+      "available_records": 40398,
+      "evaluated_records": 4,
+      "router_tokens_min": 15,
+      "router_tokens_max": 17,
+      "truncated_context_tokens": 0
+    },
+    "wikitext_conditional": {
+      "sha256": "8e136ab7130c5fca602eb406ce2557967a974d901b53c4f2992f87b873e0fe5b",
+      "split": "validation",
+      "text_lines": 3760,
+      "evaluated_windows": 4,
+      "evaluated_documents": 1,
+      "scored_tokens": 1536
+    }
+  },
+  "private_input_sha256": "39d231b629fbc57047b48db37078f0696a66495ce466f5814dd804fb1e46bc80",
+  "tokenizer": "OPT local slow tokenizer; explicit add_special_tokens=True for MC and BOS for each Wiki window",
+  "wiki": "Article boundaries at single-equals headings; within each article local512token windows with128context+up to384targets, stride384; first127 article text tokens unscored, scored targets do not overlap; token-weighted conditional PPL.",
+  "mc": "Zero-shot task templates from pinned harness; context trailing whitespace moves to target, boundary tokenization asserted; all target tokens scored; left context truncated only if total exceeds2049.",
+  "normalization": "PIQA/HellaSwag acc_norm divides option loglikelihood by choice CHARACTER length as pinned harness; WinoGrande reports acc only."
+}
