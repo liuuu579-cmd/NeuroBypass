@@ -1,0 +1,116 @@
+{
+  "model": "/home/liushenyu/opt-13b",
+  "output": "/home/liushenyu/test/NeuroBypass/runs/stage12_selective_residency_pilot_20261110_01",
+  "policies": [
+    {
+      "name": "m06",
+      "kind": "router",
+      "seed": 579,
+      "k": 10,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed579_epoch012.pth",
+        "sha256": "ea97363069c27596b1a63c24fdc766c3963dcf100e76d76029eeda3eaa36eec6",
+        "epoch": 12,
+        "selection_continuation_kl": 0.22504204977303743
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ],
+      "m": 6
+    },
+    {
+      "name": "m06",
+      "kind": "router",
+      "seed": 579,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed579_epoch012.pth",
+        "sha256": "ea97363069c27596b1a63c24fdc766c3963dcf100e76d76029eeda3eaa36eec6",
+        "epoch": 12,
+        "selection_continuation_kl": 0.3742779162712395
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ],
+      "m": 6
+    },
+    {
+      "name": "m06",
+      "kind": "router",
+      "seed": 580,
+      "k": 10,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed580_epoch008.pth",
+        "sha256": "574da1cfaa42d88bd09c29909d7ea23c5cdf5e6de26919dcb8e7cc0e5fbe34c2",
+        "epoch": 8,
+        "selection_continuation_kl": 0.2263415683992207
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ],
+      "m": 6
+    },
+    {
+      "name": "m06",
+      "kind": "router",
+      "seed": 580,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed580_epoch008.pth",
+        "sha256": "574da1cfaa42d88bd09c29909d7ea23c5cdf5e6de26919dcb8e7cc0e5fbe34c2",
+        "epoch": 8,
+        "selection_continuation_kl": 0.3573951153084636
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ],
+      "m": 6
+    }
+  ],
+  "private_inputs": "/home/liushenyu/test/NeuroBypass/runs/stage8_cost_main_20261108_01/private_cost_inputs.npy",
+  "private_input_sha256": "c12676cead3289beb3608ddd2351918f591e48dc4fc1189b81fa0f7edf8638e8",
+  "lengths": [
+    128,
+    512,
+    1024,
+    512
+  ],
+  "new_tokens": 32,
+  "repeats": 4,
+  "source_sha256": {
+    "/home/liushenyu/test/NeuroBypass/tools/measure_selective_residency_four_gpu_v1.py": "fbb5b5bf99bf490927ca4998b9c186c6c0bcc20bd5c82f356bf24b317404866a",
+    "/home/liushenyu/test/NeuroBypass/tools/selective_residency_core_v1.py": "ee76a5bebc59188b1ccc9c6243c2d14d241da1d2ae1a0e5020477891359ac6e6",
+    "/home/liushenyu/test/NeuroBypass/tools/prompt_cost_core_v1.py": "443278395bf0899b5fafe9c4fe0b09a3b96799a8a15d94dff7791357a826b543",
+    "/home/liushenyu/test/NeuroBypass/tools/prompt_fixed_core_v1.py": "b733338d20f9f52599b7c7c7ca76c6e0450dfc25ef38c50d7c51fbb689287f5e",
+    "/home/liushenyu/test/NeuroBypass/tools/prompt_depth_core_v1.py": "6cd8be69951bcf7173a677e1417bfc0e6dd35707b48801e4ff6d28b8661ba304"
+  },
+  "stage": "Engineering feasibility pilot, not final throughput/latency benchmark",
+  "timing": "Each independent request includes route, evict/load and full prefill. CPU master-to-GPU copies include deepcopy overhead. EOS ignored.",
+  "memory": "CPU-only load then selective GPU residency; capture startup/request peaks before any full-GPU control. PyTorch allocated/reserved; not NVML process peak.",
+  "limits": [
+    "Four requests per card; not enough for stable throughput/P95 conclusions.",
+    "Independent training-derived timing prompts, not real multi-turn conversation.",
+    "All weights kept in CPU memory; no disk streaming, pinned-memory optimization, batching or concurrency.",
+    "Static physical pruning retains its own memory/latency advantages and is not rebenchmarked here."
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "requests": 48,
+  "workers": 4,
+  "cpu_budget": 42,
+  "preserved_files": 1256,
+  "matched_route_and_generated_hash_checks": 16,
+  "max_prefill_logit_error": 0,
+  "selective_cache_probes": 4,
+  "startup_full_gpu_copy": false,
+  "limits": [
+    "Small engineering pilot, not final latency/P95 or real multi-turn benchmark.",
+    "Peak is PyTorch allocated/reserved, not total NVML peak."
+  ]
+}

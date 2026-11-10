@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "records": 324,
+  "rows": 9720,
+  "preserved_files": 1227,
+  "identical_route_registries": 4,
+  "likelihood_probes": 40,
+  "independent_score_to_prediction_check": true,
+  "policy_and_donor_mask_contracts": true,
+  "cpu_budget": 42
+}
