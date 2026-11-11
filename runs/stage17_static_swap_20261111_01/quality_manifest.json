@@ -1,0 +1,17 @@
+{
+  "task_records": {
+    "c4_development": 100,
+    "piqa": 64,
+    "hellaswag": 64,
+    "winogrande": 64,
+    "wikitext_conditional": 64,
+    "c4_prior_fresh": 32,
+    "ruler_niah_single": 24,
+    "ruler_niah_multi": 24,
+    "ruler_variable_tracking": 24
+  },
+  "private_input_sha256": "ec14697e912c0bf2058ded03f1714a0216e71d1b81a8820532bc2cc5bd500295",
+  "selection": "Fixed before new labels/training; previously reviewed diagnostic/task cohorts, no untouched final-test claim.",
+  "router_observation": "Full actual visible prompt; no appended answer/options/targets; same path across all answer options.",
+  "ruler": "Same exploratory Stage16 cases and48-token completion protocol; no RULER training. Strict matching has a known extra-text limitation."
+}

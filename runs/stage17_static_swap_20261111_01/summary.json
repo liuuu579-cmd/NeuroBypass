@@ -1,0 +1,5357 @@
+{
+  "quality_rows": 6440,
+  "input_records": 460,
+  "aggregates": [
+    {
+      "task": "c4_development",
+      "policy": "full",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 100,
+      "kl": 0.0,
+      "nll": 2.4831281389446485,
+      "actual_exchanges": 0.0,
+      "ppl": 11.97867683723848,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "old_router_m6",
+      "seed": 579,
+      "maximum_exchanges": 0,
+      "records": 100,
+      "kl": 0.8530020822657343,
+      "nll": 3.3038759363270684,
+      "actual_exchanges": 3.39,
+      "ppl": 27.217929701139425,
+      "unique_masks": 97
+    },
+    {
+      "task": "c4_development",
+      "policy": "old_router_m6",
+      "seed": 580,
+      "maximum_exchanges": 0,
+      "records": 100,
+      "kl": 0.8568790138496126,
+      "nll": 3.28760679374017,
+      "actual_exchanges": 4.15,
+      "ppl": 26.778699955674472,
+      "unique_masks": 100
+    },
+    {
+      "task": "c4_development",
+      "policy": "original_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 100,
+      "kl": 0.8097807284370174,
+      "nll": 3.266216575820829,
+      "actual_exchanges": 0.0,
+      "ppl": 26.211980462724757,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "swap_constant",
+      "seed": 579,
+      "maximum_exchanges": 1,
+      "records": 100,
+      "kl": 0.8125722854306718,
+      "nll": 3.272650001756702,
+      "actual_exchanges": 1.0,
+      "ppl": 26.3811569062211,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "swap_constant",
+      "seed": 579,
+      "maximum_exchanges": 2,
+      "records": 100,
+      "kl": 0.8125722854306718,
+      "nll": 3.272650001756702,
+      "actual_exchanges": 1.0,
+      "ppl": 26.3811569062211,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "swap_constant",
+      "seed": 580,
+      "maximum_exchanges": 1,
+      "records": 100,
+      "kl": 0.8125722854306718,
+      "nll": 3.272650001756702,
+      "actual_exchanges": 1.0,
+      "ppl": 26.3811569062211,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "swap_constant",
+      "seed": 580,
+      "maximum_exchanges": 2,
+      "records": 100,
+      "kl": 0.8125722854306718,
+      "nll": 3.272650001756702,
+      "actual_exchanges": 1.0,
+      "ppl": 26.3811569062211,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "swap_prompt",
+      "seed": 579,
+      "maximum_exchanges": 1,
+      "records": 100,
+      "kl": 0.820111395475244,
+      "nll": 3.260730527473753,
+      "actual_exchanges": 0.8,
+      "ppl": 26.06857399770574,
+      "unique_masks": 6
+    },
+    {
+      "task": "c4_development",
+      "policy": "swap_prompt",
+      "seed": 579,
+      "maximum_exchanges": 2,
+      "records": 100,
+      "kl": 0.8147986164026065,
+      "nll": 3.2528987670969616,
+      "actual_exchanges": 1.3,
+      "ppl": 25.865208566927866,
+      "unique_masks": 7
+    },
+    {
+      "task": "c4_development",
+      "policy": "swap_prompt",
+      "seed": 580,
+      "maximum_exchanges": 1,
+      "records": 100,
+      "kl": 0.8287786055171091,
+      "nll": 3.2894774953356873,
+      "actual_exchanges": 0.94,
+      "ppl": 26.828841797996937,
+      "unique_masks": 14
+    },
+    {
+      "task": "c4_development",
+      "policy": "swap_prompt",
+      "seed": 580,
+      "maximum_exchanges": 2,
+      "records": 100,
+      "kl": 0.8218843410667978,
+      "nll": 3.2725507606472903,
+      "actual_exchanges": 1.55,
+      "ppl": 26.378538940849207,
+      "unique_masks": 38
+    },
+    {
+      "task": "c4_development",
+      "policy": "train_best_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 100,
+      "kl": 0.8125722854306718,
+      "nll": 3.272650001756702,
+      "actual_exchanges": 1.0,
+      "ppl": 26.3811569062211,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "train_mean_greedy_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 100,
+      "kl": 0.8125722854306718,
+      "nll": 3.272650001756702,
+      "actual_exchanges": 1.0,
+      "ppl": 26.3811569062211,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "full",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 32,
+      "kl": 0.0,
+      "nll": 2.248868233554269,
+      "actual_exchanges": 0.0,
+      "ppl": 9.477004009399332,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "old_router_m6",
+      "seed": 579,
+      "maximum_exchanges": 0,
+      "records": 32,
+      "kl": 0.8824464651922312,
+      "nll": 3.1115656399352725,
+      "actual_exchanges": 4.21875,
+      "ppl": 22.456175177147784,
+      "unique_masks": 32
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "old_router_m6",
+      "seed": 580,
+      "maximum_exchanges": 0,
+      "records": 32,
+      "kl": 0.8743962038162607,
+      "nll": 3.1310836288433395,
+      "actual_exchanges": 4.0625,
+      "ppl": 22.898779881189334,
+      "unique_masks": 32
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "original_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 32,
+      "kl": 0.8072437905931835,
+      "nll": 3.004416606502322,
+      "actual_exchanges": 0.0,
+      "ppl": 20.17444302327524,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "swap_constant",
+      "seed": 579,
+      "maximum_exchanges": 1,
+      "records": 32,
+      "kl": 0.8004396025517657,
+      "nll": 3.015945929924138,
+      "actual_exchanges": 1.0,
+      "ppl": 20.408386716583035,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "swap_constant",
+      "seed": 579,
+      "maximum_exchanges": 2,
+      "records": 32,
+      "kl": 0.8004396025517657,
+      "nll": 3.015945929924138,
+      "actual_exchanges": 1.0,
+      "ppl": 20.408386716583035,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "swap_constant",
+      "seed": 580,
+      "maximum_exchanges": 1,
+      "records": 32,
+      "kl": 0.8004396025517657,
+      "nll": 3.015945929924138,
+      "actual_exchanges": 1.0,
+      "ppl": 20.408386716583035,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "swap_constant",
+      "seed": 580,
+      "maximum_exchanges": 2,
+      "records": 32,
+      "kl": 0.8004396025517657,
+      "nll": 3.015945929924138,
+      "actual_exchanges": 1.0,
+      "ppl": 20.408386716583035,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "swap_prompt",
+      "seed": 579,
+      "maximum_exchanges": 1,
+      "records": 32,
+      "kl": 0.8052347640263591,
+      "nll": 3.0246015210415234,
+      "actual_exchanges": 0.90625,
+      "ppl": 20.585800068445163,
+      "unique_masks": 5
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "swap_prompt",
+      "seed": 579,
+      "maximum_exchanges": 2,
+      "records": 32,
+      "kl": 0.7891582883140273,
+      "nll": 3.011067880870227,
+      "actual_exchanges": 1.4375,
+      "ppl": 20.309076023213027,
+      "unique_masks": 5
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "swap_prompt",
+      "seed": 580,
+      "maximum_exchanges": 1,
+      "records": 32,
+      "kl": 0.8162082289675681,
+      "nll": 3.0499301553362694,
+      "actual_exchanges": 0.96875,
+      "ppl": 21.113869679911915,
+      "unique_masks": 14
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "swap_prompt",
+      "seed": 580,
+      "maximum_exchanges": 2,
+      "records": 32,
+      "kl": 0.8367650102918276,
+      "nll": 3.0759127054526085,
+      "actual_exchanges": 1.65625,
+      "ppl": 21.669650897039116,
+      "unique_masks": 22
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "train_best_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 32,
+      "kl": 0.8004396025517657,
+      "nll": 3.015945929924138,
+      "actual_exchanges": 1.0,
+      "ppl": 20.408386716583035,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "train_mean_greedy_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 32,
+      "kl": 0.8004396025517657,
+      "nll": 3.015945929924138,
+      "actual_exchanges": 1.0,
+      "ppl": 20.408386716583035,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "full",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 64,
+      "kl": 0.0,
+      "nll": 2.9652951018207725,
+      "actual_exchanges": 0.0,
+      "ppl": 19.400427498289012,
+      "unique_masks": 1,
+      "correct": 0.5625,
+      "correct_norm": 0.640625
+    },
+    {
+      "task": "hellaswag",
+      "policy": "old_router_m6",
+      "seed": 579,
+      "maximum_exchanges": 0,
+      "records": 64,
+      "kl": 0.7296868076477445,
+      "nll": 3.35938160094486,
+      "actual_exchanges": 4.125,
+      "ppl": 28.771393174413813,
+      "unique_masks": 62,
+      "correct": 0.4375,
+      "correct_norm": 0.515625
+    },
+    {
+      "task": "hellaswag",
+      "policy": "old_router_m6",
+      "seed": 580,
+      "maximum_exchanges": 0,
+      "records": 64,
+      "kl": 0.7629567811074998,
+      "nll": 3.3643451837638514,
+      "actual_exchanges": 4.46875,
+      "ppl": 28.914557377011175,
+      "unique_masks": 64,
+      "correct": 0.421875,
+      "correct_norm": 0.5
+    },
+    {
+      "task": "hellaswag",
+      "policy": "original_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 64,
+      "kl": 0.6807647402238051,
+      "nll": 3.3085180783554966,
+      "actual_exchanges": 0.0,
+      "ppl": 27.34457291700481,
+      "unique_masks": 1,
+      "correct": 0.453125,
+      "correct_norm": 0.484375
+    },
+    {
+      "task": "hellaswag",
+      "policy": "swap_constant",
+      "seed": 579,
+      "maximum_exchanges": 1,
+      "records": 64,
+      "kl": 0.6950236430425989,
+      "nll": 3.300953672227491,
+      "actual_exchanges": 1.0,
+      "ppl": 27.138507824677536,
+      "unique_masks": 1,
+      "correct": 0.40625,
+      "correct_norm": 0.484375
+    },
+    {
+      "task": "hellaswag",
+      "policy": "swap_constant",
+      "seed": 579,
+      "maximum_exchanges": 2,
+      "records": 64,
+      "kl": 0.6950236430425989,
+      "nll": 3.300953672227491,
+      "actual_exchanges": 1.0,
+      "ppl": 27.138507824677536,
+      "unique_masks": 1,
+      "correct": 0.40625,
+      "correct_norm": 0.484375
+    },
+    {
+      "task": "hellaswag",
+      "policy": "swap_constant",
+      "seed": 580,
+      "maximum_exchanges": 1,
+      "records": 64,
+      "kl": 0.6950236430425989,
+      "nll": 3.300953672227491,
+      "actual_exchanges": 1.0,
+      "ppl": 27.138507824677536,
+      "unique_masks": 1,
+      "correct": 0.40625,
+      "correct_norm": 0.484375
+    },
+    {
+      "task": "hellaswag",
+      "policy": "swap_constant",
+      "seed": 580,
+      "maximum_exchanges": 2,
+      "records": 64,
+      "kl": 0.6950236430425989,
+      "nll": 3.300953672227491,
+      "actual_exchanges": 1.0,
+      "ppl": 27.138507824677536,
+      "unique_masks": 1,
+      "correct": 0.40625,
+      "correct_norm": 0.484375
+    },
+    {
+      "task": "hellaswag",
+      "policy": "swap_prompt",
+      "seed": 579,
+      "maximum_exchanges": 1,
+      "records": 64,
+      "kl": 0.69990881173383,
+      "nll": 3.3257539352093985,
+      "actual_exchanges": 0.96875,
+      "ppl": 27.819965189248087,
+      "unique_masks": 5,
+      "correct": 0.421875,
+      "correct_norm": 0.46875
+    },
+    {
+      "task": "hellaswag",
+      "policy": "swap_prompt",
+      "seed": 579,
+      "maximum_exchanges": 2,
+      "records": 64,
+      "kl": 0.6966246866553782,
+      "nll": 3.332641692718325,
+      "actual_exchanges": 1.8125,
+      "ppl": 28.012243787397438,
+      "unique_masks": 4,
+      "correct": 0.421875,
+      "correct_norm": 0.484375
+    },
+    {
+      "task": "hellaswag",
+      "policy": "swap_prompt",
+      "seed": 580,
+      "maximum_exchanges": 1,
+      "records": 64,
+      "kl": 0.706052625387092,
+      "nll": 3.3354135883027176,
+      "actual_exchanges": 0.984375,
+      "ppl": 28.089998516470658,
+      "unique_masks": 15,
+      "correct": 0.40625,
+      "correct_norm": 0.484375
+    },
+    {
+      "task": "hellaswag",
+      "policy": "swap_prompt",
+      "seed": 580,
+      "maximum_exchanges": 2,
+      "records": 64,
+      "kl": 0.7170621649928455,
+      "nll": 3.3457458616201095,
+      "actual_exchanges": 1.703125,
+      "ppl": 28.381736622158797,
+      "unique_masks": 36,
+      "correct": 0.421875,
+      "correct_norm": 0.484375
+    },
+    {
+      "task": "hellaswag",
+      "policy": "train_best_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 64,
+      "kl": 0.6950236430425989,
+      "nll": 3.300953672227491,
+      "actual_exchanges": 1.0,
+      "ppl": 27.138507824677536,
+      "unique_masks": 1,
+      "correct": 0.40625,
+      "correct_norm": 0.484375
+    },
+    {
+      "task": "hellaswag",
+      "policy": "train_mean_greedy_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 64,
+      "kl": 0.6950236430425989,
+      "nll": 3.300953672227491,
+      "actual_exchanges": 1.0,
+      "ppl": 27.138507824677536,
+      "unique_masks": 1,
+      "correct": 0.40625,
+      "correct_norm": 0.484375
+    },
+    {
+      "task": "piqa",
+      "policy": "full",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 64,
+      "kl": 0.0,
+      "nll": 2.9776730249236154,
+      "actual_exchanges": 0.0,
+      "ppl": 19.642056847723605,
+      "unique_masks": 1,
+      "correct": 0.703125,
+      "correct_norm": 0.71875
+    },
+    {
+      "task": "piqa",
+      "policy": "old_router_m6",
+      "seed": 579,
+      "maximum_exchanges": 0,
+      "records": 64,
+      "kl": 0.8016044886668378,
+      "nll": 3.6884546398752236,
+      "actual_exchanges": 3.734375,
+      "ppl": 39.98301103928319,
+      "unique_masks": 59,
+      "correct": 0.65625,
+      "correct_norm": 0.65625
+    },
+    {
+      "task": "piqa",
+      "policy": "old_router_m6",
+      "seed": 580,
+      "maximum_exchanges": 0,
+      "records": 64,
+      "kl": 0.855049835458086,
+      "nll": 3.6972111411406257,
+      "actual_exchanges": 4.59375,
+      "ppl": 40.334659685024995,
+      "unique_masks": 64,
+      "correct": 0.625,
+      "correct_norm": 0.578125
+    },
+    {
+      "task": "piqa",
+      "policy": "original_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 64,
+      "kl": 0.733787341629116,
+      "nll": 3.6519504057043752,
+      "actual_exchanges": 0.0,
+      "ppl": 38.54978048516866,
+      "unique_masks": 1,
+      "correct": 0.640625,
+      "correct_norm": 0.65625
+    },
+    {
+      "task": "piqa",
+      "policy": "swap_constant",
+      "seed": 579,
+      "maximum_exchanges": 1,
+      "records": 64,
+      "kl": 0.7470552031707081,
+      "nll": 3.6808527626831347,
+      "actual_exchanges": 1.0,
+      "ppl": 39.6802174575691,
+      "unique_masks": 1,
+      "correct": 0.65625,
+      "correct_norm": 0.671875
+    },
+    {
+      "task": "piqa",
+      "policy": "swap_constant",
+      "seed": 579,
+      "maximum_exchanges": 2,
+      "records": 64,
+      "kl": 0.7470552031707081,
+      "nll": 3.6808527626831347,
+      "actual_exchanges": 1.0,
+      "ppl": 39.6802174575691,
+      "unique_masks": 1,
+      "correct": 0.65625,
+      "correct_norm": 0.671875
+    },
+    {
+      "task": "piqa",
+      "policy": "swap_constant",
+      "seed": 580,
+      "maximum_exchanges": 1,
+      "records": 64,
+      "kl": 0.7470552031707081,
+      "nll": 3.6808527626831347,
+      "actual_exchanges": 1.0,
+      "ppl": 39.6802174575691,
+      "unique_masks": 1,
+      "correct": 0.65625,
+      "correct_norm": 0.671875
+    },
+    {
+      "task": "piqa",
+      "policy": "swap_constant",
+      "seed": 580,
+      "maximum_exchanges": 2,
+      "records": 64,
+      "kl": 0.7470552031707081,
+      "nll": 3.6808527626831347,
+      "actual_exchanges": 1.0,
+      "ppl": 39.6802174575691,
+      "unique_masks": 1,
+      "correct": 0.65625,
+      "correct_norm": 0.671875
+    },
+    {
+      "task": "piqa",
+      "policy": "swap_prompt",
+      "seed": 579,
+      "maximum_exchanges": 1,
+      "records": 64,
+      "kl": 0.7532475292233878,
+      "nll": 3.710032502796065,
+      "actual_exchanges": 0.984375,
+      "ppl": 40.85513441151215,
+      "unique_masks": 6,
+      "correct": 0.640625,
+      "correct_norm": 0.578125
+    },
+    {
+      "task": "piqa",
+      "policy": "swap_prompt",
+      "seed": 579,
+      "maximum_exchanges": 2,
+      "records": 64,
+      "kl": 0.7629728530927752,
+      "nll": 3.71166869069956,
+      "actual_exchanges": 1.71875,
+      "ppl": 40.92203580493206,
+      "unique_masks": 8,
+      "correct": 0.65625,
+      "correct_norm": 0.59375
+    },
+    {
+      "task": "piqa",
+      "policy": "swap_prompt",
+      "seed": 580,
+      "maximum_exchanges": 1,
+      "records": 64,
+      "kl": 0.741292632545159,
+      "nll": 3.6838743364223685,
+      "actual_exchanges": 0.96875,
+      "ppl": 39.80029548154951,
+      "unique_masks": 12,
+      "correct": 0.609375,
+      "correct_norm": 0.625
+    },
+    {
+      "task": "piqa",
+      "policy": "swap_prompt",
+      "seed": 580,
+      "maximum_exchanges": 2,
+      "records": 64,
+      "kl": 0.7307702871483666,
+      "nll": 3.6579272007159567,
+      "actual_exchanges": 1.875,
+      "ppl": 38.780874533818995,
+      "unique_masks": 21,
+      "correct": 0.625,
+      "correct_norm": 0.578125
+    },
+    {
+      "task": "piqa",
+      "policy": "train_best_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 64,
+      "kl": 0.7470552031707081,
+      "nll": 3.6808527626831347,
+      "actual_exchanges": 1.0,
+      "ppl": 39.6802174575691,
+      "unique_masks": 1,
+      "correct": 0.65625,
+      "correct_norm": 0.671875
+    },
+    {
+      "task": "piqa",
+      "policy": "train_mean_greedy_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 64,
+      "kl": 0.7470552031707081,
+      "nll": 3.6808527626831347,
+      "actual_exchanges": 1.0,
+      "ppl": 39.6802174575691,
+      "unique_masks": 1,
+      "correct": 0.65625,
+      "correct_norm": 0.671875
+    },
+    {
+      "task": "ruler_niah_multi",
+      "policy": "full",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 24,
+      "kl": 0.0,
+      "nll": 0.21843496839964818,
+      "actual_exchanges": 0.0,
+      "ppl": 1.2441281063545335,
+      "unique_masks": 1,
+      "answer_recall": 0.9444444444444443,
+      "all_answers": 0.8333333333333334,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_niah_multi",
+      "policy": "old_router_m6",
+      "seed": 579,
+      "maximum_exchanges": 0,
+      "records": 24,
+      "kl": 1.0492365714438903,
+      "nll": 1.232166566754085,
+      "actual_exchanges": 3.2083333333333335,
+      "ppl": 3.4286498939085495,
+      "unique_masks": 7,
+      "answer_recall": 0.25,
+      "all_answers": 0.0,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_niah_multi",
+      "policy": "old_router_m6",
+      "seed": 580,
+      "maximum_exchanges": 0,
+      "records": 24,
+      "kl": 1.4821549348340548,
+      "nll": 1.9088896631648504,
+      "actual_exchanges": 4.75,
+      "ppl": 6.745594756512608,
+      "unique_masks": 7,
+      "answer_recall": 0.09722222222222221,
+      "all_answers": 0.0,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_niah_multi",
+      "policy": "original_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 24,
+      "kl": 1.128425015004929,
+      "nll": 1.4899632160727547,
+      "actual_exchanges": 0.0,
+      "ppl": 4.436932308206699,
+      "unique_masks": 1,
+      "answer_recall": 0.1111111111111111,
+      "all_answers": 0.0,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_niah_multi",
+      "policy": "swap_constant",
+      "seed": 579,
+      "maximum_exchanges": 1,
+      "records": 24,
+      "kl": 1.0191194025449797,
+      "nll": 1.387229077887796,
+      "actual_exchanges": 1.0,
+      "ppl": 4.00374061500706,
+      "unique_masks": 1,
+      "answer_recall": 0.16666666666666666,
+      "all_answers": 0.0,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_niah_multi",
+      "policy": "swap_constant",
+      "seed": 579,
+      "maximum_exchanges": 2,
+      "records": 24,
+      "kl": 1.0191194025449797,
+      "nll": 1.387229077887796,
+      "actual_exchanges": 1.0,
+      "ppl": 4.00374061500706,
+      "unique_masks": 1,
+      "answer_recall": 0.16666666666666666,
+      "all_answers": 0.0,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_niah_multi",
+      "policy": "swap_constant",
+      "seed": 580,
+      "maximum_exchanges": 1,
+      "records": 24,
+      "kl": 1.0191194025449797,
+      "nll": 1.387229077887796,
+      "actual_exchanges": 1.0,
+      "ppl": 4.00374061500706,
+      "unique_masks": 1,
+      "answer_recall": 0.16666666666666666,
+      "all_answers": 0.0,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_niah_multi",
+      "policy": "swap_constant",
+      "seed": 580,
+      "maximum_exchanges": 2,
+      "records": 24,
+      "kl": 1.0191194025449797,
+      "nll": 1.387229077887796,
+      "actual_exchanges": 1.0,
+      "ppl": 4.00374061500706,
+      "unique_masks": 1,
+      "answer_recall": 0.16666666666666666,
+      "all_answers": 0.0,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_niah_multi",
+      "policy": "swap_prompt",
+      "seed": 579,
+      "maximum_exchanges": 1,
+      "records": 24,
+      "kl": 1.0130229404128528,
+      "nll": 1.333872575011987,
+      "actual_exchanges": 1.0,
+      "ppl": 3.7957141501905043,
+      "unique_masks": 2,
+      "answer_recall": 0.2083333333333333,
+      "all_answers": 0.0,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_niah_multi",
+      "policy": "swap_prompt",
+      "seed": 579,
+      "maximum_exchanges": 2,
+      "records": 24,
+      "kl": 0.9900193263839512,
+      "nll": 1.3053537563564206,
+      "actual_exchanges": 1.375,
+      "ppl": 3.6889938679348995,
+      "unique_masks": 2,
+      "answer_recall": 0.2222222222222222,
+      "all_answers": 0.0,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_niah_multi",
+      "policy": "swap_prompt",
+      "seed": 580,
+      "maximum_exchanges": 1,
+      "records": 24,
+      "kl": 1.2460078981142397,
+      "nll": 1.606059003289375,
+      "actual_exchanges": 1.0,
+      "ppl": 4.98313396472345,
+      "unique_masks": 1,
+      "answer_recall": 0.13888888888888887,
+      "all_answers": 0.0,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_niah_multi",
+      "policy": "swap_prompt",
+      "seed": 580,
+      "maximum_exchanges": 2,
+      "records": 24,
+      "kl": 1.1821757898233167,
+      "nll": 1.521047917287787,
+      "actual_exchanges": 2.0,
+      "ppl": 4.577019020295244,
+      "unique_masks": 2,
+      "answer_recall": 0.125,
+      "all_answers": 0.0,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_niah_multi",
+      "policy": "train_best_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 24,
+      "kl": 1.0191194025449797,
+      "nll": 1.387229077887796,
+      "actual_exchanges": 1.0,
+      "ppl": 4.00374061500706,
+      "unique_masks": 1,
+      "answer_recall": 0.16666666666666666,
+      "all_answers": 0.0,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_niah_multi",
+      "policy": "train_mean_greedy_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 24,
+      "kl": 1.0191194025449797,
+      "nll": 1.387229077887796,
+      "actual_exchanges": 1.0,
+      "ppl": 4.00374061500706,
+      "unique_masks": 1,
+      "answer_recall": 0.16666666666666666,
+      "all_answers": 0.0,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_niah_single",
+      "policy": "full",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 24,
+      "kl": 0.0,
+      "nll": 0.0763930254567337,
+      "actual_exchanges": 0.0,
+      "ppl": 1.0793867172598492,
+      "unique_masks": 1,
+      "answer_recall": 1.0,
+      "all_answers": 1.0,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_niah_single",
+      "policy": "old_router_m6",
+      "seed": 579,
+      "maximum_exchanges": 0,
+      "records": 24,
+      "kl": 0.8162037919941617,
+      "nll": 1.0927057916932326,
+      "actual_exchanges": 2.8333333333333335,
+      "ppl": 2.9823327362579826,
+      "unique_masks": 9,
+      "answer_recall": 0.5416666666666666,
+      "all_answers": 0.5416666666666666,
+      "strict_exact": 0.16666666666666666
+    },
+    {
+      "task": "ruler_niah_single",
+      "policy": "old_router_m6",
+      "seed": 580,
+      "maximum_exchanges": 0,
+      "records": 24,
+      "kl": 1.796034556399617,
+      "nll": 2.111368916023316,
+      "actual_exchanges": 4.958333333333333,
+      "ppl": 8.259540166130888,
+      "unique_masks": 3,
+      "answer_recall": 0.5416666666666666,
+      "all_answers": 0.5416666666666666,
+      "strict_exact": 0.25
+    },
+    {
+      "task": "ruler_niah_single",
+      "policy": "original_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 24,
+      "kl": 0.7706259004965735,
+      "nll": 0.9648452297810258,
+      "actual_exchanges": 0.0,
+      "ppl": 2.6243814489494466,
+      "unique_masks": 1,
+      "answer_recall": 0.4583333333333333,
+      "all_answers": 0.4583333333333333,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_niah_single",
+      "policy": "swap_constant",
+      "seed": 579,
+      "maximum_exchanges": 1,
+      "records": 24,
+      "kl": 0.6933218390137578,
+      "nll": 0.8913371546918318,
+      "actual_exchanges": 1.0,
+      "ppl": 2.4383879742837697,
+      "unique_masks": 1,
+      "answer_recall": 0.375,
+      "all_answers": 0.375,
+      "strict_exact": 0.041666666666666664
+    },
+    {
+      "task": "ruler_niah_single",
+      "policy": "swap_constant",
+      "seed": 579,
+      "maximum_exchanges": 2,
+      "records": 24,
+      "kl": 0.6933218390137578,
+      "nll": 0.8913371546918318,
+      "actual_exchanges": 1.0,
+      "ppl": 2.4383879742837697,
+      "unique_masks": 1,
+      "answer_recall": 0.375,
+      "all_answers": 0.375,
+      "strict_exact": 0.041666666666666664
+    },
+    {
+      "task": "ruler_niah_single",
+      "policy": "swap_constant",
+      "seed": 580,
+      "maximum_exchanges": 1,
+      "records": 24,
+      "kl": 0.6933218390137578,
+      "nll": 0.8913371546918318,
+      "actual_exchanges": 1.0,
+      "ppl": 2.4383879742837697,
+      "unique_masks": 1,
+      "answer_recall": 0.375,
+      "all_answers": 0.375,
+      "strict_exact": 0.041666666666666664
+    },
+    {
+      "task": "ruler_niah_single",
+      "policy": "swap_constant",
+      "seed": 580,
+      "maximum_exchanges": 2,
+      "records": 24,
+      "kl": 0.6933218390137578,
+      "nll": 0.8913371546918318,
+      "actual_exchanges": 1.0,
+      "ppl": 2.4383879742837697,
+      "unique_masks": 1,
+      "answer_recall": 0.375,
+      "all_answers": 0.375,
+      "strict_exact": 0.041666666666666664
+    },
+    {
+      "task": "ruler_niah_single",
+      "policy": "swap_prompt",
+      "seed": 579,
+      "maximum_exchanges": 1,
+      "records": 24,
+      "kl": 0.6343973109809061,
+      "nll": 0.7705295203066069,
+      "actual_exchanges": 1.0,
+      "ppl": 2.1609101967175954,
+      "unique_masks": 2,
+      "answer_recall": 0.5,
+      "all_answers": 0.5,
+      "strict_exact": 0.16666666666666666
+    },
+    {
+      "task": "ruler_niah_single",
+      "policy": "swap_prompt",
+      "seed": 579,
+      "maximum_exchanges": 2,
+      "records": 24,
+      "kl": 0.653930651748346,
+      "nll": 0.7919322489469778,
+      "actual_exchanges": 1.2083333333333333,
+      "ppl": 2.2076580526159386,
+      "unique_masks": 2,
+      "answer_recall": 0.4583333333333333,
+      "all_answers": 0.4583333333333333,
+      "strict_exact": 0.125
+    },
+    {
+      "task": "ruler_niah_single",
+      "policy": "swap_prompt",
+      "seed": 580,
+      "maximum_exchanges": 1,
+      "records": 24,
+      "kl": 1.069453426455665,
+      "nll": 1.3529206492627661,
+      "actual_exchanges": 1.0,
+      "ppl": 3.86870818604863,
+      "unique_masks": 2,
+      "answer_recall": 0.5,
+      "all_answers": 0.5,
+      "strict_exact": 0.25
+    },
+    {
+      "task": "ruler_niah_single",
+      "policy": "swap_prompt",
+      "seed": 580,
+      "maximum_exchanges": 2,
+      "records": 24,
+      "kl": 0.841431962099806,
+      "nll": 1.0945109185736834,
+      "actual_exchanges": 2.0,
+      "ppl": 2.9877210871119804,
+      "unique_masks": 2,
+      "answer_recall": 0.5833333333333334,
+      "all_answers": 0.5833333333333334,
+      "strict_exact": 0.041666666666666664
+    },
+    {
+      "task": "ruler_niah_single",
+      "policy": "train_best_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 24,
+      "kl": 0.6933218390137578,
+      "nll": 0.8913371546918318,
+      "actual_exchanges": 1.0,
+      "ppl": 2.4383879742837697,
+      "unique_masks": 1,
+      "answer_recall": 0.375,
+      "all_answers": 0.375,
+      "strict_exact": 0.041666666666666664
+    },
+    {
+      "task": "ruler_niah_single",
+      "policy": "train_mean_greedy_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 24,
+      "kl": 0.6933218390137578,
+      "nll": 0.8913371546918318,
+      "actual_exchanges": 1.0,
+      "ppl": 2.4383879742837697,
+      "unique_masks": 1,
+      "answer_recall": 0.375,
+      "all_answers": 0.375,
+      "strict_exact": 0.041666666666666664
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "policy": "full",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 24,
+      "kl": 0.0,
+      "nll": 0.15785796924882367,
+      "actual_exchanges": 0.0,
+      "ppl": 1.1709998649055358,
+      "unique_masks": 1,
+      "answer_recall": 0.986111111111111,
+      "all_answers": 0.9583333333333334,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "policy": "old_router_m6",
+      "seed": 579,
+      "maximum_exchanges": 0,
+      "records": 24,
+      "kl": 1.2554850299988065,
+      "nll": 1.56215289758903,
+      "actual_exchanges": 2.6666666666666665,
+      "ppl": 4.769077536333965,
+      "unique_masks": 7,
+      "answer_recall": 0.09722222222222221,
+      "all_answers": 0.041666666666666664,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "policy": "old_router_m6",
+      "seed": 580,
+      "maximum_exchanges": 0,
+      "records": 24,
+      "kl": 1.7841586623258274,
+      "nll": 2.2086149838354188,
+      "actual_exchanges": 4.625,
+      "ppl": 9.103099717650736,
+      "unique_masks": 6,
+      "answer_recall": 0.09722222222222221,
+      "all_answers": 0.0,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "policy": "original_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 24,
+      "kl": 1.098536241623118,
+      "nll": 1.4140875431524227,
+      "actual_exchanges": 0.0,
+      "ppl": 4.1127320628353345,
+      "unique_masks": 1,
+      "answer_recall": 0.19444444444444442,
+      "all_answers": 0.041666666666666664,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "policy": "swap_constant",
+      "seed": 579,
+      "maximum_exchanges": 1,
+      "records": 24,
+      "kl": 1.0265583328193206,
+      "nll": 1.3492205299775046,
+      "actual_exchanges": 1.0,
+      "ppl": 3.8544199546621734,
+      "unique_masks": 1,
+      "answer_recall": 0.3055555555555555,
+      "all_answers": 0.08333333333333333,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "policy": "swap_constant",
+      "seed": 579,
+      "maximum_exchanges": 2,
+      "records": 24,
+      "kl": 1.0265583328193206,
+      "nll": 1.3492205299775046,
+      "actual_exchanges": 1.0,
+      "ppl": 3.8544199546621734,
+      "unique_masks": 1,
+      "answer_recall": 0.3055555555555555,
+      "all_answers": 0.08333333333333333,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "policy": "swap_constant",
+      "seed": 580,
+      "maximum_exchanges": 1,
+      "records": 24,
+      "kl": 1.0265583328193206,
+      "nll": 1.3492205299775046,
+      "actual_exchanges": 1.0,
+      "ppl": 3.8544199546621734,
+      "unique_masks": 1,
+      "answer_recall": 0.3055555555555555,
+      "all_answers": 0.08333333333333333,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "policy": "swap_constant",
+      "seed": 580,
+      "maximum_exchanges": 2,
+      "records": 24,
+      "kl": 1.0265583328193206,
+      "nll": 1.3492205299775046,
+      "actual_exchanges": 1.0,
+      "ppl": 3.8544199546621734,
+      "unique_masks": 1,
+      "answer_recall": 0.3055555555555555,
+      "all_answers": 0.08333333333333333,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "policy": "swap_prompt",
+      "seed": 579,
+      "maximum_exchanges": 1,
+      "records": 24,
+      "kl": 1.0789304528128758,
+      "nll": 1.374094084567773,
+      "actual_exchanges": 1.0,
+      "ppl": 3.9514953803233337,
+      "unique_masks": 2,
+      "answer_recall": 0.13888888888888887,
+      "all_answers": 0.0,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "policy": "swap_prompt",
+      "seed": 579,
+      "maximum_exchanges": 2,
+      "records": 24,
+      "kl": 1.0600209470776132,
+      "nll": 1.354863691446261,
+      "actual_exchanges": 1.5,
+      "ppl": 3.876232556967504,
+      "unique_masks": 2,
+      "answer_recall": 0.13888888888888887,
+      "all_answers": 0.0,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "policy": "swap_prompt",
+      "seed": 580,
+      "maximum_exchanges": 1,
+      "records": 24,
+      "kl": 1.323569314960641,
+      "nll": 1.7060811339102988,
+      "actual_exchanges": 1.0,
+      "ppl": 5.507336618117715,
+      "unique_masks": 2,
+      "answer_recall": 0.15277777777777776,
+      "all_answers": 0.08333333333333333,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "policy": "swap_prompt",
+      "seed": 580,
+      "maximum_exchanges": 2,
+      "records": 24,
+      "kl": 1.4474129841217567,
+      "nll": 1.789382826964632,
+      "actual_exchanges": 2.0,
+      "ppl": 5.985757078288485,
+      "unique_masks": 2,
+      "answer_recall": 0.13888888888888887,
+      "all_answers": 0.041666666666666664,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "policy": "train_best_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 24,
+      "kl": 1.0265583328193206,
+      "nll": 1.3492205299775046,
+      "actual_exchanges": 1.0,
+      "ppl": 3.8544199546621734,
+      "unique_masks": 1,
+      "answer_recall": 0.3055555555555555,
+      "all_answers": 0.08333333333333333,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "policy": "train_mean_greedy_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 24,
+      "kl": 1.0265583328193206,
+      "nll": 1.3492205299775046,
+      "actual_exchanges": 1.0,
+      "ppl": 3.8544199546621734,
+      "unique_masks": 1,
+      "answer_recall": 0.3055555555555555,
+      "all_answers": 0.08333333333333333,
+      "strict_exact": 0.0
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "full",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 64,
+      "kl": 0.0,
+      "nll": 2.475602117741872,
+      "actual_exchanges": 0.0,
+      "ppl": 11.888863454019633,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "old_router_m6",
+      "seed": 579,
+      "maximum_exchanges": 0,
+      "records": 64,
+      "kl": 0.9635338111909664,
+      "nll": 3.4045615975048817,
+      "actual_exchanges": 3.453125,
+      "ppl": 30.10109643504567,
+      "unique_masks": 61
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "old_router_m6",
+      "seed": 580,
+      "maximum_exchanges": 0,
+      "records": 64,
+      "kl": 1.0023874103368544,
+      "nll": 3.4567526287385113,
+      "actual_exchanges": 3.828125,
+      "ppl": 31.713822559750984,
+      "unique_masks": 63
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "original_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 64,
+      "kl": 0.9222331771693291,
+      "nll": 3.3515132260174196,
+      "actual_exchanges": 0.0,
+      "ppl": 28.54589737188626,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "swap_constant",
+      "seed": 579,
+      "maximum_exchanges": 1,
+      "records": 64,
+      "kl": 0.9176270299528693,
+      "nll": 3.377445500051535,
+      "actual_exchanges": 1.0,
+      "ppl": 29.295839227490514,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "swap_constant",
+      "seed": 579,
+      "maximum_exchanges": 2,
+      "records": 64,
+      "kl": 0.9176270299528693,
+      "nll": 3.377445500051535,
+      "actual_exchanges": 1.0,
+      "ppl": 29.295839227490514,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "swap_constant",
+      "seed": 580,
+      "maximum_exchanges": 1,
+      "records": 64,
+      "kl": 0.9176270299528693,
+      "nll": 3.377445500051535,
+      "actual_exchanges": 1.0,
+      "ppl": 29.295839227490514,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "swap_constant",
+      "seed": 580,
+      "maximum_exchanges": 2,
+      "records": 64,
+      "kl": 0.9176270299528693,
+      "nll": 3.377445500051535,
+      "actual_exchanges": 1.0,
+      "ppl": 29.295839227490514,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "swap_prompt",
+      "seed": 579,
+      "maximum_exchanges": 1,
+      "records": 64,
+      "kl": 0.914268508670514,
+      "nll": 3.3479462691048636,
+      "actual_exchanges": 0.734375,
+      "ppl": 28.44425676752462,
+      "unique_masks": 6
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "swap_prompt",
+      "seed": 579,
+      "maximum_exchanges": 2,
+      "records": 64,
+      "kl": 0.9141003018220409,
+      "nll": 3.354722408649306,
+      "actual_exchanges": 1.28125,
+      "ppl": 28.63765352231732,
+      "unique_masks": 7
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "swap_prompt",
+      "seed": 580,
+      "maximum_exchanges": 1,
+      "records": 64,
+      "kl": 0.9213324730902683,
+      "nll": 3.3522028736778937,
+      "actual_exchanges": 0.6875,
+      "ppl": 28.565590773198448,
+      "unique_masks": 10
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "swap_prompt",
+      "seed": 580,
+      "maximum_exchanges": 2,
+      "records": 64,
+      "kl": 0.9286616590859831,
+      "nll": 3.361434633630268,
+      "actual_exchanges": 1.015625,
+      "ppl": 28.830522461416166,
+      "unique_masks": 19
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "train_best_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 64,
+      "kl": 0.9176270299528693,
+      "nll": 3.377445500051535,
+      "actual_exchanges": 1.0,
+      "ppl": 29.295839227490514,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "train_mean_greedy_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 64,
+      "kl": 0.9176270299528693,
+      "nll": 3.377445500051535,
+      "actual_exchanges": 1.0,
+      "ppl": 29.295839227490514,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "full",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 64,
+      "kl": 0.0,
+      "nll": 3.3287949436764395,
+      "actual_exchanges": 0.0,
+      "ppl": 27.90469470523282,
+      "unique_masks": 1,
+      "correct": 0.5625,
+      "correct_norm": 0.46875
+    },
+    {
+      "task": "winogrande",
+      "policy": "old_router_m6",
+      "seed": 579,
+      "maximum_exchanges": 0,
+      "records": 64,
+      "kl": 0.6349478570670698,
+      "nll": 3.810009784604586,
+      "actual_exchanges": 4.125,
+      "ppl": 45.150880647671244,
+      "unique_masks": 64,
+      "correct": 0.484375,
+      "correct_norm": 0.46875
+    },
+    {
+      "task": "winogrande",
+      "policy": "old_router_m6",
+      "seed": 580,
+      "maximum_exchanges": 0,
+      "records": 64,
+      "kl": 0.6641232253792442,
+      "nll": 3.8553137009659775,
+      "actual_exchanges": 4.625,
+      "ppl": 47.24343492811786,
+      "unique_masks": 64,
+      "correct": 0.46875,
+      "correct_norm": 0.4375
+    },
+    {
+      "task": "winogrande",
+      "policy": "original_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 64,
+      "kl": 0.5936983084624181,
+      "nll": 3.7428036683768093,
+      "actual_exchanges": 0.0,
+      "ppl": 42.21618458029917,
+      "unique_masks": 1,
+      "correct": 0.5,
+      "correct_norm": 0.453125
+    },
+    {
+      "task": "winogrande",
+      "policy": "swap_constant",
+      "seed": 579,
+      "maximum_exchanges": 1,
+      "records": 64,
+      "kl": 0.6158496260771533,
+      "nll": 3.7680687260162875,
+      "actual_exchanges": 1.0,
+      "ppl": 43.29636689306692,
+      "unique_masks": 1,
+      "correct": 0.4375,
+      "correct_norm": 0.46875
+    },
+    {
+      "task": "winogrande",
+      "policy": "swap_constant",
+      "seed": 579,
+      "maximum_exchanges": 2,
+      "records": 64,
+      "kl": 0.6158496260771533,
+      "nll": 3.7680687260162875,
+      "actual_exchanges": 1.0,
+      "ppl": 43.29636689306692,
+      "unique_masks": 1,
+      "correct": 0.4375,
+      "correct_norm": 0.46875
+    },
+    {
+      "task": "winogrande",
+      "policy": "swap_constant",
+      "seed": 580,
+      "maximum_exchanges": 1,
+      "records": 64,
+      "kl": 0.6158496260771533,
+      "nll": 3.7680687260162875,
+      "actual_exchanges": 1.0,
+      "ppl": 43.29636689306692,
+      "unique_masks": 1,
+      "correct": 0.4375,
+      "correct_norm": 0.46875
+    },
+    {
+      "task": "winogrande",
+      "policy": "swap_constant",
+      "seed": 580,
+      "maximum_exchanges": 2,
+      "records": 64,
+      "kl": 0.6158496260771533,
+      "nll": 3.7680687260162875,
+      "actual_exchanges": 1.0,
+      "ppl": 43.29636689306692,
+      "unique_masks": 1,
+      "correct": 0.4375,
+      "correct_norm": 0.46875
+    },
+    {
+      "task": "winogrande",
+      "policy": "swap_prompt",
+      "seed": 579,
+      "maximum_exchanges": 1,
+      "records": 64,
+      "kl": 0.5817343744994199,
+      "nll": 3.7484807304873793,
+      "actual_exchanges": 0.515625,
+      "ppl": 42.456530064846476,
+      "unique_masks": 3,
+      "correct": 0.5,
+      "correct_norm": 0.46875
+    },
+    {
+      "task": "winogrande",
+      "policy": "swap_prompt",
+      "seed": 579,
+      "maximum_exchanges": 2,
+      "records": 64,
+      "kl": 0.6026499770648657,
+      "nll": 3.8163634198854375,
+      "actual_exchanges": 1.0,
+      "ppl": 45.43866614984965,
+      "unique_masks": 3,
+      "correct": 0.5625,
+      "correct_norm": 0.46875
+    },
+    {
+      "task": "winogrande",
+      "policy": "swap_prompt",
+      "seed": 580,
+      "maximum_exchanges": 1,
+      "records": 64,
+      "kl": 0.5980293820977581,
+      "nll": 3.757519210772089,
+      "actual_exchanges": 0.953125,
+      "ppl": 42.842012036095916,
+      "unique_masks": 11,
+      "correct": 0.625,
+      "correct_norm": 0.5
+    },
+    {
+      "task": "winogrande",
+      "policy": "swap_prompt",
+      "seed": 580,
+      "maximum_exchanges": 2,
+      "records": 64,
+      "kl": 0.6165809758627518,
+      "nll": 3.765706544353831,
+      "actual_exchanges": 1.34375,
+      "ppl": 43.19421370883081,
+      "unique_masks": 21,
+      "correct": 0.609375,
+      "correct_norm": 0.484375
+    },
+    {
+      "task": "winogrande",
+      "policy": "train_best_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 64,
+      "kl": 0.6158496260771533,
+      "nll": 3.7680687260162875,
+      "actual_exchanges": 1.0,
+      "ppl": 43.29636689306692,
+      "unique_masks": 1,
+      "correct": 0.4375,
+      "correct_norm": 0.46875
+    },
+    {
+      "task": "winogrande",
+      "policy": "train_mean_greedy_static",
+      "seed": null,
+      "maximum_exchanges": 0,
+      "records": 64,
+      "kl": 0.6158496260771533,
+      "nll": 3.7680687260162875,
+      "actual_exchanges": 1.0,
+      "ppl": 43.29636689306692,
+      "unique_masks": 1,
+      "correct": 0.4375,
+      "correct_norm": 0.46875
+    }
+  ],
+  "paired_comparisons": [
+    {
+      "task": "c4_development",
+      "maximum_exchanges": 1,
+      "baseline": "original_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.014664272059159203,
+      "ci95": [
+        -0.028876160815908006,
+        -0.0014112050099677283
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.43
+    },
+    {
+      "task": "c4_development",
+      "maximum_exchanges": 1,
+      "baseline": "original_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.008887435583891233,
+      "ci95": [
+        -0.033478988013300556,
+        0.013615496994996893
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.43
+    },
+    {
+      "task": "c4_development",
+      "maximum_exchanges": 1,
+      "baseline": "train_best_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.011872715065504736,
+      "ci95": [
+        -0.03009184100285847,
+        0.007569003491158396
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.36
+    },
+    {
+      "task": "c4_development",
+      "maximum_exchanges": 1,
+      "baseline": "train_best_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0024540096480181717,
+      "ci95": [
+        -0.02825216266338563,
+        0.02386097270491261
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.46
+    },
+    {
+      "task": "c4_development",
+      "maximum_exchanges": 1,
+      "baseline": "train_mean_greedy_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.011872715065504736,
+      "ci95": [
+        -0.03009184100285847,
+        0.007569003491158396
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.36
+    },
+    {
+      "task": "c4_development",
+      "maximum_exchanges": 1,
+      "baseline": "train_mean_greedy_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0024540096480181717,
+      "ci95": [
+        -0.02825216266338563,
+        0.02386097270491261
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.46
+    },
+    {
+      "task": "c4_development",
+      "maximum_exchanges": 1,
+      "baseline": "old_router_m6",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.030495547561496892,
+      "ci95": [
+        0.007191636725230154,
+        0.05272199459494966
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.65
+    },
+    {
+      "task": "c4_development",
+      "maximum_exchanges": 1,
+      "baseline": "old_router_m6",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.02063735362889929,
+      "ci95": [
+        -0.01585668293285242,
+        0.05544725403495452
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.49
+    },
+    {
+      "task": "c4_development",
+      "maximum_exchanges": 1,
+      "baseline": "swap_constant",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.011872715065504736,
+      "ci95": [
+        -0.03009184100285847,
+        0.007569003491158396
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.36
+    },
+    {
+      "task": "c4_development",
+      "maximum_exchanges": 1,
+      "baseline": "swap_constant",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0024540096480181717,
+      "ci95": [
+        -0.02825216266338563,
+        0.02386097270491261
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.46
+    },
+    {
+      "task": "c4_development",
+      "maximum_exchanges": 2,
+      "baseline": "original_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.008560750297684763,
+      "ci95": [
+        -0.02364477706645241,
+        0.006473496451495001
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.43
+    },
+    {
+      "task": "c4_development",
+      "maximum_exchanges": 2,
+      "baseline": "original_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0034918119487029743,
+      "ci95": [
+        -0.02644426389175267,
+        0.033549968602199415
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.51
+    },
+    {
+      "task": "c4_development",
+      "maximum_exchanges": 2,
+      "baseline": "train_best_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0057691933040302954,
+      "ci95": [
+        -0.023170204548058532,
+        0.013996953764211383
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.46
+    },
+    {
+      "task": "c4_development",
+      "maximum_exchanges": 2,
+      "baseline": "train_best_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.009925237884576034,
+      "ci95": [
+        -0.019097867424922067,
+        0.03966754064364887
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.5
+    },
+    {
+      "task": "c4_development",
+      "maximum_exchanges": 2,
+      "baseline": "train_mean_greedy_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0057691933040302954,
+      "ci95": [
+        -0.023170204548058532,
+        0.013996953764211383
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.46
+    },
+    {
+      "task": "c4_development",
+      "maximum_exchanges": 2,
+      "baseline": "train_mean_greedy_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.009925237884576034,
+      "ci95": [
+        -0.019097867424922067,
+        0.03966754064364887
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.5
+    },
+    {
+      "task": "c4_development",
+      "maximum_exchanges": 2,
+      "baseline": "old_router_m6",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.03659906932297133,
+      "ci95": [
+        0.013966499383626626,
+        0.05940619062473438
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.63
+    },
+    {
+      "task": "c4_development",
+      "maximum_exchanges": 2,
+      "baseline": "old_router_m6",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0330166011614935,
+      "ci95": [
+        -0.0032588803685448973,
+        0.06769419787934693
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.55
+    },
+    {
+      "task": "c4_development",
+      "maximum_exchanges": 2,
+      "baseline": "swap_constant",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0057691933040302954,
+      "ci95": [
+        -0.023170204548058532,
+        0.013996953764211383
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.46
+    },
+    {
+      "task": "c4_development",
+      "maximum_exchanges": 2,
+      "baseline": "swap_constant",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.009925237884576034,
+      "ci95": [
+        -0.019097867424922067,
+        0.03966754064364887
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.5
+    },
+    {
+      "task": "c4_prior_fresh",
+      "maximum_exchanges": 1,
+      "baseline": "original_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0034777059037800484,
+      "ci95": [
+        -0.034678636235091084,
+        0.029360171419686266
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.4375
+    },
+    {
+      "task": "c4_prior_fresh",
+      "maximum_exchanges": 1,
+      "baseline": "original_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.032849231686574276,
+      "ci95": [
+        -0.07322958955282893,
+        0.009446975286963434
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.3125
+    },
+    {
+      "task": "c4_prior_fresh",
+      "maximum_exchanges": 1,
+      "baseline": "train_best_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.01028189394519785,
+      "ci95": [
+        -0.042787031445082446,
+        0.02169228299191247
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.40625
+    },
+    {
+      "task": "c4_prior_fresh",
+      "maximum_exchanges": 1,
+      "baseline": "train_best_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.02131990826475838,
+      "ci95": [
+        -0.06333611600978184,
+        0.022438764759910596
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.28125
+    },
+    {
+      "task": "c4_prior_fresh",
+      "maximum_exchanges": 1,
+      "baseline": "train_mean_greedy_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.01028189394519785,
+      "ci95": [
+        -0.042787031445082446,
+        0.02169228299191247
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.40625
+    },
+    {
+      "task": "c4_prior_fresh",
+      "maximum_exchanges": 1,
+      "baseline": "train_mean_greedy_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.02131990826475838,
+      "ci95": [
+        -0.06333611600978184,
+        0.022438764759910596
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.28125
+    },
+    {
+      "task": "c4_prior_fresh",
+      "maximum_exchanges": 1,
+      "baseline": "old_router_m6",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.06769983800728241,
+      "ci95": [
+        0.007245702543246946,
+        0.14846572510758316
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.6875
+    },
+    {
+      "task": "c4_prior_fresh",
+      "maximum_exchanges": 1,
+      "baseline": "old_router_m6",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.08405879620040935,
+      "ci95": [
+        0.003109187654973983,
+        0.18427389364589453
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.65625
+    },
+    {
+      "task": "c4_prior_fresh",
+      "maximum_exchanges": 1,
+      "baseline": "swap_constant",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.01028189394519785,
+      "ci95": [
+        -0.042787031445082446,
+        0.02169228299191247
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.40625
+    },
+    {
+      "task": "c4_prior_fresh",
+      "maximum_exchanges": 1,
+      "baseline": "swap_constant",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.02131990826475838,
+      "ci95": [
+        -0.06333611600978184,
+        0.022438764759910596
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.28125
+    },
+    {
+      "task": "c4_prior_fresh",
+      "maximum_exchanges": 2,
+      "baseline": "original_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.00571785870974395,
+      "ci95": [
+        -0.04019136760157416,
+        0.030624497421316888
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.4375
+    },
+    {
+      "task": "c4_prior_fresh",
+      "maximum_exchanges": 2,
+      "baseline": "original_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.03907368665909572,
+      "ci95": [
+        -0.09097235438317086,
+        0.01449821264712292
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.3125
+    },
+    {
+      "task": "c4_prior_fresh",
+      "maximum_exchanges": 2,
+      "baseline": "train_best_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.012522046751161753,
+      "ci95": [
+        -0.04457231028942625,
+        0.019767199860814686
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.4375
+    },
+    {
+      "task": "c4_prior_fresh",
+      "maximum_exchanges": 2,
+      "baseline": "train_best_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.027544363237279823,
+      "ci95": [
+        -0.07826994988187148,
+        0.02645870030507083
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.28125
+    },
+    {
+      "task": "c4_prior_fresh",
+      "maximum_exchanges": 2,
+      "baseline": "train_mean_greedy_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.012522046751161753,
+      "ci95": [
+        -0.04457231028942625,
+        0.019767199860814686
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.4375
+    },
+    {
+      "task": "c4_prior_fresh",
+      "maximum_exchanges": 2,
+      "baseline": "train_mean_greedy_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.027544363237279823,
+      "ci95": [
+        -0.07826994988187148,
+        0.02645870030507083
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.28125
+    },
+    {
+      "task": "c4_prior_fresh",
+      "maximum_exchanges": 2,
+      "baseline": "old_router_m6",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.06545968520131851,
+      "ci95": [
+        0.002993381024346409,
+        0.1449008267500563
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.6875
+    },
+    {
+      "task": "c4_prior_fresh",
+      "maximum_exchanges": 2,
+      "baseline": "old_router_m6",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0778343412278879,
+      "ci95": [
+        -0.0024654084753353675,
+        0.17667911219557947
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.59375
+    },
+    {
+      "task": "c4_prior_fresh",
+      "maximum_exchanges": 2,
+      "baseline": "swap_constant",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.012522046751161753,
+      "ci95": [
+        -0.04457231028942625,
+        0.019767199860814686
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.4375
+    },
+    {
+      "task": "c4_prior_fresh",
+      "maximum_exchanges": 2,
+      "baseline": "swap_constant",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.027544363237279823,
+      "ci95": [
+        -0.07826994988187148,
+        0.02645870030507083
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.28125
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 1,
+      "baseline": "original_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.02221597833665597,
+      "ci95": [
+        -0.031044321263337754,
+        -0.013311237707596001
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.296875
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 1,
+      "baseline": "original_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.02206568340056165,
+      "ci95": [
+        -0.0401038903884719,
+        -0.0035453663419948885
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.375
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 1,
+      "baseline": "original_static",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0078125,
+      "ci95": [
+        -0.0703125,
+        0.046875
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.046875
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 1,
+      "baseline": "train_best_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.007957075517862185,
+      "ci95": [
+        -0.01999138879745382,
+        0.004804043037942793
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.4375
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 1,
+      "baseline": "train_best_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.02963008952856741,
+      "ci95": [
+        -0.05407411301407244,
+        -0.002908100236641031
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.375
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 1,
+      "baseline": "train_best_static",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0078125,
+      "ci95": [
+        -0.0546875,
+        0.03125
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.03125
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 1,
+      "baseline": "train_mean_greedy_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.007957075517862185,
+      "ci95": [
+        -0.01999138879745382,
+        0.004804043037942793
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.4375
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 1,
+      "baseline": "train_mean_greedy_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.02963008952856741,
+      "ci95": [
+        -0.05407411301407244,
+        -0.002908100236641031
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.375
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 1,
+      "baseline": "train_mean_greedy_static",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0078125,
+      "ci95": [
+        -0.0546875,
+        0.03125
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.03125
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 1,
+      "baseline": "old_router_m6",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.043341075817161165,
+      "ci95": [
+        0.02333852609074241,
+        0.06519172878577317
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.640625
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 1,
+      "baseline": "old_router_m6",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.03127963059829727,
+      "ci95": [
+        0.006368241872167229,
+        0.05937985337935724
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.53125
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 1,
+      "baseline": "old_router_m6",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.03125,
+      "ci95": [
+        -0.0859375,
+        0.0234375
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.078125
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 1,
+      "baseline": "swap_constant",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.007957075517862185,
+      "ci95": [
+        -0.01999138879745382,
+        0.004804043037942793
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.4375
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 1,
+      "baseline": "swap_constant",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.02963008952856741,
+      "ci95": [
+        -0.05407411301407244,
+        -0.002908100236641031
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.375
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 1,
+      "baseline": "swap_constant",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0078125,
+      "ci95": [
+        -0.0546875,
+        0.03125
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.03125
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 2,
+      "baseline": "original_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.02607868560030684,
+      "ci95": [
+        -0.036568999588665656,
+        -0.015539233325391253
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.328125
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 2,
+      "baseline": "original_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.030675698813720745,
+      "ci95": [
+        -0.05135065929472281,
+        -0.009553072981564673
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.328125
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 2,
+      "baseline": "original_static",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0,
+      "ci95": [
+        -0.0703125,
+        0.0625
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.0625
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 2,
+      "baseline": "train_best_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.011819782781513053,
+      "ci95": [
+        -0.024443966284218938,
+        0.001782406963387287
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.4375
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 2,
+      "baseline": "train_best_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.038240104941726506,
+      "ci95": [
+        -0.06546777984094697,
+        -0.009325215274748092
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.375
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 2,
+      "baseline": "train_best_static",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0,
+      "ci95": [
+        -0.0546875,
+        0.0546875
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.046875
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 2,
+      "baseline": "train_mean_greedy_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.011819782781513053,
+      "ci95": [
+        -0.024443966284218938,
+        0.001782406963387287
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.4375
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 2,
+      "baseline": "train_mean_greedy_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.038240104941726506,
+      "ci95": [
+        -0.06546777984094697,
+        -0.009325215274748092
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.375
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 2,
+      "baseline": "train_mean_greedy_static",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0,
+      "ci95": [
+        -0.0546875,
+        0.0546875
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.046875
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 2,
+      "baseline": "old_router_m6",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.03947836855351029,
+      "ci95": [
+        0.019009286960291288,
+        0.06402851928000769
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.625
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 2,
+      "baseline": "old_router_m6",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.022669615185138173,
+      "ci95": [
+        -0.006193145560646523,
+        0.05291420050102803
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.484375
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 2,
+      "baseline": "old_router_m6",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0234375,
+      "ci95": [
+        -0.0859375,
+        0.0390625
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.078125
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 2,
+      "baseline": "swap_constant",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.011819782781513053,
+      "ci95": [
+        -0.024443966284218938,
+        0.001782406963387287
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.4375
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 2,
+      "baseline": "swap_constant",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.038240104941726506,
+      "ci95": [
+        -0.06546777984094697,
+        -0.009325215274748092
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.375
+    },
+    {
+      "task": "hellaswag",
+      "maximum_exchanges": 2,
+      "baseline": "swap_constant",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0,
+      "ci95": [
+        -0.0546875,
+        0.0546875
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.046875
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 1,
+      "baseline": "original_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.013482739255157344,
+      "ci95": [
+        -0.03912918763553754,
+        0.014429496233835106
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.390625
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 1,
+      "baseline": "original_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.04500301390484101,
+      "ci95": [
+        -0.0989829244608803,
+        0.01084850423602306
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.375
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 1,
+      "baseline": "original_static",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0546875,
+      "ci95": [
+        -0.1328125,
+        0.0234375
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.078125
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 1,
+      "baseline": "train_best_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.00021487771356520826,
+      "ci95": [
+        -0.025844670400161404,
+        0.02499416122792099
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.421875
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 1,
+      "baseline": "train_best_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.01610065692608239,
+      "ci95": [
+        -0.06840351261591822,
+        0.03177316034618229
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.390625
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 1,
+      "baseline": "train_best_static",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0703125,
+      "ci95": [
+        -0.140625,
+        0.0
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.0625
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 1,
+      "baseline": "train_mean_greedy_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.00021487771356520826,
+      "ci95": [
+        -0.025844670400161404,
+        0.02499416122792099
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.421875
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 1,
+      "baseline": "train_mean_greedy_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.01610065692608239,
+      "ci95": [
+        -0.06840351261591822,
+        0.03177316034618229
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.390625
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 1,
+      "baseline": "train_mean_greedy_static",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0703125,
+      "ci95": [
+        -0.140625,
+        0.0
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.0625
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 1,
+      "baseline": "old_router_m6",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.08105708117818855,
+      "ci95": [
+        0.044791542743557546,
+        0.12006253365227564
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.671875
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 1,
+      "baseline": "old_router_m6",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.004120529101292257,
+      "ci95": [
+        -0.07542322781854341,
+        0.06615255619283765
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.53125
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 1,
+      "baseline": "old_router_m6",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.015625,
+      "ci95": [
+        -0.0859375,
+        0.0546875
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.125
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 1,
+      "baseline": "swap_constant",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.00021487771356520826,
+      "ci95": [
+        -0.025844670400161404,
+        0.02499416122792099
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.421875
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 1,
+      "baseline": "swap_constant",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.01610065692608239,
+      "ci95": [
+        -0.06840351261591822,
+        0.03177316034618229
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.390625
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 1,
+      "baseline": "swap_constant",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0703125,
+      "ci95": [
+        -0.140625,
+        0.0
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.0625
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 2,
+      "baseline": "original_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.013084228491454932,
+      "ci95": [
+        -0.040443667328071205,
+        0.018213506321579493
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.34375
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 2,
+      "baseline": "original_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.03284754000338285,
+      "ci95": [
+        -0.10444416086813768,
+        0.04594982311814796
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.40625
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 2,
+      "baseline": "original_static",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0703125,
+      "ci95": [
+        -0.1484375,
+        0.0078125
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.0625
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 2,
+      "baseline": "train_best_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.00018363305013720417,
+      "ci95": [
+        -0.025978559668562447,
+        0.02684737057689506
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.46875
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 2,
+      "baseline": "train_best_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.003945183024624231,
+      "ci95": [
+        -0.06564597530418043,
+        0.05601280180011022
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.453125
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 2,
+      "baseline": "train_best_static",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0859375,
+      "ci95": [
+        -0.171875,
+        -0.0078125
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.078125
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 2,
+      "baseline": "train_mean_greedy_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.00018363305013720417,
+      "ci95": [
+        -0.025978559668562447,
+        0.02684737057689506
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.46875
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 2,
+      "baseline": "train_mean_greedy_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.003945183024624231,
+      "ci95": [
+        -0.06564597530418043,
+        0.05601280180011022
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.453125
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 2,
+      "baseline": "train_mean_greedy_static",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0859375,
+      "ci95": [
+        -0.171875,
+        -0.0078125
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.078125
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 2,
+      "baseline": "old_router_m6",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.08145559194189095,
+      "ci95": [
+        0.044498789967430535,
+        0.12142252165734112
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.671875
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 2,
+      "baseline": "old_router_m6",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.008034944800165901,
+      "ci95": [
+        -0.061148542928421805,
+        0.07802387109612272
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.5
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 2,
+      "baseline": "old_router_m6",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.03125,
+      "ci95": [
+        -0.1015625,
+        0.0390625
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.109375
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 2,
+      "baseline": "swap_constant",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.00018363305013720417,
+      "ci95": [
+        -0.025978559668562447,
+        0.02684737057689506
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.46875
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 2,
+      "baseline": "swap_constant",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.003945183024624231,
+      "ci95": [
+        -0.06564597530418043,
+        0.05601280180011022
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.453125
+    },
+    {
+      "task": "piqa",
+      "maximum_exchanges": 2,
+      "baseline": "swap_constant",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0859375,
+      "ci95": [
+        -0.171875,
+        -0.0078125
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.078125
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 1,
+      "baseline": "original_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0010904042586170407,
+      "ci95": [
+        -0.09321976151051337,
+        0.08193626198700424
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.5416666666666666
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 1,
+      "baseline": "original_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.01999742692207375,
+      "ci95": [
+        -0.08191775883327318,
+        0.11595522896636083
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.5416666666666666
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 1,
+      "baseline": "original_static",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.0
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 1,
+      "baseline": "train_best_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.11039601671856643,
+      "ci95": [
+        -0.19095097596826927,
+        -0.02490914063764651
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.2916666666666667
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 1,
+      "baseline": "train_best_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0827367112628849,
+      "ci95": [
+        -0.18908625855964606,
+        0.03260669508300904
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.3333333333333333
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 1,
+      "baseline": "train_best_static",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.0
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 1,
+      "baseline": "train_mean_greedy_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.11039601671856643,
+      "ci95": [
+        -0.19095097596826927,
+        -0.02490914063764651
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.2916666666666667
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 1,
+      "baseline": "train_mean_greedy_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0827367112628849,
+      "ci95": [
+        -0.18908625855964606,
+        0.03260669508300904
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.3333333333333333
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 1,
+      "baseline": "train_mean_greedy_static",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.0
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 1,
+      "baseline": "old_router_m6",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.13618033387542633,
+      "ci95": [
+        0.00036133842155648986,
+        0.25698938819290384
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.6666666666666666
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 1,
+      "baseline": "old_router_m6",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.10056232580878681,
+      "ci95": [
+        -0.03253224833657875,
+        0.21883378719852117
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.6666666666666666
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 1,
+      "baseline": "old_router_m6",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.0
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 1,
+      "baseline": "swap_constant",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.11039601671856643,
+      "ci95": [
+        -0.19095097596826927,
+        -0.02490914063764651
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.2916666666666667
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 1,
+      "baseline": "swap_constant",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0827367112628849,
+      "ci95": [
+        -0.18908625855964606,
+        0.03260669508300904
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.3333333333333333
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 1,
+      "baseline": "swap_constant",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.0
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 2,
+      "baseline": "original_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.04232745690129522,
+      "ci95": [
+        -0.067061699340174,
+        0.16310306654303644
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.5416666666666666
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 2,
+      "baseline": "original_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.07676237925065084,
+      "ci95": [
+        -0.058784706737253216,
+        0.2149099072847939
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.5416666666666666
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 2,
+      "baseline": "original_static",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.0
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 2,
+      "baseline": "train_best_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.06697815555865416,
+      "ci95": [
+        -0.17142102531160264,
+        0.061124376728532125
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.375
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 2,
+      "baseline": "train_best_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.02597175893430782,
+      "ci95": [
+        -0.1585458774981482,
+        0.12711996853316526
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.4583333333333333
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 2,
+      "baseline": "train_best_static",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.0
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 2,
+      "baseline": "train_mean_greedy_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.06697815555865416,
+      "ci95": [
+        -0.17142102531160264,
+        0.061124376728532125
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.375
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 2,
+      "baseline": "train_mean_greedy_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.02597175893430782,
+      "ci95": [
+        -0.1585458774981482,
+        0.12711996853316526
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.4583333333333333
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 2,
+      "baseline": "train_mean_greedy_static",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.0
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 2,
+      "baseline": "old_router_m6",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.1795981950353386,
+      "ci95": [
+        0.03545854672559648,
+        0.3250012755502701
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.7083333333333334
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 2,
+      "baseline": "old_router_m6",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.1573272781373639,
+      "ci95": [
+        0.03183551289912687,
+        0.29354671413181094
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.6666666666666666
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 2,
+      "baseline": "old_router_m6",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.0
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 2,
+      "baseline": "swap_constant",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.06697815555865416,
+      "ci95": [
+        -0.17142102531160264,
+        0.061124376728532125
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.375
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 2,
+      "baseline": "swap_constant",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.02597175893430782,
+      "ci95": [
+        -0.1585458774981482,
+        0.12711996853316526
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.4583333333333333
+    },
+    {
+      "task": "ruler_niah_multi",
+      "maximum_exchanges": 2,
+      "baseline": "swap_constant",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.0
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 1,
+      "baseline": "original_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.08129946822171204,
+      "ci95": [
+        -0.3097517697161998,
+        0.189681521967739
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.375
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 1,
+      "baseline": "original_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.09687985500366066,
+      "ci95": [
+        -0.3345507364057186,
+        0.15525300731917213
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.375
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 1,
+      "baseline": "original_static",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.041666666666666664,
+      "ci95": [
+        -0.1875,
+        0.2708333333333333
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.25
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 1,
+      "baseline": "train_best_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.1586035297045277,
+      "ci95": [
+        -0.41654945386617326,
+        0.08123457819844285
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.375
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 1,
+      "baseline": "train_best_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.1703879300928545,
+      "ci95": [
+        -0.49076132431267366,
+        0.10232415030489672
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.4583333333333333
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 1,
+      "baseline": "train_best_static",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.125,
+      "ci95": [
+        -0.041666666666666664,
+        0.3125
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.2916666666666667
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 1,
+      "baseline": "train_mean_greedy_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.1586035297045277,
+      "ci95": [
+        -0.41654945386617326,
+        0.08123457819844285
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.375
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 1,
+      "baseline": "train_mean_greedy_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.1703879300928545,
+      "ci95": [
+        -0.49076132431267366,
+        0.10232415030489672
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.4583333333333333
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 1,
+      "baseline": "train_mean_greedy_static",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.125,
+      "ci95": [
+        -0.041666666666666664,
+        0.3125
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.2916666666666667
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 1,
+      "baseline": "old_router_m6",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.45419380547860383,
+      "ci95": [
+        0.2212399621298068,
+        0.6735070325587003
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.8333333333333334
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 1,
+      "baseline": "old_router_m6",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.5403122690735876,
+      "ci95": [
+        0.2857956126404638,
+        0.779533600541294
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.7916666666666666
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 1,
+      "baseline": "old_router_m6",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.041666666666666664,
+      "ci95": [
+        -0.22916666666666666,
+        0.14583333333333334
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.20833333333333334
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 1,
+      "baseline": "swap_constant",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.1586035297045277,
+      "ci95": [
+        -0.41654945386617326,
+        0.08123457819844285
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.375
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 1,
+      "baseline": "swap_constant",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.1703879300928545,
+      "ci95": [
+        -0.49076132431267366,
+        0.10232415030489672
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.4583333333333333
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 1,
+      "baseline": "swap_constant",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.125,
+      "ci95": [
+        -0.041666666666666664,
+        0.3125
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.2916666666666667
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 2,
+      "baseline": "original_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.02294459357249759,
+      "ci95": [
+        -0.2428970713287627,
+        0.3860023106225623
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.4166666666666667
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 2,
+      "baseline": "original_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.02162364602069522,
+      "ci95": [
+        -0.2603039656532929,
+        0.38681809352545077
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.4583333333333333
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 2,
+      "baseline": "original_static",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0625,
+      "ci95": [
+        -0.125,
+        0.3125
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.2916666666666667
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 2,
+      "baseline": "train_best_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.054359467910318114,
+      "ci95": [
+        -0.2578290015297777,
+        0.13785483235066445
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.5
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 2,
+      "baseline": "train_best_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.05188442906849864,
+      "ci95": [
+        -0.2931659418089921,
+        0.1678121690292754
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.5833333333333334
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 2,
+      "baseline": "train_best_static",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.14583333333333334,
+      "ci95": [
+        -0.020833333333333332,
+        0.375
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.3333333333333333
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 2,
+      "baseline": "train_mean_greedy_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.054359467910318114,
+      "ci95": [
+        -0.2578290015297777,
+        0.13785483235066445
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.5
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 2,
+      "baseline": "train_mean_greedy_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.05188442906849864,
+      "ci95": [
+        -0.2931659418089921,
+        0.1678121690292754
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.5833333333333334
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 2,
+      "baseline": "train_mean_greedy_static",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.14583333333333334,
+      "ci95": [
+        -0.020833333333333332,
+        0.375
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.3333333333333333
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 2,
+      "baseline": "old_router_m6",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.5584378672728133,
+      "ci95": [
+        0.3272950334696765,
+        0.7924512407235952
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.9583333333333334
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 2,
+      "baseline": "old_router_m6",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.6588157700979435,
+      "ci95": [
+        0.39658539998021697,
+        0.9482313859635824
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.9583333333333334
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 2,
+      "baseline": "old_router_m6",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.020833333333333332,
+      "ci95": [
+        -0.20833333333333334,
+        0.16666666666666666
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.16666666666666666
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 2,
+      "baseline": "swap_constant",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.054359467910318114,
+      "ci95": [
+        -0.2578290015297777,
+        0.13785483235066445
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.5
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 2,
+      "baseline": "swap_constant",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.05188442906849864,
+      "ci95": [
+        -0.2931659418089921,
+        0.1678121690292754
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.5833333333333334
+    },
+    {
+      "task": "ruler_niah_single",
+      "maximum_exchanges": 2,
+      "baseline": "swap_constant",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.14583333333333334,
+      "ci95": [
+        -0.020833333333333332,
+        0.375
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.3333333333333333
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 1,
+      "baseline": "original_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.10271364226364037,
+      "ci95": [
+        -0.1945752879739633,
+        -0.025123265876338178
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.2916666666666667
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 1,
+      "baseline": "original_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.12600006608661332,
+      "ci95": [
+        -0.2291158374691639,
+        -0.03216165587832929
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.2916666666666667
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 1,
+      "baseline": "original_static",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.041666666666666664
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 1,
+      "baseline": "train_best_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.17469155106743775,
+      "ci95": [
+        -0.3819920702970337,
+        -0.013093703437719342
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.2916666666666667
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 1,
+      "baseline": "train_best_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.19086707926153115,
+      "ci95": [
+        -0.4200167968874355,
+        -0.004438744819562751
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.3333333333333333
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 1,
+      "baseline": "train_best_static",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.041666666666666664,
+      "ci95": [
+        -0.125,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.041666666666666664
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 1,
+      "baseline": "train_mean_greedy_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.17469155106743775,
+      "ci95": [
+        -0.3819920702970337,
+        -0.013093703437719342
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.2916666666666667
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 1,
+      "baseline": "train_mean_greedy_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.19086707926153115,
+      "ci95": [
+        -0.4200167968874355,
+        -0.004438744819562751
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.3333333333333333
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 1,
+      "baseline": "train_mean_greedy_static",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.041666666666666664,
+      "ci95": [
+        -0.125,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.041666666666666664
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 1,
+      "baseline": "old_router_m6",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.3185719622755586,
+      "ci95": [
+        0.10293267157520139,
+        0.49563206606715526
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.7916666666666666
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 1,
+      "baseline": "old_router_m6",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.3452963314731885,
+      "ci95": [
+        0.10683341712660814,
+        0.5405747995801176
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.75
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 1,
+      "baseline": "old_router_m6",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.020833333333333332,
+      "ci95": [
+        -0.0625,
+        0.125
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.08333333333333333
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 1,
+      "baseline": "swap_constant",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.17469155106743775,
+      "ci95": [
+        -0.3819920702970337,
+        -0.013093703437719342
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.2916666666666667
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 1,
+      "baseline": "swap_constant",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.19086707926153115,
+      "ci95": [
+        -0.4200167968874355,
+        -0.004438744819562751
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.3333333333333333
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 1,
+      "baseline": "swap_constant",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.041666666666666664,
+      "ci95": [
+        -0.125,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.041666666666666664
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 2,
+      "baseline": "original_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.155180723976567,
+      "ci95": [
+        -0.24468961327889752,
+        -0.06404676777331197
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.25
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 2,
+      "baseline": "original_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.15803571605302394,
+      "ci95": [
+        -0.2671518198795661,
+        -0.0428674175108744
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.25
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 2,
+      "baseline": "original_static",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.020833333333333332,
+      "ci95": [
+        -0.0625,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.0
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 2,
+      "baseline": "train_best_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.22715863278036438,
+      "ci95": [
+        -0.44925946481243506,
+        -0.061908065568860714
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.20833333333333334
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 2,
+      "baseline": "train_best_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.22290272922794183,
+      "ci95": [
+        -0.4546821860588821,
+        -0.03482638464795445
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.3333333333333333
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 2,
+      "baseline": "train_best_static",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0625,
+      "ci95": [
+        -0.14583333333333334,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.041666666666666664
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 2,
+      "baseline": "train_mean_greedy_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.22715863278036438,
+      "ci95": [
+        -0.44925946481243506,
+        -0.061908065568860714
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.20833333333333334
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 2,
+      "baseline": "train_mean_greedy_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.22290272922794183,
+      "ci95": [
+        -0.4546821860588821,
+        -0.03482638464795445
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.3333333333333333
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 2,
+      "baseline": "train_mean_greedy_static",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0625,
+      "ci95": [
+        -0.14583333333333334,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.041666666666666664
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 2,
+      "baseline": "old_router_m6",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.266104880562632,
+      "ci95": [
+        0.05159959485169812,
+        0.4541803075047937
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.7083333333333334
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 2,
+      "baseline": "old_router_m6",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.3132606815067778,
+      "ci95": [
+        0.08098280944510074,
+        0.5147196360885596
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.7916666666666666
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 2,
+      "baseline": "old_router_m6",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0,
+      "ci95": [
+        -0.0625,
+        0.0625
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.041666666666666664
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 2,
+      "baseline": "swap_constant",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.22715863278036438,
+      "ci95": [
+        -0.44925946481243506,
+        -0.061908065568860714
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.20833333333333334
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 2,
+      "baseline": "swap_constant",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.22290272922794183,
+      "ci95": [
+        -0.4546821860588821,
+        -0.03482638464795445
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.3333333333333333
+    },
+    {
+      "task": "ruler_variable_tracking",
+      "maximum_exchanges": 2,
+      "baseline": "swap_constant",
+      "metric": "all_answers",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.0625,
+      "ci95": [
+        -0.14583333333333334,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.041666666666666664
+    },
+    {
+      "task": "wikitext_conditional",
+      "maximum_exchanges": 1,
+      "baseline": "original_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.004432686288938019,
+      "ci95": [
+        -0.002286669074251996,
+        0.012087714644224272
+      ],
+      "records": 64,
+      "clusters": 33,
+      "fraction_positive": 0.390625
+    },
+    {
+      "task": "wikitext_conditional",
+      "maximum_exchanges": 1,
+      "baseline": "original_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0014386546260407376,
+      "ci95": [
+        -0.008604930824704649,
+        0.013112367938279863
+      ],
+      "records": 64,
+      "clusters": 33,
+      "fraction_positive": 0.375
+    },
+    {
+      "task": "wikitext_conditional",
+      "maximum_exchanges": 1,
+      "baseline": "train_best_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.00017346092752180964,
+      "ci95": [
+        -0.011325773253877233,
+        0.010519797529810051
+      ],
+      "records": 64,
+      "clusters": 33,
+      "fraction_positive": 0.515625
+    },
+    {
+      "task": "wikitext_conditional",
+      "maximum_exchanges": 1,
+      "baseline": "train_best_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.02737092866015628,
+      "ci95": [
+        0.010119175946283721,
+        0.04905455428339275
+      ],
+      "records": 64,
+      "clusters": 33,
+      "fraction_positive": 0.640625
+    },
+    {
+      "task": "wikitext_conditional",
+      "maximum_exchanges": 1,
+      "baseline": "train_mean_greedy_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.00017346092752180964,
+      "ci95": [
+        -0.011325773253877233,
+        0.010519797529810051
+      ],
+      "records": 64,
+      "clusters": 33,
+      "fraction_positive": 0.515625
+    },
+    {
+      "task": "wikitext_conditional",
+      "maximum_exchanges": 1,
+      "baseline": "train_mean_greedy_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.02737092866015628,
+      "ci95": [
+        0.010119175946283721,
+        0.04905455428339275
+      ],
+      "records": 64,
+      "clusters": 33,
+      "fraction_positive": 0.640625
+    },
+    {
+      "task": "wikitext_conditional",
+      "maximum_exchanges": 1,
+      "baseline": "old_router_m6",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.06516011988351939,
+      "ci95": [
+        0.045665901800624874,
+        0.08955585774995962
+      ],
+      "records": 64,
+      "clusters": 33,
+      "fraction_positive": 0.78125
+    },
+    {
+      "task": "wikitext_conditional",
+      "maximum_exchanges": 1,
+      "baseline": "old_router_m6",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.08058254173031792,
+      "ci95": [
+        0.06002081581377355,
+        0.10367549674216536
+      ],
+      "records": 64,
+      "clusters": 33,
+      "fraction_positive": 0.78125
+    },
+    {
+      "task": "wikitext_conditional",
+      "maximum_exchanges": 1,
+      "baseline": "swap_constant",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.00017346092752180964,
+      "ci95": [
+        -0.011325773253877233,
+        0.010519797529810051
+      ],
+      "records": 64,
+      "clusters": 33,
+      "fraction_positive": 0.515625
+    },
+    {
+      "task": "wikitext_conditional",
+      "maximum_exchanges": 1,
+      "baseline": "swap_constant",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.02737092866015628,
+      "ci95": [
+        0.010119175946283721,
+        0.04905455428339275
+      ],
+      "records": 64,
+      "clusters": 33,
+      "fraction_positive": 0.640625
+    },
+    {
+      "task": "wikitext_conditional",
+      "maximum_exchanges": 2,
+      "baseline": "original_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0008521967153171401,
+      "ci95": [
+        -0.007481201506464409,
+        0.008663124098898162
+      ],
+      "records": 64,
+      "clusters": 33,
+      "fraction_positive": 0.390625
+    },
+    {
+      "task": "wikitext_conditional",
+      "maximum_exchanges": 2,
+      "baseline": "original_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.006565295122367622,
+      "ci95": [
+        -0.017618547002140692,
+        0.004742384403045262
+      ],
+      "records": 64,
+      "clusters": 33,
+      "fraction_positive": 0.328125
+    },
+    {
+      "task": "wikitext_conditional",
+      "maximum_exchanges": 2,
+      "baseline": "train_best_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.003753950501142689,
+      "ci95": [
+        -0.015892821219368733,
+        0.008412085120119768
+      ],
+      "records": 64,
+      "clusters": 33,
+      "fraction_positive": 0.515625
+    },
+    {
+      "task": "wikitext_conditional",
+      "maximum_exchanges": 2,
+      "baseline": "train_best_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.01936697891174792,
+      "ci95": [
+        0.002094103032838889,
+        0.03961717467552221
+      ],
+      "records": 64,
+      "clusters": 33,
+      "fraction_positive": 0.59375
+    },
+    {
+      "task": "wikitext_conditional",
+      "maximum_exchanges": 2,
+      "baseline": "train_mean_greedy_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.003753950501142689,
+      "ci95": [
+        -0.015892821219368733,
+        0.008412085120119768
+      ],
+      "records": 64,
+      "clusters": 33,
+      "fraction_positive": 0.515625
+    },
+    {
+      "task": "wikitext_conditional",
+      "maximum_exchanges": 2,
+      "baseline": "train_mean_greedy_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.01936697891174792,
+      "ci95": [
+        0.002094103032838889,
+        0.03961717467552221
+      ],
+      "records": 64,
+      "clusters": 33,
+      "fraction_positive": 0.59375
+    },
+    {
+      "task": "wikitext_conditional",
+      "maximum_exchanges": 2,
+      "baseline": "old_router_m6",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.061579630309898506,
+      "ci95": [
+        0.04250918851200756,
+        0.08492142181023452
+      ],
+      "records": 64,
+      "clusters": 33,
+      "fraction_positive": 0.78125
+    },
+    {
+      "task": "wikitext_conditional",
+      "maximum_exchanges": 2,
+      "baseline": "old_router_m6",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.07257859198190958,
+      "ci95": [
+        0.05217559987474551,
+        0.09422095463439334
+      ],
+      "records": 64,
+      "clusters": 33,
+      "fraction_positive": 0.796875
+    },
+    {
+      "task": "wikitext_conditional",
+      "maximum_exchanges": 2,
+      "baseline": "swap_constant",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.003753950501142689,
+      "ci95": [
+        -0.015892821219368733,
+        0.008412085120119768
+      ],
+      "records": 64,
+      "clusters": 33,
+      "fraction_positive": 0.515625
+    },
+    {
+      "task": "wikitext_conditional",
+      "maximum_exchanges": 2,
+      "baseline": "swap_constant",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.01936697891174792,
+      "ci95": [
+        0.002094103032838889,
+        0.03961717467552221
+      ],
+      "records": 64,
+      "clusters": 33,
+      "fraction_positive": 0.59375
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 1,
+      "baseline": "original_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.003816430163829051,
+      "ci95": [
+        -0.017105962201787454,
+        0.023727614532065514
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.484375
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 1,
+      "baseline": "original_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.010196302252924793,
+      "ci95": [
+        -0.06295077057744485,
+        0.044793552177568946
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.453125
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 1,
+      "baseline": "original_static",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.03125,
+      "ci95": [
+        -0.0078125,
+        0.078125
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.0625
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 1,
+      "baseline": "train_best_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.025967747778564313,
+      "ci95": [
+        -0.004562725557158353,
+        0.05429471287707403
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.640625
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 1,
+      "baseline": "train_best_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.015068755386553546,
+      "ci95": [
+        -0.06658797285159854,
+        0.09198377524955277
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.5
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 1,
+      "baseline": "train_best_static",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.015625,
+      "ci95": [
+        -0.03125,
+        0.078125
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.046875
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 1,
+      "baseline": "train_mean_greedy_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.025967747778564313,
+      "ci95": [
+        -0.004562725557158353,
+        0.05429471287707403
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.640625
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 1,
+      "baseline": "train_mean_greedy_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.015068755386553546,
+      "ci95": [
+        -0.06658797285159854,
+        0.09198377524955277
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.5
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 1,
+      "baseline": "train_mean_greedy_static",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.015625,
+      "ci95": [
+        -0.03125,
+        0.078125
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.046875
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 1,
+      "baseline": "old_router_m6",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.05965366292456795,
+      "ci95": [
+        0.02172292497983141,
+        0.09836907693226406
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.734375
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 1,
+      "baseline": "old_router_m6",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.07966177215554782,
+      "ci95": [
+        -0.0031139372352470126,
+        0.16195029657994908
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.59375
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 1,
+      "baseline": "old_router_m6",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.03125,
+      "ci95": [
+        -0.0234375,
+        0.08613281249999893
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.078125
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 1,
+      "baseline": "swap_constant",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.025967747778564313,
+      "ci95": [
+        -0.004562725557158353,
+        0.05429471287707403
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.640625
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 1,
+      "baseline": "swap_constant",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.015068755386553546,
+      "ci95": [
+        -0.06658797285159854,
+        0.09198377524955277
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.5
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 1,
+      "baseline": "swap_constant",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.015625,
+      "ci95": [
+        -0.03125,
+        0.078125
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.046875
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 2,
+      "baseline": "original_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.015917168001390695,
+      "ci95": [
+        -0.04082205509637473,
+        0.007549391131715206
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.375
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 2,
+      "baseline": "original_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.048231313742824855,
+      "ci95": [
+        -0.10741383196046425,
+        0.011564567498192617
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.4375
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 2,
+      "baseline": "original_static",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0234375,
+      "ci95": [
+        -0.03125,
+        0.0859375
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.046875
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 2,
+      "baseline": "train_best_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.006234149613344566,
+      "ci95": [
+        -0.027287664717542563,
+        0.03854009891617336
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.546875
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 2,
+      "baseline": "train_best_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.022966256103346513,
+      "ci95": [
+        -0.10596975932308585,
+        0.05925032546890488
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.5
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 2,
+      "baseline": "train_best_static",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0078125,
+      "ci95": [
+        -0.0390625,
+        0.0546875
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.03125
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 2,
+      "baseline": "train_mean_greedy_static",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.006234149613344566,
+      "ci95": [
+        -0.027287664717542563,
+        0.03854009891617336
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.546875
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 2,
+      "baseline": "train_mean_greedy_static",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.022966256103346513,
+      "ci95": [
+        -0.10596975932308585,
+        0.05925032546890488
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.5
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 2,
+      "baseline": "train_mean_greedy_static",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0078125,
+      "ci95": [
+        -0.0390625,
+        0.0546875
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.03125
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 2,
+      "baseline": "old_router_m6",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.039920064759348214,
+      "ci95": [
+        0.00032532854636867437,
+        0.08037458390782633
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.671875
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 2,
+      "baseline": "old_router_m6",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.04162676066564776,
+      "ci95": [
+        -0.048506340648334305,
+        0.13091520379514576
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.546875
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 2,
+      "baseline": "old_router_m6",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0234375,
+      "ci95": [
+        -0.0234375,
+        0.078125
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.078125
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 2,
+      "baseline": "swap_constant",
+      "metric": "kl",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.006234149613344566,
+      "ci95": [
+        -0.027287664717542563,
+        0.03854009891617336
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.546875
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 2,
+      "baseline": "swap_constant",
+      "metric": "nll",
+      "positive_means": "prompt swap improves quality",
+      "difference": -0.022966256103346513,
+      "ci95": [
+        -0.10596975932308585,
+        0.05925032546890488
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.5
+    },
+    {
+      "task": "winogrande",
+      "maximum_exchanges": 2,
+      "baseline": "swap_constant",
+      "metric": "correct_norm",
+      "positive_means": "prompt swap improves quality",
+      "difference": 0.0078125,
+      "ci95": [
+        -0.0390625,
+        0.0546875
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.03125
+    }
+  ],
+  "candidate_bank_oracle": [
+    {
+      "split": "train",
+      "documents": 800,
+      "static_kl": 0.7776219248771667,
+      "future_greedy_bank_kl": 0.6480468511581421,
+      "future_best_bank_kl": 0.6397116780281067,
+      "reference": "Uses actual future targets, offline reference only."
+    },
+    {
+      "split": "selection",
+      "documents": 32,
+      "static_kl": 0.7007201910018921,
+      "future_greedy_bank_kl": 0.5892995595932007,
+      "future_best_bank_kl": 0.5822106599807739,
+      "reference": "Uses actual future targets, offline reference only."
+    },
+    {
+      "split": "other_development",
+      "documents": 68,
+      "static_kl": 0.8611034154891968,
+      "future_greedy_bank_kl": 0.7091238498687744,
+      "future_best_bank_kl": 0.7042228579521179,
+      "reference": "Uses actual future targets, offline reference only."
+    }
+  ],
+  "limits": "Two-seed development pilot, K16, no recovery; all task populations previously reviewed. No deployment speed/memory claims. Uncertainty intervals do not include full training-seed uncertainty."
+}

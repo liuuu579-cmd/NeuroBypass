@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "stop_and_tie_semantics": true,
+  "two_step_greedy_checked": true,
+  "no_uphill_two_step_shortcut": true,
+  "zero_residual_equals_training_prior": true,
+  "suffix_after128_reaches_encoder": true,
+  "padding_encoder_max_abs_error": 1.7881393432617188e-07,
+  "constant_control_has_no_content_or_length": true
+}
