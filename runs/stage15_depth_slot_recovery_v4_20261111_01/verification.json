@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "workers": 4,
+  "quality_rows": 13488,
+  "inputs_per_worker": 1124,
+  "same_routes_before_after": true,
+  "same_data_order_within_seed": true,
+  "same_parameter_and_active_budgets": true,
+  "no_skipped_optimizer_updates": true,
+  "all_threads_within_worker10core_affinity": true,
+  "base_and_router_frozen": true,
+  "teacher_and_adapter_replay_exact": true
+}

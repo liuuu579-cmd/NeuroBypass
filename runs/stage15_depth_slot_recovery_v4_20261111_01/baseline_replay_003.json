@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "source_run": "/home/liushenyu/test/NeuroBypass/runs/stage15_depth_slot_recovery_20261111_01",
+  "source_quality_sha256": "bf1e29c715bd53e7854684f7ed8d5df8569441bc89e199cdc5eb0283739a71db",
+  "reused_rows": 2248,
+  "replay_rows": 14,
+  "replay_max_abs_error": 0.0,
+  "private_inputs_and_frozen_routes_identical": true,
+  "interpretation": "Only finished before-training scores reused; failed training is never reported as a finished recovery experiment."
+}

@@ -1,0 +1,1268 @@
+{
+  "aggregates": [
+    {
+      "task": "development",
+      "arm": "dynamic",
+      "seed": 579,
+      "stage": "after",
+      "policy": "pruned",
+      "records": 100,
+      "kl": 0.6645281375944614,
+      "nll": 3.1005645866692064,
+      "ppl": 22.210487487373204
+    },
+    {
+      "task": "development",
+      "arm": "dynamic",
+      "seed": 579,
+      "stage": "before",
+      "policy": "full",
+      "records": 100,
+      "kl": 0.0,
+      "nll": 2.4831281239376404,
+      "ppl": 11.97867665747438
+    },
+    {
+      "task": "development",
+      "arm": "dynamic",
+      "seed": 579,
+      "stage": "before",
+      "policy": "pruned",
+      "records": 100,
+      "kl": 0.8530020821094513,
+      "nll": 3.3038759090006353,
+      "ppl": 27.2179289573705
+    },
+    {
+      "task": "development",
+      "arm": "dynamic",
+      "seed": 580,
+      "stage": "after",
+      "policy": "pruned",
+      "records": 100,
+      "kl": 0.6377440903335809,
+      "nll": 3.050139373019338,
+      "ppl": 21.118287536937746
+    },
+    {
+      "task": "development",
+      "arm": "dynamic",
+      "seed": 580,
+      "stage": "before",
+      "policy": "full",
+      "records": 100,
+      "kl": 0.0,
+      "nll": 2.4831281239376404,
+      "ppl": 11.97867665747438
+    },
+    {
+      "task": "development",
+      "arm": "dynamic",
+      "seed": 580,
+      "stage": "before",
+      "policy": "pruned",
+      "records": 100,
+      "kl": 0.8568790096044541,
+      "nll": 3.2876067690551283,
+      "ppl": 26.778699294641157
+    },
+    {
+      "task": "development",
+      "arm": "static",
+      "seed": 579,
+      "stage": "after",
+      "policy": "pruned",
+      "records": 100,
+      "kl": 0.5439765642583371,
+      "nll": 2.9756406936980784,
+      "ppl": 19.602178219275242
+    },
+    {
+      "task": "development",
+      "arm": "static",
+      "seed": 579,
+      "stage": "before",
+      "policy": "full",
+      "records": 100,
+      "kl": 0.0,
+      "nll": 2.4831281239376404,
+      "ppl": 11.97867665747438
+    },
+    {
+      "task": "development",
+      "arm": "static",
+      "seed": 579,
+      "stage": "before",
+      "policy": "pruned",
+      "records": 100,
+      "kl": 0.8097807237505913,
+      "nll": 3.2662166057527067,
+      "ppl": 26.211981247298567
+    },
+    {
+      "task": "development",
+      "arm": "static",
+      "seed": 580,
+      "stage": "after",
+      "policy": "pruned",
+      "records": 100,
+      "kl": 0.5434406163543463,
+      "nll": 2.978239474352449,
+      "ppl": 19.653186231425053
+    },
+    {
+      "task": "development",
+      "arm": "static",
+      "seed": 580,
+      "stage": "before",
+      "policy": "full",
+      "records": 100,
+      "kl": 0.0,
+      "nll": 2.4831281239376404,
+      "ppl": 11.97867665747438
+    },
+    {
+      "task": "development",
+      "arm": "static",
+      "seed": 580,
+      "stage": "before",
+      "policy": "pruned",
+      "records": 100,
+      "kl": 0.8097807237505913,
+      "nll": 3.2662166057527067,
+      "ppl": 26.211981247298567
+    },
+    {
+      "task": "fresh_c4",
+      "arm": "dynamic",
+      "seed": 579,
+      "stage": "after",
+      "policy": "pruned",
+      "records": 128,
+      "kl": 0.641689725453034,
+      "nll": 3.010330450721085,
+      "ppl": 20.29410501896568
+    },
+    {
+      "task": "fresh_c4",
+      "arm": "dynamic",
+      "seed": 579,
+      "stage": "before",
+      "policy": "full",
+      "records": 128,
+      "kl": 0.0,
+      "nll": 2.391637472435832,
+      "ppl": 10.931379127804535
+    },
+    {
+      "task": "fresh_c4",
+      "arm": "dynamic",
+      "seed": 579,
+      "stage": "before",
+      "policy": "pruned",
+      "records": 128,
+      "kl": 0.8269171558786184,
+      "nll": 3.1947086937725544,
+      "ppl": 24.403063892300306
+    },
+    {
+      "task": "fresh_c4",
+      "arm": "dynamic",
+      "seed": 580,
+      "stage": "after",
+      "policy": "pruned",
+      "records": 128,
+      "kl": 0.6377440157812089,
+      "nll": 3.007834957446903,
+      "ppl": 20.24352435448851
+    },
+    {
+      "task": "fresh_c4",
+      "arm": "dynamic",
+      "seed": 580,
+      "stage": "before",
+      "policy": "full",
+      "records": 128,
+      "kl": 0.0,
+      "nll": 2.391637472435832,
+      "ppl": 10.931379127804535
+    },
+    {
+      "task": "fresh_c4",
+      "arm": "dynamic",
+      "seed": 580,
+      "stage": "before",
+      "policy": "pruned",
+      "records": 128,
+      "kl": 0.8433927239384502,
+      "nll": 3.211372457444668,
+      "ppl": 24.813117814060924
+    },
+    {
+      "task": "fresh_c4",
+      "arm": "static",
+      "seed": 579,
+      "stage": "after",
+      "policy": "pruned",
+      "records": 128,
+      "kl": 0.5157563124084845,
+      "nll": 2.890834044199437,
+      "ppl": 18.008323077132953
+    },
+    {
+      "task": "fresh_c4",
+      "arm": "static",
+      "seed": 579,
+      "stage": "before",
+      "policy": "full",
+      "records": 128,
+      "kl": 0.0,
+      "nll": 2.391637472435832,
+      "ppl": 10.931379127804535
+    },
+    {
+      "task": "fresh_c4",
+      "arm": "static",
+      "seed": 579,
+      "stage": "before",
+      "policy": "pruned",
+      "records": 128,
+      "kl": 0.7674035413656384,
+      "nll": 3.128373875282705,
+      "ppl": 22.836813825159414
+    },
+    {
+      "task": "fresh_c4",
+      "arm": "static",
+      "seed": 580,
+      "stage": "after",
+      "policy": "pruned",
+      "records": 128,
+      "kl": 0.5151392668485641,
+      "nll": 2.8883688536006957,
+      "ppl": 17.963983803219467
+    },
+    {
+      "task": "fresh_c4",
+      "arm": "static",
+      "seed": 580,
+      "stage": "before",
+      "policy": "full",
+      "records": 128,
+      "kl": 0.0,
+      "nll": 2.391637472435832,
+      "ppl": 10.931379127804535
+    },
+    {
+      "task": "fresh_c4",
+      "arm": "static",
+      "seed": 580,
+      "stage": "before",
+      "policy": "pruned",
+      "records": 128,
+      "kl": 0.7674035413656384,
+      "nll": 3.128373875282705,
+      "ppl": 22.836813825159414
+    },
+    {
+      "task": "hellaswag",
+      "arm": "dynamic",
+      "seed": 579,
+      "stage": "after",
+      "policy": "pruned",
+      "records": 256,
+      "accuracy": 0.52734375
+    },
+    {
+      "task": "hellaswag",
+      "arm": "dynamic",
+      "seed": 579,
+      "stage": "before",
+      "policy": "full",
+      "records": 256,
+      "accuracy": 0.71484375
+    },
+    {
+      "task": "hellaswag",
+      "arm": "dynamic",
+      "seed": 579,
+      "stage": "before",
+      "policy": "pruned",
+      "records": 256,
+      "accuracy": 0.49609375
+    },
+    {
+      "task": "hellaswag",
+      "arm": "dynamic",
+      "seed": 580,
+      "stage": "after",
+      "policy": "pruned",
+      "records": 256,
+      "accuracy": 0.5078125
+    },
+    {
+      "task": "hellaswag",
+      "arm": "dynamic",
+      "seed": 580,
+      "stage": "before",
+      "policy": "full",
+      "records": 256,
+      "accuracy": 0.71484375
+    },
+    {
+      "task": "hellaswag",
+      "arm": "dynamic",
+      "seed": 580,
+      "stage": "before",
+      "policy": "pruned",
+      "records": 256,
+      "accuracy": 0.5
+    },
+    {
+      "task": "hellaswag",
+      "arm": "static",
+      "seed": 579,
+      "stage": "after",
+      "policy": "pruned",
+      "records": 256,
+      "accuracy": 0.5234375
+    },
+    {
+      "task": "hellaswag",
+      "arm": "static",
+      "seed": 579,
+      "stage": "before",
+      "policy": "full",
+      "records": 256,
+      "accuracy": 0.71484375
+    },
+    {
+      "task": "hellaswag",
+      "arm": "static",
+      "seed": 579,
+      "stage": "before",
+      "policy": "pruned",
+      "records": 256,
+      "accuracy": 0.5
+    },
+    {
+      "task": "hellaswag",
+      "arm": "static",
+      "seed": 580,
+      "stage": "after",
+      "policy": "pruned",
+      "records": 256,
+      "accuracy": 0.5234375
+    },
+    {
+      "task": "hellaswag",
+      "arm": "static",
+      "seed": 580,
+      "stage": "before",
+      "policy": "full",
+      "records": 256,
+      "accuracy": 0.71484375
+    },
+    {
+      "task": "hellaswag",
+      "arm": "static",
+      "seed": 580,
+      "stage": "before",
+      "policy": "pruned",
+      "records": 256,
+      "accuracy": 0.5
+    },
+    {
+      "task": "piqa",
+      "arm": "dynamic",
+      "seed": 579,
+      "stage": "after",
+      "policy": "pruned",
+      "records": 256,
+      "accuracy": 0.67578125
+    },
+    {
+      "task": "piqa",
+      "arm": "dynamic",
+      "seed": 579,
+      "stage": "before",
+      "policy": "full",
+      "records": 256,
+      "accuracy": 0.74609375
+    },
+    {
+      "task": "piqa",
+      "arm": "dynamic",
+      "seed": 579,
+      "stage": "before",
+      "policy": "pruned",
+      "records": 256,
+      "accuracy": 0.671875
+    },
+    {
+      "task": "piqa",
+      "arm": "dynamic",
+      "seed": 580,
+      "stage": "after",
+      "policy": "pruned",
+      "records": 256,
+      "accuracy": 0.66796875
+    },
+    {
+      "task": "piqa",
+      "arm": "dynamic",
+      "seed": 580,
+      "stage": "before",
+      "policy": "full",
+      "records": 256,
+      "accuracy": 0.74609375
+    },
+    {
+      "task": "piqa",
+      "arm": "dynamic",
+      "seed": 580,
+      "stage": "before",
+      "policy": "pruned",
+      "records": 256,
+      "accuracy": 0.6484375
+    },
+    {
+      "task": "piqa",
+      "arm": "static",
+      "seed": 579,
+      "stage": "after",
+      "policy": "pruned",
+      "records": 256,
+      "accuracy": 0.69140625
+    },
+    {
+      "task": "piqa",
+      "arm": "static",
+      "seed": 579,
+      "stage": "before",
+      "policy": "full",
+      "records": 256,
+      "accuracy": 0.74609375
+    },
+    {
+      "task": "piqa",
+      "arm": "static",
+      "seed": 579,
+      "stage": "before",
+      "policy": "pruned",
+      "records": 256,
+      "accuracy": 0.68359375
+    },
+    {
+      "task": "piqa",
+      "arm": "static",
+      "seed": 580,
+      "stage": "after",
+      "policy": "pruned",
+      "records": 256,
+      "accuracy": 0.6953125
+    },
+    {
+      "task": "piqa",
+      "arm": "static",
+      "seed": 580,
+      "stage": "before",
+      "policy": "full",
+      "records": 256,
+      "accuracy": 0.74609375
+    },
+    {
+      "task": "piqa",
+      "arm": "static",
+      "seed": 580,
+      "stage": "before",
+      "policy": "pruned",
+      "records": 256,
+      "accuracy": 0.68359375
+    },
+    {
+      "task": "wikitext_conditional",
+      "arm": "dynamic",
+      "seed": 579,
+      "stage": "after",
+      "policy": "pruned",
+      "records": 128,
+      "nll": 3.2117323589399147,
+      "ppl": 24.822049699466987
+    },
+    {
+      "task": "wikitext_conditional",
+      "arm": "dynamic",
+      "seed": 579,
+      "stage": "before",
+      "policy": "full",
+      "records": 128,
+      "nll": 2.4657896243067703,
+      "ppl": 11.772774551689347
+    },
+    {
+      "task": "wikitext_conditional",
+      "arm": "dynamic",
+      "seed": 579,
+      "stage": "before",
+      "policy": "pruned",
+      "records": 128,
+      "nll": 3.4040811189501845,
+      "ppl": 30.086636977743506
+    },
+    {
+      "task": "wikitext_conditional",
+      "arm": "dynamic",
+      "seed": 580,
+      "stage": "after",
+      "policy": "pruned",
+      "records": 128,
+      "nll": 3.2043865215063043,
+      "ppl": 24.640379036117196
+    },
+    {
+      "task": "wikitext_conditional",
+      "arm": "dynamic",
+      "seed": 580,
+      "stage": "before",
+      "policy": "full",
+      "records": 128,
+      "nll": 2.4657896243067703,
+      "ppl": 11.772774551689347
+    },
+    {
+      "task": "wikitext_conditional",
+      "arm": "dynamic",
+      "seed": 580,
+      "stage": "before",
+      "policy": "pruned",
+      "records": 128,
+      "nll": 3.4449564910431123,
+      "ppl": 31.341919762767628
+    },
+    {
+      "task": "wikitext_conditional",
+      "arm": "static",
+      "seed": 579,
+      "stage": "after",
+      "policy": "pruned",
+      "records": 128,
+      "nll": 3.047430537187233,
+      "ppl": 21.061158973827506
+    },
+    {
+      "task": "wikitext_conditional",
+      "arm": "static",
+      "seed": 579,
+      "stage": "before",
+      "policy": "full",
+      "records": 128,
+      "nll": 2.4657896243067703,
+      "ppl": 11.772774551689347
+    },
+    {
+      "task": "wikitext_conditional",
+      "arm": "static",
+      "seed": 579,
+      "stage": "before",
+      "policy": "pruned",
+      "records": 128,
+      "nll": 3.3411520239338106,
+      "ppl": 28.251654547593365
+    },
+    {
+      "task": "wikitext_conditional",
+      "arm": "static",
+      "seed": 580,
+      "stage": "after",
+      "policy": "pruned",
+      "records": 128,
+      "nll": 3.0480049356930614,
+      "ppl": 21.073259947130875
+    },
+    {
+      "task": "wikitext_conditional",
+      "arm": "static",
+      "seed": 580,
+      "stage": "before",
+      "policy": "full",
+      "records": 128,
+      "nll": 2.4657896243067703,
+      "ppl": 11.772774551689347
+    },
+    {
+      "task": "wikitext_conditional",
+      "arm": "static",
+      "seed": 580,
+      "stage": "before",
+      "policy": "pruned",
+      "records": 128,
+      "nll": 3.3411520239338106,
+      "ppl": 28.251654547593365
+    },
+    {
+      "task": "winogrande",
+      "arm": "dynamic",
+      "seed": 579,
+      "stage": "after",
+      "policy": "pruned",
+      "records": 256,
+      "accuracy": 0.53125
+    },
+    {
+      "task": "winogrande",
+      "arm": "dynamic",
+      "seed": 579,
+      "stage": "before",
+      "policy": "full",
+      "records": 256,
+      "accuracy": 0.67578125
+    },
+    {
+      "task": "winogrande",
+      "arm": "dynamic",
+      "seed": 579,
+      "stage": "before",
+      "policy": "pruned",
+      "records": 256,
+      "accuracy": 0.53515625
+    },
+    {
+      "task": "winogrande",
+      "arm": "dynamic",
+      "seed": 580,
+      "stage": "after",
+      "policy": "pruned",
+      "records": 256,
+      "accuracy": 0.52734375
+    },
+    {
+      "task": "winogrande",
+      "arm": "dynamic",
+      "seed": 580,
+      "stage": "before",
+      "policy": "full",
+      "records": 256,
+      "accuracy": 0.67578125
+    },
+    {
+      "task": "winogrande",
+      "arm": "dynamic",
+      "seed": 580,
+      "stage": "before",
+      "policy": "pruned",
+      "records": 256,
+      "accuracy": 0.54296875
+    },
+    {
+      "task": "winogrande",
+      "arm": "static",
+      "seed": 579,
+      "stage": "after",
+      "policy": "pruned",
+      "records": 256,
+      "accuracy": 0.53125
+    },
+    {
+      "task": "winogrande",
+      "arm": "static",
+      "seed": 579,
+      "stage": "before",
+      "policy": "full",
+      "records": 256,
+      "accuracy": 0.67578125
+    },
+    {
+      "task": "winogrande",
+      "arm": "static",
+      "seed": 579,
+      "stage": "before",
+      "policy": "pruned",
+      "records": 256,
+      "accuracy": 0.5390625
+    },
+    {
+      "task": "winogrande",
+      "arm": "static",
+      "seed": 580,
+      "stage": "after",
+      "policy": "pruned",
+      "records": 256,
+      "accuracy": 0.53515625
+    },
+    {
+      "task": "winogrande",
+      "arm": "static",
+      "seed": 580,
+      "stage": "before",
+      "policy": "full",
+      "records": 256,
+      "accuracy": 0.67578125
+    },
+    {
+      "task": "winogrande",
+      "arm": "static",
+      "seed": 580,
+      "stage": "before",
+      "policy": "pruned",
+      "records": 256,
+      "accuracy": 0.5390625
+    }
+  ],
+  "comparisons": [
+    {
+      "task": "development",
+      "comparison": "dynamic_recovery",
+      "metric": "kl",
+      "left": [
+        "dynamic",
+        "before",
+        "pruned"
+      ],
+      "right": [
+        "dynamic",
+        "after",
+        "pruned"
+      ],
+      "left_mean": 0.8549405458569527,
+      "right_mean": 0.6511361139640212,
+      "improvement": 0.20380443189293151,
+      "ci95": [
+        0.1831183909140527,
+        0.22695428548287608
+      ],
+      "input_clusters": 100
+    },
+    {
+      "task": "development",
+      "comparison": "dynamic_recovery",
+      "metric": "nll",
+      "left": [
+        "dynamic",
+        "before",
+        "pruned"
+      ],
+      "right": [
+        "dynamic",
+        "after",
+        "pruned"
+      ],
+      "left_mean": 3.295741339027882,
+      "right_mean": 3.0753519798442723,
+      "improvement": 0.22038935918360947,
+      "ci95": [
+        0.1947074476163832,
+        0.24684492617286719
+      ],
+      "input_clusters": 100
+    },
+    {
+      "task": "development",
+      "comparison": "static_recovery",
+      "metric": "kl",
+      "left": [
+        "static",
+        "before",
+        "pruned"
+      ],
+      "right": [
+        "static",
+        "after",
+        "pruned"
+      ],
+      "left_mean": 0.8097807237505913,
+      "right_mean": 0.5437085903063417,
+      "improvement": 0.2660721334442496,
+      "ci95": [
+        0.2378390143290162,
+        0.29900275036878887
+      ],
+      "input_clusters": 100
+    },
+    {
+      "task": "development",
+      "comparison": "static_recovery",
+      "metric": "nll",
+      "left": [
+        "static",
+        "before",
+        "pruned"
+      ],
+      "right": [
+        "static",
+        "after",
+        "pruned"
+      ],
+      "left_mean": 3.2662166057527067,
+      "right_mean": 2.976940084025264,
+      "improvement": 0.28927652172744267,
+      "ci95": [
+        0.25167656278423955,
+        0.3288447738159449
+      ],
+      "input_clusters": 100
+    },
+    {
+      "task": "development",
+      "comparison": "recovered_dynamic_vs_static",
+      "metric": "kl",
+      "left": [
+        "static",
+        "after",
+        "pruned"
+      ],
+      "right": [
+        "dynamic",
+        "after",
+        "pruned"
+      ],
+      "left_mean": 0.5437085903063417,
+      "right_mean": 0.6511361139640212,
+      "improvement": -0.10742752365767949,
+      "ci95": [
+        -0.12669674635119743,
+        -0.08967060912027953
+      ],
+      "input_clusters": 100
+    },
+    {
+      "task": "development",
+      "comparison": "recovered_dynamic_vs_static",
+      "metric": "nll",
+      "left": [
+        "static",
+        "after",
+        "pruned"
+      ],
+      "right": [
+        "dynamic",
+        "after",
+        "pruned"
+      ],
+      "left_mean": 2.976940084025264,
+      "right_mean": 3.0753519798442723,
+      "improvement": -0.09841189581900833,
+      "ci95": [
+        -0.13673695775307734,
+        -0.061117007504217356
+      ],
+      "input_clusters": 100
+    },
+    {
+      "task": "fresh_c4",
+      "comparison": "dynamic_recovery",
+      "metric": "kl",
+      "left": [
+        "dynamic",
+        "before",
+        "pruned"
+      ],
+      "right": [
+        "dynamic",
+        "after",
+        "pruned"
+      ],
+      "left_mean": 0.8351549399085343,
+      "right_mean": 0.6397168706171215,
+      "improvement": 0.19543806929141283,
+      "ci95": [
+        0.17957033075217624,
+        0.21098903909150976
+      ],
+      "input_clusters": 128
+    },
+    {
+      "task": "fresh_c4",
+      "comparison": "dynamic_recovery",
+      "metric": "nll",
+      "left": [
+        "dynamic",
+        "before",
+        "pruned"
+      ],
+      "right": [
+        "dynamic",
+        "after",
+        "pruned"
+      ],
+      "left_mean": 3.203040575608611,
+      "right_mean": 3.009082704083994,
+      "improvement": 0.19395787152461708,
+      "ci95": [
+        0.17406171601032838,
+        0.21489086837973445
+      ],
+      "input_clusters": 128
+    },
+    {
+      "task": "fresh_c4",
+      "comparison": "static_recovery",
+      "metric": "kl",
+      "left": [
+        "static",
+        "before",
+        "pruned"
+      ],
+      "right": [
+        "static",
+        "after",
+        "pruned"
+      ],
+      "left_mean": 0.7674035413656384,
+      "right_mean": 0.5154477896285243,
+      "improvement": 0.25195575173711404,
+      "ci95": [
+        0.23018756511592073,
+        0.27672536787285934
+      ],
+      "input_clusters": 128
+    },
+    {
+      "task": "fresh_c4",
+      "comparison": "static_recovery",
+      "metric": "nll",
+      "left": [
+        "static",
+        "before",
+        "pruned"
+      ],
+      "right": [
+        "static",
+        "after",
+        "pruned"
+      ],
+      "left_mean": 3.128373875282705,
+      "right_mean": 2.8896014489000663,
+      "improvement": 0.23877242638263851,
+      "ci95": [
+        0.20924528487084898,
+        0.27007252238399815
+      ],
+      "input_clusters": 128
+    },
+    {
+      "task": "fresh_c4",
+      "comparison": "recovered_dynamic_vs_static",
+      "metric": "kl",
+      "left": [
+        "static",
+        "after",
+        "pruned"
+      ],
+      "right": [
+        "dynamic",
+        "after",
+        "pruned"
+      ],
+      "left_mean": 0.5154477896285243,
+      "right_mean": 0.6397168706171215,
+      "improvement": -0.12426908098859712,
+      "ci95": [
+        -0.1478113900127937,
+        -0.10154482077487045
+      ],
+      "input_clusters": 128
+    },
+    {
+      "task": "fresh_c4",
+      "comparison": "recovered_dynamic_vs_static",
+      "metric": "nll",
+      "left": [
+        "static",
+        "after",
+        "pruned"
+      ],
+      "right": [
+        "dynamic",
+        "after",
+        "pruned"
+      ],
+      "left_mean": 2.8896014489000663,
+      "right_mean": 3.009082704083994,
+      "improvement": -0.11948125518392771,
+      "ci95": [
+        -0.1522033283719793,
+        -0.08972943868720905
+      ],
+      "input_clusters": 128
+    },
+    {
+      "task": "hellaswag",
+      "comparison": "dynamic_recovery",
+      "metric": "accuracy",
+      "left": [
+        "dynamic",
+        "before",
+        "pruned"
+      ],
+      "right": [
+        "dynamic",
+        "after",
+        "pruned"
+      ],
+      "left_mean": 0.498046875,
+      "right_mean": 0.517578125,
+      "improvement": 0.01953125,
+      "ci95": [
+        -0.00390625,
+        0.041064453124999956
+      ],
+      "input_clusters": 256
+    },
+    {
+      "task": "hellaswag",
+      "comparison": "static_recovery",
+      "metric": "accuracy",
+      "left": [
+        "static",
+        "before",
+        "pruned"
+      ],
+      "right": [
+        "static",
+        "after",
+        "pruned"
+      ],
+      "left_mean": 0.5,
+      "right_mean": 0.5234375,
+      "improvement": 0.0234375,
+      "ci95": [
+        -0.01171875,
+        0.060546875
+      ],
+      "input_clusters": 256
+    },
+    {
+      "task": "hellaswag",
+      "comparison": "recovered_dynamic_vs_static",
+      "metric": "accuracy",
+      "left": [
+        "static",
+        "after",
+        "pruned"
+      ],
+      "right": [
+        "dynamic",
+        "after",
+        "pruned"
+      ],
+      "left_mean": 0.5234375,
+      "right_mean": 0.517578125,
+      "improvement": -0.005859375,
+      "ci95": [
+        -0.04296875,
+        0.03125
+      ],
+      "input_clusters": 256
+    },
+    {
+      "task": "piqa",
+      "comparison": "dynamic_recovery",
+      "metric": "accuracy",
+      "left": [
+        "dynamic",
+        "before",
+        "pruned"
+      ],
+      "right": [
+        "dynamic",
+        "after",
+        "pruned"
+      ],
+      "left_mean": 0.66015625,
+      "right_mean": 0.671875,
+      "improvement": 0.01171875,
+      "ci95": [
+        -0.009765625,
+        0.033203125
+      ],
+      "input_clusters": 256
+    },
+    {
+      "task": "piqa",
+      "comparison": "static_recovery",
+      "metric": "accuracy",
+      "left": [
+        "static",
+        "before",
+        "pruned"
+      ],
+      "right": [
+        "static",
+        "after",
+        "pruned"
+      ],
+      "left_mean": 0.68359375,
+      "right_mean": 0.693359375,
+      "improvement": 0.009765625,
+      "ci95": [
+        -0.02734375,
+        0.048828125
+      ],
+      "input_clusters": 256
+    },
+    {
+      "task": "piqa",
+      "comparison": "recovered_dynamic_vs_static",
+      "metric": "accuracy",
+      "left": [
+        "static",
+        "after",
+        "pruned"
+      ],
+      "right": [
+        "dynamic",
+        "after",
+        "pruned"
+      ],
+      "left_mean": 0.693359375,
+      "right_mean": 0.671875,
+      "improvement": -0.021484375,
+      "ci95": [
+        -0.056640625,
+        0.013720703124999956
+      ],
+      "input_clusters": 256
+    },
+    {
+      "task": "wikitext_conditional",
+      "comparison": "dynamic_recovery",
+      "metric": "ppl",
+      "left": [
+        "dynamic",
+        "before",
+        "pruned"
+      ],
+      "right": [
+        "dynamic",
+        "after",
+        "pruned"
+      ],
+      "left_mean": 30.707864824633354,
+      "right_mean": 24.731047552584695,
+      "improvement": 5.97681727204866,
+      "ci95": [
+        5.421496468722247,
+        6.602199072194751
+      ],
+      "input_clusters": 46
+    },
+    {
+      "task": "wikitext_conditional",
+      "comparison": "static_recovery",
+      "metric": "ppl",
+      "left": [
+        "static",
+        "before",
+        "pruned"
+      ],
+      "right": [
+        "static",
+        "after",
+        "pruned"
+      ],
+      "left_mean": 28.25165454759343,
+      "right_mean": 21.067208591631584,
+      "improvement": 7.184445955961845,
+      "ci95": [
+        6.530462393912808,
+        7.917993216716173
+      ],
+      "input_clusters": 46
+    },
+    {
+      "task": "wikitext_conditional",
+      "comparison": "recovered_dynamic_vs_static",
+      "metric": "ppl",
+      "left": [
+        "static",
+        "after",
+        "pruned"
+      ],
+      "right": [
+        "dynamic",
+        "after",
+        "pruned"
+      ],
+      "left_mean": 21.067208591631584,
+      "right_mean": 24.731047552584695,
+      "improvement": -3.663838960953111,
+      "ci95": [
+        -4.101109056400417,
+        -3.281651336068499
+      ],
+      "input_clusters": 46
+    },
+    {
+      "task": "winogrande",
+      "comparison": "dynamic_recovery",
+      "metric": "accuracy",
+      "left": [
+        "dynamic",
+        "before",
+        "pruned"
+      ],
+      "right": [
+        "dynamic",
+        "after",
+        "pruned"
+      ],
+      "left_mean": 0.5390625,
+      "right_mean": 0.529296875,
+      "improvement": -0.009765625,
+      "ci95": [
+        -0.044970703125,
+        0.025390625
+      ],
+      "input_clusters": 256
+    },
+    {
+      "task": "winogrande",
+      "comparison": "static_recovery",
+      "metric": "accuracy",
+      "left": [
+        "static",
+        "before",
+        "pruned"
+      ],
+      "right": [
+        "static",
+        "after",
+        "pruned"
+      ],
+      "left_mean": 0.5390625,
+      "right_mean": 0.533203125,
+      "improvement": -0.005859375,
+      "ci95": [
+        -0.066455078125,
+        0.058642578124999956
+      ],
+      "input_clusters": 256
+    },
+    {
+      "task": "winogrande",
+      "comparison": "recovered_dynamic_vs_static",
+      "metric": "accuracy",
+      "left": [
+        "static",
+        "after",
+        "pruned"
+      ],
+      "right": [
+        "dynamic",
+        "after",
+        "pruned"
+      ],
+      "left_mean": 0.533203125,
+      "right_mean": 0.529296875,
+      "improvement": -0.00390625,
+      "ci95": [
+        -0.0625,
+        0.056640625
+      ],
+      "input_clusters": 256
+    }
+  ],
+  "interpretation": "Two paired seeds and fixed reviewed benchmark subsets. Bootstrap clusters inputs/articles, averages both seeds inside inputs; CIs do not estimate training-seed uncertainty. Depth-slot LoRA variant, not standard per-original-layer LoRA.",
+  "selection": "Mean CE+KL on32 original dev identities only. Development aggregates include selection identities; fresh C4 and task benchmarks do not select checkpoints."
+}
