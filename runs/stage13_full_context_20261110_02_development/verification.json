@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "rows": 130652,
+  "route_registry_entries": 28836,
+  "full_observation_lengths_checked": true,
+  "route_prefixes_checked": true,
+  "gold_scores_replayed": true
+}

@@ -1,0 +1,6810 @@
+{
+  "comparisons": [
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m00",
+      "k": 6,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.09311110818485402,
+      "shuffled_mean3": 0.1013226707884909,
+      "matched_benefit": 0.008211562603636884,
+      "ci95": [
+        0.002239389708760532,
+        0.014841382435385837
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m00",
+      "k": 8,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.1685313121323139,
+      "shuffled_mean3": 0.1831488451454878,
+      "matched_benefit": 0.01461753301317397,
+      "ci95": [
+        0.006922730301843056,
+        0.023638781537899646
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m00",
+      "k": 10,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.27756197397993415,
+      "shuffled_mean3": 0.3015193095016202,
+      "matched_benefit": 0.023957335521686156,
+      "ci95": [
+        0.011209191144486177,
+        0.03929120128048579
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m00",
+      "k": 12,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.4488861118211274,
+      "shuffled_mean3": 0.47909962194272365,
+      "matched_benefit": 0.030213510121596284,
+      "ci95": [
+        0.014137741932136818,
+        0.04784560329478973
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m00",
+      "k": 16,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.9390494763078778,
+      "shuffled_mean3": 0.9719348915199035,
+      "matched_benefit": 0.032885415212025725,
+      "ci95": [
+        -0.0049539536313530615,
+        0.07233676333950309
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m00",
+      "k": 20,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.6847884986923995,
+      "shuffled_mean3": 1.7517444133104951,
+      "matched_benefit": 0.06695591461809575,
+      "ci95": [
+        0.001451965594477407,
+        0.12424250046030105
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m00",
+      "k": 24,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 3.170212087197372,
+      "shuffled_mean3": 3.2426586521744003,
+      "matched_benefit": 0.07244656497702735,
+      "ci95": [
+        -0.012434205347276458,
+        0.15041556325220062
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m04",
+      "k": 6,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.08069809484075559,
+      "shuffled_mean3": 0.08475955703432227,
+      "matched_benefit": 0.004061462193566685,
+      "ci95": [
+        0.00042379049042426376,
+        0.008902438285219734
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m04",
+      "k": 8,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.15362853121110084,
+      "shuffled_mean3": 0.16122275947053916,
+      "matched_benefit": 0.007594228259438316,
+      "ci95": [
+        0.002403888270767962,
+        0.014180832552544967
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m04",
+      "k": 10,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.24738426306179936,
+      "shuffled_mean3": 0.26168945118935627,
+      "matched_benefit": 0.014305188127556935,
+      "ci95": [
+        0.005423060192831776,
+        0.02318584144825781
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m04",
+      "k": 12,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.3971416038314953,
+      "shuffled_mean3": 0.4192815708656665,
+      "matched_benefit": 0.022139967034171263,
+      "ci95": [
+        0.01068505253945651,
+        0.03228748356587013
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m04",
+      "k": 16,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.8615801437442785,
+      "shuffled_mean3": 0.8867137972143543,
+      "matched_benefit": 0.025133653470075935,
+      "ci95": [
+        0.007482919978225409,
+        0.04339870952699325
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m04",
+      "k": 20,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.4899163163872315,
+      "shuffled_mean3": 1.5129161102093978,
+      "matched_benefit": 0.022999793822166593,
+      "ci95": [
+        -0.01586056882890433,
+        0.061706256050979444
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m04",
+      "k": 24,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 2.980039777051652,
+      "shuffled_mean3": 3.0232343946033295,
+      "matched_benefit": 0.04319461755167852,
+      "ci95": [
+        -0.009542100566274284,
+        0.09618275387097085
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m06",
+      "k": 6,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.07957601265870537,
+      "shuffled_mean3": 0.07957601265870537,
+      "matched_benefit": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m06",
+      "k": 8,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.1478557540811609,
+      "shuffled_mean3": 0.15101341202381172,
+      "matched_benefit": 0.003157657942650854,
+      "ci95": [
+        0.0014128604469356943,
+        0.005231746135945786
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m06",
+      "k": 10,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.25021351163804084,
+      "shuffled_mean3": 0.25792912585749717,
+      "matched_benefit": 0.007715614219456351,
+      "ci95": [
+        0.0016182012156187781,
+        0.01378539661897639
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m06",
+      "k": 12,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.39979372072966934,
+      "shuffled_mean3": 0.40741222557607587,
+      "matched_benefit": 0.007618504846406494,
+      "ci95": [
+        -0.0016581645074947163,
+        0.01672548747576519
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m06",
+      "k": 16,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.8520618893919706,
+      "shuffled_mean3": 0.8860119107319384,
+      "matched_benefit": 0.0339500213399678,
+      "ci95": [
+        0.013717003409921269,
+        0.05667392478364386
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m06",
+      "k": 20,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.4806352928120332,
+      "shuffled_mean3": 1.5275606759762255,
+      "matched_benefit": 0.046925383164192064,
+      "ci95": [
+        0.008238221328563052,
+        0.09090115935279094
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m06",
+      "k": 24,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 2.991193701719518,
+      "shuffled_mean3": 3.0583499158126135,
+      "matched_benefit": 0.06715621409309529,
+      "ci95": [
+        4.9499919922223556e-05,
+        0.13074532223319718
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m08",
+      "k": 8,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.1462430772425053,
+      "shuffled_mean3": 0.1462430772425053,
+      "matched_benefit": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m08",
+      "k": 10,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.23648745956201797,
+      "shuffled_mean3": 0.2438673485489166,
+      "matched_benefit": 0.007379888986898611,
+      "ci95": [
+        0.0019490059251654963,
+        0.013520433841816726
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m08",
+      "k": 12,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.3864016489216763,
+      "shuffled_mean3": 0.40370468830046397,
+      "matched_benefit": 0.01730303937878773,
+      "ci95": [
+        0.007480225124347848,
+        0.027747351954278313
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m08",
+      "k": 16,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.8443325055518257,
+      "shuffled_mean3": 0.8793114536436115,
+      "matched_benefit": 0.03497894809178559,
+      "ci95": [
+        0.01468075723898333,
+        0.055153641983057444
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m08",
+      "k": 20,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.474022374589949,
+      "shuffled_mean3": 1.512078466590423,
+      "matched_benefit": 0.038056092000474044,
+      "ci95": [
+        0.0063049738313233315,
+        0.07020914816730335
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "all",
+      "policy": "m08",
+      "k": 24,
+      "metric": "kl",
+      "documents": 100,
+      "inputs": 100,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 3.00039932726669,
+      "shuffled_mean3": 3.051780199318561,
+      "matched_benefit": 0.05138087205187175,
+      "ci95": [
+        -0.03895970019933007,
+        0.14255771527263836
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m00",
+      "k": 6,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.09479080938723679,
+      "shuffled_mean3": 0.10379562119103693,
+      "matched_benefit": 0.009004811803800136,
+      "ci95": [
+        -0.001644552942931814,
+        0.022786990888609006
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m00",
+      "k": 8,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.1693649795943581,
+      "shuffled_mean3": 0.1817251143019237,
+      "matched_benefit": 0.01236013470756561,
+      "ci95": [
+        0.0007163386222124015,
+        0.02673259338470721
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m00",
+      "k": 10,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.27876856362392327,
+      "shuffled_mean3": 0.29150099596239915,
+      "matched_benefit": 0.012732432338475815,
+      "ci95": [
+        0.0029829824026242893,
+        0.022958770848694382
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m00",
+      "k": 12,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.444381109518774,
+      "shuffled_mean3": 0.46072999841290574,
+      "matched_benefit": 0.016348888894131747,
+      "ci95": [
+        -0.005332280676841551,
+        0.0397459885767838
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m00",
+      "k": 16,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.9757076310167586,
+      "shuffled_mean3": 0.9617392027209367,
+      "matched_benefit": -0.013968428295821874,
+      "ci95": [
+        -0.07532069679318651,
+        0.034891067574525036
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m00",
+      "k": 20,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.7163825302324376,
+      "shuffled_mean3": 1.7052980456423075,
+      "matched_benefit": -0.011084484590129817,
+      "ci95": [
+        -0.15294151989716803,
+        0.10942517753201197
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m00",
+      "k": 24,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 3.190039301036592,
+      "shuffled_mean3": 3.1195446193528813,
+      "matched_benefit": -0.07049468168371076,
+      "ci95": [
+        -0.25653232722777086,
+        0.08047895061961488
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m04",
+      "k": 6,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.07746645622642502,
+      "shuffled_mean3": 0.08047467728197699,
+      "matched_benefit": 0.0030082210555519386,
+      "ci95": [
+        -0.0013397664548859512,
+        0.007212086165858538
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m04",
+      "k": 8,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.14889909872401685,
+      "shuffled_mean3": 0.162736489602778,
+      "matched_benefit": 0.01383739087876119,
+      "ci95": [
+        0.0027317201334980654,
+        0.03044438591556633
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m04",
+      "k": 10,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.23571183266032153,
+      "shuffled_mean3": 0.26538059698352034,
+      "matched_benefit": 0.029668764323198902,
+      "ci95": [
+        0.0167710222283526,
+        0.04835680199185684
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m04",
+      "k": 12,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.39093738721423904,
+      "shuffled_mean3": 0.4276075064097581,
+      "matched_benefit": 0.036670119195519074,
+      "ci95": [
+        0.023529999520800638,
+        0.050478790554173786
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m04",
+      "k": 16,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.8692018582135407,
+      "shuffled_mean3": 0.9120298675256265,
+      "matched_benefit": 0.04282800931208591,
+      "ci95": [
+        0.017478277023770104,
+        0.0688731822259455
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m04",
+      "k": 20,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.4655168268099992,
+      "shuffled_mean3": 1.506944642919419,
+      "matched_benefit": 0.04142781610942,
+      "ci95": [
+        0.003010947456244203,
+        0.07624037238346777
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m04",
+      "k": 24,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 2.9347346070784375,
+      "shuffled_mean3": 2.9320448899632217,
+      "matched_benefit": -0.0026897171152157192,
+      "ci95": [
+        -0.08908578571643287,
+        0.08220374811718974
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m06",
+      "k": 6,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.06986599484095196,
+      "shuffled_mean3": 0.06986599484095196,
+      "matched_benefit": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m06",
+      "k": 8,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.139252208961774,
+      "shuffled_mean3": 0.14180534256185268,
+      "matched_benefit": 0.0025531336000786608,
+      "ci95": [
+        0.0001326360391049603,
+        0.005348341605107301
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m06",
+      "k": 10,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.2437665871107703,
+      "shuffled_mean3": 0.2534343757305862,
+      "matched_benefit": 0.009667788619815933,
+      "ci95": [
+        -0.0013944713208416334,
+        0.019971761958307875
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m06",
+      "k": 12,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.38819919440460104,
+      "shuffled_mean3": 0.398224071814074,
+      "matched_benefit": 0.01002487740947288,
+      "ci95": [
+        -0.008509435977159847,
+        0.026179040859191764
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m06",
+      "k": 16,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.848779578953768,
+      "shuffled_mean3": 0.8991030223762716,
+      "matched_benefit": 0.050323443422503646,
+      "ci95": [
+        0.0237709741660244,
+        0.0777083637631216
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m06",
+      "k": 20,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.488177034302805,
+      "shuffled_mean3": 1.4926887072802122,
+      "matched_benefit": 0.004511672977407507,
+      "ci95": [
+        -0.05308033798689343,
+        0.059741224242781485
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m06",
+      "k": 24,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 2.9553136761217442,
+      "shuffled_mean3": 3.038883923117217,
+      "matched_benefit": 0.08357024699547212,
+      "ci95": [
+        -0.02542042958265655,
+        0.18320392027191593
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m08",
+      "k": 8,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.1410609846336115,
+      "shuffled_mean3": 0.1410609846336115,
+      "matched_benefit": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m08",
+      "k": 10,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.23041367646276864,
+      "shuffled_mean3": 0.2438890854707923,
+      "matched_benefit": 0.013475409008023664,
+      "ci95": [
+        -0.0001974147934783123,
+        0.030992720984526666
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m08",
+      "k": 12,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.3806686899784378,
+      "shuffled_mean3": 0.40106972909675953,
+      "matched_benefit": 0.020401039118321754,
+      "ci95": [
+        0.006322633158221885,
+        0.03686570565546519
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m08",
+      "k": 16,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.8419364238858785,
+      "shuffled_mean3": 0.8909765076666303,
+      "matched_benefit": 0.04904008378075172,
+      "ci95": [
+        0.01838184128530041,
+        0.08040323229109032
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m08",
+      "k": 20,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.4618919833308823,
+      "shuffled_mean3": 1.4864018986152,
+      "matched_benefit": 0.02450991528431747,
+      "ci95": [
+        -0.01783083220420946,
+        0.0639243965580432
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1_128",
+      "policy": "m08",
+      "k": 24,
+      "metric": "kl",
+      "documents": 34,
+      "inputs": 34,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 2.975396733995819,
+      "shuffled_mean3": 2.967383291310041,
+      "matched_benefit": -0.008013442685777953,
+      "ci95": [
+        -0.15835784104623943,
+        0.16289667024828217
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m00",
+      "k": 6,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.0953485588845407,
+      "shuffled_mean3": 0.09992853158439423,
+      "matched_benefit": 0.004579972699853515,
+      "ci95": [
+        -0.0019796330437107696,
+        0.011260387142794741
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m00",
+      "k": 8,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.17248456662043601,
+      "shuffled_mean3": 0.18677999491766686,
+      "matched_benefit": 0.014295428297230873,
+      "ci95": [
+        0.0023889316345196334,
+        0.028359623300525275
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m00",
+      "k": 10,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.28085766525257483,
+      "shuffled_mean3": 0.30050882272651563,
+      "matched_benefit": 0.019651157473940827,
+      "ci95": [
+        0.004733645909946615,
+        0.03531929295908738
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m00",
+      "k": 12,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.4527099468227179,
+      "shuffled_mean3": 0.4835419633552922,
+      "matched_benefit": 0.030832016532574214,
+      "ci95": [
+        0.009149731765306039,
+        0.055644431376953914
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m00",
+      "k": 16,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.936429089948534,
+      "shuffled_mean3": 0.9801232842165166,
+      "matched_benefit": 0.04369419426798247,
+      "ci95": [
+        -0.008160602061900408,
+        0.09115495053767826
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m00",
+      "k": 20,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.6848095709394233,
+      "shuffled_mean3": 1.7784013169681652,
+      "matched_benefit": 0.0935917460287416,
+      "ci95": [
+        0.025771933619475686,
+        0.16264582130189553
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m00",
+      "k": 24,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 3.2190685767982243,
+      "shuffled_mean3": 3.3163255572309107,
+      "matched_benefit": 0.0972569804326867,
+      "ci95": [
+        -0.0022742176559856484,
+        0.20350315447973996
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m04",
+      "k": 6,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.08252063935882858,
+      "shuffled_mean3": 0.0856140020838993,
+      "matched_benefit": 0.003093362725070737,
+      "ci95": [
+        -0.0005781604270413194,
+        0.007223171987645928
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m04",
+      "k": 8,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.15721617344994945,
+      "shuffled_mean3": 0.16160492345739247,
+      "matched_benefit": 0.004388750007442994,
+      "ci95": [
+        -0.0007426060458552872,
+        0.01006515292042343
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m04",
+      "k": 10,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.2505307773617653,
+      "shuffled_mean3": 0.25978220402341046,
+      "matched_benefit": 0.009251426661645114,
+      "ci95": [
+        -0.0020747013138964236,
+        0.02003519588096179
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m04",
+      "k": 12,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.39903277803030124,
+      "shuffled_mean3": 0.41357155868838485,
+      "matched_benefit": 0.014538780658083615,
+      "ci95": [
+        -0.002933872997984251,
+        0.028897968991408902
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m04",
+      "k": 16,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.874566161938225,
+      "shuffled_mean3": 0.8915616290880006,
+      "matched_benefit": 0.016995467149775685,
+      "ci95": [
+        -0.012333493085244455,
+        0.046562718620502645
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m04",
+      "k": 20,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.513205007755959,
+      "shuffled_mean3": 1.5223733061019449,
+      "matched_benefit": 0.009168298345986077,
+      "ci95": [
+        -0.054311261870260245,
+        0.07455098599894948
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m04",
+      "k": 24,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 3.023293976917397,
+      "shuffled_mean3": 3.07101740431429,
+      "matched_benefit": 0.0477234273968925,
+      "ci95": [
+        -0.035871242598298325,
+        0.12816231650162618
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m06",
+      "k": 6,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.08236823590675947,
+      "shuffled_mean3": 0.08236823590675947,
+      "matched_benefit": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m06",
+      "k": 8,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.150852698481198,
+      "shuffled_mean3": 0.1540534137388544,
+      "matched_benefit": 0.0032007152576563613,
+      "ci95": [
+        0.0007987719651518811,
+        0.006128932963789858
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m06",
+      "k": 10,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.25170923540542733,
+      "shuffled_mean3": 0.25790433603046553,
+      "matched_benefit": 0.0061951006250382,
+      "ci95": [
+        -0.002180666804651645,
+        0.014403549760336554
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m06",
+      "k": 12,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.4032772823171166,
+      "shuffled_mean3": 0.4083351812065871,
+      "matched_benefit": 0.005057898889470471,
+      "ci95": [
+        -0.004790186376461206,
+        0.015058164218078485
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m06",
+      "k": 16,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.8514810456027209,
+      "shuffled_mean3": 0.8818924076191857,
+      "matched_benefit": 0.03041136201646502,
+      "ci95": [
+        0.0060987844923989275,
+        0.05351270125455833
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m06",
+      "k": 20,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.472226852808032,
+      "shuffled_mean3": 1.5467757755344145,
+      "matched_benefit": 0.07454892272638265,
+      "ci95": [
+        0.030567864432301455,
+        0.12109281962712981
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m06",
+      "k": 24,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 3.0212874311510665,
+      "shuffled_mean3": 3.0664313199635855,
+      "matched_benefit": 0.045143888812519545,
+      "ci95": [
+        -0.050002984549388896,
+        0.1331540499431647
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m08",
+      "k": 8,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.14758189566291063,
+      "shuffled_mean3": 0.14758189566291063,
+      "matched_benefit": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m08",
+      "k": 10,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.23841296576936546,
+      "shuffled_mean3": 0.24239441884509771,
+      "matched_benefit": 0.003981453075732266,
+      "ci95": [
+        0.0002187256817011918,
+        0.008071742645467407
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m08",
+      "k": 12,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.39127876608844175,
+      "shuffled_mean3": 0.40197431997929833,
+      "matched_benefit": 0.010695553890856435,
+      "ci95": [
+        -0.0009016452675290955,
+        0.021824101836976122
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m08",
+      "k": 16,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.8511349112213378,
+      "shuffled_mean3": 0.8728045116642389,
+      "matched_benefit": 0.021669600442901206,
+      "ci95": [
+        -0.013176186699521199,
+        0.05264831935078019
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m08",
+      "k": 20,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.475073568533642,
+      "shuffled_mean3": 1.5248207133259424,
+      "matched_benefit": 0.04974714479230063,
+      "ci95": [
+        0.007732423238626773,
+        0.095846432074465
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_129_511",
+      "policy": "m08",
+      "k": 24,
+      "metric": "kl",
+      "documents": 51,
+      "inputs": 51,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 3.0253650953800513,
+      "shuffled_mean3": 3.0822039513688035,
+      "matched_benefit": 0.056838855988752365,
+      "ci95": [
+        -0.06813137835130598,
+        0.17714124593506073
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m00",
+      "k": 6,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.08709514361993671,
+      "shuffled_mean3": 0.11004781196846447,
+      "matched_benefit": 0.022952668348527747,
+      "ci95": [
+        0.007220666221272478,
+        0.04422049055163821
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m00",
+      "k": 8,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.16227590298422415,
+      "shuffled_mean3": 0.18728835136400113,
+      "matched_benefit": 0.025012448379776956,
+      "ci95": [
+        0.009444884043678615,
+        0.03909370632120522
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m00",
+      "k": 10,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.2790564886128997,
+      "shuffled_mean3": 0.3552666567121426,
+      "matched_benefit": 0.07621016809924284,
+      "ci95": [
+        0.00962099288260878,
+        0.17628236843801906
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m00",
+      "k": 12,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.46812034199577424,
+      "shuffled_mean3": 0.5342661631116202,
+      "matched_benefit": 0.06614582111584584,
+      "ci95": [
+        -0.002444373980500297,
+        0.16082434303263837
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m00",
+      "k": 16,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.9226487408923276,
+      "shuffled_mean3": 1.0285994808328658,
+      "matched_benefit": 0.105950739940538,
+      "ci95": [
+        -0.03572986384436354,
+        0.291249756661293
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m00",
+      "k": 20,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.68257774267032,
+      "shuffled_mean3": 1.84734834375566,
+      "matched_benefit": 0.16477060108534003,
+      "ci95": [
+        0.04816185580926443,
+        0.2953073089779518
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m00",
+      "k": 24,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 3.0056027755668357,
+      "shuffled_mean3": 3.3364317207044762,
+      "matched_benefit": 0.3308289451376401,
+      "ci95": [
+        0.1818669920616566,
+        0.49426753774672144
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m04",
+      "k": 6,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.08903407556087427,
+      "shuffled_mean3": 0.10091634300587415,
+      "matched_benefit": 0.011882267444999874,
+      "ci95": [
+        -0.008521433879098806,
+        0.04405679731078475
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m04",
+      "k": 8,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.1647173193749016,
+      "shuffled_mean3": 0.16980975385420383,
+      "matched_benefit": 0.005092434479302237,
+      "ci95": [
+        -0.007199504267559048,
+        0.01643252224374384
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m04",
+      "k": 10,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.2786898191818146,
+      "shuffled_mean3": 0.2787433262847074,
+      "matched_benefit": 5.35071028926933e-05,
+      "ci95": [
+        -0.02852500290317848,
+        0.025274160481950955
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m04",
+      "k": 12,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.42592373680313744,
+      "shuffled_mean3": 0.44108206651170473,
+      "matched_benefit": 0.015158329708567371,
+      "ci95": [
+        -0.01995574783611574,
+        0.05488130752062378
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m04",
+      "k": 16,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.8409486021482735,
+      "shuffled_mean3": 0.8575191111827206,
+      "matched_benefit": 0.01657050903444693,
+      "ci95": [
+        -0.02974366985639436,
+        0.0714881069199072
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m04",
+      "k": 20,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.534525113599961,
+      "shuffled_mean3": 1.556212526159946,
+      "matched_benefit": 0.021687412559984947,
+      "ci95": [
+        -0.10084949579646905,
+        0.13909113164872025
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m04",
+      "k": 24,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 3.0327325016694684,
+      "shuffled_mean3": 3.1807594849075636,
+      "matched_benefit": 0.14802698323809535,
+      "ci95": [
+        0.027701739648657322,
+        0.27220192674606325
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m06",
+      "k": 6,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.10384700345509519,
+      "shuffled_mean3": 0.10384700345509519,
+      "matched_benefit": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m06",
+      "k": 8,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.17471041693587666,
+      "shuffled_mean3": 0.18056579540610287,
+      "matched_benefit": 0.005855378470226213,
+      "ci95": [
+        -8.791827624540304e-05,
+        0.013126316178163525
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m06",
+      "k": 10,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.2816478367703967,
+      "shuffled_mean3": 0.29340680761876997,
+      "matched_benefit": 0.011758970848373268,
+      "ci95": [
+        -0.007525169357440938,
+        0.02906406202440064
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m06",
+      "k": 12,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.44728712188882497,
+      "shuffled_mean3": 0.45250973792927374,
+      "matched_benefit": 0.005222616040448845,
+      "ci95": [
+        -0.025655796380372242,
+        0.03281186069977966
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m06",
+      "k": 16,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.9076957655534116,
+      "shuffled_mean3": 0.9101094534017035,
+      "matched_benefit": 0.0024136878482918602,
+      "ci95": [
+        -0.09255247750868587,
+        0.12433901962177298
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m06",
+      "k": 20,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.5715485579494268,
+      "shuffled_mean3": 1.614687564715125,
+      "matched_benefit": 0.04313900676569815,
+      "ci95": [
+        -0.1541789706728818,
+        0.28316390283765075
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m06",
+      "k": 24,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 3.1262774939791096,
+      "shuffled_mean3": 3.2271247580873457,
+      "matched_benefit": 0.10084726410823601,
+      "ci95": [
+        -0.05971566798189825,
+        0.24762353646060706
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m08",
+      "k": 8,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.1708712355979761,
+      "shuffled_mean3": 0.1708712355979761,
+      "matched_benefit": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m08",
+      "k": 10,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.263115287066862,
+      "shuffled_mean3": 0.27013347957690687,
+      "matched_benefit": 0.0070181925100447975,
+      "ci95": [
+        -0.005648338842064918,
+        0.021653301573955362
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m08",
+      "k": 12,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.40679506809872934,
+      "shuffled_mean3": 0.44196848009446305,
+      "matched_benefit": 0.03517341199573381,
+      "ci95": [
+        -0.00939190717863792,
+        0.09672620964273106
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m08",
+      "k": 16,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.8693079620422092,
+      "shuffled_mean3": 0.9225528406134323,
+      "matched_benefit": 0.053244878571223175,
+      "ci95": [
+        0.016221335768450796,
+        0.09304132230720749
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m08",
+      "k": 20,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.5543207006579804,
+      "shuffled_mean3": 1.5912182529111674,
+      "matched_benefit": 0.036897552253187194,
+      "ci95": [
+        -0.10334774002393694,
+        0.18173005001427303
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_512_1023",
+      "policy": "m08",
+      "k": 24,
+      "metric": "kl",
+      "documents": 12,
+      "inputs": 12,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 3.0653219638580698,
+      "shuffled_mean3": 3.203673382673278,
+      "matched_benefit": 0.13835141881520904,
+      "ci95": [
+        -0.1123261995985727,
+        0.42598013841503424
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m00",
+      "k": 6,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.06010169092284438,
+      "shuffled_mean3": 0.06209570130938489,
+      "matched_benefit": 0.0019940103865405076,
+      "ci95": [
+        -0.0075361284691300365,
+        0.014496850097354276
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m00",
+      "k": 8,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.11689939119009474,
+      "shuffled_mean3": 0.12099689037145085,
+      "matched_benefit": 0.004097499181356133,
+      "ci95": [
+        -0.008578826250514898,
+        0.01396918065034293
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m00",
+      "k": 10,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.20188248118130206,
+      "shuffled_mean3": 0.21724908261414924,
+      "matched_benefit": 0.015366601432847182,
+      "ci95": [
+        0.007980306023253225,
+        0.020712231080122184
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m00",
+      "k": 12,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.3580006888555039,
+      "shuffled_mean3": 0.39110271992474194,
+      "matched_benefit": 0.033102031069238015,
+      "ci95": [
+        0.020891783758997917,
+        0.05565033932281138
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m00",
+      "k": 16,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.6337398993782699,
+      "shuffled_mean3": 0.7216249981472544,
+      "matched_benefit": 0.08788509876898458,
+      "ci95": [
+        0.03425849055282826,
+        0.1266511128423089
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m00",
+      "k": 20,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.3352076037942122,
+      "shuffled_mean3": 1.442553496255574,
+      "matched_benefit": 0.1073458924613618,
+      "ci95": [
+        0.01807934000519018,
+        0.2081771588159933
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m00",
+      "k": 24,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 2.7733805869938806,
+      "shuffled_mean3": 3.010521364070613,
+      "matched_benefit": 0.23714077707673256,
+      "ci95": [
+        -0.009406468417081815,
+        0.6981784370339787
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m04",
+      "k": 6,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.052996152782119076,
+      "shuffled_mean3": 0.05416881783188459,
+      "matched_benefit": 0.001172665049765512,
+      "ci95": [
+        -0.007702414895094184,
+        0.007393808831895714
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m04",
+      "k": 8,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.10188369534908916,
+      "shuffled_mean3": 0.10322238599399969,
+      "matched_benefit": 0.0013386906449105267,
+      "ci95": [
+        -0.008278196650887068,
+        0.009051692776362572
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m04",
+      "k": 10,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.20095884003239917,
+      "shuffled_mean3": 0.18406416696183847,
+      "matched_benefit": -0.016894673070560706,
+      "ci95": [
+        -0.02928201907090827,
+        -0.00971582390452061
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m04",
+      "k": 12,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.320177565560799,
+      "shuffled_mean3": 0.33478919246226724,
+      "matched_benefit": 0.014611626901468203,
+      "ci95": [
+        -0.007924942981844652,
+        0.028245442930104503
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m04",
+      "k": 16,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.6369645701795688,
+      "shuffled_mean3": 0.6341639359611522,
+      "matched_benefit": -0.0028006342184165125,
+      "ci95": [
+        -0.062777760719958,
+        0.0721881067050465
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m04",
+      "k": 20,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.1921009228099138,
+      "shuffled_mean3": 1.246634745520337,
+      "matched_benefit": 0.05453382271042321,
+      "ci95": [
+        -0.08247345995106214,
+        0.16805098717547184
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m04",
+      "k": 24,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 2.547406073892489,
+      "shuffled_mean3": 2.614303920887997,
+      "matched_benefit": 0.06689784699550823,
+      "ci95": [
+        -0.18597109042780646,
+        0.2221333885358443
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m06",
+      "k": 6,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.04507112285743157,
+      "shuffled_mean3": 0.04507112285743157,
+      "matched_benefit": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m06",
+      "k": 8,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.0869958925480508,
+      "shuffled_mean3": 0.08548196990779144,
+      "matched_benefit": -0.0015139226402593696,
+      "ci95": [
+        -0.005304542651477576,
+        0.0025718355318531394
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m06",
+      "k": 10,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.17211405170544622,
+      "shuffled_mean3": 0.16738032731026817,
+      "matched_benefit": -0.004733724395178061,
+      "ci95": [
+        -0.010615797464399501,
+        -0.0015305792258004658
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m06",
+      "k": 12,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.2820042007905512,
+      "shuffled_mean3": 0.31546433974728166,
+      "matched_benefit": 0.0334601389567305,
+      "ci95": [
+        0.028704010216946074,
+        0.03823809339923573
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m06",
+      "k": 16,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.676600247463082,
+      "shuffled_mean3": 0.7112873610005611,
+      "matched_benefit": 0.03468711353747903,
+      "ci95": [
+        -0.08590086975083167,
+        0.1588732037796743
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m06",
+      "k": 20,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.1744526421017427,
+      "shuffled_mean3": 1.2476120737528955,
+      "matched_benefit": 0.07315943165115268,
+      "ci95": [
+        -0.16053791759380465,
+        0.20287228051974027
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m06",
+      "k": 24,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 2.3459054224529408,
+      "shuffled_mean3": 2.466481260028323,
+      "matched_benefit": 0.12057583757538204,
+      "ci95": [
+        -0.055301462468277496,
+        0.209513902056238
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m08",
+      "k": 8,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.08370091357452718,
+      "shuffled_mean3": 0.08370091357452718,
+      "matched_benefit": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m08",
+      "k": 10,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.16607875247589418,
+      "shuffled_mean3": 0.16359627762061857,
+      "matched_benefit": -0.0024824748552755758,
+      "ci95": [
+        -0.00792528887420002,
+        0.0012159298041499178
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m08",
+      "k": 12,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.28689051506848445,
+      "shuffled_mean3": 0.3099286535596009,
+      "matched_benefit": 0.02303813849111641,
+      "ci95": [
+        -0.006731894675693961,
+        0.04175103227397714
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m08",
+      "k": 16,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.6559453754226624,
+      "shuffled_mean3": 0.6847599738194495,
+      "matched_benefit": 0.02881459839678698,
+      "ci95": [
+        -0.0740554495924799,
+        0.14921319139991995
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m08",
+      "k": 20,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.2724365408778084,
+      "shuffled_mean3": 1.2699022305228196,
+      "matched_benefit": -0.002534310354989152,
+      "ci95": [
+        -0.17711282697402764,
+        0.1334528398648318
+      ]
+    },
+    {
+      "task": "c4_development",
+      "population": "length_1024_2048",
+      "policy": "m08",
+      "k": 24,
+      "metric": "kl",
+      "documents": 3,
+      "inputs": 3,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 2.599653446710565,
+      "shuffled_mean3": 2.883501971808814,
+      "matched_benefit": 0.28384852509824904,
+      "ci95": [
+        0.13991494238790558,
+        0.4301246578624056
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m00",
+      "k": 6,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.09894873112580739,
+      "shuffled_mean3": 0.1023757412761016,
+      "matched_benefit": 0.003427010150294219,
+      "ci95": [
+        -0.002007226067135312,
+        0.010224863993148979
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m00",
+      "k": 6,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.6927083333333334,
+      "shuffled_mean3": 0.6770833333333333,
+      "matched_benefit": 0.015625,
+      "ci95": [
+        -0.006944444444444444,
+        0.038194444444444434
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m00",
+      "k": 8,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.1654143542437436,
+      "shuffled_mean3": 0.166782443313446,
+      "matched_benefit": 0.0013680890697023954,
+      "ci95": [
+        -0.003754514448947756,
+        0.006126227297530543
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m00",
+      "k": 8,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.6302083333333333,
+      "shuffled_mean3": 0.6475694444444444,
+      "matched_benefit": -0.017361111111111112,
+      "ci95": [
+        -0.05208333333333334,
+        0.015668402777777545
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m00",
+      "k": 10,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.2662152242440724,
+      "shuffled_mean3": 0.27212997853929727,
+      "matched_benefit": 0.005914754295224853,
+      "ci95": [
+        -0.0021938306959101237,
+        0.013493109626747369
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m00",
+      "k": 10,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.5833333333333333,
+      "shuffled_mean3": 0.5677083333333334,
+      "matched_benefit": 0.015624999999999997,
+      "ci95": [
+        -0.02777777777777778,
+        0.06249999999999999
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m00",
+      "k": 12,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.4212310935926519,
+      "shuffled_mean3": 0.42031296635653864,
+      "matched_benefit": -0.0009181272361131658,
+      "ci95": [
+        -0.019164381569850324,
+        0.01489103303459035
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m00",
+      "k": 12,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.5104166666666666,
+      "shuffled_mean3": 0.5520833333333333,
+      "matched_benefit": -0.04166666666666666,
+      "ci95": [
+        -0.09375,
+        0.005208333333333336
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m00",
+      "k": 16,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.8625919290555933,
+      "shuffled_mean3": 0.8778949910955132,
+      "matched_benefit": 0.015303062039919739,
+      "ci95": [
+        -0.013529499979024567,
+        0.04308848153914925
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m00",
+      "k": 16,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.4270833333333333,
+      "shuffled_mean3": 0.4305555555555556,
+      "matched_benefit": -0.0034722222222222203,
+      "ci95": [
+        -0.06597222222222224,
+        0.055555555555555546
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m00",
+      "k": 20,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.490077936426843,
+      "shuffled_mean3": 1.5112401649042984,
+      "matched_benefit": 0.021162228477455313,
+      "ci95": [
+        -0.05366215784386137,
+        0.10017190063278324
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m00",
+      "k": 20,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.29166666666666663,
+      "shuffled_mean3": 0.35416666666666663,
+      "matched_benefit": -0.0625,
+      "ci95": [
+        -0.1267361111111111,
+        3.491130995403206e-18
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m00",
+      "k": 24,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 2.8649624350080067,
+      "shuffled_mean3": 2.87884194070722,
+      "matched_benefit": 0.013879505699213153,
+      "ci95": [
+        -0.0728000020119314,
+        0.09594059394549741
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m00",
+      "k": 24,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.2864583333333333,
+      "shuffled_mean3": 0.2951388888888889,
+      "matched_benefit": -0.008680555555555549,
+      "ci95": [
+        -0.06770833333333331,
+        0.04513888888888888
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m04",
+      "k": 6,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.090530295238932,
+      "shuffled_mean3": 0.08990823919225678,
+      "matched_benefit": -0.0006220560466752244,
+      "ci95": [
+        -0.0031114568102864836,
+        0.0017543468466270215
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m04",
+      "k": 6,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.6875,
+      "shuffled_mean3": 0.6875,
+      "matched_benefit": 8.673617379884035e-19,
+      "ci95": [
+        -0.013888888888888886,
+        0.01388888888888889
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m04",
+      "k": 8,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.14809408079529082,
+      "shuffled_mean3": 0.14932268284993067,
+      "matched_benefit": 0.0012286020546398491,
+      "ci95": [
+        -0.0020989570514205885,
+        0.004667228742306249
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m04",
+      "k": 8,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.65625,
+      "shuffled_mean3": 0.6597222222222222,
+      "matched_benefit": -0.003472222222222221,
+      "ci95": [
+        -0.03993055555555555,
+        0.02951388888888889
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m04",
+      "k": 10,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.23079999646567056,
+      "shuffled_mean3": 0.2328000884220351,
+      "matched_benefit": 0.0020000919563645213,
+      "ci95": [
+        -0.0038842874998736964,
+        0.00716867923866526
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m04",
+      "k": 10,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.6145833333333333,
+      "shuffled_mean3": 0.6284722222222223,
+      "matched_benefit": -0.013888888888888892,
+      "ci95": [
+        -0.046875,
+        0.019097222222222224
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m04",
+      "k": 12,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.35383926651670805,
+      "shuffled_mean3": 0.36152511189163694,
+      "matched_benefit": 0.007685845374928877,
+      "ci95": [
+        7.198082317406512e-06,
+        0.015525917252216536
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m04",
+      "k": 12,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.5625,
+      "shuffled_mean3": 0.5902777777777778,
+      "matched_benefit": -0.027777777777777776,
+      "ci95": [
+        -0.06770833333333334,
+        0.013932291666666432
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m04",
+      "k": 16,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.7701390952779954,
+      "shuffled_mean3": 0.7735992058427205,
+      "matched_benefit": 0.003460110564725123,
+      "ci95": [
+        -0.017575356529657526,
+        0.023197878029416502
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m04",
+      "k": 16,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.53125,
+      "shuffled_mean3": 0.484375,
+      "matched_benefit": 0.046875,
+      "ci95": [
+        -0.0034722222222222238,
+        0.09900173611111088
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m04",
+      "k": 20,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.2778831846011574,
+      "shuffled_mean3": 1.289789823784495,
+      "matched_benefit": 0.01190663918333781,
+      "ci95": [
+        -0.01727002265886378,
+        0.039267826842949397
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m04",
+      "k": 20,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.38020833333333326,
+      "shuffled_mean3": 0.3940972222222222,
+      "matched_benefit": -0.013888888888888886,
+      "ci95": [
+        -0.06427951388888889,
+        0.04171006944444422
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m04",
+      "k": 24,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 2.6939862674216335,
+      "shuffled_mean3": 2.697315732325685,
+      "matched_benefit": 0.0033294649040517058,
+      "ci95": [
+        -0.06251822655475739,
+        0.06369073722711893
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m04",
+      "k": 24,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.296875,
+      "shuffled_mean3": 0.2916666666666667,
+      "matched_benefit": 0.005208333333333329,
+      "ci95": [
+        -0.045138888888888895,
+        0.05555555555555555
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m06",
+      "k": 6,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.08870481912892779,
+      "shuffled_mean3": 0.08870481912892779,
+      "matched_benefit": -2.168404344971009e-19,
+      "ci95": [
+        -1.4094628242311558e-18,
+        9.75781955236954e-19
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m06",
+      "k": 6,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.671875,
+      "shuffled_mean3": 0.671875,
+      "matched_benefit": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m06",
+      "k": 8,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.1409325945562974,
+      "shuffled_mean3": 0.14152171644596595,
+      "matched_benefit": 0.0005891218896685955,
+      "ci95": [
+        -0.0005526731969467485,
+        0.0018137768154505142
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m06",
+      "k": 8,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.625,
+      "shuffled_mean3": 0.6180555555555556,
+      "matched_benefit": 0.006944444444444445,
+      "ci95": [
+        0.0,
+        0.015625
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m06",
+      "k": 10,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.2246183864541595,
+      "shuffled_mean3": 0.22669746827665976,
+      "matched_benefit": 0.002079081822500287,
+      "ci95": [
+        -0.00342001768594468,
+        0.007457076533860817
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m06",
+      "k": 10,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.6354166666666666,
+      "shuffled_mean3": 0.6284722222222222,
+      "matched_benefit": 0.006944444444444447,
+      "ci95": [
+        -0.031249999999999993,
+        0.04513888888888889
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m06",
+      "k": 12,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.3470348970458599,
+      "shuffled_mean3": 0.3518370017459362,
+      "matched_benefit": 0.004802104700076295,
+      "ci95": [
+        -0.0016122099922132762,
+        0.011501661448096442
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m06",
+      "k": 12,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.5625,
+      "shuffled_mean3": 0.5798611111111112,
+      "matched_benefit": -0.01736111111111111,
+      "ci95": [
+        -0.045138888888888895,
+        0.010416666666666664
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m06",
+      "k": 16,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.7682135612523323,
+      "shuffled_mean3": 0.7622792569361387,
+      "matched_benefit": -0.005934304316193618,
+      "ci95": [
+        -0.023961625692417127,
+        0.012113407489206234
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m06",
+      "k": 16,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.5052083333333333,
+      "shuffled_mean3": 0.4809027777777778,
+      "matched_benefit": 0.02430555555555555,
+      "ci95": [
+        -0.017361111111111115,
+        0.06770833333333333
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m06",
+      "k": 20,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.2807118653866882,
+      "shuffled_mean3": 1.2850868082623792,
+      "matched_benefit": 0.004374942875691009,
+      "ci95": [
+        -0.028559629081837457,
+        0.03668308372933553
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m06",
+      "k": 20,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.40104166666666663,
+      "shuffled_mean3": 0.40798611111111105,
+      "matched_benefit": -0.006944444444444444,
+      "ci95": [
+        -0.0625,
+        0.048611111111111105
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m06",
+      "k": 24,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 2.61862731684764,
+      "shuffled_mean3": 2.647618965856192,
+      "matched_benefit": 0.028991649008551522,
+      "ci95": [
+        -0.028571827404633328,
+        0.08508038759629823
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m06",
+      "k": 24,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.265625,
+      "shuffled_mean3": 0.3211805555555556,
+      "matched_benefit": -0.05555555555555556,
+      "ci95": [
+        -0.10069444444444445,
+        -0.010373263888889124
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m08",
+      "k": 8,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.14249135705700874,
+      "shuffled_mean3": 0.14249135705700874,
+      "matched_benefit": -1.5178830414797062e-18,
+      "ci95": [
+        -3.0357660829594124e-18,
+        -2.168404344971009e-19
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m08",
+      "k": 8,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.640625,
+      "shuffled_mean3": 0.640625,
+      "matched_benefit": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m08",
+      "k": 10,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.22034482143085451,
+      "shuffled_mean3": 0.22181452716535394,
+      "matched_benefit": 0.001469705734499413,
+      "ci95": [
+        -0.0016235721220507467,
+        0.004763036280793174
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m08",
+      "k": 10,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.6197916666666667,
+      "shuffled_mean3": 0.625,
+      "matched_benefit": -0.005208333333333336,
+      "ci95": [
+        -0.03819444444444445,
+        0.022569444444444444
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m08",
+      "k": 12,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.3393949076873891,
+      "shuffled_mean3": 0.3397102362276422,
+      "matched_benefit": 0.0003153285402530269,
+      "ci95": [
+        -0.005487726528111475,
+        0.0063160948631093795
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m08",
+      "k": 12,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.5677083333333334,
+      "shuffled_mean3": 0.5590277777777778,
+      "matched_benefit": 0.008680555555555556,
+      "ci95": [
+        -0.03298611111111112,
+        0.05208333333333333
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m08",
+      "k": 16,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.748638042130718,
+      "shuffled_mean3": 0.753797951818259,
+      "matched_benefit": 0.005159909687541023,
+      "ci95": [
+        -0.012719621868401199,
+        0.023403349245036873
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m08",
+      "k": 16,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.49479166666666663,
+      "shuffled_mean3": 0.48958333333333337,
+      "matched_benefit": 0.005208333333333337,
+      "ci95": [
+        -0.03993055555555555,
+        0.05381944444444445
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m08",
+      "k": 20,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.2752991639246383,
+      "shuffled_mean3": 1.290717657438958,
+      "matched_benefit": 0.01541849351432016,
+      "ci95": [
+        -0.00834536097781012,
+        0.039869374498791965
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m08",
+      "k": 20,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.3645833333333333,
+      "shuffled_mean3": 0.36979166666666663,
+      "matched_benefit": -0.005208333333333334,
+      "ci95": [
+        -0.0625,
+        0.04687499999999999
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m08",
+      "k": 24,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 2.602324031610444,
+      "shuffled_mean3": 2.619851821629779,
+      "matched_benefit": 0.01752779001933542,
+      "ci95": [
+        -0.042350762293923185,
+        0.07336099949463441
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "population": "all",
+      "policy": "m08",
+      "k": 24,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.28125,
+      "shuffled_mean3": 0.28645833333333337,
+      "matched_benefit": -0.005208333333333336,
+      "ci95": [
+        -0.059027777777777776,
+        0.052083333333333315
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m00",
+      "k": 6,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.11488920893514609,
+      "shuffled_mean3": 0.11566240164532386,
+      "matched_benefit": 0.0007731927101777654,
+      "ci95": [
+        -0.011083696978464385,
+        0.012670714055510854
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m00",
+      "k": 6,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.7291666666666667,
+      "shuffled_mean3": 0.7291666666666666,
+      "matched_benefit": 0.0,
+      "ci95": [
+        -0.03302951388888889,
+        0.02777777777777778
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m00",
+      "k": 8,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.18812917883178565,
+      "shuffled_mean3": 0.1968288049708085,
+      "matched_benefit": 0.008699626139022826,
+      "ci95": [
+        -0.006973256112250093,
+        0.023060631435901414
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m00",
+      "k": 8,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.7395833333333333,
+      "shuffled_mean3": 0.7326388888888888,
+      "matched_benefit": 0.0069444444444444475,
+      "ci95": [
+        -0.027777777777777776,
+        0.041666666666666664
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m00",
+      "k": 10,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.30385772728138816,
+      "shuffled_mean3": 0.3161054860647244,
+      "matched_benefit": 0.012247758783336235,
+      "ci95": [
+        -0.0023863052395300577,
+        0.027243664313217387
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m00",
+      "k": 10,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.734375,
+      "shuffled_mean3": 0.734375,
+      "matched_benefit": 0.0,
+      "ci95": [
+        -0.024348958333333334,
+        0.022569444444444444
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m00",
+      "k": 12,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.4761806524194872,
+      "shuffled_mean3": 0.47459662469173997,
+      "matched_benefit": -0.0015840277277472245,
+      "ci95": [
+        -0.026904447566214434,
+        0.020889050478836997
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m00",
+      "k": 12,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.71875,
+      "shuffled_mean3": 0.7204861111111112,
+      "matched_benefit": -0.0017361111111111119,
+      "ci95": [
+        -0.04340277777777778,
+        0.034722222222222224
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m00",
+      "k": 16,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.066328289907962,
+      "shuffled_mean3": 1.0559283152774999,
+      "matched_benefit": -0.01039997463046203,
+      "ci95": [
+        -0.06112859100010581,
+        0.037937973038332226
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m00",
+      "k": 16,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.6822916666666667,
+      "shuffled_mean3": 0.703125,
+      "matched_benefit": -0.02083333333333334,
+      "ci95": [
+        -0.07122395833333334,
+        0.03472222222222221
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m00",
+      "k": 20,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.7237447589197354,
+      "shuffled_mean3": 1.72485265696307,
+      "matched_benefit": 0.001107898043334648,
+      "ci95": [
+        -0.06440441611492734,
+        0.06170485506572852
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m00",
+      "k": 20,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.6979166666666666,
+      "shuffled_mean3": 0.6805555555555556,
+      "matched_benefit": 0.017361111111111112,
+      "ci95": [
+        -0.015625000000000003,
+        0.050347222222222224
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m00",
+      "k": 24,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 3.039480518530271,
+      "shuffled_mean3": 3.038928426232486,
+      "matched_benefit": -0.0005520922977849362,
+      "ci95": [
+        -0.05677143526469633,
+        0.05692079399725986
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m00",
+      "k": 24,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.6145833333333334,
+      "shuffled_mean3": 0.6336805555555556,
+      "matched_benefit": -0.019097222222222224,
+      "ci95": [
+        -0.07296006944444444,
+        0.03125
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m04",
+      "k": 6,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.09484592288309132,
+      "shuffled_mean3": 0.09539011057606632,
+      "matched_benefit": 0.0005441876929749979,
+      "ci95": [
+        -0.0037944636568783036,
+        0.004571747154848875
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m04",
+      "k": 6,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.7239583333333334,
+      "shuffled_mean3": 0.734375,
+      "matched_benefit": -0.010416666666666668,
+      "ci95": [
+        -0.03298611111111112,
+        0.010416666666666668
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m04",
+      "k": 8,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.1570442452939351,
+      "shuffled_mean3": 0.16328754623154612,
+      "matched_benefit": 0.0062433009376110064,
+      "ci95": [
+        0.0017061525906541047,
+        0.010644942614249076
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m04",
+      "k": 8,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.765625,
+      "shuffled_mean3": 0.7291666666666667,
+      "matched_benefit": 0.03645833333333333,
+      "ci95": [
+        0.005208333333333334,
+        0.07291666666666666
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m04",
+      "k": 10,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.24533083684260568,
+      "shuffled_mean3": 0.25266235925478386,
+      "matched_benefit": 0.007331522412178194,
+      "ci95": [
+        -0.0016435263491422552,
+        0.017156388896427236
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m04",
+      "k": 10,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.7552083333333333,
+      "shuffled_mean3": 0.7395833333333334,
+      "matched_benefit": 0.015624999999999998,
+      "ci95": [
+        -0.01909722222222222,
+        0.048611111111111105
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m04",
+      "k": 12,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.37078284412707213,
+      "shuffled_mean3": 0.37943199902005853,
+      "matched_benefit": 0.008649154892986352,
+      "ci95": [
+        -0.008332886910470384,
+        0.025406486274781544
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m04",
+      "k": 12,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.7447916666666667,
+      "shuffled_mean3": 0.7413194444444444,
+      "matched_benefit": 0.0034722222222222238,
+      "ci95": [
+        -0.03993055555555555,
+        0.04687500000000001
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m04",
+      "k": 16,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.8699777659109416,
+      "shuffled_mean3": 0.8791963171392044,
+      "matched_benefit": 0.00921855122826295,
+      "ci95": [
+        -0.019558410806444975,
+        0.03864212750244503
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m04",
+      "k": 16,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.75,
+      "shuffled_mean3": 0.734375,
+      "matched_benefit": 0.015625,
+      "ci95": [
+        -0.020833333333333336,
+        0.05381944444444445
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m04",
+      "k": 20,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.5138584714444705,
+      "shuffled_mean3": 1.5123282959672908,
+      "matched_benefit": -0.001530175477179905,
+      "ci95": [
+        -0.054149637862834304,
+        0.05104391360398219
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m04",
+      "k": 20,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.7135416666666666,
+      "shuffled_mean3": 0.6909722222222222,
+      "matched_benefit": 0.02256944444444444,
+      "ci95": [
+        -0.03125,
+        0.07638888888888888
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m04",
+      "k": 24,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 3.027650170114642,
+      "shuffled_mean3": 2.9913631279266646,
+      "matched_benefit": -0.036287042187977084,
+      "ci95": [
+        -0.12552649958447615,
+        0.04858326137803778
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m04",
+      "k": 24,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.6041666666666666,
+      "shuffled_mean3": 0.6197916666666666,
+      "matched_benefit": -0.015625,
+      "ci95": [
+        -0.07118055555555555,
+        0.03298611111111111
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m06",
+      "k": 6,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.08698148523656848,
+      "shuffled_mean3": 0.08698148523656848,
+      "matched_benefit": 1.6263032587282567e-19,
+      "ci95": [
+        -5.963111948670274e-19,
+        9.75781955236954e-19
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m06",
+      "k": 6,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.71875,
+      "shuffled_mean3": 0.71875,
+      "matched_benefit": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m06",
+      "k": 8,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.14610974158225407,
+      "shuffled_mean3": 0.14461643127770935,
+      "matched_benefit": -0.0014933103045447127,
+      "ci95": [
+        -0.003988210651755514,
+        0.0010852614909185097
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m06",
+      "k": 8,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.7291666666666666,
+      "shuffled_mean3": 0.7361111111111112,
+      "matched_benefit": -0.006944444444444445,
+      "ci95": [
+        -0.022569444444444448,
+        0.006944444444444444
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m06",
+      "k": 10,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.23890934800288346,
+      "shuffled_mean3": 0.24045704323595868,
+      "matched_benefit": 0.0015476952330751867,
+      "ci95": [
+        -0.005842964821048076,
+        0.009006526439650915
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m06",
+      "k": 10,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.7447916666666666,
+      "shuffled_mean3": 0.7534722222222222,
+      "matched_benefit": -0.008680555555555558,
+      "ci95": [
+        -0.02951388888888889,
+        0.012152777777777778
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m06",
+      "k": 12,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.3591586527717864,
+      "shuffled_mean3": 0.3591898895883035,
+      "matched_benefit": 3.123681651706839e-05,
+      "ci95": [
+        -0.012325036661498404,
+        0.01188665500743461
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m06",
+      "k": 12,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.7395833333333333,
+      "shuffled_mean3": 0.7430555555555556,
+      "matched_benefit": -0.0034722222222222203,
+      "ci95": [
+        -0.03645833333333333,
+        0.03129340277777755
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m06",
+      "k": 16,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.8420144600889832,
+      "shuffled_mean3": 0.8535523592376448,
+      "matched_benefit": 0.011537899148661698,
+      "ci95": [
+        -0.01874095520629351,
+        0.03930937098238835
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m06",
+      "k": 16,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.7552083333333333,
+      "shuffled_mean3": 0.7291666666666666,
+      "matched_benefit": 0.026041666666666664,
+      "ci95": [
+        -0.012196180555555563,
+        0.06770833333333333
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m06",
+      "k": 20,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.5366774102223557,
+      "shuffled_mean3": 1.531605970054338,
+      "matched_benefit": -0.005071440168017463,
+      "ci95": [
+        -0.07968396101940274,
+        0.06212163720119641
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m06",
+      "k": 20,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.7239583333333334,
+      "shuffled_mean3": 0.6684027777777777,
+      "matched_benefit": 0.05555555555555556,
+      "ci95": [
+        0.0069444444444444415,
+        0.1111111111111111
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m06",
+      "k": 24,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 2.9223061541030657,
+      "shuffled_mean3": 2.896565398621492,
+      "matched_benefit": -0.025740755481573348,
+      "ci95": [
+        -0.11574606339852118,
+        0.05697617633530328
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m06",
+      "k": 24,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.5989583333333333,
+      "shuffled_mean3": 0.6041666666666666,
+      "matched_benefit": -0.005208333333333335,
+      "ci95": [
+        -0.06597222222222222,
+        0.052083333333333336
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m08",
+      "k": 8,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.14108605192841484,
+      "shuffled_mean3": 0.14108605192841484,
+      "matched_benefit": 4.336808689942018e-19,
+      "ci95": [
+        -1.951563910473908e-18,
+        2.3906657903305077e-18
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m08",
+      "k": 8,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.734375,
+      "shuffled_mean3": 0.734375,
+      "matched_benefit": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m08",
+      "k": 10,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.22972161781949252,
+      "shuffled_mean3": 0.22923146569735497,
+      "matched_benefit": -0.0004901521221375221,
+      "ci95": [
+        -0.005719785946257206,
+        0.004968258619963534
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m08",
+      "k": 10,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.7447916666666667,
+      "shuffled_mean3": 0.7638888888888888,
+      "matched_benefit": -0.019097222222222224,
+      "ci95": [
+        -0.050347222222222224,
+        0.006944444444444446
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m08",
+      "k": 12,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.3567436309115812,
+      "shuffled_mean3": 0.3604879033262901,
+      "matched_benefit": 0.0037442724147089055,
+      "ci95": [
+        -0.009707343258622202,
+        0.01650104319699281
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m08",
+      "k": 12,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.7552083333333334,
+      "shuffled_mean3": 0.7465277777777778,
+      "matched_benefit": 0.008680555555555556,
+      "ci95": [
+        -0.026041666666666664,
+        0.04865451388888866
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m08",
+      "k": 16,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.8270447982379905,
+      "shuffled_mean3": 0.8534519357166136,
+      "matched_benefit": 0.026407137478623104,
+      "ci95": [
+        0.002764178816930878,
+        0.05351650771978371
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m08",
+      "k": 16,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.703125,
+      "shuffled_mean3": 0.7135416666666667,
+      "matched_benefit": -0.010416666666666668,
+      "ci95": [
+        -0.04166666666666667,
+        0.020833333333333336
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m08",
+      "k": 20,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.5123828938248023,
+      "shuffled_mean3": 1.5150586289843988,
+      "matched_benefit": 0.002675735159596588,
+      "ci95": [
+        -0.039203782879569236,
+        0.04573463750376417
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m08",
+      "k": 20,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.6666666666666666,
+      "shuffled_mean3": 0.6909722222222222,
+      "matched_benefit": -0.02430555555555556,
+      "ci95": [
+        -0.06423611111111112,
+        0.015624999999999997
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m08",
+      "k": 24,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 2.811398209121055,
+      "shuffled_mean3": 2.848372967725564,
+      "matched_benefit": 0.03697475860450924,
+      "ci95": [
+        -0.021627572552681794,
+        0.09145410133074158
+      ]
+    },
+    {
+      "task": "piqa",
+      "population": "all",
+      "policy": "m08",
+      "k": 24,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.59375,
+      "shuffled_mean3": 0.6076388888888888,
+      "matched_benefit": -0.013888888888888881,
+      "ci95": [
+        -0.06770833333333333,
+        0.04166666666666666
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m00",
+      "k": 6,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.1206512195796216,
+      "shuffled_mean3": 0.1204946783274375,
+      "matched_benefit": -0.0001565412521840916,
+      "ci95": [
+        -0.003765331135332228,
+        0.003626130154075454
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m00",
+      "k": 8,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.21578611985338292,
+      "shuffled_mean3": 0.21632726417450754,
+      "matched_benefit": 0.0005411443211246333,
+      "ci95": [
+        -0.0033029652069759496,
+        0.004478852274612384
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m00",
+      "k": 10,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.3463501693727109,
+      "shuffled_mean3": 0.3493791118811824,
+      "matched_benefit": 0.0030289425084715276,
+      "ci95": [
+        -0.003233003469616797,
+        0.009357701518284613
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m00",
+      "k": 12,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.5547996758039297,
+      "shuffled_mean3": 0.5537178415201212,
+      "matched_benefit": -0.0010818342838085906,
+      "ci95": [
+        -0.011235370040419917,
+        0.008002148956666138
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m00",
+      "k": 16,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.0956129418756846,
+      "shuffled_mean3": 1.1076447295289054,
+      "matched_benefit": 0.012031787653220688,
+      "ci95": [
+        -0.018282761174462363,
+        0.036185634084168486
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m00",
+      "k": 20,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.9434425109979854,
+      "shuffled_mean3": 1.9357477408004242,
+      "matched_benefit": -0.007694770197561224,
+      "ci95": [
+        -0.0807441538625509,
+        0.05451624827488317
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m00",
+      "k": 24,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 3.5734249105851315,
+      "shuffled_mean3": 3.5877156777437618,
+      "matched_benefit": 0.01429076715863032,
+      "ci95": [
+        -0.04457862240187578,
+        0.07957143256039947
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m04",
+      "k": 6,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.11146635490194454,
+      "shuffled_mean3": 0.11174343925518312,
+      "matched_benefit": 0.0002770843532385785,
+      "ci95": [
+        -0.0019344088435544879,
+        0.0023239763846204685
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m04",
+      "k": 8,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.19627065333325824,
+      "shuffled_mean3": 0.19736563771113147,
+      "matched_benefit": 0.001094984377873249,
+      "ci95": [
+        -0.0010725625489191339,
+        0.003383056770951025
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m04",
+      "k": 10,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.3193939470493862,
+      "shuffled_mean3": 0.32214440130090777,
+      "matched_benefit": 0.002750454251521652,
+      "ci95": [
+        -0.003305394003340354,
+        0.008808033553371156
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m04",
+      "k": 12,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.5032210949981646,
+      "shuffled_mean3": 0.5067456734094651,
+      "matched_benefit": 0.003524578411300423,
+      "ci95": [
+        -0.005399515068494643,
+        0.013119369132124515
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m04",
+      "k": 16,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.9980030220068933,
+      "shuffled_mean3": 1.0061881519506244,
+      "matched_benefit": 0.008185129943731129,
+      "ci95": [
+        -0.003906775931657489,
+        0.019912974369748395
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m04",
+      "k": 20,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.7146567539808806,
+      "shuffled_mean3": 1.7381990548029005,
+      "matched_benefit": 0.023542300822019777,
+      "ci95": [
+        -0.006496221092412129,
+        0.05519032601135494
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m04",
+      "k": 24,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 3.538239766705841,
+      "shuffled_mean3": 3.5466495895011665,
+      "matched_benefit": 0.008409822795325761,
+      "ci95": [
+        -0.06510710664944609,
+        0.08238041374084164
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m06",
+      "k": 6,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.10379219374253003,
+      "shuffled_mean3": 0.10379219374253003,
+      "matched_benefit": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m06",
+      "k": 8,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.18314441472717952,
+      "shuffled_mean3": 0.18347560896287796,
+      "matched_benefit": 0.00033119423569842946,
+      "ci95": [
+        -0.0010543011917266067,
+        0.0016796961109649723
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m06",
+      "k": 10,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.3109066309674143,
+      "shuffled_mean3": 0.3107224398150148,
+      "matched_benefit": -0.00018419115239945482,
+      "ci95": [
+        -0.0037698580113088567,
+        0.0034302729434120094
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m06",
+      "k": 12,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.4826308377282996,
+      "shuffled_mean3": 0.48208858705491736,
+      "matched_benefit": -0.00054225067338222,
+      "ci95": [
+        -0.004838562357883633,
+        0.004027502976216171
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m06",
+      "k": 16,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.9805530027037491,
+      "shuffled_mean3": 0.9836954655028123,
+      "matched_benefit": 0.003142462799063217,
+      "ci95": [
+        -0.014655715681589762,
+        0.020186117145224405
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m06",
+      "k": 20,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.6765110529227514,
+      "shuffled_mean3": 1.673348851099738,
+      "matched_benefit": -0.003162201823013383,
+      "ci95": [
+        -0.02465805315724992,
+        0.018015365360395393
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m06",
+      "k": 24,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 3.5562466768610164,
+      "shuffled_mean3": 3.6019183476881973,
+      "matched_benefit": 0.04567167082718086,
+      "ci95": [
+        -0.03063339942084486,
+        0.12785431742382056
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m08",
+      "k": 8,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.17983029087699376,
+      "shuffled_mean3": 0.17983029087699376,
+      "matched_benefit": 0.0,
+      "ci95": [
+        -1.2427869678639811e-18,
+        1.32169407693471e-18
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m08",
+      "k": 10,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.29504412596231494,
+      "shuffled_mean3": 0.2943596162576454,
+      "matched_benefit": -0.0006845097046696141,
+      "ci95": [
+        -0.0034903786446374035,
+        0.0017536649539818168
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m08",
+      "k": 12,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.4786467206058336,
+      "shuffled_mean3": 0.48064785068483806,
+      "matched_benefit": 0.0020011300790045133,
+      "ci95": [
+        -0.004074141384652874,
+        0.007774169590626927
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m08",
+      "k": 16,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.9703590144633125,
+      "shuffled_mean3": 0.9671864846478009,
+      "matched_benefit": -0.0031725298155117175,
+      "ci95": [
+        -0.016699264603340112,
+        0.010905816119387587
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m08",
+      "k": 20,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.7136801782692725,
+      "shuffled_mean3": 1.7172833825011806,
+      "matched_benefit": 0.003603204231907995,
+      "ci95": [
+        -0.02366905007421624,
+        0.03193738082282056
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "population": "all",
+      "policy": "m08",
+      "k": 24,
+      "metric": "kl",
+      "documents": 33,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 3.8393713112456016,
+      "shuffled_mean3": 3.8866345981386736,
+      "matched_benefit": 0.04726328689307236,
+      "ci95": [
+        -0.08703282133558107,
+        0.1900378632424484
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m00",
+      "k": 6,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.08981739619124085,
+      "shuffled_mean3": 0.08638990118488349,
+      "matched_benefit": -0.0034274950063573673,
+      "ci95": [
+        -0.011981895076839923,
+        0.004448554028462191
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m00",
+      "k": 6,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.6666666666666666,
+      "shuffled_mean3": 0.6388888888888888,
+      "matched_benefit": 0.02777777777777778,
+      "ci95": [
+        -0.020833333333333336,
+        0.0798611111111111
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m00",
+      "k": 8,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.14975142602043517,
+      "shuffled_mean3": 0.14395676532346352,
+      "matched_benefit": -0.005794660696971626,
+      "ci95": [
+        -0.01450382572818147,
+        0.002086330247346527
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m00",
+      "k": 8,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.6822916666666667,
+      "shuffled_mean3": 0.6024305555555555,
+      "matched_benefit": 0.0798611111111111,
+      "ci95": [
+        0.024262152777777775,
+        0.140625
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m00",
+      "k": 10,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.22477573858383243,
+      "shuffled_mean3": 0.2277237034003232,
+      "matched_benefit": 0.0029479648164907595,
+      "ci95": [
+        -0.007695215122164311,
+        0.014148707458131087
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m00",
+      "k": 10,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.6458333333333334,
+      "shuffled_mean3": 0.6163194444444444,
+      "matched_benefit": 0.029513888888888885,
+      "ci95": [
+        -0.027777777777777783,
+        0.08333333333333334
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m00",
+      "k": 12,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.3374979059846976,
+      "shuffled_mean3": 0.3456683579446794,
+      "matched_benefit": 0.008170451959981818,
+      "ci95": [
+        -0.008195783311452728,
+        0.024466219580174742
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m00",
+      "k": 12,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.6354166666666666,
+      "shuffled_mean3": 0.5972222222222222,
+      "matched_benefit": 0.03819444444444444,
+      "ci95": [
+        -0.02777777777777778,
+        0.09895833333333334
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m00",
+      "k": 16,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.7391093759925219,
+      "shuffled_mean3": 0.7423010728434998,
+      "matched_benefit": 0.0031916968509778402,
+      "ci95": [
+        -0.04242979446648614,
+        0.0462122062652465
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m00",
+      "k": 16,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.5572916666666667,
+      "shuffled_mean3": 0.546875,
+      "matched_benefit": 0.010416666666666661,
+      "ci95": [
+        -0.0642795138888889,
+        0.08680555555555555
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m00",
+      "k": 20,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.2000167286931638,
+      "shuffled_mean3": 1.1959990065774644,
+      "matched_benefit": -0.004017722115699351,
+      "ci95": [
+        -0.05944979658605724,
+        0.05247806753756232
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m00",
+      "k": 20,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.5104166666666666,
+      "shuffled_mean3": 0.5607638888888888,
+      "matched_benefit": -0.05034722222222223,
+      "ci95": [
+        -0.1250434027777778,
+        0.0243489583333331
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m00",
+      "k": 24,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 2.4405894418314116,
+      "shuffled_mean3": 2.4149504165077236,
+      "matched_benefit": -0.025639025323688433,
+      "ci95": [
+        -0.12379830494352187,
+        0.05931885702170076
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m00",
+      "k": 24,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.47916666666666663,
+      "shuffled_mean3": 0.5260416666666667,
+      "matched_benefit": -0.046875,
+      "ci95": [
+        -0.12152777777777779,
+        0.02782118055555532
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m04",
+      "k": 6,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.08362976294811468,
+      "shuffled_mean3": 0.0865076471290496,
+      "matched_benefit": 0.002877884180934929,
+      "ci95": [
+        -0.004857854680969412,
+        0.01232722883625559
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m04",
+      "k": 6,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.6302083333333333,
+      "shuffled_mean3": 0.6440972222222222,
+      "matched_benefit": -0.013888888888888895,
+      "ci95": [
+        -0.05729166666666667,
+        0.02955729166666643
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m04",
+      "k": 8,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.14462114100071854,
+      "shuffled_mean3": 0.14504837466723236,
+      "matched_benefit": 0.000427233666513815,
+      "ci95": [
+        -0.006666204002833676,
+        0.008621831792554721
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m04",
+      "k": 8,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.6145833333333334,
+      "shuffled_mean3": 0.6215277777777778,
+      "matched_benefit": -0.006944444444444442,
+      "ci95": [
+        -0.04513888888888889,
+        0.034722222222222224
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m04",
+      "k": 10,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.21733130635090409,
+      "shuffled_mean3": 0.21941532942603323,
+      "matched_benefit": 0.0020840230751291338,
+      "ci95": [
+        -0.010260589206710287,
+        0.0164791363684453
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m04",
+      "k": 10,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.546875,
+      "shuffled_mean3": 0.6180555555555556,
+      "matched_benefit": -0.07118055555555555,
+      "ci95": [
+        -0.1440972222222222,
+        -0.0034288194444446695
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m04",
+      "k": 12,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.3267291802841269,
+      "shuffled_mean3": 0.3253383007901155,
+      "matched_benefit": -0.001390879494011383,
+      "ci95": [
+        -0.016406551936206833,
+        0.013699098865343136
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m04",
+      "k": 12,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.5572916666666666,
+      "shuffled_mean3": 0.5972222222222221,
+      "matched_benefit": -0.03993055555555555,
+      "ci95": [
+        -0.11111111111111109,
+        0.03125
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m04",
+      "k": 16,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.697232022041123,
+      "shuffled_mean3": 0.7032519498031315,
+      "matched_benefit": 0.00601992776200856,
+      "ci95": [
+        -0.03947602359111458,
+        0.050035965951007594
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m04",
+      "k": 16,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.5729166666666666,
+      "shuffled_mean3": 0.5434027777777778,
+      "matched_benefit": 0.02951388888888888,
+      "ci95": [
+        -0.03993055555555555,
+        0.09374999999999999
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m04",
+      "k": 20,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.2243288136504586,
+      "shuffled_mean3": 1.1896139568397024,
+      "matched_benefit": -0.034714856810756284,
+      "ci95": [
+        -0.1172536012321939,
+        0.03546921429337019
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m04",
+      "k": 20,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.5104166666666666,
+      "shuffled_mean3": 0.5399305555555556,
+      "matched_benefit": -0.0295138888888889,
+      "ci95": [
+        -0.10416666666666669,
+        0.04687499999999999
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m04",
+      "k": 24,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 2.3446423296180425,
+      "shuffled_mean3": 2.347583337287868,
+      "matched_benefit": 0.002941007669825746,
+      "ci95": [
+        -0.07647883585704841,
+        0.07966090753733646
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m04",
+      "k": 24,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.5729166666666667,
+      "shuffled_mean3": 0.5208333333333334,
+      "matched_benefit": 0.052083333333333336,
+      "ci95": [
+        -0.01736111111111112,
+        0.12504340277777753
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m06",
+      "k": 6,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.06964015191927209,
+      "shuffled_mean3": 0.06964015191927209,
+      "matched_benefit": 6.505213034913027e-19,
+      "ci95": [
+        -4.336808689942018e-19,
+        1.734723475976807e-18
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m06",
+      "k": 6,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.640625,
+      "shuffled_mean3": 0.640625,
+      "matched_benefit": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m06",
+      "k": 8,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.12687555400588124,
+      "shuffled_mean3": 0.12885621997121705,
+      "matched_benefit": 0.001980665965335824,
+      "ci95": [
+        -0.0001964006012430328,
+        0.004302140978752099
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m06",
+      "k": 8,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.640625,
+      "shuffled_mean3": 0.6423611111111112,
+      "matched_benefit": -0.0017361111111111084,
+      "ci95": [
+        -0.024305555555555556,
+        0.019097222222222227
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m06",
+      "k": 10,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.19596189004546097,
+      "shuffled_mean3": 0.20496549776434253,
+      "matched_benefit": 0.00900360771888154,
+      "ci95": [
+        -0.0009713446482218777,
+        0.019753405490331815
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m06",
+      "k": 10,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.6145833333333333,
+      "shuffled_mean3": 0.5902777777777779,
+      "matched_benefit": 0.02430555555555556,
+      "ci95": [
+        -0.03472222222222222,
+        0.08333333333333333
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m06",
+      "k": 12,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.30196370013000395,
+      "shuffled_mean3": 0.30893378095398916,
+      "matched_benefit": 0.006970080823985134,
+      "ci95": [
+        -0.007403351329479467,
+        0.0219307167821025
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m06",
+      "k": 12,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.578125,
+      "shuffled_mean3": 0.5868055555555556,
+      "matched_benefit": -0.00868055555555555,
+      "ci95": [
+        -0.081640625,
+        0.06423611111111112
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m06",
+      "k": 16,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.6547386115398021,
+      "shuffled_mean3": 0.6726070431893166,
+      "matched_benefit": 0.017868431649514606,
+      "ci95": [
+        -0.01725799181138021,
+        0.050209848576191284
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m06",
+      "k": 16,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.546875,
+      "shuffled_mean3": 0.5590277777777778,
+      "matched_benefit": -0.012152777777777783,
+      "ci95": [
+        -0.08680555555555557,
+        0.0625
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m06",
+      "k": 20,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.1834563981183548,
+      "shuffled_mean3": 1.1523765849305736,
+      "matched_benefit": -0.031079813187781382,
+      "ci95": [
+        -0.07810410884672138,
+        0.01033623092392605
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m06",
+      "k": 20,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.5364583333333333,
+      "shuffled_mean3": 0.5329861111111112,
+      "matched_benefit": 0.003472222222222217,
+      "ci95": [
+        -0.07465277777777779,
+        0.08680555555555555
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m06",
+      "k": 24,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 2.374860256975209,
+      "shuffled_mean3": 2.399809736139424,
+      "matched_benefit": 0.024949479164214722,
+      "ci95": [
+        -0.05335936382605715,
+        0.10236160977318963
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m06",
+      "k": 24,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.5416666666666666,
+      "shuffled_mean3": 0.5538194444444444,
+      "matched_benefit": -0.012152777777777794,
+      "ci95": [
+        -0.08680555555555558,
+        0.06770833333333333
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m08",
+      "k": 8,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.12858316741297393,
+      "shuffled_mean3": 0.12858316741297393,
+      "matched_benefit": 0.0,
+      "ci95": [
+        -1.3010426069826053e-18,
+        1.3010426069826053e-18
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m08",
+      "k": 8,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.59375,
+      "shuffled_mean3": 0.59375,
+      "matched_benefit": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m08",
+      "k": 10,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.19850436104460023,
+      "shuffled_mean3": 0.19681827650006145,
+      "matched_benefit": -0.001686084544538777,
+      "ci95": [
+        -0.009925596409837043,
+        0.006595458563703196
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m08",
+      "k": 10,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.5885416666666667,
+      "shuffled_mean3": 0.5902777777777778,
+      "matched_benefit": -0.001736111111111111,
+      "ci95": [
+        -0.04513888888888888,
+        0.041666666666666664
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m08",
+      "k": 12,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.30664543939964706,
+      "shuffled_mean3": 0.30558851314269064,
+      "matched_benefit": -0.0010569262569563847,
+      "ci95": [
+        -0.01221517308127505,
+        0.010387658901781944
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m08",
+      "k": 12,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.5572916666666666,
+      "shuffled_mean3": 0.5659722222222222,
+      "matched_benefit": -0.008680555555555566,
+      "ci95": [
+        -0.08333333333333334,
+        0.062499999999999986
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m08",
+      "k": 16,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.6705812974841215,
+      "shuffled_mean3": 0.6688851545155221,
+      "matched_benefit": -0.0016961429685994102,
+      "ci95": [
+        -0.03538321217005624,
+        0.031181067310989706
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m08",
+      "k": 16,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.53125,
+      "shuffled_mean3": 0.5781249999999999,
+      "matched_benefit": -0.04687500000000001,
+      "ci95": [
+        -0.11284722222222224,
+        0.019097222222222217
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m08",
+      "k": 20,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 1.1898935740563374,
+      "shuffled_mean3": 1.1553463370153483,
+      "matched_benefit": -0.03454723704098914,
+      "ci95": [
+        -0.08817762040152197,
+        0.018200385850852013
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m08",
+      "k": 20,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.5677083333333333,
+      "shuffled_mean3": 0.5260416666666667,
+      "matched_benefit": 0.041666666666666664,
+      "ci95": [
+        -0.03819444444444445,
+        0.11458333333333331
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m08",
+      "k": 24,
+      "metric": "kl",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 2.3890503842675814,
+      "shuffled_mean3": 2.4040088704538274,
+      "matched_benefit": 0.014958486186246085,
+      "ci95": [
+        -0.08658790156617466,
+        0.11003397253234601
+      ]
+    },
+    {
+      "task": "winogrande",
+      "population": "all",
+      "policy": "m08",
+      "k": 24,
+      "metric": "accuracy",
+      "documents": 64,
+      "inputs": 64,
+      "seeds": [
+        579,
+        580,
+        581
+      ],
+      "matched": 0.5520833333333333,
+      "shuffled_mean3": 0.5295138888888888,
+      "matched_benefit": 0.022569444444444448,
+      "ci95": [
+        -0.05034722222222222,
+        0.09552951388888865
+      ]
+    }
+  ],
+  "method": "Average seeds/permutations within input first; paired input bootstrap, Wiki article clusters. Positive benefit favors matched.",
+  "limits": "Exploratory development comparisons, no multiplicity correction. C4 donor permutations cross length strata, so content-only causality is not established."
+}

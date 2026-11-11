@@ -1,0 +1,35 @@
+{
+  "provenance_sha256": {
+    "piqa": "6e14731c78016adc6a5738d661111f5cb4c6bce461c454561eb66be4abc39222",
+    "hellaswag": "fdd100245fae28e387869527dd0b8af1a0a931f7cf364abaf6f3138de7f0d27b",
+    "winogrande": "992af8404b202ada4356228ed2ebb27f10495126efdf78678ced33e94e82b830",
+    "wikitext_conditional": "2b8a3efac7b468cbe6432edba5f55c21e435d93873acc6727431f08d5ed328ea"
+  },
+  "private_input_sha256": "e95a6c49cc1e46f0fce19d49590bd460ec33f4a5ed5facadebe9c568be23d0e5",
+  "task_records": {
+    "hellaswag": 10042,
+    "piqa": 1838,
+    "wikitext_conditional": 746,
+    "winogrande": 1267
+  },
+  "router_tokens": {
+    "hellaswag": {
+      "min": 13,
+      "max": 106
+    },
+    "piqa": {
+      "min": 7,
+      "max": 33
+    },
+    "wikitext_conditional": {
+      "min": 128,
+      "max": 128
+    },
+    "winogrande": {
+      "min": 2,
+      "max": 34
+    }
+  },
+  "answer_blind": "MC common question prefix, Wino preblank only; Wiki existing128-token context, NOT384 future targets; C4 entire variable-length prompt.",
+  "test_policy": "C4 reserved test excluded. MC/Wiki are previously reviewed benchmark populations, not a new untouched final set."
+}

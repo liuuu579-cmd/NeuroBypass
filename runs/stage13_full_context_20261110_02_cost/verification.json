@@ -1,0 +1,6 @@
+{
+  "passed": true,
+  "requests": 128,
+  "selective_resident_routes_logits_generation_checked": true,
+  "full_observation_checked": true
+}

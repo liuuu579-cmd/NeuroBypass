@@ -1,0 +1,139 @@
+{
+  "output": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_20261110_02_cost",
+  "model": "/home/liushenyu/opt-13b",
+  "training_run": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_20261110_02_training",
+  "data_run": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_probe_20261110_01",
+  "policies": [
+    {
+      "name": "m06",
+      "m": 6,
+      "kind": "router",
+      "seed": 579,
+      "k": 10,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_20261110_02_training/private_m06_seed579_epoch016.pth",
+        "sha256": "67687ba18292aed623e43a76e3bd2aa2d8fe3148ae0bcf5568e76777d1b79fa0",
+        "epoch": 16,
+        "selection_continuation_kl": 0.206254412420094
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        17,
+        7,
+        14
+      ]
+    },
+    {
+      "name": "m06",
+      "m": 6,
+      "kind": "router",
+      "seed": 579,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_20261110_02_training/private_m06_seed579_epoch020.pth",
+        "sha256": "54b9eda5e4028b872c6667f6119bbd2a72af664484e6d8f6ebed3e19fdf7b0fb",
+        "epoch": 20,
+        "selection_continuation_kl": 0.3345929058268666
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        17,
+        7,
+        14
+      ]
+    },
+    {
+      "name": "m06",
+      "m": 6,
+      "kind": "router",
+      "seed": 580,
+      "k": 10,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_20261110_02_training/private_m06_seed580_epoch020.pth",
+        "sha256": "88ccc2448f19642225833319c13602a2caa576fd5956b2a20fb17f4b7c45956b",
+        "epoch": 20,
+        "selection_continuation_kl": 0.2071831994690001
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        17,
+        7,
+        14
+      ]
+    },
+    {
+      "name": "m06",
+      "m": 6,
+      "kind": "router",
+      "seed": 580,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_20261110_02_training/private_m06_seed580_epoch024.pth",
+        "sha256": "44828e6064ef80dc3f20429aff5be40d21eb4882162a4c09d39099edb5cff694",
+        "epoch": 24,
+        "selection_continuation_kl": 0.3378100907430053
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        17,
+        7,
+        14
+      ]
+    }
+  ],
+  "global_path": [
+    4,
+    9,
+    2,
+    17,
+    7,
+    14,
+    24,
+    37,
+    11,
+    31,
+    25,
+    34,
+    27,
+    22,
+    32,
+    39,
+    36,
+    20,
+    35,
+    18,
+    29,
+    33,
+    15,
+    6
+  ],
+  "lengths": [
+    128,
+    512,
+    1024,
+    2016
+  ],
+  "repeats": 8,
+  "new_tokens": 128,
+  "probe": false,
+  "observation": "Complete same visible prompt for router and base; explicit left truncation reserves generated tokens.",
+  "limits": [
+    "Independent requests, not a real multi-turn task; every new route rebuilds the full-context KV.",
+    "Static physical preparation excluded; selective request copies included.",
+    "100ms nvidia-smi sampled process peak is a lower bound on true process peak.",
+    "Timing inputs are training-derived natural text; no quality conclusion from cost samples."
+  ],
+  "source_sha256": {
+    "/home/liushenyu/test/NeuroBypass/tools/measure_full_context_cost_four_gpu_v2.py": "18bb8599c8b3b6af4b8d5265b0fa467f556b33866322cf9a79dd66701ff92bbb",
+    "/home/liushenyu/test/NeuroBypass/tools/full_context_core_v1.py": "080b9f352628eec568f2cf50dfa448d07fb75170bdbf50f4f3cb080702b6af68",
+    "/home/liushenyu/test/NeuroBypass/tools/selective_residency_core_v1.py": "ee76a5bebc59188b1ccc9c6243c2d14d241da1d2ae1a0e5020477891359ac6e6"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "provenance_sha256": {
+    "piqa": "6e14731c78016adc6a5738d661111f5cb4c6bce461c454561eb66be4abc39222",
+    "hellaswag": "fdd100245fae28e387869527dd0b8af1a0a931f7cf364abaf6f3138de7f0d27b",
+    "winogrande": "992af8404b202ada4356228ed2ebb27f10495126efdf78678ced33e94e82b830",
+    "wikitext_conditional": "2b8a3efac7b468cbe6432edba5f55c21e435d93873acc6727431f08d5ed328ea",
+    "c4_manifest": "779d68f6e73f09c61515c6c2529632a7fd6388b77ae3db1b4af6fd79245c3a5b"
+  },
+  "private_input_sha256": "c4ff299197b98e246125caff15098a587a243e8ad52f779857b25f1b40fdf82d",
+  "task_records": {
+    "c4_development": 100,
+    "hellaswag": 64,
+    "piqa": 64,
+    "wikitext_conditional": 64,
+    "winogrande": 64
+  },
+  "router_tokens": {
+    "c4_development": {
+      "min": 64,
+      "max": 1762
+    },
+    "hellaswag": {
+      "min": 13,
+      "max": 79
+    },
+    "piqa": {
+      "min": 7,
+      "max": 23
+    },
+    "wikitext_conditional": {
+      "min": 128,
+      "max": 128
+    },
+    "winogrande": {
+      "min": 9,
+      "max": 25
+    }
+  },
+  "answer_blind": "MC common question prefix, Wino preblank only; Wiki existing128-token context, NOT384 future targets; C4 entire variable-length prompt.",
+  "test_policy": "C4 reserved test excluded. MC/Wiki are previously reviewed benchmark populations, not a new untouched final set."
+}
