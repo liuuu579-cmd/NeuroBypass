@@ -1,0 +1,176 @@
+{
+  "out": "/home/liushenyu/test/NeuroBypass/runs/stage14_observation_windows_20261111_01",
+  "model": "/home/liushenyu/opt-13b",
+  "policies": [
+    {
+      "name": "m06",
+      "m": 6,
+      "kind": "router",
+      "seed": 579,
+      "k": 10,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_20261110_02_training/private_m06_seed579_epoch016.pth",
+        "sha256": "67687ba18292aed623e43a76e3bd2aa2d8fe3148ae0bcf5568e76777d1b79fa0",
+        "epoch": 16,
+        "selection_continuation_kl": 0.206254412420094
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        17,
+        7,
+        14
+      ]
+    },
+    {
+      "name": "m06",
+      "m": 6,
+      "kind": "router",
+      "seed": 580,
+      "k": 10,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_20261110_02_training/private_m06_seed580_epoch020.pth",
+        "sha256": "88ccc2448f19642225833319c13602a2caa576fd5956b2a20fb17f4b7c45956b",
+        "epoch": 20,
+        "selection_continuation_kl": 0.2071831994690001
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        17,
+        7,
+        14
+      ]
+    },
+    {
+      "name": "m06",
+      "m": 6,
+      "kind": "router",
+      "seed": 581,
+      "k": 10,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_20261110_02_training/private_m06_seed581_epoch020.pth",
+        "sha256": "433cf4f2058775cbb5f1813d2e16e55e246ca48ae8148cc52e050e9764a5f460",
+        "epoch": 20,
+        "selection_continuation_kl": 0.20791354472748935
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        17,
+        7,
+        14
+      ]
+    },
+    {
+      "name": "m06",
+      "m": 6,
+      "kind": "router",
+      "seed": 579,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_20261110_02_training/private_m06_seed579_epoch020.pth",
+        "sha256": "54b9eda5e4028b872c6667f6119bbd2a72af664484e6d8f6ebed3e19fdf7b0fb",
+        "epoch": 20,
+        "selection_continuation_kl": 0.3345929058268666
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        17,
+        7,
+        14
+      ]
+    },
+    {
+      "name": "m06",
+      "m": 6,
+      "kind": "router",
+      "seed": 580,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_20261110_02_training/private_m06_seed580_epoch024.pth",
+        "sha256": "44828e6064ef80dc3f20429aff5be40d21eb4882162a4c09d39099edb5cff694",
+        "epoch": 24,
+        "selection_continuation_kl": 0.3378100907430053
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        17,
+        7,
+        14
+      ]
+    },
+    {
+      "name": "m06",
+      "m": 6,
+      "kind": "router",
+      "seed": 581,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_20261110_02_training/private_m06_seed581_epoch012.pth",
+        "sha256": "390630f016d3877a6eb31e43b5e32a60dba92ca6ac6acab731dcf9431c481a3e",
+        "epoch": 12,
+        "selection_continuation_kl": 0.3403869839385152
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        17,
+        7,
+        14
+      ]
+    }
+  ],
+  "global_path": [
+    4,
+    9,
+    2,
+    17,
+    7,
+    14,
+    24,
+    37,
+    11,
+    31,
+    25,
+    34,
+    27,
+    22,
+    32,
+    39,
+    36,
+    20,
+    35,
+    18,
+    29,
+    33,
+    15,
+    6
+  ],
+  "probe": false,
+  "training_protocol_sha256": "5fd9eac26d5882688288ecf080eb5a0a06edfc82daf177fbb0f22d58bb90c893",
+  "input_manifest_sha256": "47aa2a9fc2cf7289cc4e22078d5b55314cdf9e1365624fa728b87a17c3e1110b",
+  "windows": {
+    "full": "all prompt tokens",
+    "first128": "positions0:128",
+    "last128": "last128 tokens with original position embeddings",
+    "last128_rebased": "same tail tokens with positions reset to0:128"
+  },
+  "primary": "Long C4 held out from Stage 13 router; KL contrasts full vs first128 and full vs last128 at K10. K12, NLL, length strata and other contrasts secondary.",
+  "base": "One identical full prompt plus32-target teacher-forced sequence for all conditions; only routing input changes.",
+  "shuffled": "Full-window masks from fixed seed derangements within the exact same prompt length; same K and router seed.",
+  "source_sha256": {
+    "evaluate_observation_windows_v1.py": "7e347f3b029acad6fd69fc7dc8b71d2c66dde86a2855e7362f5ccb6fab1b098b",
+    "full_context_core_v1.py": "080b9f352628eec568f2cf50dfa448d07fb75170bdbf50f4f3cb080702b6af68",
+    "evaluate_full_context_four_gpu_v1.py": "322e8eaa49d70edb78dad0f89d0a05b0a073f890a580d58f49cdcd48b39e0691",
+    "full_context_experiment_v1.py": "68929513ef70844635b1f36cf9dad9944688557d64a3b779d589c200eaaace37"
+  }
+}

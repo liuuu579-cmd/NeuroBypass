@@ -1,0 +1,24 @@
+{
+  "source": "Archived C4 last 5% by byte, new documents held out from Stage 13 router fitting and selection",
+  "source_manifest_sha256": "779d68f6e73f09c61515c6c2529632a7fd6388b77ae3db1b4af6fd79245c3a5b",
+  "corpus_sha256": "733eb248beef0b4f0c1ebb5ad3d8015f6032290772a183173f160aea62c749e6",
+  "region_start": 1020526468,
+  "stage13_last_source_end": 970318547,
+  "sampling_seed": 140579,
+  "selection": "Shuffle eligible line offsets, allocate longest group first, one prefix/continuation per distinct source document.",
+  "dedup": "Exact normalized document, first32 normalized casefolded words and first128 token hashes against all Stage 13 documents and this cohort.",
+  "limits": "Same archival corpus; unknown OPT pretraining and older feature-only data overlaps; near duplicates can remain.",
+  "rejected": {
+    "too_short_for_current_length": 2626
+  },
+  "fast_slow_tokenizer_all_selected_exact": true,
+  "documents": 320,
+  "prompt_length_histogram": {
+    "1536": 80,
+    "1024": 80,
+    "512": 80,
+    "256": 80
+  },
+  "private_inputs_sha256": "799c3741d7e3530b4154a6e464cd5afc05308bb7a7672289845e6efd7c950dc8",
+  "scored_tokens_per_document": 32
+}

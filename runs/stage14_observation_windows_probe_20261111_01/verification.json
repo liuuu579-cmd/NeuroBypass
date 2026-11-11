@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "documents": 12,
+  "score_rows": 540,
+  "same_base_input_for_every_condition": true,
+  "target_exclusion": true,
+  "route_registry_consensus": true,
+  "within_exact_length_derangements": true,
+  "equal_masks_equal_scores": true,
+  "stage13_metric_replay": true,
+  "gpu_count": 4,
+  "cpu_count": 42
+}
