@@ -1,0 +1,101 @@
+{
+  "model": "/home/liushenyu/opt-13b",
+  "data_run": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_probe_20261110_01",
+  "output": "/home/liushenyu/test/NeuroBypass/runs/stage15_depth_slot_recovery_20261111_01",
+  "probe": false,
+  "seeds": [
+    579,
+    580
+  ],
+  "k": 16,
+  "kept": 24,
+  "m": 6,
+  "rank": 8,
+  "alpha": 16,
+  "dropout": 0,
+  "epochs": 8,
+  "effective_batch": 8,
+  "lr": 0.0002,
+  "input_manifest_sha256": "8817169d58b749604ebf881dc91ee133a17c709f4e696b3b3227cc7635c4a434",
+  "source_training_protocol_sha256": "5fd9eac26d5882688288ecf080eb5a0a06edfc82daf177fbb0f22d58bb90c893",
+  "static_skips": [
+    4,
+    9,
+    2,
+    17,
+    7,
+    14,
+    24,
+    37,
+    11,
+    31,
+    25,
+    34,
+    27,
+    22,
+    32,
+    39
+  ],
+  "router_policies": [
+    {
+      "name": "m06",
+      "m": 6,
+      "kind": "router",
+      "seed": 579,
+      "k": 16,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_20261110_02_training/private_m06_seed579_epoch012.pth",
+        "sha256": "bee51647ac9ce482d10bd7b5392ba0a60b088e4842f5c580c784f8c57d4af94f",
+        "epoch": 12,
+        "selection_continuation_kl": 0.7529788920655847
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        17,
+        7,
+        14
+      ]
+    },
+    {
+      "name": "m06",
+      "m": 6,
+      "kind": "router",
+      "seed": 580,
+      "k": 16,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_20261110_02_training/private_m06_seed580_epoch024.pth",
+        "sha256": "44828e6064ef80dc3f20429aff5be40d21eb4882162a4c09d39099edb5cff694",
+        "epoch": 24,
+        "selection_continuation_kl": 0.7559579126536846
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        17,
+        7,
+        14
+      ]
+    }
+  ],
+  "source_sha256": {
+    "train_depth_slot_recovery_four_gpu_v1.py": "df8184d80e608266afbbb5b2640314c78198bccadc95aa7ac195d07fcb96e28e",
+    "depth_slot_recovery_core_v1.py": "0b764326c4ca4a343fb7c2d0344ec97f0e1d1b697f2abb3390b7231f475381d5",
+    "depth_slot_recovery_data_v1.py": "f57761a7df3735533bafef4f65496b30fdd4de343fe3092f60ef3660323f2a0e",
+    "full_context_core_v1.py": "080b9f352628eec568f2cf50dfa448d07fb75170bdbf50f4f3cb080702b6af68",
+    "full_context_data_v1.py": "9087cdc9055b2e0938f74327d4bc6ed8bca96b77e8a592f9c742c46efec198c4",
+    "full_context_experiment_v1.py": "68929513ef70844635b1f36cf9dad9944688557d64a3b779d589c200eaaace37",
+    "evaluate_full_context_four_gpu_v1.py": "322e8eaa49d70edb78dad0f89d0a05b0a073f890a580d58f49cdcd48b39e0691",
+    "prompt_fixed_core_v1.py": "b733338d20f9f52599b7c7c7ca76c6e0450dfc25ef38c50d7c51fbb689287f5e",
+    "prompt_permutation_core_v1.py": "56fab96bcd8f9dd1e33214b9b55b98aa4f505a25c7a01a1a7c6437b43f853fea",
+    "run_with_resources_v2.py": "fc4e33b693be76e3543e7963f618fe6d7f4059c782c4279242761eed37891648"
+  },
+  "observation": "Frozen Stage13 full-visible-prompt-v1; all prompt token+position embeddings; no targets/options; one fixed route for entire continuation.",
+  "recovery": "Frozen FP16 OPT; FP32 q/v LoRA parameters;24 executed-depth slots shared across routes; rank8 alpha16;3,932,160 total and active parameters in each arm. Pilot parameter-tying architecture, not standard per-original-layer LoRA.",
+  "loss": "Mean CE on32 real continuation targets + untempered forward KL(full frozen OPT || student), equal weights; one document microbatch, effective8; all prompt positions participate in contextual gradient, loss only on32 continuation targets.",
+  "optimization": "AdamW2e-4, weight_decay0, cosine with5% warmup, clip1; FP16 frozen base, FP32 adapters; GradScaler128; non-reentrant per-retained-block checkpointing; base eval/dropout disabled.",
+  "selection": "Each epoch select minimum mean CE+KL on original32 development identities. Static/dynamic within each seed share init/data order/update/token/parameter budgets. No route relabeling.",
+  "limits": "Two-seed pilot, K16 only, no joint router training; no measured recovered deployment speed or memory saving; fresh archive cohort deduplicated from Stage13/14, not a pretraining-clean benchmark."
+}

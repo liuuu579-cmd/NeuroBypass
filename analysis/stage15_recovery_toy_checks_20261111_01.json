@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "checkpoint_gradient_max_abs_error": 0.0,
+  "cached_continuation_logits_max_abs_error": 1.341104507446289e-07,
+  "populated_cache_route_change_rejected": true,
+  "base_frozen": true,
+  "kept": 24,
+  "skipped": 16,
+  "test_model": "random tiny40-layer OPT, CPU"
+}
