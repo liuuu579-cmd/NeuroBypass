@@ -1,0 +1,15 @@
+{
+  "state": "completed",
+  "computation": "completed",
+  "research_audit": "passed",
+  "publication": "verified",
+  "run": "/home/liushenyu/test/NeuroBypass/runs/stage16_headroom_ruler_20261111_01",
+  "preserved_files": 1801,
+  "publication_commit": "d2f299bb4f87efe2e1df9d69341066acad347ab3",
+  "original_launcher_status": {
+    "state": "failed",
+    "exit_code": 1,
+    "finished_at": "2026-11-11T17:36:25.353245+08:00"
+  },
+  "status_note": "Original launcher recorded a failed immediate publication verification after the branch update. GPU computation and research audits completed; later read-only verification confirmed every requested public file. Original status is preserved."
+}

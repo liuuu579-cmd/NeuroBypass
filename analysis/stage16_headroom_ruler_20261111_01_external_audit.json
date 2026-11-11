@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "preserved_files": 1801,
+  "ruler_evaluation_cases": 72,
+  "ruler_calibration_cases": 36,
+  "ruler_rows": 720,
+  "diagnostic_documents": 16,
+  "diagnostic_rows": 304,
+  "joint_greedy_searches": 32,
+  "joint_candidate_evaluations_recorded": 12208,
+  "static_portfolio_selection_recomputed": true,
+  "static_masks_fixed_across_tasks": true,
+  "all_worker_thread_affinities_verified": true,
+  "source_input_checkpoint_hashes_verified": true,
+  "full_model_strict_exact_fraction": 0.0,
+  "format_limit": "Full-model strict exact is0 under unrestricted48-token completion; use answer coverage as exploratory retrieval metric, not strict-format superiority.",
+  "launcher_status_preserved": {
+    "state": "failed",
+    "exit_code": 1,
+    "finished_at": "2026-11-11T17:36:25.353245+08:00"
+  },
+  "publication_status": "Model computation and all research audits completed; first publication check failed after branch update. Verify the separate publication receipt; do not rerun GPU work."
+}
