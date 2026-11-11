@@ -1,0 +1,127 @@
+{
+  "selected": {
+    "10": {
+      "path_name": "sleb_nll_opt",
+      "calibration_kl": 0.23097458792229494
+    },
+    "12": {
+      "path_name": "sleb_nll_opt",
+      "calibration_kl": 0.374918168100218
+    },
+    "16": {
+      "path_name": "static_joint_kl",
+      "calibration_kl": 0.8540971239821779
+    }
+  },
+  "calibration": [
+    {
+      "k": 10,
+      "path_name": "static_joint_kl",
+      "kl": 0.30717941001057625,
+      "cases": 36
+    },
+    {
+      "k": 10,
+      "path_name": "sleb_nll_opt",
+      "kl": 0.23097458792229494,
+      "cases": 36
+    },
+    {
+      "k": 10,
+      "path_name": "shortgpt_bi_opt",
+      "kl": 10.27098994784885,
+      "cases": 36
+    },
+    {
+      "k": 10,
+      "path_name": "shortened_ppl_opt",
+      "kl": 9.911890202098423,
+      "cases": 36
+    },
+    {
+      "k": 10,
+      "path_name": "shortened_ppl_plus",
+      "kl": 7.9188058906131324,
+      "cases": 36
+    },
+    {
+      "k": 10,
+      "path_name": "random_static_seed579",
+      "kl": 1.3569427066379123,
+      "cases": 36
+    },
+    {
+      "k": 12,
+      "path_name": "static_joint_kl",
+      "kl": 0.3919172402885225,
+      "cases": 36
+    },
+    {
+      "k": 12,
+      "path_name": "sleb_nll_opt",
+      "kl": 0.374918168100218,
+      "cases": 36
+    },
+    {
+      "k": 12,
+      "path_name": "shortgpt_bi_opt",
+      "kl": 10.094723449812996,
+      "cases": 36
+    },
+    {
+      "k": 12,
+      "path_name": "shortened_ppl_opt",
+      "kl": 10.094723449812996,
+      "cases": 36
+    },
+    {
+      "k": 12,
+      "path_name": "shortened_ppl_plus",
+      "kl": 8.944173574447632,
+      "cases": 36
+    },
+    {
+      "k": 12,
+      "path_name": "random_static_seed579",
+      "kl": 1.622144151892927,
+      "cases": 36
+    },
+    {
+      "k": 16,
+      "path_name": "static_joint_kl",
+      "kl": 0.8540971239821779,
+      "cases": 36
+    },
+    {
+      "k": 16,
+      "path_name": "sleb_nll_opt",
+      "kl": 1.0379999569720693,
+      "cases": 36
+    },
+    {
+      "k": 16,
+      "path_name": "shortgpt_bi_opt",
+      "kl": 11.028881907463074,
+      "cases": 36
+    },
+    {
+      "k": 16,
+      "path_name": "shortened_ppl_opt",
+      "kl": 10.150939808951485,
+      "cases": 36
+    },
+    {
+      "k": 16,
+      "path_name": "shortened_ppl_plus",
+      "kl": 9.7961788309945,
+      "cases": 36
+    },
+    {
+      "k": 16,
+      "path_name": "random_static_seed579",
+      "kl": 2.798608399099774,
+      "cases": 36
+    }
+  ],
+  "policy": "One global fixed path perK across all evaluation tasks and inputs; mean calibration answer-position KL only. No evaluation outputs used. This is portfolio selection, not a new joint greedy search."
+}

@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "ruler_rows": 720,
+  "diagnostic_rows": 304,
+  "static_masks_fixed_across_all_tasks": true,
+  "calibration_and_evaluation_disjoint": true,
+  "protected_layers_and_budget_checked": true,
+  "answer_metrics_replayed": true,
+  "engineering_all_workers_passed": true,
+  "private_outputs_verified": true
+}

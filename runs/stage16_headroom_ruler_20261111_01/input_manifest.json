@@ -1,0 +1,25 @@
+{
+  "ruler_records": 108,
+  "ruler_split_counts": {
+    "calibration": 36,
+    "evaluation": 72
+  },
+  "diagnostic_documents": 16,
+  "diagnostic_lengths": {
+    "256": 4,
+    "512": 4,
+    "1024": 4,
+    "1536": 4
+  },
+  "private_sha256": {
+    "private_ruler_inputs.jsonl": "0baed7de2a82e0e072854fa4336fd74c52d4c301a28cf0d2a7569e34a7d92502",
+    "private_diagnostic_inputs.jsonl": "f7902d0ddcb25c664d15c3d1f8a7577b84532406f3fe380b985562d87bf2e526"
+  },
+  "diagnostic_source_sha256": "799c3741d7e3530b4154a6e464cd5afc05308bb7a7672289845e6efd7c950dc8",
+  "sampling_seed": 160580,
+  "upstream": "https://github.com/NVIDIA/RULER/tree/db43f92ff634bbce1c33d1fb15858aec4bba509a",
+  "adaptation": "Independent RULER-inspired2K probe: one-shot completion, six-digit values, three requested keys or2-hop variable chain, synthetic noise, explicit10/50/90% insertion positions. Not official RULER.",
+  "input_policy": "Router sees every actual prompt token and no appended answer. The needle necessarily contains the answer as retrieval context.",
+  "calibration_policy": "Disjoint synthetic calibration cases choose one fixed existing static portfolio path perK by mean answer-position teacher KL, not evaluation accuracy. Router frozen and C4-trained.",
+  "limitations": "Stage14 diagnostic documents previously evaluated; synthetic probe is exploratory; no official RULER or long-context beyond2K claim. No reserved C4 test used."
+}

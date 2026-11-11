@@ -1,0 +1,3589 @@
+{
+  "ruler_aggregates": [
+    {
+      "dimension": "overall",
+      "stratum": "all",
+      "policy": "calibrated_static_portfolio",
+      "k": 10,
+      "records": 72,
+      "kl": 0.3232097594688336,
+      "nll": 0.5454128523253732,
+      "answer_recall": 0.6712962962962963,
+      "all_answers": 0.4583333333333333,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "overall",
+      "stratum": "all",
+      "policy": "calibrated_static_portfolio",
+      "k": 12,
+      "records": 72,
+      "kl": 0.4627687067517804,
+      "nll": 0.6709621030216416,
+      "answer_recall": 0.6574074074074073,
+      "all_answers": 0.375,
+      "strict_exact": 0.027777777777777776
+    },
+    {
+      "dimension": "overall",
+      "stratum": "all",
+      "policy": "calibrated_static_portfolio",
+      "k": 16,
+      "records": 72,
+      "kl": 0.9991957286579741,
+      "nll": 1.2896319769529834,
+      "answer_recall": 0.2546296296296296,
+      "all_answers": 0.16666666666666666,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "overall",
+      "stratum": "all",
+      "policy": "full",
+      "k": 0,
+      "records": 72,
+      "kl": 0.0,
+      "nll": 0.1508953194004587,
+      "answer_recall": 0.976851851851852,
+      "all_answers": 0.9305555555555556,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "overall",
+      "stratum": "all",
+      "policy": "router_m6",
+      "k": 10,
+      "records": 72,
+      "kl": 0.3790669038684832,
+      "nll": 0.6326837187839879,
+      "answer_recall": 0.574074074074074,
+      "all_answers": 0.4583333333333333,
+      "strict_exact": 0.05555555555555555
+    },
+    {
+      "dimension": "overall",
+      "stratum": "all",
+      "policy": "router_m6",
+      "k": 12,
+      "records": 72,
+      "kl": 0.6560977941585912,
+      "nll": 0.9665379664964147,
+      "answer_recall": 0.5185185185185185,
+      "all_answers": 0.3611111111111111,
+      "strict_exact": 0.041666666666666664
+    },
+    {
+      "dimension": "overall",
+      "stratum": "all",
+      "policy": "router_m6",
+      "k": 16,
+      "records": 72,
+      "kl": 1.0403084949486785,
+      "nll": 1.2956750803213153,
+      "answer_recall": 0.2962962962962963,
+      "all_answers": 0.19444444444444445,
+      "strict_exact": 0.05555555555555555
+    },
+    {
+      "dimension": "overall",
+      "stratum": "all",
+      "policy": "static_joint_kl",
+      "k": 10,
+      "records": 72,
+      "kl": 0.37356494253294337,
+      "nll": 0.6589905658943785,
+      "answer_recall": 0.6018518518518517,
+      "all_answers": 0.4305555555555556,
+      "strict_exact": 0.013888888888888888
+    },
+    {
+      "dimension": "overall",
+      "stratum": "all",
+      "policy": "static_joint_kl",
+      "k": 12,
+      "records": 72,
+      "kl": 0.5057913153949711,
+      "nll": 0.8063705526292324,
+      "answer_recall": 0.6157407407407407,
+      "all_answers": 0.4583333333333333,
+      "strict_exact": 0.013888888888888888
+    },
+    {
+      "dimension": "overall",
+      "stratum": "all",
+      "policy": "static_joint_kl",
+      "k": 16,
+      "records": 72,
+      "kl": 0.9991957286579741,
+      "nll": 1.2896319769529834,
+      "answer_recall": 0.2546296296296296,
+      "all_answers": 0.16666666666666666,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "task",
+      "stratum": "niah_multi",
+      "policy": "calibrated_static_portfolio",
+      "k": 10,
+      "records": 24,
+      "kl": 0.33480967084566754,
+      "nll": 0.544416643679142,
+      "answer_recall": 0.4583333333333333,
+      "all_answers": 0.125,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "task",
+      "stratum": "niah_single",
+      "policy": "calibrated_static_portfolio",
+      "k": 10,
+      "records": 24,
+      "kl": 0.2653613081201911,
+      "nll": 0.44390136065582436,
+      "answer_recall": 0.9583333333333334,
+      "all_answers": 0.9583333333333334,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "task",
+      "stratum": "variable_tracking",
+      "policy": "calibrated_static_portfolio",
+      "k": 10,
+      "records": 24,
+      "kl": 0.3694582994406422,
+      "nll": 0.6479205526411533,
+      "answer_recall": 0.5972222222222222,
+      "all_answers": 0.2916666666666667,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "task",
+      "stratum": "niah_multi",
+      "policy": "calibrated_static_portfolio",
+      "k": 12,
+      "records": 24,
+      "kl": 0.4617478766789039,
+      "nll": 0.625979750106732,
+      "answer_recall": 0.6527777777777777,
+      "all_answers": 0.16666666666666666,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "task",
+      "stratum": "niah_single",
+      "policy": "calibrated_static_portfolio",
+      "k": 12,
+      "records": 24,
+      "kl": 0.30738288645322126,
+      "nll": 0.47381941694766283,
+      "answer_recall": 0.9166666666666666,
+      "all_answers": 0.9166666666666666,
+      "strict_exact": 0.08333333333333333
+    },
+    {
+      "dimension": "task",
+      "stratum": "variable_tracking",
+      "policy": "calibrated_static_portfolio",
+      "k": 12,
+      "records": 24,
+      "kl": 0.619175357123216,
+      "nll": 0.9130871420105299,
+      "answer_recall": 0.40277777777777773,
+      "all_answers": 0.041666666666666664,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "task",
+      "stratum": "niah_multi",
+      "policy": "calibrated_static_portfolio",
+      "k": 16,
+      "records": 24,
+      "kl": 1.1284250269333522,
+      "nll": 1.4899631515145302,
+      "answer_recall": 0.1111111111111111,
+      "all_answers": 0.0,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "task",
+      "stratum": "niah_single",
+      "policy": "calibrated_static_portfolio",
+      "k": 16,
+      "records": 24,
+      "kl": 0.7706259116530418,
+      "nll": 0.9648452317342162,
+      "answer_recall": 0.4583333333333333,
+      "all_answers": 0.4583333333333333,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "task",
+      "stratum": "variable_tracking",
+      "policy": "calibrated_static_portfolio",
+      "k": 16,
+      "records": 24,
+      "kl": 1.0985362473875284,
+      "nll": 1.4140875476102035,
+      "answer_recall": 0.19444444444444442,
+      "all_answers": 0.041666666666666664,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "task",
+      "stratum": "niah_multi",
+      "policy": "full",
+      "k": 0,
+      "records": 24,
+      "kl": 0.0,
+      "nll": 0.21843495996048054,
+      "answer_recall": 0.9444444444444443,
+      "all_answers": 0.8333333333333334,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "task",
+      "stratum": "niah_single",
+      "policy": "full",
+      "k": 0,
+      "records": 24,
+      "kl": 0.0,
+      "nll": 0.07639302573322009,
+      "answer_recall": 1.0,
+      "all_answers": 1.0,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "task",
+      "stratum": "variable_tracking",
+      "policy": "full",
+      "k": 0,
+      "records": 24,
+      "kl": 0.0,
+      "nll": 0.1578579725076755,
+      "answer_recall": 0.986111111111111,
+      "all_answers": 0.9583333333333334,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "task",
+      "stratum": "niah_multi",
+      "policy": "router_m6",
+      "k": 10,
+      "records": 24,
+      "kl": 0.3578341032067935,
+      "nll": 0.6396535225212574,
+      "answer_recall": 0.4583333333333333,
+      "all_answers": 0.25,
+      "strict_exact": 0.08333333333333333
+    },
+    {
+      "dimension": "task",
+      "stratum": "niah_single",
+      "policy": "router_m6",
+      "k": 10,
+      "records": 24,
+      "kl": 0.2932117497548461,
+      "nll": 0.49650836487611133,
+      "answer_recall": 0.9166666666666666,
+      "all_answers": 0.9166666666666666,
+      "strict_exact": 0.08333333333333333
+    },
+    {
+      "dimension": "task",
+      "stratum": "variable_tracking",
+      "policy": "router_m6",
+      "k": 10,
+      "records": 24,
+      "kl": 0.48615485864381,
+      "nll": 0.761889268954595,
+      "answer_recall": 0.34722222222222215,
+      "all_answers": 0.20833333333333334,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "task",
+      "stratum": "niah_multi",
+      "policy": "router_m6",
+      "k": 12,
+      "records": 24,
+      "kl": 0.6130305143694083,
+      "nll": 0.9281438291072845,
+      "answer_recall": 0.4166666666666667,
+      "all_answers": 0.125,
+      "strict_exact": 0.041666666666666664
+    },
+    {
+      "dimension": "task",
+      "stratum": "niah_single",
+      "policy": "router_m6",
+      "k": 12,
+      "records": 24,
+      "kl": 0.611104391515255,
+      "nll": 0.8661724925041199,
+      "answer_recall": 0.8333333333333334,
+      "all_answers": 0.8333333333333334,
+      "strict_exact": 0.08333333333333333
+    },
+    {
+      "dimension": "task",
+      "stratum": "variable_tracking",
+      "policy": "router_m6",
+      "k": 12,
+      "records": 24,
+      "kl": 0.7441584765911102,
+      "nll": 1.1052975778778393,
+      "answer_recall": 0.3055555555555555,
+      "all_answers": 0.125,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "task",
+      "stratum": "niah_multi",
+      "policy": "router_m6",
+      "k": 16,
+      "records": 24,
+      "kl": 1.0492366005976994,
+      "nll": 1.2321665945152442,
+      "answer_recall": 0.25,
+      "all_answers": 0.0,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "task",
+      "stratum": "niah_single",
+      "policy": "router_m6",
+      "k": 16,
+      "records": 24,
+      "kl": 0.8162038239339987,
+      "nll": 1.092705793833981,
+      "answer_recall": 0.5416666666666666,
+      "all_answers": 0.5416666666666666,
+      "strict_exact": 0.16666666666666666
+    },
+    {
+      "dimension": "task",
+      "stratum": "variable_tracking",
+      "policy": "router_m6",
+      "k": 16,
+      "records": 24,
+      "kl": 1.2554850603143375,
+      "nll": 1.5621528526147206,
+      "answer_recall": 0.09722222222222221,
+      "all_answers": 0.041666666666666664,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "task",
+      "stratum": "niah_multi",
+      "policy": "static_joint_kl",
+      "k": 10,
+      "records": 24,
+      "kl": 0.3411849507441123,
+      "nll": 0.6690409040699402,
+      "answer_recall": 0.5555555555555555,
+      "all_answers": 0.16666666666666666,
+      "strict_exact": 0.041666666666666664
+    },
+    {
+      "dimension": "task",
+      "stratum": "niah_single",
+      "policy": "static_joint_kl",
+      "k": 10,
+      "records": 24,
+      "kl": 0.3678916832432151,
+      "nll": 0.5936223939061165,
+      "answer_recall": 0.8333333333333334,
+      "all_answers": 0.8333333333333334,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "task",
+      "stratum": "variable_tracking",
+      "policy": "static_joint_kl",
+      "k": 10,
+      "records": 24,
+      "kl": 0.41161819361150265,
+      "nll": 0.7143083997070789,
+      "answer_recall": 0.4166666666666667,
+      "all_answers": 0.2916666666666667,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "task",
+      "stratum": "niah_multi",
+      "policy": "static_joint_kl",
+      "k": 12,
+      "records": 24,
+      "kl": 0.45204559589425725,
+      "nll": 0.7902494681378206,
+      "answer_recall": 0.5416666666666666,
+      "all_answers": 0.20833333333333334,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "task",
+      "stratum": "niah_single",
+      "policy": "static_joint_kl",
+      "k": 12,
+      "records": 24,
+      "kl": 0.4810680542141199,
+      "nll": 0.7126491914192835,
+      "answer_recall": 0.8333333333333334,
+      "all_answers": 0.8333333333333334,
+      "strict_exact": 0.041666666666666664
+    },
+    {
+      "dimension": "task",
+      "stratum": "variable_tracking",
+      "policy": "static_joint_kl",
+      "k": 12,
+      "records": 24,
+      "kl": 0.5842602960765362,
+      "nll": 0.9162129983305931,
+      "answer_recall": 0.47222222222222215,
+      "all_answers": 0.3333333333333333,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "task",
+      "stratum": "niah_multi",
+      "policy": "static_joint_kl",
+      "k": 16,
+      "records": 24,
+      "kl": 1.1284250269333522,
+      "nll": 1.4899631515145302,
+      "answer_recall": 0.1111111111111111,
+      "all_answers": 0.0,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "task",
+      "stratum": "niah_single",
+      "policy": "static_joint_kl",
+      "k": 16,
+      "records": 24,
+      "kl": 0.7706259116530418,
+      "nll": 0.9648452317342162,
+      "answer_recall": 0.4583333333333333,
+      "all_answers": 0.4583333333333333,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "task",
+      "stratum": "variable_tracking",
+      "policy": "static_joint_kl",
+      "k": 16,
+      "records": 24,
+      "kl": 1.0985362473875284,
+      "nll": 1.4140875476102035,
+      "answer_recall": 0.19444444444444442,
+      "all_answers": 0.041666666666666664,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "1024",
+      "policy": "calibrated_static_portfolio",
+      "k": 10,
+      "records": 18,
+      "kl": 0.25466922546426457,
+      "nll": 0.5032736228571998,
+      "answer_recall": 0.6111111111111112,
+      "all_answers": 0.3888888888888889,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "1536",
+      "policy": "calibrated_static_portfolio",
+      "k": 10,
+      "records": 18,
+      "kl": 0.33264248818159103,
+      "nll": 0.559738995300399,
+      "answer_recall": 0.5740740740740741,
+      "all_answers": 0.3333333333333333,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "1920",
+      "policy": "calibrated_static_portfolio",
+      "k": 10,
+      "records": 18,
+      "kl": 0.3053777002625995,
+      "nll": 0.5069292998976178,
+      "answer_recall": 0.7777777777777777,
+      "all_answers": 0.5555555555555556,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "512",
+      "policy": "calibrated_static_portfolio",
+      "k": 10,
+      "records": 18,
+      "kl": 0.4001496239668793,
+      "nll": 0.6117094912462764,
+      "answer_recall": 0.7222222222222222,
+      "all_answers": 0.5555555555555556,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "1024",
+      "policy": "calibrated_static_portfolio",
+      "k": 12,
+      "records": 18,
+      "kl": 0.3736953064799309,
+      "nll": 0.6046266398496098,
+      "answer_recall": 0.6666666666666666,
+      "all_answers": 0.3888888888888889,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "1536",
+      "policy": "calibrated_static_portfolio",
+      "k": 12,
+      "records": 18,
+      "kl": 0.43238330115046764,
+      "nll": 0.6581156125499142,
+      "answer_recall": 0.7222222222222222,
+      "all_answers": 0.4444444444444444,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "1920",
+      "policy": "calibrated_static_portfolio",
+      "k": 12,
+      "records": 18,
+      "kl": 0.5879160083002515,
+      "nll": 0.8122340341409048,
+      "answer_recall": 0.5370370370370371,
+      "all_answers": 0.2777777777777778,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "512",
+      "policy": "calibrated_static_portfolio",
+      "k": 12,
+      "records": 18,
+      "kl": 0.45708021107647157,
+      "nll": 0.6088721255461375,
+      "answer_recall": 0.7037037037037037,
+      "all_answers": 0.3888888888888889,
+      "strict_exact": 0.1111111111111111
+    },
+    {
+      "dimension": "length",
+      "stratum": "1024",
+      "policy": "calibrated_static_portfolio",
+      "k": 16,
+      "records": 18,
+      "kl": 0.8223946044842402,
+      "nll": 1.1306785229179594,
+      "answer_recall": 0.31481481481481477,
+      "all_answers": 0.2777777777777778,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "1536",
+      "policy": "calibrated_static_portfolio",
+      "k": 16,
+      "records": 18,
+      "kl": 0.9915103001726998,
+      "nll": 1.3498620225323572,
+      "answer_recall": 0.07407407407407407,
+      "all_answers": 0.05555555555555555,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "1920",
+      "policy": "calibrated_static_portfolio",
+      "k": 16,
+      "records": 18,
+      "kl": 1.0884893635908763,
+      "nll": 1.3213220056560304,
+      "answer_recall": 0.24074074074074073,
+      "all_answers": 0.1111111111111111,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "512",
+      "policy": "calibrated_static_portfolio",
+      "k": 16,
+      "records": 18,
+      "kl": 1.0943886463840802,
+      "nll": 1.3566653567055862,
+      "answer_recall": 0.3888888888888889,
+      "all_answers": 0.2222222222222222,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "1024",
+      "policy": "full",
+      "k": 0,
+      "records": 18,
+      "kl": 0.0,
+      "nll": 0.18590984638366434,
+      "answer_recall": 0.925925925925926,
+      "all_answers": 0.7777777777777778,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "1536",
+      "policy": "full",
+      "k": 0,
+      "records": 18,
+      "kl": 0.0,
+      "nll": 0.1343881713433398,
+      "answer_recall": 1.0,
+      "all_answers": 1.0,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "1920",
+      "policy": "full",
+      "k": 0,
+      "records": 18,
+      "kl": 0.0,
+      "nll": 0.15592394112091926,
+      "answer_recall": 1.0,
+      "all_answers": 1.0,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "512",
+      "policy": "full",
+      "k": 0,
+      "records": 18,
+      "kl": 0.0,
+      "nll": 0.12735931875391138,
+      "answer_recall": 0.9814814814814815,
+      "all_answers": 0.9444444444444444,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "1024",
+      "policy": "router_m6",
+      "k": 10,
+      "records": 18,
+      "kl": 0.34313925438457066,
+      "nll": 0.6448501249154409,
+      "answer_recall": 0.4999999999999999,
+      "all_answers": 0.3333333333333333,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "1536",
+      "policy": "router_m6",
+      "k": 10,
+      "records": 18,
+      "kl": 0.3356792976458867,
+      "nll": 0.5578211761183209,
+      "answer_recall": 0.5185185185185186,
+      "all_answers": 0.4444444444444444,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "1920",
+      "policy": "router_m6",
+      "k": 10,
+      "records": 18,
+      "kl": 0.41145435720682144,
+      "nll": 0.6435533894432915,
+      "answer_recall": 0.6666666666666665,
+      "all_answers": 0.5555555555555556,
+      "strict_exact": 0.05555555555555555
+    },
+    {
+      "dimension": "length",
+      "stratum": "512",
+      "policy": "router_m6",
+      "k": 10,
+      "records": 18,
+      "kl": 0.42599470623665386,
+      "nll": 0.6845101846588982,
+      "answer_recall": 0.6111111111111112,
+      "all_answers": 0.5,
+      "strict_exact": 0.16666666666666666
+    },
+    {
+      "dimension": "length",
+      "stratum": "1024",
+      "policy": "router_m6",
+      "k": 12,
+      "records": 18,
+      "kl": 0.5422040431035889,
+      "nll": 0.9162766916884316,
+      "answer_recall": 0.4629629629629629,
+      "all_answers": 0.3888888888888889,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "1536",
+      "policy": "router_m6",
+      "k": 12,
+      "records": 18,
+      "kl": 0.6315481381283866,
+      "nll": 0.9009261545207765,
+      "answer_recall": 0.5925925925925926,
+      "all_answers": 0.3333333333333333,
+      "strict_exact": 0.05555555555555555
+    },
+    {
+      "dimension": "length",
+      "stratum": "1920",
+      "policy": "router_m6",
+      "k": 12,
+      "records": 18,
+      "kl": 0.7936311314503351,
+      "nll": 1.1066593295998044,
+      "answer_recall": 0.6111111111111112,
+      "all_answers": 0.4444444444444444,
+      "strict_exact": 0.1111111111111111
+    },
+    {
+      "dimension": "length",
+      "stratum": "512",
+      "policy": "router_m6",
+      "k": 12,
+      "records": 18,
+      "kl": 0.6570078639520539,
+      "nll": 0.9422896901766459,
+      "answer_recall": 0.40740740740740733,
+      "all_answers": 0.2777777777777778,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "1024",
+      "policy": "router_m6",
+      "k": 16,
+      "records": 18,
+      "kl": 0.6938862800598145,
+      "nll": 0.945677223511868,
+      "answer_recall": 0.27777777777777773,
+      "all_answers": 0.16666666666666666,
+      "strict_exact": 0.1111111111111111
+    },
+    {
+      "dimension": "length",
+      "stratum": "1536",
+      "policy": "router_m6",
+      "k": 16,
+      "records": 18,
+      "kl": 0.9271318283345964,
+      "nll": 1.1910013515088294,
+      "answer_recall": 0.3888888888888889,
+      "all_answers": 0.2777777777777778,
+      "strict_exact": 0.1111111111111111
+    },
+    {
+      "dimension": "length",
+      "stratum": "1920",
+      "policy": "router_m6",
+      "k": 16,
+      "records": 18,
+      "kl": 1.2965995801819696,
+      "nll": 1.4676521966854732,
+      "answer_recall": 0.24074074074074073,
+      "all_answers": 0.16666666666666666,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "512",
+      "policy": "router_m6",
+      "k": 16,
+      "records": 18,
+      "kl": 1.2436162912183337,
+      "nll": 1.5783695495790906,
+      "answer_recall": 0.2777777777777778,
+      "all_answers": 0.16666666666666666,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "1024",
+      "policy": "static_joint_kl",
+      "k": 10,
+      "records": 18,
+      "kl": 0.2620971343583531,
+      "nll": 0.5376696094042726,
+      "answer_recall": 0.5185185185185185,
+      "all_answers": 0.3888888888888889,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "1536",
+      "policy": "static_joint_kl",
+      "k": 10,
+      "records": 18,
+      "kl": 0.3065819475385878,
+      "nll": 0.5750069758958287,
+      "answer_recall": 0.6666666666666666,
+      "all_answers": 0.4444444444444444,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "1920",
+      "policy": "static_joint_kl",
+      "k": 10,
+      "records": 18,
+      "kl": 0.42265790411167675,
+      "nll": 0.7097468098832501,
+      "answer_recall": 0.6851851851851851,
+      "all_answers": 0.4444444444444444,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "512",
+      "policy": "static_joint_kl",
+      "k": 10,
+      "records": 18,
+      "kl": 0.5029227841231558,
+      "nll": 0.8135388683941629,
+      "answer_recall": 0.537037037037037,
+      "all_answers": 0.4444444444444444,
+      "strict_exact": 0.05555555555555555
+    },
+    {
+      "dimension": "length",
+      "stratum": "1024",
+      "policy": "static_joint_kl",
+      "k": 12,
+      "records": 18,
+      "kl": 0.45105403744512135,
+      "nll": 0.7820149179961946,
+      "answer_recall": 0.5740740740740741,
+      "all_answers": 0.4444444444444444,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "1536",
+      "policy": "static_joint_kl",
+      "k": 12,
+      "records": 18,
+      "kl": 0.48427802158726585,
+      "nll": 0.7687931309143702,
+      "answer_recall": 0.7407407407407407,
+      "all_answers": 0.5555555555555556,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "1920",
+      "policy": "static_joint_kl",
+      "k": 12,
+      "records": 18,
+      "kl": 0.5132182397776179,
+      "nll": 0.8135965913534164,
+      "answer_recall": 0.6296296296296295,
+      "all_answers": 0.5,
+      "strict_exact": 0.05555555555555555
+    },
+    {
+      "dimension": "length",
+      "stratum": "512",
+      "policy": "static_joint_kl",
+      "k": 12,
+      "records": 18,
+      "kl": 0.5746149627698792,
+      "nll": 0.8610775702529483,
+      "answer_recall": 0.5185185185185185,
+      "all_answers": 0.3333333333333333,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "1024",
+      "policy": "static_joint_kl",
+      "k": 16,
+      "records": 18,
+      "kl": 0.8223946044842402,
+      "nll": 1.1306785229179594,
+      "answer_recall": 0.31481481481481477,
+      "all_answers": 0.2777777777777778,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "1536",
+      "policy": "static_joint_kl",
+      "k": 16,
+      "records": 18,
+      "kl": 0.9915103001726998,
+      "nll": 1.3498620225323572,
+      "answer_recall": 0.07407407407407407,
+      "all_answers": 0.05555555555555555,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "1920",
+      "policy": "static_joint_kl",
+      "k": 16,
+      "records": 18,
+      "kl": 1.0884893635908763,
+      "nll": 1.3213220056560304,
+      "answer_recall": 0.24074074074074073,
+      "all_answers": 0.1111111111111111,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "length",
+      "stratum": "512",
+      "policy": "static_joint_kl",
+      "k": 16,
+      "records": 18,
+      "kl": 1.0943886463840802,
+      "nll": 1.3566653567055862,
+      "answer_recall": 0.3888888888888889,
+      "all_answers": 0.2222222222222222,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.1",
+      "policy": "calibrated_static_portfolio",
+      "k": 10,
+      "records": 24,
+      "kl": 0.36120879215498763,
+      "nll": 0.6296889036893845,
+      "answer_recall": 0.6388888888888888,
+      "all_answers": 0.4166666666666667,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.5",
+      "policy": "calibrated_static_portfolio",
+      "k": 10,
+      "records": 24,
+      "kl": 0.29729298284898203,
+      "nll": 0.514080303410689,
+      "answer_recall": 0.7222222222222222,
+      "all_answers": 0.5,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.9",
+      "policy": "calibrated_static_portfolio",
+      "k": 10,
+      "records": 24,
+      "kl": 0.31112750340253115,
+      "nll": 0.4924693498760462,
+      "answer_recall": 0.6527777777777778,
+      "all_answers": 0.4583333333333333,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.1",
+      "policy": "calibrated_static_portfolio",
+      "k": 12,
+      "records": 24,
+      "kl": 0.5240447198351225,
+      "nll": 0.7953069309393564,
+      "answer_recall": 0.6666666666666666,
+      "all_answers": 0.375,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.5",
+      "policy": "calibrated_static_portfolio",
+      "k": 12,
+      "records": 24,
+      "kl": 0.4398854626342654,
+      "nll": 0.6377457150568565,
+      "answer_recall": 0.6666666666666666,
+      "all_answers": 0.4166666666666667,
+      "strict_exact": 0.041666666666666664
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.9",
+      "policy": "calibrated_static_portfolio",
+      "k": 12,
+      "records": 24,
+      "kl": 0.4243759377859533,
+      "nll": 0.5798336630687118,
+      "answer_recall": 0.6388888888888888,
+      "all_answers": 0.3333333333333333,
+      "strict_exact": 0.041666666666666664
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.1",
+      "policy": "calibrated_static_portfolio",
+      "k": 16,
+      "records": 24,
+      "kl": 1.168623519440492,
+      "nll": 1.5183242360750835,
+      "answer_recall": 0.13888888888888887,
+      "all_answers": 0.08333333333333333,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.5",
+      "policy": "calibrated_static_portfolio",
+      "k": 16,
+      "records": 24,
+      "kl": 0.9225374646484852,
+      "nll": 1.1754710376262665,
+      "answer_recall": 0.27777777777777773,
+      "all_answers": 0.16666666666666666,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.9",
+      "policy": "calibrated_static_portfolio",
+      "k": 16,
+      "records": 24,
+      "kl": 0.9064262018849453,
+      "nll": 1.1751006571576,
+      "answer_recall": 0.34722222222222215,
+      "all_answers": 0.25,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.1",
+      "policy": "full",
+      "k": 0,
+      "records": 24,
+      "kl": 0.0,
+      "nll": 0.16938645237435898,
+      "answer_recall": 0.9722222222222222,
+      "all_answers": 0.9166666666666666,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.5",
+      "policy": "full",
+      "k": 0,
+      "records": 24,
+      "kl": 0.0,
+      "nll": 0.1495917357970029,
+      "answer_recall": 0.986111111111111,
+      "all_answers": 0.9583333333333334,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.9",
+      "policy": "full",
+      "k": 0,
+      "records": 24,
+      "kl": 0.0,
+      "nll": 0.13370777003001422,
+      "answer_recall": 0.9722222222222222,
+      "all_answers": 0.9166666666666666,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.1",
+      "policy": "router_m6",
+      "k": 10,
+      "records": 24,
+      "kl": 0.46279073506593704,
+      "nll": 0.796485023573041,
+      "answer_recall": 0.4444444444444445,
+      "all_answers": 0.375,
+      "strict_exact": 0.041666666666666664
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.5",
+      "policy": "router_m6",
+      "k": 10,
+      "records": 24,
+      "kl": 0.3168494679654638,
+      "nll": 0.5495450484255949,
+      "answer_recall": 0.6527777777777778,
+      "all_answers": 0.5833333333333334,
+      "strict_exact": 0.08333333333333333
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.9",
+      "policy": "router_m6",
+      "k": 10,
+      "records": 24,
+      "kl": 0.3575605085740487,
+      "nll": 0.5520210843533278,
+      "answer_recall": 0.6249999999999999,
+      "all_answers": 0.4166666666666667,
+      "strict_exact": 0.041666666666666664
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.1",
+      "policy": "router_m6",
+      "k": 12,
+      "records": 24,
+      "kl": 0.7519975795100132,
+      "nll": 1.1406471319496632,
+      "answer_recall": 0.38888888888888884,
+      "all_answers": 0.2916666666666667,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.5",
+      "policy": "router_m6",
+      "k": 12,
+      "records": 24,
+      "kl": 0.6304254233837128,
+      "nll": 0.9279072259863218,
+      "answer_recall": 0.5972222222222222,
+      "all_answers": 0.4166666666666667,
+      "strict_exact": 0.041666666666666664
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.9",
+      "policy": "router_m6",
+      "k": 12,
+      "records": 24,
+      "kl": 0.5858703795820475,
+      "nll": 0.8310595415532589,
+      "answer_recall": 0.5694444444444444,
+      "all_answers": 0.375,
+      "strict_exact": 0.08333333333333333
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.1",
+      "policy": "router_m6",
+      "k": 16,
+      "records": 24,
+      "kl": 1.0317080486565828,
+      "nll": 1.3614823234577973,
+      "answer_recall": 0.25,
+      "all_answers": 0.16666666666666666,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.5",
+      "policy": "router_m6",
+      "k": 16,
+      "records": 24,
+      "kl": 1.1067376577605803,
+      "nll": 1.345457316065828,
+      "answer_recall": 0.2638888888888889,
+      "all_answers": 0.16666666666666666,
+      "strict_exact": 0.041666666666666664
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.9",
+      "policy": "router_m6",
+      "k": 16,
+      "records": 24,
+      "kl": 0.9824797784288725,
+      "nll": 1.1800856014403205,
+      "answer_recall": 0.375,
+      "all_answers": 0.25,
+      "strict_exact": 0.125
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.1",
+      "policy": "static_joint_kl",
+      "k": 10,
+      "records": 24,
+      "kl": 0.5062233669062456,
+      "nll": 0.8744389067093531,
+      "answer_recall": 0.4861111111111111,
+      "all_answers": 0.3333333333333333,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.5",
+      "policy": "static_joint_kl",
+      "k": 10,
+      "records": 24,
+      "kl": 0.2914900065710147,
+      "nll": 0.5621823569138845,
+      "answer_recall": 0.6388888888888888,
+      "all_answers": 0.5,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.9",
+      "policy": "static_joint_kl",
+      "k": 10,
+      "records": 24,
+      "kl": 0.3229814541215698,
+      "nll": 0.540350434059898,
+      "answer_recall": 0.6805555555555555,
+      "all_answers": 0.4583333333333333,
+      "strict_exact": 0.041666666666666664
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.1",
+      "policy": "static_joint_kl",
+      "k": 12,
+      "records": 24,
+      "kl": 0.6183810556928316,
+      "nll": 1.005610299607118,
+      "answer_recall": 0.5277777777777778,
+      "all_answers": 0.4166666666666667,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.5",
+      "policy": "static_joint_kl",
+      "k": 12,
+      "records": 24,
+      "kl": 0.42119726600746316,
+      "nll": 0.6969764791429043,
+      "answer_recall": 0.6527777777777777,
+      "all_answers": 0.5,
+      "strict_exact": 0.041666666666666664
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.9",
+      "policy": "static_joint_kl",
+      "k": 12,
+      "records": 24,
+      "kl": 0.4777956244846185,
+      "nll": 0.7165248791376749,
+      "answer_recall": 0.6666666666666666,
+      "all_answers": 0.4583333333333333,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.1",
+      "policy": "static_joint_kl",
+      "k": 16,
+      "records": 24,
+      "kl": 1.168623519440492,
+      "nll": 1.5183242360750835,
+      "answer_recall": 0.13888888888888887,
+      "all_answers": 0.08333333333333333,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.5",
+      "policy": "static_joint_kl",
+      "k": 16,
+      "records": 24,
+      "kl": 0.9225374646484852,
+      "nll": 1.1754710376262665,
+      "answer_recall": 0.27777777777777773,
+      "all_answers": 0.16666666666666666,
+      "strict_exact": 0.0
+    },
+    {
+      "dimension": "depth",
+      "stratum": "0.9",
+      "policy": "static_joint_kl",
+      "k": 16,
+      "records": 24,
+      "kl": 0.9064262018849453,
+      "nll": 1.1751006571576,
+      "answer_recall": 0.34722222222222215,
+      "all_answers": 0.25,
+      "strict_exact": 0.0
+    }
+  ],
+  "ruler_paired": [
+    {
+      "task": "all",
+      "k": 10,
+      "baseline": "static_joint_kl",
+      "metric": "kl",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.005501961335539818,
+      "ci95": [
+        -0.061998210208387014,
+        0.059365483857173766
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.4166666666666667
+    },
+    {
+      "task": "all",
+      "k": 10,
+      "baseline": "static_joint_kl",
+      "metric": "nll",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.026306847110390663,
+      "ci95": [
+        -0.04904428566288617,
+        0.11645751777105016
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.4861111111111111
+    },
+    {
+      "task": "all",
+      "k": 10,
+      "baseline": "static_joint_kl",
+      "metric": "answer_recall",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.02777777777777777,
+      "ci95": [
+        -0.1435185185185185,
+        0.09259259259259259
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.2361111111111111
+    },
+    {
+      "task": "all",
+      "k": 10,
+      "baseline": "static_joint_kl",
+      "metric": "all_answers",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.027777777777777776,
+      "ci95": [
+        -0.09722222222222222,
+        0.1527777777777778
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.1388888888888889
+    },
+    {
+      "task": "all",
+      "k": 10,
+      "baseline": "static_joint_kl",
+      "metric": "strict_exact",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.041666666666666664,
+      "ci95": [
+        0.0,
+        0.1111111111111111
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.05555555555555555
+    },
+    {
+      "task": "all",
+      "k": 10,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "kl",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.05585714439964957,
+      "ci95": [
+        -0.11063358437839067,
+        0.0017044165456253587
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.3611111111111111
+    },
+    {
+      "task": "all",
+      "k": 10,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "nll",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.08727086645861466,
+      "ci95": [
+        -0.14544604811300008,
+        -0.02756365078190967
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.3055555555555556
+    },
+    {
+      "task": "all",
+      "k": 10,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "answer_recall",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.09722222222222221,
+      "ci95": [
+        -0.19444444444444442,
+        7.709882115410403e-20
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.18055555555555555
+    },
+    {
+      "task": "all",
+      "k": 10,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "all_answers",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.0,
+      "ci95": [
+        -0.1111111111111111,
+        0.1111111111111111
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.09722222222222222
+    },
+    {
+      "task": "all",
+      "k": 10,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "strict_exact",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.05555555555555555,
+      "ci95": [
+        0.0,
+        0.125
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.05555555555555555
+    },
+    {
+      "task": "all",
+      "k": 12,
+      "baseline": "static_joint_kl",
+      "metric": "kl",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.15030647876362005,
+      "ci95": [
+        -0.21991147881166803,
+        -0.07959187557506893
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.2361111111111111
+    },
+    {
+      "task": "all",
+      "k": 12,
+      "baseline": "static_joint_kl",
+      "metric": "nll",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.1601674138671822,
+      "ci95": [
+        -0.2423557355792986,
+        -0.07758149378415613
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.2777777777777778
+    },
+    {
+      "task": "all",
+      "k": 12,
+      "baseline": "static_joint_kl",
+      "metric": "answer_recall",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.0972222222222222,
+      "ci95": [
+        -0.21759259259259262,
+        0.027777777777777776
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.16666666666666666
+    },
+    {
+      "task": "all",
+      "k": 12,
+      "baseline": "static_joint_kl",
+      "metric": "all_answers",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.09722222222222222,
+      "ci95": [
+        -0.25,
+        0.041666666666666664
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.1111111111111111
+    },
+    {
+      "task": "all",
+      "k": 12,
+      "baseline": "static_joint_kl",
+      "metric": "strict_exact",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.027777777777777776,
+      "ci95": [
+        0.0,
+        0.06944444444444445
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.041666666666666664
+    },
+    {
+      "task": "all",
+      "k": 12,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "kl",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.1933290874068108,
+      "ci95": [
+        -0.27391141053392654,
+        -0.11588282481922466
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.2222222222222222
+    },
+    {
+      "task": "all",
+      "k": 12,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "nll",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.29557586347477305,
+      "ci95": [
+        -0.3981822383512432,
+        -0.19542008639934164
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.16666666666666666
+    },
+    {
+      "task": "all",
+      "k": 12,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "answer_recall",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.1388888888888889,
+      "ci95": [
+        -0.2824074074074074,
+        -1.2181613742415753e-17
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.18055555555555555
+    },
+    {
+      "task": "all",
+      "k": 12,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "all_answers",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.013888888888888888,
+      "ci95": [
+        -0.16666666666666666,
+        0.125
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.1111111111111111
+    },
+    {
+      "task": "all",
+      "k": 12,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "strict_exact",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.013888888888888888,
+      "ci95": [
+        -0.06944444444444445,
+        0.08333333333333333
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.041666666666666664
+    },
+    {
+      "task": "all",
+      "k": 16,
+      "baseline": "static_joint_kl",
+      "metric": "kl",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.04111276629070441,
+      "ci95": [
+        -0.17904580305330456,
+        0.09177487575345569
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.4583333333333333
+    },
+    {
+      "task": "all",
+      "k": 16,
+      "baseline": "static_joint_kl",
+      "metric": "nll",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.006043103368331988,
+      "ci95": [
+        -0.2038421197121756,
+        0.18238655070179238
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.5277777777777778
+    },
+    {
+      "task": "all",
+      "k": 16,
+      "baseline": "static_joint_kl",
+      "metric": "answer_recall",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.04166666666666667,
+      "ci95": [
+        -0.09259259259259259,
+        0.17129629629629628
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.2222222222222222
+    },
+    {
+      "task": "all",
+      "k": 16,
+      "baseline": "static_joint_kl",
+      "metric": "all_answers",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.027777777777777776,
+      "ci95": [
+        -0.06944444444444445,
+        0.1388888888888889
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.08333333333333333
+    },
+    {
+      "task": "all",
+      "k": 16,
+      "baseline": "static_joint_kl",
+      "metric": "strict_exact",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.05555555555555555,
+      "ci95": [
+        0.0,
+        0.125
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.05555555555555555
+    },
+    {
+      "task": "all",
+      "k": 16,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "kl",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.04111276629070441,
+      "ci95": [
+        -0.17904580305330456,
+        0.09177487575345569
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.4583333333333333
+    },
+    {
+      "task": "all",
+      "k": 16,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "nll",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.006043103368331988,
+      "ci95": [
+        -0.2038421197121756,
+        0.18238655070179238
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.5277777777777778
+    },
+    {
+      "task": "all",
+      "k": 16,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "answer_recall",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.04166666666666667,
+      "ci95": [
+        -0.09259259259259259,
+        0.17129629629629628
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.2222222222222222
+    },
+    {
+      "task": "all",
+      "k": 16,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "all_answers",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.027777777777777776,
+      "ci95": [
+        -0.06944444444444445,
+        0.1388888888888889
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.08333333333333333
+    },
+    {
+      "task": "all",
+      "k": 16,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "strict_exact",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.05555555555555555,
+      "ci95": [
+        0.0,
+        0.125
+      ],
+      "records": 72,
+      "clusters": 24,
+      "fraction_positive": 0.05555555555555555
+    },
+    {
+      "task": "niah_single",
+      "k": 10,
+      "baseline": "static_joint_kl",
+      "metric": "kl",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.07467993348836899,
+      "ci95": [
+        -0.034780179903221624,
+        0.20266226317423064
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.5833333333333334
+    },
+    {
+      "task": "niah_single",
+      "k": 10,
+      "baseline": "static_joint_kl",
+      "metric": "nll",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.09711402903000514,
+      "ci95": [
+        -0.05299565102905035,
+        0.2738547045737505
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.5
+    },
+    {
+      "task": "niah_single",
+      "k": 10,
+      "baseline": "static_joint_kl",
+      "metric": "answer_recall",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.08333333333333333,
+      "ci95": [
+        -0.08333333333333333,
+        0.2916666666666667
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.125
+    },
+    {
+      "task": "niah_single",
+      "k": 10,
+      "baseline": "static_joint_kl",
+      "metric": "all_answers",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.08333333333333333,
+      "ci95": [
+        -0.08333333333333333,
+        0.2916666666666667
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.125
+    },
+    {
+      "task": "niah_single",
+      "k": 10,
+      "baseline": "static_joint_kl",
+      "metric": "strict_exact",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.08333333333333333,
+      "ci95": [
+        0.0,
+        0.25
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.08333333333333333
+    },
+    {
+      "task": "niah_single",
+      "k": 10,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "kl",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.027850441634655,
+      "ci95": [
+        -0.07908901784879466,
+        0.02667478141374884
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.4583333333333333
+    },
+    {
+      "task": "niah_single",
+      "k": 10,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "nll",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.052607004220287,
+      "ci95": [
+        -0.12536712487538657,
+        0.018914142561455558
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.4166666666666667
+    },
+    {
+      "task": "niah_single",
+      "k": 10,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "answer_recall",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.041666666666666664,
+      "ci95": [
+        -0.16666666666666666,
+        0.08333333333333333
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.041666666666666664
+    },
+    {
+      "task": "niah_single",
+      "k": 10,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "all_answers",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.041666666666666664,
+      "ci95": [
+        -0.16666666666666666,
+        0.08333333333333333
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.041666666666666664
+    },
+    {
+      "task": "niah_single",
+      "k": 10,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "strict_exact",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.08333333333333333,
+      "ci95": [
+        0.0,
+        0.25
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.08333333333333333
+    },
+    {
+      "task": "niah_single",
+      "k": 12,
+      "baseline": "static_joint_kl",
+      "metric": "kl",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.13003633730113506,
+      "ci95": [
+        -0.29537332331140836,
+        0.045463634266828395
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.3333333333333333
+    },
+    {
+      "task": "niah_single",
+      "k": 12,
+      "baseline": "static_joint_kl",
+      "metric": "nll",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.15352330108483633,
+      "ci95": [
+        -0.3402817394584417,
+        0.04938761678834754
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.3333333333333333
+    },
+    {
+      "task": "niah_single",
+      "k": 12,
+      "baseline": "static_joint_kl",
+      "metric": "answer_recall",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.0,
+      "ci95": [
+        -0.25,
+        0.25
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.125
+    },
+    {
+      "task": "niah_single",
+      "k": 12,
+      "baseline": "static_joint_kl",
+      "metric": "all_answers",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.0,
+      "ci95": [
+        -0.25,
+        0.25
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.125
+    },
+    {
+      "task": "niah_single",
+      "k": 12,
+      "baseline": "static_joint_kl",
+      "metric": "strict_exact",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.041666666666666664,
+      "ci95": [
+        0.0,
+        0.125
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.08333333333333333
+    },
+    {
+      "task": "niah_single",
+      "k": 12,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "kl",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.3037215050620337,
+      "ci95": [
+        -0.4386457221660142,
+        -0.15547612167429198
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.16666666666666666
+    },
+    {
+      "task": "niah_single",
+      "k": 12,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "nll",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.39235307555645704,
+      "ci95": [
+        -0.567864965647459,
+        -0.20290528569215294
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.16666666666666666
+    },
+    {
+      "task": "niah_single",
+      "k": 12,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "answer_recall",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.08333333333333333,
+      "ci95": [
+        -0.375,
+        0.16666666666666666
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.08333333333333333
+    },
+    {
+      "task": "niah_single",
+      "k": 12,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "all_answers",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.08333333333333333,
+      "ci95": [
+        -0.375,
+        0.16666666666666666
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.08333333333333333
+    },
+    {
+      "task": "niah_single",
+      "k": 12,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "strict_exact",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.0,
+      "ci95": [
+        -0.20833333333333334,
+        0.16666666666666666
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.08333333333333333
+    },
+    {
+      "task": "niah_single",
+      "k": 16,
+      "baseline": "static_joint_kl",
+      "metric": "kl",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.0455779122809569,
+      "ci95": [
+        -0.27769492706283927,
+        0.2063312805878617
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.4583333333333333
+    },
+    {
+      "task": "niah_single",
+      "k": 16,
+      "baseline": "static_joint_kl",
+      "metric": "nll",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.12786056209976474,
+      "ci95": [
+        -0.4897771070944145,
+        0.2147464714284674
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.4583333333333333
+    },
+    {
+      "task": "niah_single",
+      "k": 16,
+      "baseline": "static_joint_kl",
+      "metric": "answer_recall",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.08333333333333333,
+      "ci95": [
+        -0.20937499999999995,
+        0.375
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.20833333333333334
+    },
+    {
+      "task": "niah_single",
+      "k": 16,
+      "baseline": "static_joint_kl",
+      "metric": "all_answers",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.08333333333333333,
+      "ci95": [
+        -0.20937499999999995,
+        0.375
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.20833333333333334
+    },
+    {
+      "task": "niah_single",
+      "k": 16,
+      "baseline": "static_joint_kl",
+      "metric": "strict_exact",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.16666666666666666,
+      "ci95": [
+        0.041666666666666664,
+        0.3333333333333333
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.16666666666666666
+    },
+    {
+      "task": "niah_single",
+      "k": 16,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "kl",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.0455779122809569,
+      "ci95": [
+        -0.27769492706283927,
+        0.2063312805878617
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.4583333333333333
+    },
+    {
+      "task": "niah_single",
+      "k": 16,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "nll",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.12786056209976474,
+      "ci95": [
+        -0.4897771070944145,
+        0.2147464714284674
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.4583333333333333
+    },
+    {
+      "task": "niah_single",
+      "k": 16,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "answer_recall",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.08333333333333333,
+      "ci95": [
+        -0.20937499999999995,
+        0.375
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.20833333333333334
+    },
+    {
+      "task": "niah_single",
+      "k": 16,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "all_answers",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.08333333333333333,
+      "ci95": [
+        -0.20937499999999995,
+        0.375
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.20833333333333334
+    },
+    {
+      "task": "niah_single",
+      "k": 16,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "strict_exact",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.16666666666666666,
+      "ci95": [
+        0.041666666666666664,
+        0.3333333333333333
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.16666666666666666
+    },
+    {
+      "task": "niah_multi",
+      "k": 10,
+      "baseline": "static_joint_kl",
+      "metric": "kl",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.016649152462681133,
+      "ci95": [
+        -0.09209734544468422,
+        0.09283091126320261
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.375
+    },
+    {
+      "task": "niah_multi",
+      "k": 10,
+      "baseline": "static_joint_kl",
+      "metric": "nll",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.02938738154868285,
+      "ci95": [
+        -0.10588524055977662,
+        0.18474467114234958
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.5416666666666666
+    },
+    {
+      "task": "niah_multi",
+      "k": 10,
+      "baseline": "static_joint_kl",
+      "metric": "answer_recall",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.09722222222222221,
+      "ci95": [
+        -0.23645833333333333,
+        0.041666666666666685
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.2916666666666667
+    },
+    {
+      "task": "niah_multi",
+      "k": 10,
+      "baseline": "static_joint_kl",
+      "metric": "all_answers",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.08333333333333333,
+      "ci95": [
+        -0.125,
+        0.2916666666666667
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.16666666666666666
+    },
+    {
+      "task": "niah_multi",
+      "k": 10,
+      "baseline": "static_joint_kl",
+      "metric": "strict_exact",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.041666666666666664,
+      "ci95": [
+        0.0,
+        0.125
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.08333333333333333
+    },
+    {
+      "task": "niah_multi",
+      "k": 10,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "kl",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.023024432361125946,
+      "ci95": [
+        -0.07288970239460468,
+        0.039992090718199536
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.4166666666666667
+    },
+    {
+      "task": "niah_multi",
+      "k": 10,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "nll",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.0952368788421154,
+      "ci95": [
+        -0.18389948084950447,
+        -0.02574837232629464
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.25
+    },
+    {
+      "task": "niah_multi",
+      "k": 10,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "answer_recall",
+      "positive_means": "dynamic improves quality",
+      "difference": -9.25185853854297e-18,
+      "ci95": [
+        -0.19444444444444442,
+        0.19444444444444442
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.4583333333333333
+    },
+    {
+      "task": "niah_multi",
+      "k": 10,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "all_answers",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.125,
+      "ci95": [
+        -0.041666666666666664,
+        0.3333333333333333
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.20833333333333334
+    },
+    {
+      "task": "niah_multi",
+      "k": 10,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "strict_exact",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.08333333333333333,
+      "ci95": [
+        0.0,
+        0.16666666666666666
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.08333333333333333
+    },
+    {
+      "task": "niah_multi",
+      "k": 12,
+      "baseline": "static_joint_kl",
+      "metric": "kl",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.16098491847515106,
+      "ci95": [
+        -0.2107795158090691,
+        -0.10305792341629665
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.125
+    },
+    {
+      "task": "niah_multi",
+      "k": 12,
+      "baseline": "static_joint_kl",
+      "metric": "nll",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.13789436096946397,
+      "ci95": [
+        -0.23536598980426787,
+        -0.032566604173431865
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.2916666666666667
+    },
+    {
+      "task": "niah_multi",
+      "k": 12,
+      "baseline": "static_joint_kl",
+      "metric": "answer_recall",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.12499999999999999,
+      "ci95": [
+        -0.3055555555555555,
+        0.06944444444444446
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.25
+    },
+    {
+      "task": "niah_multi",
+      "k": 12,
+      "baseline": "static_joint_kl",
+      "metric": "all_answers",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.08333333333333333,
+      "ci95": [
+        -0.2916666666666667,
+        0.08333333333333333
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.125
+    },
+    {
+      "task": "niah_multi",
+      "k": 12,
+      "baseline": "static_joint_kl",
+      "metric": "strict_exact",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.041666666666666664,
+      "ci95": [
+        0.0,
+        0.125
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.041666666666666664
+    },
+    {
+      "task": "niah_multi",
+      "k": 12,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "kl",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.1512826376905044,
+      "ci95": [
+        -0.24002449543525775,
+        -0.061057778292646095
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.25
+    },
+    {
+      "task": "niah_multi",
+      "k": 12,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "nll",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.3021640790005525,
+      "ci95": [
+        -0.4563018403947353,
+        -0.13411970604211115
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.125
+    },
+    {
+      "task": "niah_multi",
+      "k": 12,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "answer_recall",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.23611111111111108,
+      "ci95": [
+        -0.45868055555555554,
+        1.850371707708594e-17
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.16666666666666666
+    },
+    {
+      "task": "niah_multi",
+      "k": 12,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "all_answers",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.041666666666666664,
+      "ci95": [
+        -0.2916666666666667,
+        0.20833333333333334
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.125
+    },
+    {
+      "task": "niah_multi",
+      "k": 12,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "strict_exact",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.041666666666666664,
+      "ci95": [
+        0.0,
+        0.125
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.041666666666666664
+    },
+    {
+      "task": "niah_multi",
+      "k": 16,
+      "baseline": "static_joint_kl",
+      "metric": "kl",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.07918842633565266,
+      "ci95": [
+        -0.0769130965694785,
+        0.23376657385379054
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.5416666666666666
+    },
+    {
+      "task": "niah_multi",
+      "k": 16,
+      "baseline": "static_joint_kl",
+      "metric": "nll",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.257796556999286,
+      "ci95": [
+        0.04973888241996369,
+        0.4533243164730568
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.6666666666666666
+    },
+    {
+      "task": "niah_multi",
+      "k": 16,
+      "baseline": "static_joint_kl",
+      "metric": "answer_recall",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.13888888888888887,
+      "ci95": [
+        -0.013888888888888883,
+        0.3055555555555555
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.375
+    },
+    {
+      "task": "niah_multi",
+      "k": 16,
+      "baseline": "static_joint_kl",
+      "metric": "all_answers",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.0
+    },
+    {
+      "task": "niah_multi",
+      "k": 16,
+      "baseline": "static_joint_kl",
+      "metric": "strict_exact",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.0
+    },
+    {
+      "task": "niah_multi",
+      "k": 16,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "kl",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.07918842633565266,
+      "ci95": [
+        -0.0769130965694785,
+        0.23376657385379054
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.5416666666666666
+    },
+    {
+      "task": "niah_multi",
+      "k": 16,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "nll",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.257796556999286,
+      "ci95": [
+        0.04973888241996369,
+        0.4533243164730568
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.6666666666666666
+    },
+    {
+      "task": "niah_multi",
+      "k": 16,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "answer_recall",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.13888888888888887,
+      "ci95": [
+        -0.013888888888888883,
+        0.3055555555555555
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.375
+    },
+    {
+      "task": "niah_multi",
+      "k": 16,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "all_answers",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.0
+    },
+    {
+      "task": "niah_multi",
+      "k": 16,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "strict_exact",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.0
+    },
+    {
+      "task": "variable_tracking",
+      "k": 10,
+      "baseline": "static_joint_kl",
+      "metric": "kl",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.07453666503230731,
+      "ci95": [
+        -0.13611908095578354,
+        -0.01227647958633805
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.2916666666666667
+    },
+    {
+      "task": "variable_tracking",
+      "k": 10,
+      "baseline": "static_joint_kl",
+      "metric": "nll",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.047580869247516,
+      "ci95": [
+        -0.122905134751151,
+        0.0394710972905159
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.4166666666666667
+    },
+    {
+      "task": "variable_tracking",
+      "k": 10,
+      "baseline": "static_joint_kl",
+      "metric": "answer_recall",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.06944444444444445,
+      "ci95": [
+        -0.3059027777777778,
+        0.167013888888887
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.2916666666666667
+    },
+    {
+      "task": "variable_tracking",
+      "k": 10,
+      "baseline": "static_joint_kl",
+      "metric": "all_answers",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.08333333333333333,
+      "ci95": [
+        -0.2916666666666667,
+        0.08333333333333333
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.125
+    },
+    {
+      "task": "variable_tracking",
+      "k": 10,
+      "baseline": "static_joint_kl",
+      "metric": "strict_exact",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.0
+    },
+    {
+      "task": "variable_tracking",
+      "k": 10,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "kl",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.11669655920316775,
+      "ci95": [
+        -0.24378807842731476,
+        0.030972821808730525
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.20833333333333334
+    },
+    {
+      "task": "variable_tracking",
+      "k": 10,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "nll",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.11396871631344159,
+      "ci95": [
+        -0.2528722753748298,
+        0.03910477158303059
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.25
+    },
+    {
+      "task": "variable_tracking",
+      "k": 10,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "answer_recall",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.25,
+      "ci95": [
+        -0.375,
+        -0.13888888888888887
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.041666666666666664
+    },
+    {
+      "task": "variable_tracking",
+      "k": 10,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "all_answers",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.08333333333333333,
+      "ci95": [
+        -0.2916666666666667,
+        0.08333333333333333
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.041666666666666664
+    },
+    {
+      "task": "variable_tracking",
+      "k": 10,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "strict_exact",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.0
+    },
+    {
+      "task": "variable_tracking",
+      "k": 12,
+      "baseline": "static_joint_kl",
+      "metric": "kl",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.15989818051457405,
+      "ci95": [
+        -0.28337215857269865,
+        -0.048924179670090474
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.25
+    },
+    {
+      "task": "variable_tracking",
+      "k": 12,
+      "baseline": "static_joint_kl",
+      "metric": "nll",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.1890845795472463,
+      "ci95": [
+        -0.320006874576211,
+        -0.07247846573591232
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.20833333333333334
+    },
+    {
+      "task": "variable_tracking",
+      "k": 12,
+      "baseline": "static_joint_kl",
+      "metric": "answer_recall",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.16666666666666666,
+      "ci95": [
+        -0.3333333333333333,
+        -0.01388888888888889
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.125
+    },
+    {
+      "task": "variable_tracking",
+      "k": 12,
+      "baseline": "static_joint_kl",
+      "metric": "all_answers",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.20833333333333334,
+      "ci95": [
+        -0.5,
+        0.041666666666666664
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.08333333333333333
+    },
+    {
+      "task": "variable_tracking",
+      "k": 12,
+      "baseline": "static_joint_kl",
+      "metric": "strict_exact",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.0
+    },
+    {
+      "task": "variable_tracking",
+      "k": 12,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "kl",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.12498311946789424,
+      "ci95": [
+        -0.2451937459409237,
+        0.007602705123523804
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.25
+    },
+    {
+      "task": "variable_tracking",
+      "k": 12,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "nll",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.19221043586730957,
+      "ci95": [
+        -0.3304635028665265,
+        -0.049095158154765776
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.20833333333333334
+    },
+    {
+      "task": "variable_tracking",
+      "k": 12,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "answer_recall",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.09722222222222221,
+      "ci95": [
+        -0.27777777777777773,
+        0.09722222222222221
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.2916666666666667
+    },
+    {
+      "task": "variable_tracking",
+      "k": 12,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "all_answers",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.08333333333333333,
+      "ci95": [
+        -0.08333333333333333,
+        0.2916666666666667
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.125
+    },
+    {
+      "task": "variable_tracking",
+      "k": 12,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "strict_exact",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.0
+    },
+    {
+      "task": "variable_tracking",
+      "k": 16,
+      "baseline": "static_joint_kl",
+      "metric": "kl",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.15694881292680898,
+      "ci95": [
+        -0.4335675139290591,
+        0.11717797003996862
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.375
+    },
+    {
+      "task": "variable_tracking",
+      "k": 16,
+      "baseline": "static_joint_kl",
+      "metric": "nll",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.14806530500451723,
+      "ci95": [
+        -0.45046023540198804,
+        0.160312116052955
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.4583333333333333
+    },
+    {
+      "task": "variable_tracking",
+      "k": 16,
+      "baseline": "static_joint_kl",
+      "metric": "answer_recall",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.09722222222222221,
+      "ci95": [
+        -0.3194444444444444,
+        0.08333333333333333
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.08333333333333333
+    },
+    {
+      "task": "variable_tracking",
+      "k": 16,
+      "baseline": "static_joint_kl",
+      "metric": "all_answers",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.0,
+      "ci95": [
+        -0.125,
+        0.125
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.041666666666666664
+    },
+    {
+      "task": "variable_tracking",
+      "k": 16,
+      "baseline": "static_joint_kl",
+      "metric": "strict_exact",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.0
+    },
+    {
+      "task": "variable_tracking",
+      "k": 16,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "kl",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.15694881292680898,
+      "ci95": [
+        -0.4335675139290591,
+        0.11717797003996862
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.375
+    },
+    {
+      "task": "variable_tracking",
+      "k": 16,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "nll",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.14806530500451723,
+      "ci95": [
+        -0.45046023540198804,
+        0.160312116052955
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.4583333333333333
+    },
+    {
+      "task": "variable_tracking",
+      "k": 16,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "answer_recall",
+      "positive_means": "dynamic improves quality",
+      "difference": -0.09722222222222221,
+      "ci95": [
+        -0.3194444444444444,
+        0.08333333333333333
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.08333333333333333
+    },
+    {
+      "task": "variable_tracking",
+      "k": 16,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "all_answers",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.0,
+      "ci95": [
+        -0.125,
+        0.125
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.041666666666666664
+    },
+    {
+      "task": "variable_tracking",
+      "k": 16,
+      "baseline": "calibrated_static_portfolio",
+      "metric": "strict_exact",
+      "positive_means": "dynamic improves quality",
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 24,
+      "clusters": 8,
+      "fraction_positive": 0.0
+    }
+  ],
+  "diagnostic_aggregates": [
+    {
+      "policy": "static_joint_kl",
+      "k": 10,
+      "documents": 16,
+      "kl": 0.3602724326774478,
+      "nll": 2.93243807554245,
+      "ppl": 18.773345580323568
+    },
+    {
+      "policy": "router_m6",
+      "k": 10,
+      "documents": 16,
+      "kl": 0.3573199904834231,
+      "nll": 2.914094068109989,
+      "ppl": 18.43210660355912
+    },
+    {
+      "policy": "future_greedy_m6",
+      "k": 10,
+      "documents": 16,
+      "kl": 0.23193061538040638,
+      "nll": 2.8113606199622154,
+      "ppl": 16.632533386921622
+    },
+    {
+      "policy": "future_greedy_m0",
+      "k": 10,
+      "documents": 16,
+      "kl": 0.22164359176531434,
+      "nll": 2.746024802327156,
+      "ppl": 15.580572760689165
+    },
+    {
+      "policy": "static_joint_kl",
+      "k": 12,
+      "documents": 16,
+      "kl": 0.5162630490958691,
+      "nll": 3.0730503872036934,
+      "ppl": 21.607714143465536
+    },
+    {
+      "policy": "router_m6",
+      "k": 12,
+      "documents": 16,
+      "kl": 0.544955492640535,
+      "nll": 3.065554765363534,
+      "ppl": 21.446356383272533
+    },
+    {
+      "policy": "future_greedy_m6",
+      "k": 12,
+      "documents": 16,
+      "kl": 0.3686418766155839,
+      "nll": 2.896230787038803,
+      "ppl": 18.105772082844965
+    },
+    {
+      "policy": "future_greedy_m0",
+      "k": 12,
+      "documents": 16,
+      "kl": 0.3707235502079129,
+      "nll": 2.885786958038807,
+      "ppl": 17.9176624972834
+    },
+    {
+      "policy": "static_joint_kl",
+      "k": 16,
+      "documents": 16,
+      "kl": 1.025219276547432,
+      "nll": 3.5823236256837845,
+      "ppl": 35.956994447859586
+    },
+    {
+      "policy": "router_m6",
+      "k": 16,
+      "documents": 16,
+      "kl": 1.1264160238206387,
+      "nll": 3.5935833553473158,
+      "ppl": 36.36414840497609
+    },
+    {
+      "policy": "future_greedy_m6",
+      "k": 16,
+      "documents": 16,
+      "kl": 0.785181337967515,
+      "nll": 3.3456991761922836,
+      "ppl": 28.380411639571083
+    },
+    {
+      "policy": "future_greedy_m0",
+      "k": 16,
+      "documents": 16,
+      "kl": 0.7816577199846506,
+      "nll": 3.3169312924146652,
+      "ppl": 27.57559913611963
+    }
+  ],
+  "diagnostic_paired": [
+    {
+      "k": 10,
+      "metric": "kl",
+      "baseline": "static_joint_kl",
+      "reference": "future_greedy_m6",
+      "positive_means": "reference improves quality",
+      "difference": 0.12834181729704142,
+      "ci95": [
+        0.06776410420425236,
+        0.20326623334549365
+      ],
+      "records": 16,
+      "clusters": 16,
+      "fraction_positive": 1.0
+    },
+    {
+      "k": 10,
+      "metric": "nll",
+      "baseline": "static_joint_kl",
+      "reference": "future_greedy_m6",
+      "positive_means": "reference improves quality",
+      "difference": 0.12107745558023453,
+      "ci95": [
+        0.03935770243406296,
+        0.21256824228912588
+      ],
+      "records": 16,
+      "clusters": 16,
+      "fraction_positive": 0.875
+    },
+    {
+      "k": 10,
+      "metric": "kl",
+      "baseline": "static_joint_kl",
+      "reference": "future_greedy_m0",
+      "positive_means": "reference improves quality",
+      "difference": 0.13862884091213346,
+      "ci95": [
+        0.05532686297083274,
+        0.2373409486724995
+      ],
+      "records": 16,
+      "clusters": 16,
+      "fraction_positive": 1.0
+    },
+    {
+      "k": 10,
+      "metric": "nll",
+      "baseline": "static_joint_kl",
+      "reference": "future_greedy_m0",
+      "positive_means": "reference improves quality",
+      "difference": 0.18641327321529388,
+      "ci95": [
+        0.07871974632143974,
+        0.3012845503166316
+      ],
+      "records": 16,
+      "clusters": 16,
+      "fraction_positive": 0.875
+    },
+    {
+      "k": 10,
+      "metric": "kl",
+      "baseline": "router_m6",
+      "reference": "future_greedy_m6",
+      "positive_means": "reference improves quality",
+      "difference": 0.1253893751030167,
+      "ci95": [
+        0.08422228486742825,
+        0.18170610289089384
+      ],
+      "records": 16,
+      "clusters": 16,
+      "fraction_positive": 1.0
+    },
+    {
+      "k": 10,
+      "metric": "nll",
+      "baseline": "router_m6",
+      "reference": "future_greedy_m6",
+      "positive_means": "reference improves quality",
+      "difference": 0.10273344814777374,
+      "ci95": [
+        0.03777038436383009,
+        0.18017058627059054
+      ],
+      "records": 16,
+      "clusters": 16,
+      "fraction_positive": 0.75
+    },
+    {
+      "k": 10,
+      "metric": "kl",
+      "baseline": "future_greedy_m6",
+      "reference": "future_greedy_m0",
+      "positive_means": "reference improves quality",
+      "difference": 0.010287023615092039,
+      "ci95": [
+        -0.01282717710128054,
+        0.039557164115831246
+      ],
+      "records": 16,
+      "clusters": 16,
+      "fraction_positive": 0.375
+    },
+    {
+      "k": 10,
+      "metric": "nll",
+      "baseline": "future_greedy_m6",
+      "reference": "future_greedy_m0",
+      "positive_means": "reference improves quality",
+      "difference": 0.06533581763505936,
+      "ci95": [
+        0.022117548622190952,
+        0.10544839948415755
+      ],
+      "records": 16,
+      "clusters": 16,
+      "fraction_positive": 0.75
+    },
+    {
+      "k": 12,
+      "metric": "kl",
+      "baseline": "static_joint_kl",
+      "reference": "future_greedy_m6",
+      "positive_means": "reference improves quality",
+      "difference": 0.14762117248028517,
+      "ci95": [
+        0.10713240271434188,
+        0.19600060028024016
+      ],
+      "records": 16,
+      "clusters": 16,
+      "fraction_positive": 1.0
+    },
+    {
+      "k": 12,
+      "metric": "nll",
+      "baseline": "static_joint_kl",
+      "reference": "future_greedy_m6",
+      "positive_means": "reference improves quality",
+      "difference": 0.1768196001648903,
+      "ci95": [
+        0.11367265451699496,
+        0.25001385528594255
+      ],
+      "records": 16,
+      "clusters": 16,
+      "fraction_positive": 0.9375
+    },
+    {
+      "k": 12,
+      "metric": "kl",
+      "baseline": "static_joint_kl",
+      "reference": "future_greedy_m0",
+      "positive_means": "reference improves quality",
+      "difference": 0.14553949888795614,
+      "ci95": [
+        0.08482432856690139,
+        0.21493298355489956
+      ],
+      "records": 16,
+      "clusters": 16,
+      "fraction_positive": 0.9375
+    },
+    {
+      "k": 12,
+      "metric": "nll",
+      "baseline": "static_joint_kl",
+      "reference": "future_greedy_m0",
+      "positive_means": "reference improves quality",
+      "difference": 0.18726342916488647,
+      "ci95": [
+        0.09966384340077639,
+        0.28113923054188483
+      ],
+      "records": 16,
+      "clusters": 16,
+      "fraction_positive": 0.875
+    },
+    {
+      "k": 12,
+      "metric": "kl",
+      "baseline": "router_m6",
+      "reference": "future_greedy_m6",
+      "positive_means": "reference improves quality",
+      "difference": 0.17631361602495113,
+      "ci95": [
+        0.13314160449275128,
+        0.24293017420762525
+      ],
+      "records": 16,
+      "clusters": 16,
+      "fraction_positive": 1.0
+    },
+    {
+      "k": 12,
+      "metric": "nll",
+      "baseline": "router_m6",
+      "reference": "future_greedy_m6",
+      "positive_means": "reference improves quality",
+      "difference": 0.16932397832473123,
+      "ci95": [
+        0.09345974773168557,
+        0.2494057147453229
+      ],
+      "records": 16,
+      "clusters": 16,
+      "fraction_positive": 0.875
+    },
+    {
+      "k": 12,
+      "metric": "kl",
+      "baseline": "future_greedy_m6",
+      "reference": "future_greedy_m0",
+      "positive_means": "reference improves quality",
+      "difference": -0.0020816735923290253,
+      "ci95": [
+        -0.029469824442639948,
+        0.02585579776205119
+      ],
+      "records": 16,
+      "clusters": 16,
+      "fraction_positive": 0.375
+    },
+    {
+      "k": 12,
+      "metric": "nll",
+      "baseline": "future_greedy_m6",
+      "reference": "future_greedy_m0",
+      "positive_means": "reference improves quality",
+      "difference": 0.010443828999996185,
+      "ci95": [
+        -0.05142012611031532,
+        0.07953563518822188
+      ],
+      "records": 16,
+      "clusters": 16,
+      "fraction_positive": 0.375
+    },
+    {
+      "k": 16,
+      "metric": "kl",
+      "baseline": "static_joint_kl",
+      "reference": "future_greedy_m6",
+      "positive_means": "reference improves quality",
+      "difference": 0.24003793857991695,
+      "ci95": [
+        0.15361978481523691,
+        0.33911116924136864
+      ],
+      "records": 16,
+      "clusters": 16,
+      "fraction_positive": 0.875
+    },
+    {
+      "k": 16,
+      "metric": "nll",
+      "baseline": "static_joint_kl",
+      "reference": "future_greedy_m6",
+      "positive_means": "reference improves quality",
+      "difference": 0.23662444949150085,
+      "ci95": [
+        0.08106606639921665,
+        0.38891555331647387
+      ],
+      "records": 16,
+      "clusters": 16,
+      "fraction_positive": 0.8125
+    },
+    {
+      "k": 16,
+      "metric": "kl",
+      "baseline": "static_joint_kl",
+      "reference": "future_greedy_m0",
+      "positive_means": "reference improves quality",
+      "difference": 0.24356155656278133,
+      "ci95": [
+        0.1353607252240181,
+        0.37032422241754825
+      ],
+      "records": 16,
+      "clusters": 16,
+      "fraction_positive": 1.0
+    },
+    {
+      "k": 16,
+      "metric": "nll",
+      "baseline": "static_joint_kl",
+      "reference": "future_greedy_m0",
+      "positive_means": "reference improves quality",
+      "difference": 0.26539233326911926,
+      "ci95": [
+        0.14814572036266327,
+        0.4013785470277071
+      ],
+      "records": 16,
+      "clusters": 16,
+      "fraction_positive": 0.9375
+    },
+    {
+      "k": 16,
+      "metric": "kl",
+      "baseline": "router_m6",
+      "reference": "future_greedy_m6",
+      "positive_means": "reference improves quality",
+      "difference": 0.34123468585312366,
+      "ci95": [
+        0.24070460281024378,
+        0.4560231092851607
+      ],
+      "records": 16,
+      "clusters": 16,
+      "fraction_positive": 1.0
+    },
+    {
+      "k": 16,
+      "metric": "nll",
+      "baseline": "router_m6",
+      "reference": "future_greedy_m6",
+      "positive_means": "reference improves quality",
+      "difference": 0.2478841791550318,
+      "ci95": [
+        0.09007678708682455,
+        0.401141986126701
+      ],
+      "records": 16,
+      "clusters": 16,
+      "fraction_positive": 0.875
+    },
+    {
+      "k": 16,
+      "metric": "kl",
+      "baseline": "future_greedy_m6",
+      "reference": "future_greedy_m0",
+      "positive_means": "reference improves quality",
+      "difference": 0.00352361798286438,
+      "ci95": [
+        -0.052459787530824545,
+        0.06118246531113978
+      ],
+      "records": 16,
+      "clusters": 16,
+      "fraction_positive": 0.5625
+    },
+    {
+      "k": 16,
+      "metric": "nll",
+      "baseline": "future_greedy_m6",
+      "reference": "future_greedy_m0",
+      "positive_means": "reference improves quality",
+      "difference": 0.028767883777618408,
+      "ci95": [
+        -0.08668963834643365,
+        0.15263762995600672
+      ],
+      "records": 16,
+      "clusters": 16,
+      "fraction_positive": 0.625
+    }
+  ],
+  "ruler_rows": 720,
+  "diagnostic_rows": 304,
+  "limits": "Exploratory2K synthetic probe, one router seed579 for retrieval and3 seeds forC4; no recovery. Headroom references see true future targets, not deployable or guaranteed optimal. Case-clustered intervals do not include training-seed uncertainty."
+}

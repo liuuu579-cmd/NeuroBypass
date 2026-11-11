@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "preserved_files": 1801,
+  "input_and_source_hashes_verified": true,
+  "all_four_engineering_gates_verified": true,
+  "cpu_count": 42,
+  "no_weights_or_private_samples_in_publication": true
+}
