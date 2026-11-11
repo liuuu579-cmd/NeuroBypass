@@ -1,0 +1,139 @@
+{
+  "state": "incomplete",
+  "reason": "Static579 fourth overflow in epoch4 triggers global failure; fourth attempt not logged because raise precedes write. All workers stopped. No after-evaluation.",
+  "old_run": "/home/liushenyu/test/NeuroBypass/runs/stage15_depth_slot_recovery_20261111_01",
+  "old_status": {
+    "state": "failed",
+    "exit_code": 1,
+    "finished_at": "2026-11-11T10:22:35.193184+08:00"
+  },
+  "preserved_files": 1639,
+  "all_existing_hashes_unchanged": true,
+  "partial_records": [
+    {
+      "rank": 0,
+      "arm": "dynamic",
+      "seed": 579,
+      "recorded_batches": 397,
+      "last_recorded_scale": 128.0,
+      "recorded_overflows": 0,
+      "finished_epochs": 3,
+      "before_selection_kl": 0.7529788920655847,
+      "partial_best_epoch": 1,
+      "partial_best_selection_kl": 0.5657378593459725,
+      "overflows": [],
+      "quality_rows": 2248,
+      "after_quality_rows": 0
+    },
+    {
+      "rank": 1,
+      "arm": "static",
+      "seed": 579,
+      "recorded_batches": 392,
+      "last_recorded_scale": 16.0,
+      "recorded_overflows": 3,
+      "finished_epochs": 3,
+      "before_selection_kl": 0.7007202245295048,
+      "partial_best_epoch": 2,
+      "partial_best_selection_kl": 0.47095025703310966,
+      "overflows": [
+        {
+          "epoch": 4,
+          "update": 375,
+          "batch_ids": [
+            669,
+            419,
+            683,
+            432,
+            777,
+            572,
+            695,
+            609
+          ],
+          "loss": 5.460826069116592,
+          "ce": 3.759790539741516,
+          "kl": 1.701035626232624,
+          "lr": 0.00011849444672715586,
+          "grad_norm": null,
+          "scale": 64.0,
+          "skipped_updates": 1
+        },
+        {
+          "epoch": 4,
+          "update": 385,
+          "batch_ids": [
+            764,
+            645,
+            25,
+            944,
+            591,
+            515,
+            948,
+            18
+          ],
+          "loss": 8.281270951032639,
+          "ce": 5.225305676460266,
+          "kl": 3.0559649616479874,
+          "lr": 0.00011441744040073468,
+          "grad_norm": null,
+          "scale": 32.0,
+          "skipped_updates": 2
+        },
+        {
+          "epoch": 4,
+          "update": 392,
+          "batch_ids": [
+            844,
+            856,
+            999,
+            594,
+            627,
+            667,
+            438,
+            847
+          ],
+          "loss": 7.140033781528473,
+          "ce": 4.552013605833054,
+          "kl": 2.588020235300064,
+          "lr": 0.00011154846369695863,
+          "grad_norm": null,
+          "scale": 16.0,
+          "skipped_updates": 3
+        }
+      ],
+      "quality_rows": 2248,
+      "after_quality_rows": 0
+    },
+    {
+      "rank": 2,
+      "arm": "dynamic",
+      "seed": 580,
+      "recorded_batches": 371,
+      "last_recorded_scale": 128.0,
+      "recorded_overflows": 0,
+      "finished_epochs": 3,
+      "before_selection_kl": 0.7559579126536846,
+      "partial_best_epoch": 2,
+      "partial_best_selection_kl": 0.5394070968031883,
+      "overflows": [],
+      "quality_rows": 2248,
+      "after_quality_rows": 0
+    },
+    {
+      "rank": 3,
+      "arm": "static",
+      "seed": 580,
+      "recorded_batches": 383,
+      "last_recorded_scale": 128.0,
+      "recorded_overflows": 0,
+      "finished_epochs": 3,
+      "before_selection_kl": 0.7007202245295048,
+      "partial_best_epoch": 2,
+      "partial_best_selection_kl": 0.4696272760629654,
+      "overflows": [],
+      "quality_rows": 2248,
+      "after_quality_rows": 0
+    }
+  ],
+  "interpretation": "Selection diagnostics only, no completed quality recovery claim; rerun all four from fresh initialization for matched budget."
+}
