@@ -1,0 +1,6315 @@
+{
+  "aggregates": [
+    {
+      "task": "c4_development",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k16_b04",
+      "records": 100,
+      "kl": 0.8063243579982714,
+      "nll": 3.2635540731473816,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k16_b08",
+      "records": 100,
+      "kl": 0.8063243579982714,
+      "nll": 3.2635540731473816,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k20_b04",
+      "records": 100,
+      "kl": 1.3804042090219264,
+      "nll": 3.80709583114569,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k20_b08",
+      "records": 100,
+      "kl": 1.3804042090219264,
+      "nll": 3.80709583114569,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k24_b04",
+      "records": 100,
+      "kl": 2.7216749344729307,
+      "nll": 5.168886672473033,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k24_b08",
+      "records": 100,
+      "kl": 2.7216749344729307,
+      "nll": 5.168886672473033,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k16_b04",
+      "records": 100,
+      "kl": 0.8063243579982714,
+      "nll": 3.2635540731473816,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k16_b08",
+      "records": 100,
+      "kl": 0.8063243579982714,
+      "nll": 3.2635540731473816,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k20_b04",
+      "records": 100,
+      "kl": 1.3804042090219264,
+      "nll": 3.80709583114569,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k20_b08",
+      "records": 100,
+      "kl": 1.3804042090219264,
+      "nll": 3.80709583114569,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k24_b04",
+      "records": 100,
+      "kl": 2.7216749344729307,
+      "nll": 5.168886672473033,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k24_b08",
+      "records": 100,
+      "kl": 2.7216749344729307,
+      "nll": 5.168886672473033,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k16_b04",
+      "records": 100,
+      "kl": 0.8063243579982714,
+      "nll": 3.2635540731473816,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k16_b08",
+      "records": 100,
+      "kl": 0.8063243579982714,
+      "nll": 3.2635540731473816,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k20_b04",
+      "records": 100,
+      "kl": 1.3804042090219264,
+      "nll": 3.80709583114569,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k20_b08",
+      "records": 100,
+      "kl": 1.3804042090219264,
+      "nll": 3.80709583114569,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k24_b04",
+      "records": 100,
+      "kl": 2.7216749344729307,
+      "nll": 5.168886672473033,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k24_b08",
+      "records": 100,
+      "kl": 2.7216749344729307,
+      "nll": 5.168886672473033,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k16_b04",
+      "records": 100,
+      "kl": 0.8063243579982714,
+      "nll": 3.2635540731473816,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k16_b08",
+      "records": 100,
+      "kl": 0.8063243579982714,
+      "nll": 3.2635540731473816,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k20_b04",
+      "records": 100,
+      "kl": 1.3804042090219264,
+      "nll": 3.80709583114569,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k20_b08",
+      "records": 100,
+      "kl": 1.3804042090219264,
+      "nll": 3.80709583114569,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k24_b04",
+      "records": 100,
+      "kl": 2.7216749344729307,
+      "nll": 5.168886672473033,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k24_b08",
+      "records": 100,
+      "kl": 2.7216749344729307,
+      "nll": 5.168886672473033,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k16_b04",
+      "records": 100,
+      "kl": 0.798280304863954,
+      "nll": 3.252851933161045,
+      "k": 16.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k16_b08",
+      "records": 100,
+      "kl": 0.8143906197563865,
+      "nll": 3.2707141579427,
+      "k": 16.0,
+      "unique_masks": 7
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k20_b04",
+      "records": 100,
+      "kl": 1.3517666911604647,
+      "nll": 3.780637555500214,
+      "k": 20.0,
+      "unique_masks": 3
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k20_b08",
+      "records": 100,
+      "kl": 1.3379702031831948,
+      "nll": 3.773429299842003,
+      "k": 20.0,
+      "unique_masks": 5
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k24_b04",
+      "records": 100,
+      "kl": 2.7216749344729307,
+      "nll": 5.168886672473033,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k24_b08",
+      "records": 100,
+      "kl": 2.731712056045026,
+      "nll": 5.174040568907778,
+      "k": 24.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k16_b04",
+      "records": 100,
+      "kl": 0.808375681228872,
+      "nll": 3.2768594913101996,
+      "k": 16.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k16_b08",
+      "records": 100,
+      "kl": 0.812366692006899,
+      "nll": 3.265359824609982,
+      "k": 16.0,
+      "unique_masks": 8
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k20_b04",
+      "records": 100,
+      "kl": 1.3529725539878017,
+      "nll": 3.776909795170045,
+      "k": 20.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k20_b08",
+      "records": 100,
+      "kl": 1.339884105097899,
+      "nll": 3.7573442795226173,
+      "k": 20.0,
+      "unique_masks": 6
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k24_b04",
+      "records": 100,
+      "kl": 2.7216749344729307,
+      "nll": 5.168886672473033,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k24_b08",
+      "records": 100,
+      "kl": 2.7216749344729307,
+      "nll": 5.168886672473033,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k16_b04",
+      "records": 100,
+      "kl": 0.8060037821352943,
+      "nll": 3.260142375759009,
+      "k": 16.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k16_b08",
+      "records": 100,
+      "kl": 0.8100678435629652,
+      "nll": 3.2749651917011464,
+      "k": 16.0,
+      "unique_masks": 8
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k20_b04",
+      "records": 100,
+      "kl": 1.348833969330808,
+      "nll": 3.777927104173275,
+      "k": 20.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k20_b08",
+      "records": 100,
+      "kl": 1.3622999277117014,
+      "nll": 3.785501870014516,
+      "k": 20.0,
+      "unique_masks": 3
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k24_b04",
+      "records": 100,
+      "kl": 2.7216749344729307,
+      "nll": 5.168886672473033,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k24_b08",
+      "records": 100,
+      "kl": 2.7216749344729307,
+      "nll": 5.168886672473033,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.774181664086683,
+      "nll": 3.354648085124909,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.774181664086683,
+      "nll": 3.354648085124909,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.3088610426063383,
+      "nll": 3.7772574086679915,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.3088610426063383,
+      "nll": 3.7772574086679915,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.7743855040823746,
+      "nll": 5.174563630547368,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.7743855040823746,
+      "nll": 5.174563630547368,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.774181664086683,
+      "nll": 3.354648085124909,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.774181664086683,
+      "nll": 3.354648085124909,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.3088610426063383,
+      "nll": 3.7772574086679915,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.3088610426063383,
+      "nll": 3.7772574086679915,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.7743855040823746,
+      "nll": 5.174563630547368,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.7743855040823746,
+      "nll": 5.174563630547368,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.774181664086683,
+      "nll": 3.354648085124909,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.774181664086683,
+      "nll": 3.354648085124909,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.3088610426063383,
+      "nll": 3.7772574086679915,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.3088610426063383,
+      "nll": 3.7772574086679915,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.7743855040823746,
+      "nll": 5.174563630547368,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.7743855040823746,
+      "nll": 5.174563630547368,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.774181664086683,
+      "nll": 3.354648085124909,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.774181664086683,
+      "nll": 3.354648085124909,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.3088610426063383,
+      "nll": 3.7772574086679915,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.3088610426063383,
+      "nll": 3.7772574086679915,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.7743855040823746,
+      "nll": 5.174563630547368,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.7743855040823746,
+      "nll": 5.174563630547368,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.7736257184581348,
+      "nll": 3.3451768223788623,
+      "k": 16.0,
+      "unique_masks": 2
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.7822480154145524,
+      "nll": 3.3426323770108315,
+      "k": 16.0,
+      "unique_masks": 7
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.3091745884448471,
+      "nll": 3.7945248722636213,
+      "k": 20.0,
+      "unique_masks": 2
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.3194997420018524,
+      "nll": 3.823951421020335,
+      "k": 20.0,
+      "unique_masks": 3
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.7743855040823746,
+      "nll": 5.174563630547368,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.7779312725340333,
+      "nll": 5.189848952703528,
+      "k": 24.0,
+      "unique_masks": 3
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.7775088139866995,
+      "nll": 3.33334097476474,
+      "k": 16.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.7769353092385245,
+      "nll": 3.334682120089356,
+      "k": 16.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.3433005423302973,
+      "nll": 3.831138510472001,
+      "k": 20.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.3067123911732494,
+      "nll": 3.791794854072676,
+      "k": 20.0,
+      "unique_masks": 2
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.7743855040823746,
+      "nll": 5.174563630547368,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.7743855040823746,
+      "nll": 5.174563630547368,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.7790148594852155,
+      "nll": 3.340517977566906,
+      "k": 16.0,
+      "unique_masks": 3
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.7789639326223536,
+      "nll": 3.3400640736919858,
+      "k": 16.0,
+      "unique_masks": 6
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.3186418530630988,
+      "nll": 3.78876279196973,
+      "k": 20.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.3101095432475347,
+      "nll": 3.7760439802616323,
+      "k": 20.0,
+      "unique_masks": 2
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.7743855040823746,
+      "nll": 5.174563630547368,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.7743855040823746,
+      "nll": 5.174563630547368,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.7117534647684038,
+      "nll": 3.382901761011727,
+      "correct_norm": 0.5625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.7117534647684038,
+      "nll": 3.382901761011727,
+      "correct_norm": 0.5625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.1556987832324,
+      "nll": 3.7416788363471536,
+      "correct_norm": 0.40625,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.1556987832324,
+      "nll": 3.7416788363471536,
+      "correct_norm": 0.40625,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.2712162874678756,
+      "nll": 4.883176955383839,
+      "correct_norm": 0.28125,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.2712162874678756,
+      "nll": 4.883176955383839,
+      "correct_norm": 0.28125,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.7117534647684038,
+      "nll": 3.382901761011727,
+      "correct_norm": 0.5625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.7117534647684038,
+      "nll": 3.382901761011727,
+      "correct_norm": 0.5625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.1556987832324,
+      "nll": 3.7416788363471536,
+      "correct_norm": 0.40625,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.1556987832324,
+      "nll": 3.7416788363471536,
+      "correct_norm": 0.40625,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.2712162874678756,
+      "nll": 4.883176955383839,
+      "correct_norm": 0.28125,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.2712162874678756,
+      "nll": 4.883176955383839,
+      "correct_norm": 0.28125,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.7117534647684038,
+      "nll": 3.382901761011727,
+      "correct_norm": 0.5625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.7117534647684038,
+      "nll": 3.382901761011727,
+      "correct_norm": 0.5625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.1556987832324,
+      "nll": 3.7416788363471536,
+      "correct_norm": 0.40625,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.1556987832324,
+      "nll": 3.7416788363471536,
+      "correct_norm": 0.40625,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.2712162874678756,
+      "nll": 4.883176955383839,
+      "correct_norm": 0.28125,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.2712162874678756,
+      "nll": 4.883176955383839,
+      "correct_norm": 0.28125,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.7117534647684038,
+      "nll": 3.382901761011727,
+      "correct_norm": 0.5625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.7117534647684038,
+      "nll": 3.382901761011727,
+      "correct_norm": 0.5625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.1556987832324,
+      "nll": 3.7416788363471536,
+      "correct_norm": 0.40625,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.1556987832324,
+      "nll": 3.7416788363471536,
+      "correct_norm": 0.40625,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.2712162874678756,
+      "nll": 4.883176955383839,
+      "correct_norm": 0.28125,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.2712162874678756,
+      "nll": 4.883176955383839,
+      "correct_norm": 0.28125,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.705872962759625,
+      "nll": 3.426571094070196,
+      "correct_norm": 0.5,
+      "k": 16.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.7241586623018152,
+      "nll": 3.4332217679908545,
+      "correct_norm": 0.5,
+      "k": 16.0,
+      "unique_masks": 5
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.1282466687598172,
+      "nll": 3.681919733610002,
+      "correct_norm": 0.40625,
+      "k": 20.0,
+      "unique_masks": 3
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.1174339928550538,
+      "nll": 3.674072711722258,
+      "correct_norm": 0.40625,
+      "k": 20.0,
+      "unique_masks": 5
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.2712162874678756,
+      "nll": 4.883176955383839,
+      "correct_norm": 0.28125,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.258993231976664,
+      "nll": 4.875492464268515,
+      "correct_norm": 0.3125,
+      "k": 24.0,
+      "unique_masks": 3
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.7126085497129286,
+      "nll": 3.4218567796204797,
+      "correct_norm": 0.5,
+      "k": 16.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.731566257986283,
+      "nll": 3.404437813530745,
+      "correct_norm": 0.46875,
+      "k": 16.0,
+      "unique_masks": 8
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.1377782480250649,
+      "nll": 3.722933131370116,
+      "correct_norm": 0.375,
+      "k": 20.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.1484776889881603,
+      "nll": 3.7353272275773968,
+      "correct_norm": 0.40625,
+      "k": 20.0,
+      "unique_masks": 5
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.2712162874678756,
+      "nll": 4.883176955383839,
+      "correct_norm": 0.28125,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.2712162874678756,
+      "nll": 4.883176955383839,
+      "correct_norm": 0.28125,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.7204918874018073,
+      "nll": 3.431379278375927,
+      "correct_norm": 0.5,
+      "k": 16.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.714312586286911,
+      "nll": 3.428387492308142,
+      "correct_norm": 0.5,
+      "k": 16.0,
+      "unique_masks": 7
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.1495644849163473,
+      "nll": 3.7261972695069154,
+      "correct_norm": 0.375,
+      "k": 20.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.1198506986229733,
+      "nll": 3.6867267800314383,
+      "correct_norm": 0.4375,
+      "k": 20.0,
+      "unique_masks": 3
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.2712162874678756,
+      "nll": 4.883176955383839,
+      "correct_norm": 0.28125,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.2712162874678756,
+      "nll": 4.883176955383839,
+      "correct_norm": 0.28125,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.7291234034360492,
+      "nll": 3.575639886636085,
+      "correct_norm": 0.65625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.7291234034360492,
+      "nll": 3.575639886636085,
+      "correct_norm": 0.65625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.3275104100097006,
+      "nll": 4.273304988163975,
+      "correct_norm": 0.625,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.3275104100097006,
+      "nll": 4.273304988163975,
+      "correct_norm": 0.625,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.6094585102008967,
+      "nll": 5.5692752786533575,
+      "correct_norm": 0.46875,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.6094585102008967,
+      "nll": 5.5692752786533575,
+      "correct_norm": 0.46875,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.7291234034360492,
+      "nll": 3.575639886636085,
+      "correct_norm": 0.65625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.7291234034360492,
+      "nll": 3.575639886636085,
+      "correct_norm": 0.65625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.3275104100097006,
+      "nll": 4.273304988163975,
+      "correct_norm": 0.625,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.3275104100097006,
+      "nll": 4.273304988163975,
+      "correct_norm": 0.625,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.6094585102008967,
+      "nll": 5.5692752786533575,
+      "correct_norm": 0.46875,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.6094585102008967,
+      "nll": 5.5692752786533575,
+      "correct_norm": 0.46875,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.7291234034360492,
+      "nll": 3.575639886636085,
+      "correct_norm": 0.65625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.7291234034360492,
+      "nll": 3.575639886636085,
+      "correct_norm": 0.65625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.3275104100097006,
+      "nll": 4.273304988163975,
+      "correct_norm": 0.625,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.3275104100097006,
+      "nll": 4.273304988163975,
+      "correct_norm": 0.625,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.6094585102008967,
+      "nll": 5.5692752786533575,
+      "correct_norm": 0.46875,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.6094585102008967,
+      "nll": 5.5692752786533575,
+      "correct_norm": 0.46875,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.7291234034360492,
+      "nll": 3.575639886636085,
+      "correct_norm": 0.65625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.7291234034360492,
+      "nll": 3.575639886636085,
+      "correct_norm": 0.65625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.3275104100097006,
+      "nll": 4.273304988163975,
+      "correct_norm": 0.625,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.3275104100097006,
+      "nll": 4.273304988163975,
+      "correct_norm": 0.625,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.6094585102008967,
+      "nll": 5.5692752786533575,
+      "correct_norm": 0.46875,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.6094585102008967,
+      "nll": 5.5692752786533575,
+      "correct_norm": 0.46875,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.7536828458984832,
+      "nll": 3.645532256378555,
+      "correct_norm": 0.65625,
+      "k": 16.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.7539744910072601,
+      "nll": 3.66722578549492,
+      "correct_norm": 0.65625,
+      "k": 16.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.3275104100097006,
+      "nll": 4.273304988163975,
+      "correct_norm": 0.625,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.3136299907192943,
+      "nll": 4.2377314014425345,
+      "correct_norm": 0.59375,
+      "k": 20.0,
+      "unique_masks": 3
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.6094585102008967,
+      "nll": 5.5692752786533575,
+      "correct_norm": 0.46875,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.590793896773211,
+      "nll": 5.538085946296183,
+      "correct_norm": 0.5,
+      "k": 24.0,
+      "unique_masks": 2
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.7690044037212845,
+      "nll": 3.638417391665967,
+      "correct_norm": 0.625,
+      "k": 16.0,
+      "unique_masks": 3
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.7112880077563182,
+      "nll": 3.5630290719620024,
+      "correct_norm": 0.625,
+      "k": 16.0,
+      "unique_masks": 3
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.346407749845876,
+      "nll": 4.272292003504013,
+      "correct_norm": 0.59375,
+      "k": 20.0,
+      "unique_masks": 3
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.322084860152105,
+      "nll": 4.26933811640323,
+      "correct_norm": 0.65625,
+      "k": 20.0,
+      "unique_masks": 2
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.6094585102008967,
+      "nll": 5.5692752786533575,
+      "correct_norm": 0.46875,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.6094585102008967,
+      "nll": 5.5692752786533575,
+      "correct_norm": 0.46875,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.7601843487309168,
+      "nll": 3.643243147626219,
+      "correct_norm": 0.65625,
+      "k": 16.0,
+      "unique_masks": 3
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.7489962655849661,
+      "nll": 3.6396413078141445,
+      "correct_norm": 0.65625,
+      "k": 16.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.3117299365562087,
+      "nll": 4.256911779962609,
+      "correct_norm": 0.53125,
+      "k": 20.0,
+      "unique_masks": 3
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.3275104100097006,
+      "nll": 4.273304988163975,
+      "correct_norm": 0.625,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.6094585102008967,
+      "nll": 5.5692752786533575,
+      "correct_norm": 0.46875,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.6094585102008967,
+      "nll": 5.5692752786533575,
+      "correct_norm": 0.46875,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.924599385911063,
+      "nll": 3.3548040650962796,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.924599385911063,
+      "nll": 3.3548040650962796,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.5662054491866781,
+      "nll": 3.978481337920132,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.5662054491866781,
+      "nll": 3.978481337920132,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 3.2492511803391224,
+      "nll": 5.695959556929837,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 3.2492511803391224,
+      "nll": 5.695959556929837,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.924599385911063,
+      "nll": 3.3548040650962796,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.924599385911063,
+      "nll": 3.3548040650962796,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.5662054491866781,
+      "nll": 3.978481337920132,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.5662054491866781,
+      "nll": 3.978481337920132,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 3.2492511803391224,
+      "nll": 5.695959556929837,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 3.2492511803391224,
+      "nll": 5.695959556929837,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.924599385911063,
+      "nll": 3.3548040650962796,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.924599385911063,
+      "nll": 3.3548040650962796,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.5662054491866781,
+      "nll": 3.978481337920132,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.5662054491866781,
+      "nll": 3.978481337920132,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 3.2492511803391224,
+      "nll": 5.695959556929837,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 3.2492511803391224,
+      "nll": 5.695959556929837,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.924599385911063,
+      "nll": 3.3548040650962796,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.924599385911063,
+      "nll": 3.3548040650962796,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.5662054491866781,
+      "nll": 3.978481337920132,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.5662054491866781,
+      "nll": 3.978481337920132,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 3.2492511803391224,
+      "nll": 5.695959556929837,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 3.2492511803391224,
+      "nll": 5.695959556929837,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.921409981494063,
+      "nll": 3.355761175719475,
+      "k": 16.0,
+      "unique_masks": 2
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.9393087173981511,
+      "nll": 3.3565515345128945,
+      "k": 16.0,
+      "unique_masks": 7
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.5266942554767589,
+      "nll": 3.9450747409136477,
+      "k": 20.0,
+      "unique_masks": 2
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.5353040562223197,
+      "nll": 3.954730663178714,
+      "k": 20.0,
+      "unique_masks": 5
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 3.2492511803391224,
+      "nll": 5.695959556929837,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 3.306361385583538,
+      "nll": 5.738937501549833,
+      "k": 24.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.9257662406450489,
+      "nll": 3.3510826997976086,
+      "k": 16.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.9376591633181746,
+      "nll": 3.3584621647815807,
+      "k": 16.0,
+      "unique_masks": 7
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.5521894367327809,
+      "nll": 3.9638831334183027,
+      "k": 20.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.5347181312236469,
+      "nll": 3.9609185551205237,
+      "k": 20.0,
+      "unique_masks": 5
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 3.2492511803391224,
+      "nll": 5.695959556929837,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 3.2492511803391224,
+      "nll": 5.695959556929837,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.9262366131023684,
+      "nll": 3.3509957694802006,
+      "k": 16.0,
+      "unique_masks": 3
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.9294646573131145,
+      "nll": 3.344266894381967,
+      "k": 16.0,
+      "unique_masks": 6
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.5437620445572722,
+      "nll": 3.95503654019432,
+      "k": 20.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.5375770728582934,
+      "nll": 3.959862783037142,
+      "k": 20.0,
+      "unique_masks": 2
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 3.2492511803391224,
+      "nll": 5.695959556929837,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 3.2492511803391224,
+      "nll": 5.695959556929837,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.6711716003600878,
+      "nll": 3.83915795694314,
+      "correct_norm": 0.4375,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.6711716003600878,
+      "nll": 3.83915795694314,
+      "correct_norm": 0.4375,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.0405668173251534,
+      "nll": 4.272562606939462,
+      "correct_norm": 0.34375,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.0405668173251534,
+      "nll": 4.272562606939462,
+      "correct_norm": 0.34375,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.1214230588665686,
+      "nll": 5.433563560922435,
+      "correct_norm": 0.375,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant",
+      "seed": 579,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.1214230588665686,
+      "nll": 5.433563560922435,
+      "correct_norm": 0.375,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.6711716003600878,
+      "nll": 3.83915795694314,
+      "correct_norm": 0.4375,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.6711716003600878,
+      "nll": 3.83915795694314,
+      "correct_norm": 0.4375,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.0405668173251534,
+      "nll": 4.272562606939462,
+      "correct_norm": 0.34375,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.0405668173251534,
+      "nll": 4.272562606939462,
+      "correct_norm": 0.34375,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.1214230588665686,
+      "nll": 5.433563560922435,
+      "correct_norm": 0.375,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant",
+      "seed": 580,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.1214230588665686,
+      "nll": 5.433563560922435,
+      "correct_norm": 0.375,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.6711716003600878,
+      "nll": 3.83915795694314,
+      "correct_norm": 0.4375,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.6711716003600878,
+      "nll": 3.83915795694314,
+      "correct_norm": 0.4375,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.0405668173251534,
+      "nll": 4.272562606939462,
+      "correct_norm": 0.34375,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.0405668173251534,
+      "nll": 4.272562606939462,
+      "correct_norm": 0.34375,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.1214230588665686,
+      "nll": 5.433563560922435,
+      "correct_norm": 0.375,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant",
+      "seed": 581,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.1214230588665686,
+      "nll": 5.433563560922435,
+      "correct_norm": 0.375,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.6711716003600878,
+      "nll": 3.83915795694314,
+      "correct_norm": 0.4375,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.6711716003600878,
+      "nll": 3.83915795694314,
+      "correct_norm": 0.4375,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.0405668173251534,
+      "nll": 4.272562606939462,
+      "correct_norm": 0.34375,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.0405668173251534,
+      "nll": 4.272562606939462,
+      "correct_norm": 0.34375,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.1214230588665686,
+      "nll": 5.433563560922435,
+      "correct_norm": 0.375,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "fixed_best",
+      "seed": null,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.1214230588665686,
+      "nll": 5.433563560922435,
+      "correct_norm": 0.375,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.6501322416444342,
+      "nll": 3.878409389593698,
+      "correct_norm": 0.4375,
+      "k": 16.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.6759297902035959,
+      "nll": 3.9577150156949035,
+      "correct_norm": 0.40625,
+      "k": 16.0,
+      "unique_masks": 7
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.008737260144183,
+      "nll": 4.278418895787544,
+      "correct_norm": 0.4375,
+      "k": 20.0,
+      "unique_masks": 3
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.0010883197644735,
+      "nll": 4.197846829293285,
+      "correct_norm": 0.34375,
+      "k": 20.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.1214230588665686,
+      "nll": 5.433563560922435,
+      "correct_norm": 0.375,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt",
+      "seed": 579,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.1527996700615297,
+      "nll": 5.464169452606971,
+      "correct_norm": 0.375,
+      "k": 24.0,
+      "unique_masks": 3
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.6687461680750368,
+      "nll": 3.9370919050740865,
+      "correct_norm": 0.375,
+      "k": 16.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.6984916913707144,
+      "nll": 3.9949613084029973,
+      "correct_norm": 0.40625,
+      "k": 16.0,
+      "unique_masks": 8
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 1.0247490264761239,
+      "nll": 4.196166068849101,
+      "correct_norm": 0.375,
+      "k": 20.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.0057292513698353,
+      "nll": 4.2504650402577395,
+      "correct_norm": 0.375,
+      "k": 20.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.1214230588665686,
+      "nll": 5.433563560922435,
+      "correct_norm": 0.375,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt",
+      "seed": 580,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.1214230588665686,
+      "nll": 5.433563560922435,
+      "correct_norm": 0.375,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k16_b04",
+      "records": 32,
+      "kl": 0.6610075237269468,
+      "nll": 3.9044744093020265,
+      "correct_norm": 0.375,
+      "k": 16.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k16_b08",
+      "records": 32,
+      "kl": 0.6431174420074433,
+      "nll": 3.96260632886073,
+      "correct_norm": 0.40625,
+      "k": 16.0,
+      "unique_masks": 7
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k20_b04",
+      "records": 32,
+      "kl": 0.995710185139539,
+      "nll": 4.143152895730129,
+      "correct_norm": 0.34375,
+      "k": 20.0,
+      "unique_masks": 4
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k20_b08",
+      "records": 32,
+      "kl": 1.0403894607152597,
+      "nll": 4.2568335389746705,
+      "correct_norm": 0.40625,
+      "k": 20.0,
+      "unique_masks": 3
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k24_b04",
+      "records": 32,
+      "kl": 2.1214230588665686,
+      "nll": 5.433563560922435,
+      "correct_norm": 0.375,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt",
+      "seed": 581,
+      "bank_name": "k24_b08",
+      "records": 32,
+      "kl": 2.1214230588665686,
+      "nll": 5.433563560922435,
+      "correct_norm": 0.375,
+      "k": 24.0,
+      "unique_masks": 1
+    }
+  ],
+  "paired_comparisons": [
+    {
+      "bank_name": "k16_b04",
+      "cohort": "other_development",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 0.8621832712109212,
+      "static_mean": 0.8512758952788819,
+      "difference": -0.010907375932039456,
+      "ci95": [
+        -0.030443867105848905,
+        0.006972012904546637
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.3235294117647059
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "other_development",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 3.3321793061129603,
+      "static_mean": 3.3254643059463156,
+      "difference": -0.006715000166644788,
+      "ci95": [
+        -0.03985632481801913,
+        0.028023643286936094
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.3235294117647059
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "other_development",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 0.8512758952788819,
+      "static_mean": 0.8512758952788819,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "other_development",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 3.3254643059463156,
+      "static_mean": 3.3254643059463156,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "c4_development",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 0.8042199227427068,
+      "static_mean": 0.8063243579982714,
+      "difference": 0.002104435255564569,
+      "ci95": [
+        -0.015660612506693344,
+        0.019926715695430478
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.35
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "c4_development",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 3.263284600076751,
+      "static_mean": 3.2635540731473816,
+      "difference": 0.00026947307062991863,
+      "ci95": [
+        -0.02750754457285543,
+        0.029199661479212016
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.37
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "c4_development",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 0.8063243579982714,
+      "static_mean": 0.8063243579982714,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "c4_development",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 3.2635540731473816,
+      "static_mean": 3.2635540731473816,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "c4_prior_fresh",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 0.7767164639766833,
+      "static_mean": 0.774181664086683,
+      "difference": -0.002534799890000272,
+      "ci95": [
+        -0.009196677449558401,
+        0.0028170778436257655
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.125
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "c4_prior_fresh",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 3.3396785915701694,
+      "static_mean": 3.354648085124909,
+      "difference": 0.014969493554739685,
+      "ci95": [
+        -0.0011874922047411566,
+        0.03359228325448624
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.21875
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "c4_prior_fresh",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 0.774181664086683,
+      "static_mean": 0.774181664086683,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "c4_prior_fresh",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 3.354648085124909,
+      "static_mean": 3.354648085124909,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "piqa",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 0.7609571994502282,
+      "static_mean": 0.7291234034360492,
+      "difference": -0.03183379601417888,
+      "ci95": [
+        -0.08909711999463202,
+        0.010759651115723719
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.375
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "piqa",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 3.6423975985569137,
+      "static_mean": 3.5756398866360852,
+      "difference": -0.06675771192082883,
+      "ci95": [
+        -0.16162542900312604,
+        0.006133902554818588
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.3125
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "piqa",
+      "arm": "prompt",
+      "metric": "correct_norm",
+      "mean": 0.6458333333333333,
+      "static_mean": 0.65625,
+      "difference": -0.010416666666666668,
+      "ci95": [
+        -0.125,
+        0.10416666666666666
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0625
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "piqa",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 0.7291234034360492,
+      "static_mean": 0.7291234034360492,
+      "difference": 0.0,
+      "ci95": [
+        -1.734723475976807e-17,
+        1.734723475976807e-17
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.09375
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "piqa",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 3.5756398866360852,
+      "static_mean": 3.5756398866360852,
+      "difference": 0.0,
+      "ci95": [
+        -4.163336342344337e-17,
+        4.163336342344337e-17
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.03125
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "piqa",
+      "arm": "constant",
+      "metric": "correct_norm",
+      "mean": 0.65625,
+      "static_mean": 0.65625,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "hellaswag",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 0.7129911332914536,
+      "static_mean": 0.7117534647684038,
+      "difference": -0.0012376685230497814,
+      "ci95": [
+        -0.0246911428045379,
+        0.022281151959837805
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.40625
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "hellaswag",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 3.4266023840222006,
+      "static_mean": 3.382901761011727,
+      "difference": -0.04370062301047438,
+      "ci95": [
+        -0.08938383728277682,
+        -0.005014665418366846
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.40625
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "hellaswag",
+      "arm": "prompt",
+      "metric": "correct_norm",
+      "mean": 0.5,
+      "static_mean": 0.5625,
+      "difference": -0.0625,
+      "ci95": [
+        -0.14583333333333334,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "hellaswag",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 0.7117534647684038,
+      "static_mean": 0.7117534647684038,
+      "difference": -3.469446951953614e-18,
+      "ci95": [
+        -2.0816681711721685e-17,
+        1.3877787807814457e-17
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.09375
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "hellaswag",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 3.382901761011727,
+      "static_mean": 3.382901761011727,
+      "difference": 4.163336342344337e-17,
+      "ci95": [
+        -4.163336342344337e-17,
+        1.249000902703301e-16
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.1875
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "hellaswag",
+      "arm": "constant",
+      "metric": "correct_norm",
+      "mean": 0.5625,
+      "static_mean": 0.5625,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "winogrande",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 0.6599619778154726,
+      "static_mean": 0.6711716003600878,
+      "difference": 0.011209622544615203,
+      "ci95": [
+        -0.03064364770973816,
+        0.055191870146397606
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.59375
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "winogrande",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 3.9066585679899375,
+      "static_mean": 3.8391579569431404,
+      "difference": -0.0675006110467971,
+      "ci95": [
+        -0.20036829380546345,
+        0.052876422062014844
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.40625
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "winogrande",
+      "arm": "prompt",
+      "metric": "correct_norm",
+      "mean": 0.3958333333333333,
+      "static_mean": 0.4375,
+      "difference": -0.04166666666666667,
+      "ci95": [
+        -0.125,
+        0.020833333333333332
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.03125
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "winogrande",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 0.6711716003600878,
+      "static_mean": 0.6711716003600878,
+      "difference": 1.734723475976807e-18,
+      "ci95": [
+        0.0,
+        5.204170427930421e-18
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.03125
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "winogrande",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 3.8391579569431404,
+      "static_mean": 3.8391579569431404,
+      "difference": 0.0,
+      "ci95": [
+        -5.551115123125783e-17,
+        5.551115123125783e-17
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0625
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "winogrande",
+      "arm": "constant",
+      "metric": "correct_norm",
+      "mean": 0.4375,
+      "static_mean": 0.4375,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "wikitext_conditional",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 0.9244709450804934,
+      "static_mean": 0.9245993859110632,
+      "difference": 0.00012844083056979053,
+      "ci95": [
+        -0.0076573324952771415,
+        0.009550646217187162
+      ],
+      "records": 32,
+      "clusters": 22,
+      "fraction_positive": 0.25
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "wikitext_conditional",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 3.352613214999095,
+      "static_mean": 3.3548040650962796,
+      "difference": 0.0021908500971847544,
+      "ci95": [
+        -0.009310216016627314,
+        0.014471621259618263
+      ],
+      "records": 32,
+      "clusters": 22,
+      "fraction_positive": 0.25
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "wikitext_conditional",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 0.9245993859110632,
+      "static_mean": 0.9245993859110632,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 22,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k16_b04",
+      "cohort": "wikitext_conditional",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 3.3548040650962796,
+      "static_mean": 3.3548040650962796,
+      "difference": -1.3877787807814457e-17,
+      "ci95": [
+        -4.4408920985006264e-17,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 22,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "other_development",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 0.8674175003182685,
+      "static_mean": 0.8512758952788819,
+      "difference": -0.016141605039386636,
+      "ci95": [
+        -0.0409152065816287,
+        0.005811688886674733
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.4264705882352941
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "other_development",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 3.3390122708902528,
+      "static_mean": 3.3254643059463156,
+      "difference": -0.013547964943936997,
+      "ci95": [
+        -0.05571268846964073,
+        0.026963863668751947
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.4264705882352941
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "other_development",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 0.8512758952788819,
+      "static_mean": 0.8512758952788819,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "other_development",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 3.3254643059463156,
+      "static_mean": 3.3254643059463156,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "c4_development",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 0.8122750517754171,
+      "static_mean": 0.8063243579982714,
+      "difference": -0.005950693777145567,
+      "ci95": [
+        -0.025963459521023486,
+        0.013044387499513458
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.41
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "c4_development",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 3.270346391417943,
+      "static_mean": 3.2635540731473816,
+      "difference": -0.00679231827056185,
+      "ci95": [
+        -0.04004116331914388,
+        0.02574762453930294
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.42
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "c4_development",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 0.8063243579982714,
+      "static_mean": 0.8063243579982714,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "c4_development",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 3.2635540731473816,
+      "static_mean": 3.2635540731473816,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "c4_prior_fresh",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 0.7793824190918102,
+      "static_mean": 0.774181664086683,
+      "difference": -0.005200755005127181,
+      "ci95": [
+        -0.01524618959908064,
+        0.00500468157607609
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.21875
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "c4_prior_fresh",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 3.339126190264058,
+      "static_mean": 3.354648085124909,
+      "difference": 0.015521894860851176,
+      "ci95": [
+        -0.0058043892441532585,
+        0.03904894523534642
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.34375
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "c4_prior_fresh",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 0.774181664086683,
+      "static_mean": 0.774181664086683,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "c4_prior_fresh",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 3.354648085124909,
+      "static_mean": 3.354648085124909,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "piqa",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 0.7380862547828482,
+      "static_mean": 0.7291234034360492,
+      "difference": -0.008962851346798854,
+      "ci95": [
+        -0.05293050740208761,
+        0.027922100489676135
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.5
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "piqa",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 3.6232987217570223,
+      "static_mean": 3.5756398866360852,
+      "difference": -0.04765883512093741,
+      "ci95": [
+        -0.11653356200873102,
+        0.010637934002306235
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.375
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "piqa",
+      "arm": "prompt",
+      "metric": "correct_norm",
+      "mean": 0.6458333333333333,
+      "static_mean": 0.65625,
+      "difference": -0.010416666666666671,
+      "ci95": [
+        -0.10416666666666667,
+        0.08333333333333333
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0625
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "piqa",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 0.7291234034360492,
+      "static_mean": 0.7291234034360492,
+      "difference": 0.0,
+      "ci95": [
+        -1.734723475976807e-17,
+        1.734723475976807e-17
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.09375
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "piqa",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 3.5756398866360852,
+      "static_mean": 3.5756398866360852,
+      "difference": 0.0,
+      "ci95": [
+        -4.163336342344337e-17,
+        4.163336342344337e-17
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.03125
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "piqa",
+      "arm": "constant",
+      "metric": "correct_norm",
+      "mean": 0.65625,
+      "static_mean": 0.65625,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "hellaswag",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 0.7233458355250031,
+      "static_mean": 0.7117534647684038,
+      "difference": -0.011592370756599293,
+      "ci95": [
+        -0.03489995704661436,
+        0.013066643055299006
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.375
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "hellaswag",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 3.422015691276581,
+      "static_mean": 3.382901761011727,
+      "difference": -0.03911393026485403,
+      "ci95": [
+        -0.0833892304542108,
+        0.004955850327621642
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.3125
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "hellaswag",
+      "arm": "prompt",
+      "metric": "correct_norm",
+      "mean": 0.4895833333333333,
+      "static_mean": 0.5625,
+      "difference": -0.07291666666666667,
+      "ci95": [
+        -0.16666666666666669,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "hellaswag",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 0.7117534647684038,
+      "static_mean": 0.7117534647684038,
+      "difference": -3.469446951953614e-18,
+      "ci95": [
+        -2.0816681711721685e-17,
+        1.3877787807814457e-17
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.09375
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "hellaswag",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 3.382901761011727,
+      "static_mean": 3.382901761011727,
+      "difference": 4.163336342344337e-17,
+      "ci95": [
+        -4.163336342344337e-17,
+        1.249000902703301e-16
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.1875
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "hellaswag",
+      "arm": "constant",
+      "metric": "correct_norm",
+      "mean": 0.5625,
+      "static_mean": 0.5625,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "winogrande",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 0.6725129745272511,
+      "static_mean": 0.6711716003600878,
+      "difference": -0.0013413741671633311,
+      "ci95": [
+        -0.04345999029319368,
+        0.043882040765495435
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.5
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "winogrande",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 3.9717608843195435,
+      "static_mean": 3.8391579569431404,
+      "difference": -0.1326029273764035,
+      "ci95": [
+        -0.25795509942146194,
+        -0.01567869818540401
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.375
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "winogrande",
+      "arm": "prompt",
+      "metric": "correct_norm",
+      "mean": 0.40625,
+      "static_mean": 0.4375,
+      "difference": -0.03125,
+      "ci95": [
+        -0.09375,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "winogrande",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 0.6711716003600878,
+      "static_mean": 0.6711716003600878,
+      "difference": 1.734723475976807e-18,
+      "ci95": [
+        0.0,
+        5.204170427930421e-18
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.03125
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "winogrande",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 3.8391579569431404,
+      "static_mean": 3.8391579569431404,
+      "difference": 0.0,
+      "ci95": [
+        -5.551115123125783e-17,
+        5.551115123125783e-17
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0625
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "winogrande",
+      "arm": "constant",
+      "metric": "correct_norm",
+      "mean": 0.4375,
+      "static_mean": 0.4375,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "wikitext_conditional",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 0.93547751267648,
+      "static_mean": 0.9245993859110632,
+      "difference": -0.010878126765416829,
+      "ci95": [
+        -0.024935825098716717,
+        0.00354808667518025
+      ],
+      "records": 32,
+      "clusters": 22,
+      "fraction_positive": 0.28125
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "wikitext_conditional",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 3.353093531225481,
+      "static_mean": 3.3548040650962796,
+      "difference": 0.0017105338707987944,
+      "ci95": [
+        -0.01611165399524145,
+        0.019012948450620893
+      ],
+      "records": 32,
+      "clusters": 22,
+      "fraction_positive": 0.40625
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "wikitext_conditional",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 0.9245993859110632,
+      "static_mean": 0.9245993859110632,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 22,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k16_b08",
+      "cohort": "wikitext_conditional",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 3.3548040650962796,
+      "static_mean": 3.3548040650962796,
+      "difference": -1.3877787807814457e-17,
+      "ci95": [
+        -4.4408920985006264e-17,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 22,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "other_development",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 1.4196276313940708,
+      "static_mean": 1.4555368751009476,
+      "difference": 0.03590924370687657,
+      "ci95": [
+        0.011080821010470261,
+        0.05852396383136461
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.5735294117647058
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "other_development",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 3.8873733836773465,
+      "static_mean": 3.9283465490754113,
+      "difference": 0.0409731653980647,
+      "ci95": [
+        0.008598237791161015,
+        0.06908088032053736
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.5882352941176471
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "other_development",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 1.4555368751009476,
+      "static_mean": 1.4555368751009476,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "other_development",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 3.9283465490754113,
+      "static_mean": 3.9283465490754113,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "c4_development",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 1.3511910714930249,
+      "static_mean": 1.3804042090219264,
+      "difference": 0.029213137528901516,
+      "ci95": [
+        0.01131541513353416,
+        0.04703643251603774
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.55
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "c4_development",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 3.7784914849478444,
+      "static_mean": 3.80709583114569,
+      "difference": 0.028604346197845423,
+      "ci95": [
+        0.0014746080332386626,
+        0.0543256811314424
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.54
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "c4_development",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 1.3804042090219264,
+      "static_mean": 1.3804042090219264,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "c4_development",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 3.80709583114569,
+      "static_mean": 3.80709583114569,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "c4_prior_fresh",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 1.3237056612794145,
+      "static_mean": 1.3088610426063383,
+      "difference": -0.014844618673076116,
+      "ci95": [
+        -0.03742941381008151,
+        0.00660324333810724
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.40625
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "c4_prior_fresh",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 3.8048087249017843,
+      "static_mean": 3.7772574086679915,
+      "difference": -0.027551316233792533,
+      "ci95": [
+        -0.0584675722465325,
+        0.0020096148186120716
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.34375
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "c4_prior_fresh",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 1.3088610426063383,
+      "static_mean": 1.3088610426063383,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "c4_prior_fresh",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 3.7772574086679915,
+      "static_mean": 3.7772574086679915,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "piqa",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 1.328549365470595,
+      "static_mean": 1.3275104100097006,
+      "difference": -0.0010389554608946118,
+      "ci95": [
+        -0.03206095015545324,
+        0.02945427685519693
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.40625
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "piqa",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 4.267502923876865,
+      "static_mean": 4.273304988163975,
+      "difference": 0.005802064287109124,
+      "ci95": [
+        -0.023597983643113888,
+        0.035465777544720856
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.46875
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "piqa",
+      "arm": "prompt",
+      "metric": "correct_norm",
+      "mean": 0.5833333333333333,
+      "static_mean": 0.625,
+      "difference": -0.04166666666666667,
+      "ci95": [
+        -0.11458333333333336,
+        0.031249999999999997
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.03125
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "piqa",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 1.3275104100097006,
+      "static_mean": 1.3275104100097006,
+      "difference": 0.0,
+      "ci95": [
+        -2.0816681711721685e-17,
+        2.0816681711721685e-17
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.03125
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "piqa",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 4.273304988163975,
+      "static_mean": 4.273304988163975,
+      "difference": 4.163336342344337e-17,
+      "ci95": [
+        -1.3877787807814457e-17,
+        1.249000902703301e-16
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.09375
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "piqa",
+      "arm": "constant",
+      "metric": "correct_norm",
+      "mean": 0.625,
+      "static_mean": 0.625,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "hellaswag",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 1.1385298005670765,
+      "static_mean": 1.1556987832324,
+      "difference": 0.01716898266532334,
+      "ci95": [
+        -0.0035707642898054424,
+        0.03872660688619911
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.59375
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "hellaswag",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 3.7103500448290108,
+      "static_mean": 3.7416788363471536,
+      "difference": 0.03132879151814265,
+      "ci95": [
+        -0.004556073817796769,
+        0.06629932131063297
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.53125
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "hellaswag",
+      "arm": "prompt",
+      "metric": "correct_norm",
+      "mean": 0.3854166666666667,
+      "static_mean": 0.40625,
+      "difference": -0.020833333333333336,
+      "ci95": [
+        -0.0625,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "hellaswag",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 1.1556987832324,
+      "static_mean": 1.1556987832324,
+      "difference": 6.938893903907228e-18,
+      "ci95": [
+        0.0,
+        2.0816681711721685e-17
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.03125
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "hellaswag",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 3.7416788363471536,
+      "static_mean": 3.7416788363471536,
+      "difference": 1.3877787807814457e-17,
+      "ci95": [
+        -4.163336342344337e-17,
+        6.938893903907228e-17
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.09375
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "hellaswag",
+      "arm": "constant",
+      "metric": "correct_norm",
+      "mean": 0.40625,
+      "static_mean": 0.40625,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "winogrande",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 1.009732157253282,
+      "static_mean": 1.0405668173251534,
+      "difference": 0.030834660071871325,
+      "ci95": [
+        -0.013850620448310489,
+        0.07879020779142937
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.53125
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "winogrande",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 4.205912620122258,
+      "static_mean": 4.272562606939462,
+      "difference": 0.06664998681720405,
+      "ci95": [
+        -0.02682247743443038,
+        0.15465445688756893
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.59375
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "winogrande",
+      "arm": "prompt",
+      "metric": "correct_norm",
+      "mean": 0.38541666666666663,
+      "static_mean": 0.34375,
+      "difference": 0.041666666666666664,
+      "ci95": [
+        -0.010416666666666673,
+        0.11458333333333331
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.09375
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "winogrande",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 1.0405668173251534,
+      "static_mean": 1.0405668173251534,
+      "difference": 6.938893903907228e-18,
+      "ci95": [
+        -6.938893903907228e-18,
+        2.0816681711721685e-17
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.09375
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "winogrande",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 4.272562606939462,
+      "static_mean": 4.272562606939462,
+      "difference": -1.3877787807814457e-17,
+      "ci95": [
+        -6.938893903907228e-17,
+        2.7755575615628914e-17
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.03125
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "winogrande",
+      "arm": "constant",
+      "metric": "correct_norm",
+      "mean": 0.34375,
+      "static_mean": 0.34375,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "wikitext_conditional",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 1.5408819122556041,
+      "static_mean": 1.5662054491866781,
+      "difference": 0.025323536931074225,
+      "ci95": [
+        -0.0011330730728407678,
+        0.05455055565275088
+      ],
+      "records": 32,
+      "clusters": 22,
+      "fraction_positive": 0.625
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "wikitext_conditional",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 3.9546648048420896,
+      "static_mean": 3.9784813379201314,
+      "difference": 0.02381653307804174,
+      "ci95": [
+        -0.0063015880748463465,
+        0.05660579182057779
+      ],
+      "records": 32,
+      "clusters": 22,
+      "fraction_positive": 0.65625
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "wikitext_conditional",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 1.5662054491866781,
+      "static_mean": 1.5662054491866781,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 22,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k20_b04",
+      "cohort": "wikitext_conditional",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 3.9784813379201314,
+      "static_mean": 3.9784813379201314,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 22,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "other_development",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 1.4098465779714424,
+      "static_mean": 1.4555368751009476,
+      "difference": 0.0456902971295052,
+      "ci95": [
+        0.02268908073183143,
+        0.06795095148468845
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.5735294117647058
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "other_development",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 3.8776336048464572,
+      "static_mean": 3.9283465490754113,
+      "difference": 0.0507129442289541,
+      "ci95": [
+        0.020724675166322322,
+        0.08105405417174023
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.5882352941176471
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "other_development",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 1.4555368751009476,
+      "static_mean": 1.4555368751009476,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "other_development",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 3.9283465490754113,
+      "static_mean": 3.9283465490754113,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "c4_development",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 1.346718078664265,
+      "static_mean": 1.3804042090219264,
+      "difference": 0.033686130357661256,
+      "ci95": [
+        0.016245502219384426,
+        0.05185426400601924
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.54
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "c4_development",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 3.7720918164597124,
+      "static_mean": 3.80709583114569,
+      "difference": 0.035004014685977934,
+      "ci95": [
+        0.01015672235587564,
+        0.059695324841306754
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.54
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "c4_development",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 1.3804042090219264,
+      "static_mean": 1.3804042090219264,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "c4_development",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 3.80709583114569,
+      "static_mean": 3.80709583114569,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "c4_prior_fresh",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 1.3121072254742123,
+      "static_mean": 1.3088610426063383,
+      "difference": -0.0032461828678738806,
+      "ci95": [
+        -0.02568794712985393,
+        0.019559480754359482
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.4375
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "c4_prior_fresh",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 3.7972634184515477,
+      "static_mean": 3.7772574086679915,
+      "difference": -0.020006009783556294,
+      "ci95": [
+        -0.05131319590763211,
+        0.009992908797659876
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.40625
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "c4_prior_fresh",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 1.3088610426063383,
+      "static_mean": 1.3088610426063383,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "c4_prior_fresh",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 3.7772574086679915,
+      "static_mean": 3.7772574086679915,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "piqa",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 1.3210750869603665,
+      "static_mean": 1.3275104100097006,
+      "difference": 0.006435323049333971,
+      "ci95": [
+        -0.005967450626049561,
+        0.01871302349595046
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.34375
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "piqa",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 4.26012483533658,
+      "static_mean": 4.273304988163975,
+      "difference": 0.013180152827395125,
+      "ci95": [
+        -0.00021661136434782366,
+        0.027422146786958264
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.40625
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "piqa",
+      "arm": "prompt",
+      "metric": "correct_norm",
+      "mean": 0.625,
+      "static_mean": 0.625,
+      "difference": -3.469446951953614e-18,
+      "ci95": [
+        -0.04166666666666667,
+        0.041666666666666664
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0625
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "piqa",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 1.3275104100097006,
+      "static_mean": 1.3275104100097006,
+      "difference": 0.0,
+      "ci95": [
+        -2.0816681711721685e-17,
+        2.0816681711721685e-17
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.03125
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "piqa",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 4.273304988163975,
+      "static_mean": 4.273304988163975,
+      "difference": 4.163336342344337e-17,
+      "ci95": [
+        -1.3877787807814457e-17,
+        1.249000902703301e-16
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.09375
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "piqa",
+      "arm": "constant",
+      "metric": "correct_norm",
+      "mean": 0.625,
+      "static_mean": 0.625,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "hellaswag",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 1.1285874601553958,
+      "static_mean": 1.1556987832324,
+      "difference": 0.02711132307700402,
+      "ci95": [
+        0.007448535210355751,
+        0.04786126126514916
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.625
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "hellaswag",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 3.6987089064436978,
+      "static_mean": 3.7416788363471536,
+      "difference": 0.042969929903455883,
+      "ci95": [
+        0.004324658465714824,
+        0.08240428936957922
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.5625
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "hellaswag",
+      "arm": "prompt",
+      "metric": "correct_norm",
+      "mean": 0.41666666666666663,
+      "static_mean": 0.40625,
+      "difference": 0.010416666666666664,
+      "ci95": [
+        -0.03125,
+        0.0625
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.03125
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "hellaswag",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 1.1556987832324,
+      "static_mean": 1.1556987832324,
+      "difference": 6.938893903907228e-18,
+      "ci95": [
+        0.0,
+        2.0816681711721685e-17
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.03125
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "hellaswag",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 3.7416788363471536,
+      "static_mean": 3.7416788363471536,
+      "difference": 1.3877787807814457e-17,
+      "ci95": [
+        -4.163336342344337e-17,
+        6.938893903907228e-17
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.09375
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "hellaswag",
+      "arm": "constant",
+      "metric": "correct_norm",
+      "mean": 0.40625,
+      "static_mean": 0.40625,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "winogrande",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 1.0157356772831896,
+      "static_mean": 1.0405668173251534,
+      "difference": 0.02483114004196377,
+      "ci95": [
+        -0.01987966497313088,
+        0.0696408835392024
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.59375
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "winogrande",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 4.235048469508565,
+      "static_mean": 4.272562606939462,
+      "difference": 0.03751413743089696,
+      "ci95": [
+        -0.05050994627012997,
+        0.12062127265935113
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.5625
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "winogrande",
+      "arm": "prompt",
+      "metric": "correct_norm",
+      "mean": 0.375,
+      "static_mean": 0.34375,
+      "difference": 0.03125,
+      "ci95": [
+        0.0,
+        0.08333333333333333
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0625
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "winogrande",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 1.0405668173251534,
+      "static_mean": 1.0405668173251534,
+      "difference": 6.938893903907228e-18,
+      "ci95": [
+        -6.938893903907228e-18,
+        2.0816681711721685e-17
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.09375
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "winogrande",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 4.272562606939462,
+      "static_mean": 4.272562606939462,
+      "difference": -1.3877787807814457e-17,
+      "ci95": [
+        -6.938893903907228e-17,
+        2.7755575615628914e-17
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.03125
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "winogrande",
+      "arm": "constant",
+      "metric": "correct_norm",
+      "mean": 0.34375,
+      "static_mean": 0.34375,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "wikitext_conditional",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 1.53586642010142,
+      "static_mean": 1.5662054491866781,
+      "difference": 0.030339029085258165,
+      "ci95": [
+        0.004033594653669191,
+        0.06185155011428398
+      ],
+      "records": 32,
+      "clusters": 22,
+      "fraction_positive": 0.625
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "wikitext_conditional",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 3.9585040004454597,
+      "static_mean": 3.9784813379201314,
+      "difference": 0.019977337474672036,
+      "ci95": [
+        -0.014847703178490202,
+        0.05722456283001129
+      ],
+      "records": 32,
+      "clusters": 22,
+      "fraction_positive": 0.59375
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "wikitext_conditional",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 1.5662054491866781,
+      "static_mean": 1.5662054491866781,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 22,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k20_b08",
+      "cohort": "wikitext_conditional",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 3.9784813379201314,
+      "static_mean": 3.9784813379201314,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 22,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "other_development",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 2.799231820823265,
+      "static_mean": 2.799231820823265,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "other_development",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 5.310060300487398,
+      "static_mean": 5.310060300487398,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "other_development",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 2.799231820823265,
+      "static_mean": 2.799231820823265,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "other_development",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 5.310060300487398,
+      "static_mean": 5.310060300487398,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "c4_development",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 2.7216749344729307,
+      "static_mean": 2.7216749344729307,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "c4_development",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 5.168886672473033,
+      "static_mean": 5.168886672473033,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "c4_development",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 2.7216749344729307,
+      "static_mean": 2.7216749344729307,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "c4_development",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 5.168886672473033,
+      "static_mean": 5.168886672473033,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "c4_prior_fresh",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 2.7743855040823746,
+      "static_mean": 2.7743855040823746,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "c4_prior_fresh",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 5.174563630547368,
+      "static_mean": 5.174563630547368,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "c4_prior_fresh",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 2.7743855040823746,
+      "static_mean": 2.7743855040823746,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "c4_prior_fresh",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 5.174563630547368,
+      "static_mean": 5.174563630547368,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "piqa",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 2.6094585102008967,
+      "static_mean": 2.6094585102008967,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "piqa",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 5.5692752786533575,
+      "static_mean": 5.5692752786533575,
+      "difference": -1.1102230246251565e-16,
+      "ci95": [
+        -2.498001805406602e-16,
+        6.938893903869363e-19
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.03125
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "piqa",
+      "arm": "prompt",
+      "metric": "correct_norm",
+      "mean": 0.46875,
+      "static_mean": 0.46875,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "piqa",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 2.6094585102008967,
+      "static_mean": 2.6094585102008967,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "piqa",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 5.5692752786533575,
+      "static_mean": 5.5692752786533575,
+      "difference": -1.1102230246251565e-16,
+      "ci95": [
+        -2.498001805406602e-16,
+        6.938893903869363e-19
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.03125
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "piqa",
+      "arm": "constant",
+      "metric": "correct_norm",
+      "mean": 0.46875,
+      "static_mean": 0.46875,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "hellaswag",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 2.2712162874678756,
+      "static_mean": 2.2712162874678756,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "hellaswag",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 4.88317695538384,
+      "static_mean": 4.88317695538384,
+      "difference": 0.0,
+      "ci95": [
+        -8.326672684688674e-17,
+        8.326672684688674e-17
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.03125
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "hellaswag",
+      "arm": "prompt",
+      "metric": "correct_norm",
+      "mean": 0.28125,
+      "static_mean": 0.28125,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "hellaswag",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 2.2712162874678756,
+      "static_mean": 2.2712162874678756,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "hellaswag",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 4.88317695538384,
+      "static_mean": 4.88317695538384,
+      "difference": 0.0,
+      "ci95": [
+        -8.326672684688674e-17,
+        8.326672684688674e-17
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.03125
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "hellaswag",
+      "arm": "constant",
+      "metric": "correct_norm",
+      "mean": 0.28125,
+      "static_mean": 0.28125,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "winogrande",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 2.121423058866568,
+      "static_mean": 2.121423058866568,
+      "difference": 0.0,
+      "ci95": [
+        -2.0816681711721685e-17,
+        2.0816681711721685e-17
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.03125
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "winogrande",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 5.433563560922434,
+      "static_mean": 5.433563560922435,
+      "difference": 5.551115123125783e-17,
+      "ci95": [
+        0.0,
+        1.3877787807814457e-16
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0625
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "winogrande",
+      "arm": "prompt",
+      "metric": "correct_norm",
+      "mean": 0.375,
+      "static_mean": 0.375,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "winogrande",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 2.121423058866568,
+      "static_mean": 2.121423058866568,
+      "difference": 0.0,
+      "ci95": [
+        -2.0816681711721685e-17,
+        2.0816681711721685e-17
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.03125
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "winogrande",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 5.433563560922434,
+      "static_mean": 5.433563560922435,
+      "difference": 5.551115123125783e-17,
+      "ci95": [
+        0.0,
+        1.3877787807814457e-16
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0625
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "winogrande",
+      "arm": "constant",
+      "metric": "correct_norm",
+      "mean": 0.375,
+      "static_mean": 0.375,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "wikitext_conditional",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 3.2492511803391224,
+      "static_mean": 3.2492511803391224,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 22,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "wikitext_conditional",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 5.695959556929837,
+      "static_mean": 5.695959556929837,
+      "difference": 5.551115123125783e-17,
+      "ci95": [
+        0.0,
+        1.4802973661668753e-16
+      ],
+      "records": 32,
+      "clusters": 22,
+      "fraction_positive": 0.0625
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "wikitext_conditional",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 3.2492511803391224,
+      "static_mean": 3.2492511803391224,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 22,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b04",
+      "cohort": "wikitext_conditional",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 5.695959556929837,
+      "static_mean": 5.695959556929837,
+      "difference": 5.551115123125783e-17,
+      "ci95": [
+        0.0,
+        1.4802973661668753e-16
+      ],
+      "records": 32,
+      "clusters": 22,
+      "fraction_positive": 0.0625
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "other_development",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 2.8061033349099938,
+      "static_mean": 2.799231820823265,
+      "difference": -0.006871514086728266,
+      "ci95": [
+        -0.018016455991367846,
+        0.002966685847936497
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.22058823529411764
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "other_development",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 5.314057296977206,
+      "static_mean": 5.310060300487398,
+      "difference": -0.00399699648980955,
+      "ci95": [
+        -0.01744149091615216,
+        0.008308808731066635
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.23529411764705882
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "other_development",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 2.799231820823265,
+      "static_mean": 2.799231820823265,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "other_development",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 5.310060300487398,
+      "static_mean": 5.310060300487398,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "c4_development",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 2.725020641663629,
+      "static_mean": 2.7216749344729307,
+      "difference": -0.003345707190698395,
+      "ci95": [
+        -0.011099963658127307,
+        0.004114032401855482
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.26
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "c4_development",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 5.170604637951282,
+      "static_mean": 5.168886672473033,
+      "difference": -0.0017179654782481847,
+      "ci95": [
+        -0.012029836925194892,
+        0.0075029172488986235
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.23
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "c4_development",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 2.7216749344729307,
+      "static_mean": 2.7216749344729307,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "c4_development",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 5.168886672473033,
+      "static_mean": 5.168886672473033,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "c4_prior_fresh",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 2.775567426899594,
+      "static_mean": 2.7743855040823746,
+      "difference": -0.001181922817219544,
+      "ci95": [
+        -0.010854638708231794,
+        0.00876174091160163
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.15625
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "c4_prior_fresh",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 5.179658737932755,
+      "static_mean": 5.174563630547368,
+      "difference": -0.005095107385386627,
+      "ci95": [
+        -0.02119555732114503,
+        0.009473581567044689
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.15625
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "c4_prior_fresh",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 2.7743855040823746,
+      "static_mean": 2.7743855040823746,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "c4_prior_fresh",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 5.174563630547368,
+      "static_mean": 5.174563630547368,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "piqa",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 2.6032369723916684,
+      "static_mean": 2.6094585102008967,
+      "difference": 0.006221537809228704,
+      "ci95": [
+        -0.00047148107468028,
+        0.01440983540786792
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.34375
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "piqa",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 5.558878834534299,
+      "static_mean": 5.5692752786533575,
+      "difference": 0.01039644411905799,
+      "ci95": [
+        -0.002820606994922683,
+        0.024603037131685934
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.40625
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "piqa",
+      "arm": "prompt",
+      "metric": "correct_norm",
+      "mean": 0.47916666666666663,
+      "static_mean": 0.46875,
+      "difference": 0.010416666666666666,
+      "ci95": [
+        0.0,
+        0.03125
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.03125
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "piqa",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 2.6094585102008967,
+      "static_mean": 2.6094585102008967,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "piqa",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 5.5692752786533575,
+      "static_mean": 5.5692752786533575,
+      "difference": -1.1102230246251565e-16,
+      "ci95": [
+        -2.498001805406602e-16,
+        6.938893903869363e-19
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.03125
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "piqa",
+      "arm": "constant",
+      "metric": "correct_norm",
+      "mean": 0.46875,
+      "static_mean": 0.46875,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "hellaswag",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 2.267141935637472,
+      "static_mean": 2.2712162874678756,
+      "difference": 0.004074351830404083,
+      "ci95": [
+        -0.0010804908914383768,
+        0.011241615269733034
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.15625
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "hellaswag",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 4.880615458345398,
+      "static_mean": 4.88317695538384,
+      "difference": 0.0025614970384414404,
+      "ci95": [
+        -0.0030015905263912506,
+        0.010104177363822787
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.125
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "hellaswag",
+      "arm": "prompt",
+      "metric": "correct_norm",
+      "mean": 0.2916666666666667,
+      "static_mean": 0.28125,
+      "difference": 0.010416666666666666,
+      "ci95": [
+        0.0,
+        0.03125
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.03125
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "hellaswag",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 2.2712162874678756,
+      "static_mean": 2.2712162874678756,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "hellaswag",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 4.88317695538384,
+      "static_mean": 4.88317695538384,
+      "difference": 0.0,
+      "ci95": [
+        -8.326672684688674e-17,
+        8.326672684688674e-17
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.03125
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "hellaswag",
+      "arm": "constant",
+      "metric": "correct_norm",
+      "mean": 0.28125,
+      "static_mean": 0.28125,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "winogrande",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 2.131881929264889,
+      "static_mean": 2.121423058866568,
+      "difference": -0.01045887039832049,
+      "ci95": [
+        -0.019494989729169503,
+        -0.002770783657858115
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0625
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "winogrande",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 5.443765524817279,
+      "static_mean": 5.433563560922435,
+      "difference": -0.010201963894845262,
+      "ci95": [
+        -0.024907061215199047,
+        0.001249129535733881
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.15625
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "winogrande",
+      "arm": "prompt",
+      "metric": "correct_norm",
+      "mean": 0.375,
+      "static_mean": 0.375,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "winogrande",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 2.121423058866568,
+      "static_mean": 2.121423058866568,
+      "difference": 0.0,
+      "ci95": [
+        -2.0816681711721685e-17,
+        2.0816681711721685e-17
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.03125
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "winogrande",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 5.433563560922434,
+      "static_mean": 5.433563560922435,
+      "difference": 5.551115123125783e-17,
+      "ci95": [
+        0.0,
+        1.3877787807814457e-16
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0625
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "winogrande",
+      "arm": "constant",
+      "metric": "correct_norm",
+      "mean": 0.375,
+      "static_mean": 0.375,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "wikitext_conditional",
+      "arm": "prompt",
+      "metric": "kl",
+      "mean": 3.2682879154205944,
+      "static_mean": 3.2492511803391224,
+      "difference": -0.01903673508147201,
+      "ci95": [
+        -0.03268966476556317,
+        -0.005197898517315314
+      ],
+      "records": 32,
+      "clusters": 22,
+      "fraction_positive": 0.21875
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "wikitext_conditional",
+      "arm": "prompt",
+      "metric": "nll",
+      "mean": 5.710285538469836,
+      "static_mean": 5.695959556929837,
+      "difference": -0.014325981539998561,
+      "ci95": [
+        -0.02581972786955154,
+        -0.0012171778797198975
+      ],
+      "records": 32,
+      "clusters": 22,
+      "fraction_positive": 0.3125
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "wikitext_conditional",
+      "arm": "constant",
+      "metric": "kl",
+      "mean": 3.2492511803391224,
+      "static_mean": 3.2492511803391224,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 22,
+      "fraction_positive": 0.0
+    },
+    {
+      "bank_name": "k24_b08",
+      "cohort": "wikitext_conditional",
+      "arm": "constant",
+      "metric": "nll",
+      "mean": 5.695959556929837,
+      "static_mean": 5.695959556929837,
+      "difference": 5.551115123125783e-17,
+      "ci95": [
+        0.0,
+        1.4802973661668753e-16
+      ],
+      "records": 32,
+      "clusters": 22,
+      "fraction_positive": 0.0625
+    }
+  ],
+  "candidate_references": [
+    {
+      "bank_name": "k16_b04",
+      "split": "train",
+      "documents": 256,
+      "fixed_kl": 0.7456159408902749,
+      "future_best_bank_kl": 0.6794030644814484,
+      "future_targets_used": true
+    },
+    {
+      "bank_name": "k16_b04",
+      "split": "selection",
+      "documents": 32,
+      "fixed_kl": 0.7108023427426815,
+      "future_best_bank_kl": 0.6301165157929063,
+      "future_targets_used": true
+    },
+    {
+      "bank_name": "k16_b04",
+      "split": "other_development",
+      "documents": 68,
+      "fixed_kl": 0.8512758943526184,
+      "future_best_bank_kl": 0.7771062265862437,
+      "future_targets_used": true
+    },
+    {
+      "bank_name": "k16_b08",
+      "split": "train",
+      "documents": 256,
+      "fixed_kl": 0.7456159408902749,
+      "future_best_bank_kl": 0.6568707237602212,
+      "future_targets_used": true
+    },
+    {
+      "bank_name": "k16_b08",
+      "split": "selection",
+      "documents": 32,
+      "fixed_kl": 0.7108023427426815,
+      "future_best_bank_kl": 0.608443770557642,
+      "future_targets_used": true
+    },
+    {
+      "bank_name": "k16_b08",
+      "split": "other_development",
+      "documents": 68,
+      "fixed_kl": 0.8512758943526184,
+      "future_best_bank_kl": 0.7497829295256558,
+      "future_targets_used": true
+    },
+    {
+      "bank_name": "k20_b04",
+      "split": "train",
+      "documents": 256,
+      "fixed_kl": 1.2961384913651273,
+      "future_best_bank_kl": 1.2021722982171923,
+      "future_targets_used": true
+    },
+    {
+      "bank_name": "k20_b04",
+      "split": "selection",
+      "documents": 32,
+      "fixed_kl": 1.2207472901791334,
+      "future_best_bank_kl": 1.1436665933579206,
+      "future_targets_used": true
+    },
+    {
+      "bank_name": "k20_b04",
+      "split": "other_development",
+      "documents": 68,
+      "fixed_kl": 1.4555368747781305,
+      "future_best_bank_kl": 1.33387530726545,
+      "future_targets_used": true
+    },
+    {
+      "bank_name": "k20_b08",
+      "split": "train",
+      "documents": 256,
+      "fixed_kl": 1.2961384913651273,
+      "future_best_bank_kl": 1.172715691383928,
+      "future_targets_used": true
+    },
+    {
+      "bank_name": "k20_b08",
+      "split": "selection",
+      "documents": 32,
+      "fixed_kl": 1.2207472901791334,
+      "future_best_bank_kl": 1.124250415712595,
+      "future_targets_used": true
+    },
+    {
+      "bank_name": "k20_b08",
+      "split": "other_development",
+      "documents": 68,
+      "fixed_kl": 1.4555368747781305,
+      "future_best_bank_kl": 1.2969898230889265,
+      "future_targets_used": true
+    },
+    {
+      "bank_name": "k24_b04",
+      "split": "train",
+      "documents": 256,
+      "fixed_kl": 2.6424122536554933,
+      "future_best_bank_kl": 2.5009386222809553,
+      "future_targets_used": true
+    },
+    {
+      "bank_name": "k24_b04",
+      "split": "selection",
+      "documents": 32,
+      "fixed_kl": 2.55686654150486,
+      "future_best_bank_kl": 2.4554834254086018,
+      "future_targets_used": true
+    },
+    {
+      "bank_name": "k24_b04",
+      "split": "other_development",
+      "documents": 68,
+      "fixed_kl": 2.799231818493675,
+      "future_best_bank_kl": 2.5881974223782036,
+      "future_targets_used": true
+    },
+    {
+      "bank_name": "k24_b08",
+      "split": "train",
+      "documents": 256,
+      "fixed_kl": 2.6424122536554933,
+      "future_best_bank_kl": 2.469171991571784,
+      "future_targets_used": true
+    },
+    {
+      "bank_name": "k24_b08",
+      "split": "selection",
+      "documents": 32,
+      "fixed_kl": 2.55686654150486,
+      "future_best_bank_kl": 2.4167315028607845,
+      "future_targets_used": true
+    },
+    {
+      "bank_name": "k24_b08",
+      "split": "other_development",
+      "documents": 68,
+      "fixed_kl": 2.799231818493675,
+      "future_best_bank_kl": 2.578565736027325,
+      "future_targets_used": true
+    }
+  ],
+  "limits": "Three seeds averaged within documents; exploratory repeated development, no untouched final-test or speed claim."
+}

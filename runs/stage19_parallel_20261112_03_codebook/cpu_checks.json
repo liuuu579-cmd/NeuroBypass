@@ -1,0 +1,6 @@
+{
+  "passed": true,
+  "complete_mask_complementarity_greedy": true,
+  "variable_k_penalty": true,
+  "prompt_only_choices": true
+}

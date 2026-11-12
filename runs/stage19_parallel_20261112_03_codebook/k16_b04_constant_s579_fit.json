@@ -1,0 +1,19 @@
+{
+  "arm": "constant",
+  "name": "k16_b04",
+  "seed": 579,
+  "initial_sha256": "d94a02c2a0e494e33c2da5a723afba7fa4e5631d90226fb5f7caebd5b9729563",
+  "best": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage19_parallel_20261112_03_codebook/private_k16_b04_constant_s579_e000.pth",
+    "sha256": "736032666e553341a2849ea8f71b375349c6a11e94b5224d7a2c54eb300db7ce",
+    "epoch": 0,
+    "selection_objective": 0.7108023427426815
+  },
+  "parameters": 921476,
+  "updates": 384,
+  "epochs": 24,
+  "train_selected_kl": 0.7456160187721252,
+  "train_bank_best_kl": 0.6794030666351318,
+  "seconds": 15.741586487041786,
+  "scale": 0.13763590157032013
+}

@@ -1,0 +1,19 @@
+{
+  "arm": "prompt",
+  "name": "k24_b04",
+  "seed": 581,
+  "initial_sha256": "18316e1da88244e4a2ba09b0e0840ff832aa5e9001bc67d333bd1daa3d278de0",
+  "best": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage19_parallel_20261112_03_codebook/private_k24_b04_prompt_s581_e000.pth",
+    "sha256": "77e2bf6fb7b15051ff0f82fda67cd46bf4e71691f889555574d073c4be9c5e48",
+    "epoch": 0,
+    "selection_objective": 2.55686654150486
+  },
+  "parameters": 921476,
+  "updates": 384,
+  "epochs": 24,
+  "train_selected_kl": 2.6424124240875244,
+  "train_bank_best_kl": 2.500938653945923,
+  "seconds": 20.72142542601796,
+  "scale": 0.3673229217529297
+}

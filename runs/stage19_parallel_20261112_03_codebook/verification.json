@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "quality_rows": 10920,
+  "paired_initialization_budget": true,
+  "training_only_complete_mask_library": true,
+  "source_sha256_verified": true,
+  "constant_k_and_prompt_boundaries": true
+}
