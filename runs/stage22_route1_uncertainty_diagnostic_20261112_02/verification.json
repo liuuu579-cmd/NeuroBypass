@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "source_and_evidence_verified": true,
+  "raw_stage21_ensemble_reproduced": true,
+  "constant_control_is_strong_static": true,
+  "train800_and_validation100_disjoint": true,
+  "relative_to_static_baseline": true,
+  "selection32_only": true,
+  "old_files_preserved": 3005,
+  "cpu_ids": [
+    0,
+    1
+  ],
+  "torch_threads": 1,
+  "gpu_used": false
+}

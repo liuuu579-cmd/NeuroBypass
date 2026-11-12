@@ -1,0 +1,334 @@
+{
+  "evaluations": [
+    {
+      "policy": "relative_uncertainty_gate",
+      "cohort": "train800",
+      "kl": 1.2639752757082072,
+      "nll": 3.6293216153975028,
+      "static_kl": 1.3284166930785808,
+      "static_nll": 3.687691168545158,
+      "switches": 348,
+      "unique_routes": 8,
+      "beneficial_switches": 302,
+      "harmful_switches": 46,
+      "difference": 0.06444141737037341,
+      "ci95": [
+        0.056149017209517295,
+        0.07269723337385942
+      ],
+      "records": 800,
+      "clusters": 800,
+      "fraction_positive": 0.3775
+    },
+    {
+      "policy": "relative_uncertainty_gate",
+      "cohort": "selection32",
+      "kl": 1.201439879834652,
+      "nll": 3.5407309979200363,
+      "static_kl": 1.2403753008693457,
+      "static_nll": 3.575798213481903,
+      "switches": 10,
+      "unique_routes": 3,
+      "beneficial_switches": 7,
+      "harmful_switches": 3,
+      "difference": 0.03893542103469372,
+      "ci95": [
+        -0.005345385568216443,
+        0.09147835662588473
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.21875
+    },
+    {
+      "policy": "relative_uncertainty_gate",
+      "cohort": "other68",
+      "kl": 1.4037335024160498,
+      "nll": 3.8741554267266216,
+      "static_kl": 1.3995834825670017,
+      "static_nll": 3.8550024803947,
+      "switches": 22,
+      "unique_routes": 3,
+      "beneficial_switches": 6,
+      "harmful_switches": 16,
+      "difference": -0.004150019849047941,
+      "ci95": [
+        -0.027490207136553875,
+        0.021715297966318964
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.08823529411764706
+    },
+    {
+      "policy": "relative_uncertainty_gate",
+      "cohort": "all_validation100",
+      "kl": 1.3389995431900024,
+      "nll": 3.7674596095085144,
+      "static_kl": 1.3486368644237519,
+      "static_nll": 3.765657114982605,
+      "switches": 32,
+      "unique_routes": 3,
+      "beneficial_switches": 13,
+      "harmful_switches": 19,
+      "difference": 0.00963732123374939,
+      "ci95": [
+        -0.01246908412873745,
+        0.03484231384098525
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.13
+    },
+    {
+      "policy": "raw_ensemble",
+      "cohort": "train800",
+      "kl": 1.2580359267031138,
+      "nll": 3.6261291648179643,
+      "static_kl": 1.3284166930785808,
+      "static_nll": 3.687691168545158,
+      "switches": 437,
+      "unique_routes": 8,
+      "beneficial_switches": 370,
+      "harmful_switches": 67,
+      "difference": 0.07038076637546681,
+      "ci95": [
+        0.06180740102539649,
+        0.07891118500465201
+      ],
+      "records": 800,
+      "clusters": 800,
+      "fraction_positive": 0.4625
+    },
+    {
+      "policy": "raw_ensemble",
+      "cohort": "selection32",
+      "kl": 1.2183411829173565,
+      "nll": 3.5566241517663,
+      "static_kl": 1.2403753008693457,
+      "static_nll": 3.575798213481903,
+      "switches": 15,
+      "unique_routes": 4,
+      "beneficial_switches": 9,
+      "harmful_switches": 6,
+      "difference": 0.022034117951989174,
+      "ci95": [
+        -0.030953960819169877,
+        0.08006685893051325
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.28125
+    },
+    {
+      "policy": "raw_ensemble",
+      "cohort": "other68",
+      "kl": 1.4081432310973896,
+      "nll": 3.8860695712706623,
+      "static_kl": 1.3995834825670017,
+      "static_nll": 3.8550024803947,
+      "switches": 31,
+      "unique_routes": 5,
+      "beneficial_switches": 10,
+      "harmful_switches": 21,
+      "difference": -0.008559748530387878,
+      "ci95": [
+        -0.034687069277553,
+        0.020086300263509972
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.14705882352941177
+    },
+    {
+      "policy": "raw_ensemble",
+      "cohort": "all_validation100",
+      "kl": 1.347406575679779,
+      "nll": 3.7806470370292664,
+      "static_kl": 1.3486368644237519,
+      "static_nll": 3.765657114982605,
+      "switches": 46,
+      "unique_routes": 5,
+      "beneficial_switches": 19,
+      "harmful_switches": 27,
+      "difference": 0.0012302887439727783,
+      "ci95": [
+        -0.022531285628676415,
+        0.028217419594526238
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.19
+    },
+    {
+      "policy": "constant_observation",
+      "cohort": "train800",
+      "kl": 1.3284166930785808,
+      "nll": 3.687691168545158,
+      "static_kl": 1.3284166930785808,
+      "static_nll": 3.687691168545158,
+      "switches": 0,
+      "unique_routes": 1,
+      "beneficial_switches": 0,
+      "harmful_switches": 0,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 800,
+      "clusters": 800,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "constant_observation",
+      "cohort": "selection32",
+      "kl": 1.2403753008693457,
+      "nll": 3.575798213481903,
+      "static_kl": 1.2403753008693457,
+      "static_nll": 3.575798213481903,
+      "switches": 0,
+      "unique_routes": 1,
+      "beneficial_switches": 0,
+      "harmful_switches": 0,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "constant_observation",
+      "cohort": "other68",
+      "kl": 1.3995834825670017,
+      "nll": 3.8550024803947,
+      "static_kl": 1.3995834825670017,
+      "static_nll": 3.8550024803947,
+      "switches": 0,
+      "unique_routes": 1,
+      "beneficial_switches": 0,
+      "harmful_switches": 0,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "constant_observation",
+      "cohort": "all_validation100",
+      "kl": 1.3486368644237519,
+      "nll": 3.765657114982605,
+      "static_kl": 1.3486368644237519,
+      "static_nll": 3.765657114982605,
+      "switches": 0,
+      "unique_routes": 1,
+      "beneficial_switches": 0,
+      "harmful_switches": 0,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "strong_static",
+      "cohort": "train800",
+      "kl": 1.3284166930785808,
+      "nll": 3.687691168545158,
+      "static_kl": 1.3284166930785808,
+      "static_nll": 3.687691168545158,
+      "switches": 0,
+      "unique_routes": 1,
+      "beneficial_switches": 0,
+      "harmful_switches": 0,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 800,
+      "clusters": 800,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "strong_static",
+      "cohort": "selection32",
+      "kl": 1.2403753008693457,
+      "nll": 3.575798213481903,
+      "static_kl": 1.2403753008693457,
+      "static_nll": 3.575798213481903,
+      "switches": 0,
+      "unique_routes": 1,
+      "beneficial_switches": 0,
+      "harmful_switches": 0,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "strong_static",
+      "cohort": "other68",
+      "kl": 1.3995834825670017,
+      "nll": 3.8550024803947,
+      "static_kl": 1.3995834825670017,
+      "static_nll": 3.8550024803947,
+      "switches": 0,
+      "unique_routes": 1,
+      "beneficial_switches": 0,
+      "harmful_switches": 0,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "strong_static",
+      "cohort": "all_validation100",
+      "kl": 1.3486368644237519,
+      "nll": 3.765657114982605,
+      "static_kl": 1.3486368644237519,
+      "static_nll": 3.765657114982605,
+      "switches": 0,
+      "unique_routes": 1,
+      "beneficial_switches": 0,
+      "harmful_switches": 0,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    }
+  ],
+  "chosen": {
+    "shrink": 0.5,
+    "penalty": 0.0,
+    "margin_units": 0.1,
+    "static": false,
+    "serial": 75,
+    "selection_kl": 1.201439879834652,
+    "selection_switches": 10
+  },
+  "grid_count": 181
+}

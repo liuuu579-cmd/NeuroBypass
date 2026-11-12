@@ -1,0 +1,6 @@
+{
+  "passed": true,
+  "common_cost_and_score_offsets_do_not_change_routes": true,
+  "ties_and_exact_margin_keep_static": true,
+  "selection_function_has_no_other68_argument": true
+}
