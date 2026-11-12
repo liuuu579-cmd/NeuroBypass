@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "cpu_checks": {
+    "passed": true,
+    "complete_mask_complementarity_greedy": true,
+    "variable_k_penalty": true,
+    "prompt_only_choices": true
+  },
+  "source_sha256": {
+    "adaptive_choice_core_v3.py": "d53b4560932d7ec1aa6180062e40c0edf7a1c806102738f408ffb192b8bba074",
+    "run_small_codebook_three_gpu_v3.py": "4643ee924fd717ee308c56b277b55eaf9cbd8e43eeb6190b9c8235768dee92ff",
+    "run_adaptive_budget_three_gpu_v3.py": "e30e317a0dbcc222f83e23518665e7f27197043d325e0373f4332a4d2e17cb4a",
+    "budget_runtime_v3.py": "ebb11139dce6fd41337549230dc450293cec2fc69d777b74967734012cdb5780",
+    "stage19_finalize_v3.py": "27ed06ad05f3f27c581855cf8164c644f2fbdfac36d27f5b492fc25e3870085f",
+    "launch_stage19_parallel_v4.py": "71dc57f905961a0dd1dad9c60c6b7bf208365934355e46fd823db8b8af76d565"
+  },
+  "cache_check_contract": {
+    "mean_kl_max": 0.0001,
+    "maximum_position_kl_max": 0.001,
+    "nll_difference_reported": true,
+    "physical_resident_score_identity_required": true
+  }
+}
