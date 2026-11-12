@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "probe": true,
+  "auditor_sha256": "390ef054bc8857fc00ac1fa1bf87beaeafdeb877a10ccfd715767096dbb1883e",
+  "training_documents": 16,
+  "validation_documents": 8,
+  "complete_prompt_label_documents": 24,
+  "reused_prompt_documents": 16,
+  "new_prompt_documents": 8,
+  "initialization_updates_and_normalization_matched": true,
+  "supervision_means_match_future_training_prior": true,
+  "epochs_selected_only_on_original_selection_ids": true,
+  "future32_control_routes_reproduced": true,
+  "quality_rows": 152,
+  "max_quality_kl_error": 9.48202796280384e-08,
+  "four_gpu_42_cpu_worker_affinity_verified": true,
+  "old_files_preserved": 3062
+}
