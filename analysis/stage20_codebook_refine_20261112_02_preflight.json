@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "loss_checks": {
+    "passed": true,
+    "lower_complete_mask_cost_preferred": true,
+    "ties_have_zero_ranking_weight": true,
+    "finite_gradients": true,
+    "weighted_microbatch_equivalence": true
+  },
+  "source_sha256": {
+    "codebook_refinement_core_v2.py": "97510c23a4e60cc16c10a249f88611ff7d6bec87c7f74b0e743fcf45e98f616d",
+    "run_codebook_refinement_six_gpu_v2.py": "5b5fe074059cb0b653193968da13c246b03df8c376da9e4a7f8eb4c6686d1699",
+    "launch_codebook_refinement_v2.py": "b8428e52badc3d6c66a94c97a84e8f52f6b9214058a3edb9ef598ccad6167c3e"
+  }
+}

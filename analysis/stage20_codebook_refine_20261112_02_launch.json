@@ -1,0 +1,14 @@
+{
+  "coordinator_pid": 2786254,
+  "log": "/home/liushenyu/test/NeuroBypass/analysis/stage20_codebook_refine_20261112_02_pipeline.log",
+  "prefix": "stage20_codebook_refine_20261112_02",
+  "gpus": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "cpu_count": 64
+}

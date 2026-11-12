@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "lower_complete_mask_cost_preferred": true,
+  "ties_have_zero_ranking_weight": true,
+  "finite_gradients": true,
+  "weighted_microbatch_equivalence": true
+}

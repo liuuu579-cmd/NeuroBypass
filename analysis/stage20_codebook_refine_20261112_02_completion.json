@@ -1,0 +1,19 @@
+{
+  "state": "completed",
+  "runs": [
+    {
+      "probe": true,
+      "pid": 2786255,
+      "run": "/home/liushenyu/test/NeuroBypass/runs/stage20_codebook_refine_20261112_02_probe",
+      "log": "/home/liushenyu/test/NeuroBypass/analysis/stage20_codebook_refine_20261112_02_probe.log",
+      "exit_code": 0
+    },
+    {
+      "probe": false,
+      "pid": 2786786,
+      "run": "/home/liushenyu/test/NeuroBypass/runs/stage20_codebook_refine_20261112_02_main",
+      "log": "/home/liushenyu/test/NeuroBypass/analysis/stage20_codebook_refine_20261112_02_main.log",
+      "exit_code": 0
+    }
+  ]
+}

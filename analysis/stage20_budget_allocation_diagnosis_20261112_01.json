@@ -1,0 +1,222 @@
+{
+  "passed": true,
+  "source_run": "/home/liushenyu/test/NeuroBypass/runs/stage19_parallel_20261112_03_budget",
+  "actual_seed": 580,
+  "policy_formula": "argmin_K(predicted continuation KL(K|full prompt) + lambda*(40-K)/40)",
+  "actual_lambda": 3.0,
+  "actual_group_allocations": [
+    {
+      "task": "c4_development",
+      "records": 100,
+      "k_counts": {
+        "10": 20,
+        "12": 75,
+        "16": 5
+      },
+      "mean_k": 11.8,
+      "mean_prompt_tokens": 283.03
+    },
+    {
+      "task": "c4_prior_fresh",
+      "records": 32,
+      "k_counts": {
+        "10": 5,
+        "12": 24,
+        "16": 3
+      },
+      "mean_k": 12.0625,
+      "mean_prompt_tokens": 832.0
+    },
+    {
+      "task": "hellaswag",
+      "records": 32,
+      "k_counts": {
+        "10": 4,
+        "12": 23,
+        "16": 5
+      },
+      "mean_k": 12.375,
+      "mean_prompt_tokens": 49.90625
+    },
+    {
+      "task": "piqa",
+      "records": 32,
+      "k_counts": {
+        "10": 6,
+        "12": 24,
+        "16": 2
+      },
+      "mean_k": 11.875,
+      "mean_prompt_tokens": 14.5625
+    },
+    {
+      "task": "wikitext_conditional",
+      "records": 32,
+      "k_counts": {
+        "10": 8,
+        "12": 23,
+        "16": 1
+      },
+      "mean_k": 11.625,
+      "mean_prompt_tokens": 128.0
+    },
+    {
+      "task": "winogrande",
+      "records": 32,
+      "k_counts": {
+        "10": 3,
+        "12": 23,
+        "16": 6
+      },
+      "mean_k": 12.5625,
+      "mean_prompt_tokens": 15.34375
+    }
+  ],
+  "mc_group_diagnostics": [
+    {
+      "k": 10,
+      "questions": 13,
+      "mean_prompt_tokens": 27.076923076923077,
+      "dynamic_correct": 9,
+      "static12_correct_on_same_questions": 7
+    },
+    {
+      "k": 12,
+      "questions": 70,
+      "mean_prompt_tokens": 26.985714285714284,
+      "dynamic_correct": 38,
+      "static12_correct_on_same_questions": 38
+    },
+    {
+      "k": 16,
+      "questions": 13,
+      "mean_prompt_tokens": 24.076923076923077,
+      "dynamic_correct": 7,
+      "static12_correct_on_same_questions": 8
+    }
+  ],
+  "future_informed_quality_budget_bounds": [
+    {
+      "cohort": "selection32",
+      "documents": 32,
+      "reference_k": 12,
+      "kl_allowance": 0.0,
+      "reference_mean_kl": 0.32609471316335004,
+      "future_informed_fractional_mean_k_upper_bound": 12.626266093141709,
+      "fractional_rows": 1,
+      "future_informed_feasible_mean_k": 12.625,
+      "future_informed_feasible_mean_kl": 0.3260048544676799,
+      "future_informed_k_counts": {
+        "8": 2,
+        "10": 6,
+        "12": 16,
+        "16": 6,
+        "20": 2
+      },
+      "future_targets_used": true,
+      "runtime_measured": false
+    },
+    {
+      "cohort": "selection32",
+      "documents": 32,
+      "reference_k": 12,
+      "kl_allowance": 0.02,
+      "reference_mean_kl": 0.32609471316335004,
+      "future_informed_fractional_mean_k_upper_bound": 12.902992745852305,
+      "fractional_rows": 1,
+      "future_informed_feasible_mean_k": 12.875,
+      "future_informed_feasible_mean_kl": 0.34402212186399694,
+      "future_informed_k_counts": {
+        "8": 2,
+        "10": 6,
+        "12": 15,
+        "16": 6,
+        "20": 3
+      },
+      "future_targets_used": true,
+      "runtime_measured": false
+    },
+    {
+      "cohort": "other68",
+      "documents": 68,
+      "reference_k": 12,
+      "kl_allowance": 0.0,
+      "reference_mean_kl": 0.40085341057914253,
+      "future_informed_fractional_mean_k_upper_bound": 12.706002429230141,
+      "fractional_rows": 1,
+      "future_informed_feasible_mean_k": 12.705882352941176,
+      "future_informed_feasible_mean_kl": 0.4008432145258709,
+      "future_informed_k_counts": {
+        "6": 3,
+        "10": 11,
+        "12": 34,
+        "16": 18,
+        "20": 2
+      },
+      "future_targets_used": true,
+      "runtime_measured": false
+    },
+    {
+      "cohort": "other68",
+      "documents": 68,
+      "reference_k": 12,
+      "kl_allowance": 0.02,
+      "reference_mean_kl": 0.40085341057914253,
+      "future_informed_fractional_mean_k_upper_bound": 12.937655092651884,
+      "fractional_rows": 1,
+      "future_informed_feasible_mean_k": 12.882352941176471,
+      "future_informed_feasible_mean_kl": 0.41600301640563775,
+      "future_informed_k_counts": {
+        "6": 3,
+        "10": 9,
+        "12": 34,
+        "16": 20,
+        "20": 2
+      },
+      "future_targets_used": true,
+      "runtime_measured": false
+    },
+    {
+      "cohort": "mc96",
+      "documents": 96,
+      "reference_k": 12,
+      "kl_allowance": 0.0,
+      "reference_mean_kl": 0.3053986327185069,
+      "future_informed_fractional_mean_k_upper_bound": 12.40954570991104,
+      "fractional_rows": 1,
+      "future_informed_feasible_mean_k": 12.375,
+      "future_informed_feasible_mean_kl": 0.30324525036590094,
+      "future_informed_k_counts": {
+        "8": 2,
+        "10": 28,
+        "12": 49,
+        "16": 9,
+        "20": 8
+      },
+      "future_targets_used": true,
+      "runtime_measured": false
+    },
+    {
+      "cohort": "mc96",
+      "documents": 96,
+      "reference_k": 12,
+      "kl_allowance": 0.02,
+      "reference_mean_kl": 0.3053986327185069,
+      "future_informed_fractional_mean_k_upper_bound": 12.724964756234808,
+      "fractional_rows": 1,
+      "future_informed_feasible_mean_k": 12.708333333333334,
+      "future_informed_feasible_mean_kl": 0.32430474335903614,
+      "future_informed_k_counts": {
+        "8": 2,
+        "10": 20,
+        "12": 54,
+        "16": 11,
+        "20": 9
+      },
+      "future_targets_used": true,
+      "runtime_measured": false
+    }
+  ],
+  "source_sha256": "28453cd9fc43b6376e71005f0bba75f7583d13507507a89bed5fa7694202833a",
+  "limits": "Bounds use actual future continuation KL and are offline diagnostics only, not deployable routing, accuracy guarantees, or measured speedups. Fixed nested mask path only. Existing reviewed development populations."
+}

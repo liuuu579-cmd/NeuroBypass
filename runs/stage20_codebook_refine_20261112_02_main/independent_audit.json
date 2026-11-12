@@ -1,0 +1,100 @@
+{
+  "passed": true,
+  "original_training_documents": 800,
+  "validation_documents": 100,
+  "new_joint_label_documents": 544,
+  "existing_joint_label_documents": 356,
+  "strongest_static_recomputed_training_only": true,
+  "old256_router_replay_rows": 300,
+  "old256_replay_max_abs_error": 0.0,
+  "checkpoints": [
+    {
+      "objective": "huber",
+      "arm": "prompt",
+      "seed": 579,
+      "epoch": 12,
+      "passed": true
+    },
+    {
+      "objective": "huber",
+      "arm": "constant",
+      "seed": 579,
+      "epoch": 0,
+      "passed": true
+    },
+    {
+      "objective": "huber",
+      "arm": "prompt",
+      "seed": 580,
+      "epoch": 8,
+      "passed": true
+    },
+    {
+      "objective": "huber",
+      "arm": "constant",
+      "seed": 580,
+      "epoch": 0,
+      "passed": true
+    },
+    {
+      "objective": "huber",
+      "arm": "prompt",
+      "seed": 581,
+      "epoch": 1,
+      "passed": true
+    },
+    {
+      "objective": "huber",
+      "arm": "constant",
+      "seed": 581,
+      "epoch": 0,
+      "passed": true
+    },
+    {
+      "objective": "rank",
+      "arm": "prompt",
+      "seed": 579,
+      "epoch": 4,
+      "passed": true
+    },
+    {
+      "objective": "rank",
+      "arm": "constant",
+      "seed": 579,
+      "epoch": 0,
+      "passed": true
+    },
+    {
+      "objective": "rank",
+      "arm": "prompt",
+      "seed": 580,
+      "epoch": 4,
+      "passed": true
+    },
+    {
+      "objective": "rank",
+      "arm": "constant",
+      "seed": 580,
+      "epoch": 0,
+      "passed": true
+    },
+    {
+      "objective": "rank",
+      "arm": "prompt",
+      "seed": 581,
+      "epoch": 4,
+      "passed": true
+    },
+    {
+      "objective": "rank",
+      "arm": "constant",
+      "seed": 581,
+      "epoch": 0,
+      "passed": true
+    }
+  ],
+  "gpu_count": 6,
+  "cpu_count": 64,
+  "preserved_old_files_rechecked": true,
+  "audit_source_sha256": "7ae4b37e98186caab016f78d70019cd4cd76ade4448374e283a91bfc64173855"
+}
