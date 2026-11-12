@@ -1,0 +1,71 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "k": 0,
+      "physical_resident_nll_abs_error": 0.0,
+      "generation_hash_equal": true,
+      "resident_cached_serial_precision": [
+        {
+          "mean_kl": 1.76218782144133e-05,
+          "max_position_kl": 6.101815961301327e-05,
+          "target_nll_abs_error": 0.0003953789419028908,
+          "argmax_agreement": 0.96875
+        }
+      ],
+      "physical_cached_serial_precision": [
+        {
+          "mean_kl": 1.76218782144133e-05,
+          "max_position_kl": 6.101815961301327e-05,
+          "target_nll_abs_error": 0.0003953789419028908,
+          "argmax_agreement": 0.96875
+        }
+      ]
+    },
+    {
+      "k": 12,
+      "physical_resident_nll_abs_error": 0.0,
+      "generation_hash_equal": true,
+      "resident_cached_serial_precision": [
+        {
+          "mean_kl": 6.691226008115336e-05,
+          "max_position_kl": 0.0004263501614332199,
+          "target_nll_abs_error": 0.003513619289151393,
+          "argmax_agreement": 1.0
+        }
+      ],
+      "physical_cached_serial_precision": [
+        {
+          "mean_kl": 6.691226008115336e-05,
+          "max_position_kl": 0.0004263501614332199,
+          "target_nll_abs_error": 0.003513619289151393,
+          "argmax_agreement": 1.0
+        }
+      ]
+    },
+    {
+      "k": 24,
+      "physical_resident_nll_abs_error": 0.0,
+      "generation_hash_equal": true,
+      "resident_cached_serial_precision": [
+        {
+          "mean_kl": 4.8040841647889465e-05,
+          "max_position_kl": 0.000179717579158023,
+          "target_nll_abs_error": 0.00129043310880661,
+          "argmax_agreement": 1.0
+        }
+      ],
+      "physical_cached_serial_precision": [
+        {
+          "mean_kl": 4.8040841647889465e-05,
+          "max_position_kl": 0.000179717579158023,
+          "target_nll_abs_error": 0.00129043310880661,
+          "argmax_agreement": 1.0
+        }
+      ]
+    }
+  ],
+  "new_cache_for_every_input": true,
+  "full_prompt_router_contract": true,
+  "real_physical_static_and_selective_layers": true
+}

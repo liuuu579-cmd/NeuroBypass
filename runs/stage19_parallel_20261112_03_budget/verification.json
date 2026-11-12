@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "same_dataset_order_and_token_budget": true,
+  "prompt_only_variable_k": true,
+  "static_frontier_and_physical_removal": true,
+  "routing_switching_and_full_prefill_counted": true,
+  "paired_seed_initialization_and_updates": true,
+  "timing_waited_for_sibling_gpu_completion": true,
+  "runtime_physical_and_resident_checks": true
+}

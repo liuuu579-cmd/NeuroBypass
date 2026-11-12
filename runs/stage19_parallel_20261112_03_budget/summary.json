@@ -1,0 +1,5146 @@
+{
+  "quality_aggregates": [
+    {
+      "task": "c4_development",
+      "policy": "constant_ref10_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.23350188869840038,
+      "nll": 2.6879558288381338,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant_ref10_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.23350188869840038,
+      "nll": 2.6879558288381338,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant_ref10_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.23350188869840038,
+      "nll": 2.6879558288381338,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant_ref10_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.23350188869840038,
+      "nll": 2.6879558288381338,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant_ref10_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.23350188869840038,
+      "nll": 2.6879558288381338,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant_ref10_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.23350188869840038,
+      "nll": 2.6879558288381338,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant_ref12_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.37693062740608896,
+      "nll": 2.827578864990431,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant_ref12_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.37693062740608896,
+      "nll": 2.827578864990431,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant_ref12_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.37693062740608896,
+      "nll": 2.827578864990431,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant_ref12_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.37693062740608896,
+      "nll": 2.827578864990431,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant_ref12_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.37693062740608896,
+      "nll": 2.827578864990431,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant_ref12_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.37693062740608896,
+      "nll": 2.827578864990431,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant_ref16_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.8097807284370174,
+      "nll": 3.266216575820829,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant_ref16_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.8097807284370174,
+      "nll": 3.266216575820829,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant_ref16_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.8097807284370174,
+      "nll": 3.266216575820829,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant_ref16_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.8097807284370174,
+      "nll": 3.266216575820829,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant_ref16_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.8097807284370174,
+      "nll": 3.266216575820829,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "constant_ref16_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.8097807284370174,
+      "nll": 3.266216575820829,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt_ref10_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.23350188869840038,
+      "nll": 2.6879558288381338,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt_ref10_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.23350188869840038,
+      "nll": 2.6879558288381338,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt_ref10_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.23350188869840038,
+      "nll": 2.6879558288381338,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt_ref10_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.23350188869840038,
+      "nll": 2.6879558288381338,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt_ref10_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.23350188869840038,
+      "nll": 2.6879558288381338,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt_ref10_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.23350188869840038,
+      "nll": 2.6879558288381338,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt_ref12_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.37693062740608896,
+      "nll": 2.827578864990431,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt_ref12_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.37693062740608896,
+      "nll": 2.827578864990431,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt_ref12_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.37693062740608896,
+      "nll": 2.827578864990431,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt_ref12_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.37693062740608896,
+      "nll": 2.827578864990431,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt_ref12_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.3625868146706668,
+      "nll": 2.815514853129342,
+      "k": 11.8,
+      "unique_masks": 3
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt_ref12_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.37693062740608896,
+      "nll": 2.827578864990431,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt_ref16_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.8097807284370174,
+      "nll": 3.266216575820829,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt_ref16_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.8097807284370174,
+      "nll": 3.266216575820829,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt_ref16_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.8097807284370174,
+      "nll": 3.266216575820829,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt_ref16_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.8097807284370174,
+      "nll": 3.266216575820829,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt_ref16_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.8097807284370174,
+      "nll": 3.266216575820829,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "prompt_ref16_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.8097807284370174,
+      "nll": 3.266216575820829,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "static_k00",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.0,
+      "nll": 2.4831281389446485,
+      "k": 0.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "static_k06",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.07958203850445628,
+      "nll": 2.5454836602872692,
+      "k": 6.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "static_k08",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.14626335975930402,
+      "nll": 2.6094922278351955,
+      "k": 8.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "static_k10",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.23350188869840038,
+      "nll": 2.6879558288381338,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "static_k12",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.37693062740608896,
+      "nll": 2.827578864990431,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "static_k16",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 0.8097807284370174,
+      "nll": 3.266216575820829,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "static_k20",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 1.3862436797161353,
+      "nll": 3.816147349580931,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_development",
+      "policy": "static_k24",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 100,
+      "kl": 2.840185241037543,
+      "nll": 5.225384968056869,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant_ref10_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21781488294904605,
+      "nll": 2.7342823693226324,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant_ref10_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21781488294904605,
+      "nll": 2.7342823693226324,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant_ref10_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21781488294904605,
+      "nll": 2.7342823693226324,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant_ref10_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21781488294904605,
+      "nll": 2.7342823693226324,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant_ref10_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21781488294904605,
+      "nll": 2.7342823693226324,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant_ref10_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21781488294904605,
+      "nll": 2.7342823693226324,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant_ref12_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.34758768386226535,
+      "nll": 2.843600413263573,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant_ref12_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.34758768386226535,
+      "nll": 2.843600413263573,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant_ref12_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.34758768386226535,
+      "nll": 2.843600413263573,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant_ref12_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.34758768386226535,
+      "nll": 2.843600413263573,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant_ref12_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.34758768386226535,
+      "nll": 2.843600413263573,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant_ref12_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.34758768386226535,
+      "nll": 2.843600413263573,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant_ref16_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7745573414245328,
+      "nll": 3.3164325405523645,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant_ref16_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7745573414245328,
+      "nll": 3.3164325405523645,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant_ref16_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7745573414245328,
+      "nll": 3.3164325405523645,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant_ref16_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7745573414245328,
+      "nll": 3.3164325405523645,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant_ref16_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7745573414245328,
+      "nll": 3.3164325405523645,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "constant_ref16_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7745573414245328,
+      "nll": 3.3164325405523645,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt_ref10_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21781488294904605,
+      "nll": 2.7342823693226324,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt_ref10_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21781488294904605,
+      "nll": 2.7342823693226324,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt_ref10_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21781488294904605,
+      "nll": 2.7342823693226324,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt_ref10_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21781488294904605,
+      "nll": 2.7342823693226324,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt_ref10_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21781488294904605,
+      "nll": 2.7342823693226324,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt_ref10_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21781488294904605,
+      "nll": 2.7342823693226324,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt_ref12_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.34758768386226535,
+      "nll": 2.843600413263573,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt_ref12_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.34758768386226535,
+      "nll": 2.843600413263573,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt_ref12_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.34758768386226535,
+      "nll": 2.843600413263573,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt_ref12_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.34758768386226535,
+      "nll": 2.843600413263573,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt_ref12_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.3630434809198917,
+      "nll": 2.860845171140525,
+      "k": 12.0625,
+      "unique_masks": 3
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt_ref12_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.34758768386226535,
+      "nll": 2.843600413263573,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt_ref16_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7745573414245328,
+      "nll": 3.3164325405523645,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt_ref16_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7745573414245328,
+      "nll": 3.3164325405523645,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt_ref16_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7745573414245328,
+      "nll": 3.3164325405523645,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt_ref16_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7745573414245328,
+      "nll": 3.3164325405523645,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt_ref16_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7745573414245328,
+      "nll": 3.3164325405523645,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "prompt_ref16_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7745573414245328,
+      "nll": 3.3164325405523645,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "static_k00",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.0,
+      "nll": 2.545565874988572,
+      "k": 0.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "static_k06",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.08332568095155013,
+      "nll": 2.608564132011992,
+      "k": 6.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "static_k08",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.13409094361561102,
+      "nll": 2.649194849323491,
+      "k": 8.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "static_k10",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21781488294904605,
+      "nll": 2.7342823693226324,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "static_k12",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.34758768386226535,
+      "nll": 2.843600413263573,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "static_k16",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7745573414245328,
+      "nll": 3.3164325405523645,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "static_k20",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 1.3899235488061379,
+      "nll": 3.9196811175624937,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "c4_prior_fresh",
+      "policy": "static_k24",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 3.126033644934523,
+      "nll": 5.600153789890838,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant_ref10_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21935926330269606,
+      "nll": 3.068000267635389,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant_ref10_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21935926330269606,
+      "nll": 3.068000267635389,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant_ref10_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21935926330269606,
+      "nll": 3.068000267635389,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant_ref10_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21935926330269606,
+      "nll": 3.068000267635389,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant_ref10_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21935926330269606,
+      "nll": 3.068000267635389,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant_ref10_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21935926330269606,
+      "nll": 3.068000267635389,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant_ref12_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.3363830531724288,
+      "nll": 3.1151365006732386,
+      "correct_norm": 0.625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant_ref12_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.3363830531724288,
+      "nll": 3.1151365006732386,
+      "correct_norm": 0.625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant_ref12_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.3363830531724288,
+      "nll": 3.1151365006732386,
+      "correct_norm": 0.625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant_ref12_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.3363830531724288,
+      "nll": 3.1151365006732386,
+      "correct_norm": 0.625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant_ref12_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.3363830531724288,
+      "nll": 3.1151365006732386,
+      "correct_norm": 0.625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant_ref12_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.3363830531724288,
+      "nll": 3.1151365006732386,
+      "correct_norm": 0.625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant_ref16_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.6821302165086548,
+      "nll": 3.3669581128325694,
+      "correct_norm": 0.53125,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant_ref16_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.6821302165086548,
+      "nll": 3.3669581128325694,
+      "correct_norm": 0.53125,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant_ref16_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.6821302165086548,
+      "nll": 3.3669581128325694,
+      "correct_norm": 0.53125,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant_ref16_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.6821302165086548,
+      "nll": 3.3669581128325694,
+      "correct_norm": 0.53125,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant_ref16_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.6821302165086548,
+      "nll": 3.3669581128325694,
+      "correct_norm": 0.53125,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "constant_ref16_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.6821302165086548,
+      "nll": 3.3669581128325694,
+      "correct_norm": 0.53125,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt_ref10_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21935926330269606,
+      "nll": 3.068000267635389,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt_ref10_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21935926330269606,
+      "nll": 3.068000267635389,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt_ref10_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21935926330269606,
+      "nll": 3.068000267635389,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt_ref10_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21935926330269606,
+      "nll": 3.068000267635389,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt_ref10_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21935926330269606,
+      "nll": 3.068000267635389,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt_ref10_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21935926330269606,
+      "nll": 3.068000267635389,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt_ref12_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.3363830531724288,
+      "nll": 3.1151365006732386,
+      "correct_norm": 0.625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt_ref12_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.3363830531724288,
+      "nll": 3.1151365006732386,
+      "correct_norm": 0.625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt_ref12_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.3363830531724288,
+      "nll": 3.1151365006732386,
+      "correct_norm": 0.625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt_ref12_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.3363830531724288,
+      "nll": 3.1151365006732386,
+      "correct_norm": 0.625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt_ref12_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.3749554095075972,
+      "nll": 3.1444612038734565,
+      "correct_norm": 0.59375,
+      "k": 12.375,
+      "unique_masks": 3
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt_ref12_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.3363830531724288,
+      "nll": 3.1151365006732386,
+      "correct_norm": 0.625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt_ref16_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.6821302165086548,
+      "nll": 3.3669581128325694,
+      "correct_norm": 0.53125,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt_ref16_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.6821302165086548,
+      "nll": 3.3669581128325694,
+      "correct_norm": 0.53125,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt_ref16_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.6821302165086548,
+      "nll": 3.3669581128325694,
+      "correct_norm": 0.53125,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt_ref16_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.6821302165086548,
+      "nll": 3.3669581128325694,
+      "correct_norm": 0.53125,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt_ref16_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.6821302165086548,
+      "nll": 3.3669581128325694,
+      "correct_norm": 0.53125,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "prompt_ref16_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.6821302165086548,
+      "nll": 3.3669581128325694,
+      "correct_norm": 0.53125,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "static_k00",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.0,
+      "nll": 2.9893139257353676,
+      "correct_norm": 0.71875,
+      "k": 0.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "static_k06",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.09443642233769775,
+      "nll": 3.046269816418884,
+      "correct_norm": 0.71875,
+      "k": 6.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "static_k08",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.15153343517905837,
+      "nll": 3.052831731827584,
+      "correct_norm": 0.71875,
+      "k": 8.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "static_k10",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.21935926330269606,
+      "nll": 3.068000267635389,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "static_k12",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.3363830531724288,
+      "nll": 3.1151365006732386,
+      "correct_norm": 0.625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "static_k16",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.6821302165086548,
+      "nll": 3.3669581128325694,
+      "correct_norm": 0.53125,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "static_k20",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 1.1334972553915066,
+      "nll": 3.695526996334622,
+      "correct_norm": 0.4375,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "hellaswag",
+      "policy": "static_k24",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 2.2731770584232,
+      "nll": 4.873185509211013,
+      "correct_norm": 0.3125,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant_ref10_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.19369906075351,
+      "nll": 3.1249495940872762,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant_ref10_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.19369906075351,
+      "nll": 3.1249495940872762,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant_ref10_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.19369906075351,
+      "nll": 3.1249495940872762,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant_ref10_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.19369906075351,
+      "nll": 3.1249495940872762,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant_ref10_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.19369906075351,
+      "nll": 3.1249495940872762,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant_ref10_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.19369906075351,
+      "nll": 3.1249495940872762,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant_ref12_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.31883560842220926,
+      "nll": 3.1916701456819614,
+      "correct_norm": 0.625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant_ref12_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.31883560842220926,
+      "nll": 3.1916701456819614,
+      "correct_norm": 0.625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant_ref12_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.31883560842220926,
+      "nll": 3.1916701456819614,
+      "correct_norm": 0.625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant_ref12_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.31883560842220926,
+      "nll": 3.1916701456819614,
+      "correct_norm": 0.625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant_ref12_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.31883560842220926,
+      "nll": 3.1916701456819614,
+      "correct_norm": 0.625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant_ref12_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.31883560842220926,
+      "nll": 3.1916701456819614,
+      "correct_norm": 0.625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant_ref16_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7253890704792678,
+      "nll": 3.55601689060655,
+      "correct_norm": 0.71875,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant_ref16_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7253890704792678,
+      "nll": 3.55601689060655,
+      "correct_norm": 0.71875,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant_ref16_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7253890704792678,
+      "nll": 3.55601689060655,
+      "correct_norm": 0.71875,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant_ref16_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7253890704792678,
+      "nll": 3.55601689060655,
+      "correct_norm": 0.71875,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant_ref16_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7253890704792678,
+      "nll": 3.55601689060655,
+      "correct_norm": 0.71875,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "constant_ref16_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7253890704792678,
+      "nll": 3.55601689060655,
+      "correct_norm": 0.71875,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt_ref10_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.19369906075351,
+      "nll": 3.1249495940872762,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt_ref10_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.19369906075351,
+      "nll": 3.1249495940872762,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt_ref10_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.19369906075351,
+      "nll": 3.1249495940872762,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt_ref10_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.19369906075351,
+      "nll": 3.1249495940872762,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt_ref10_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.19369906075351,
+      "nll": 3.1249495940872762,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt_ref10_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.19369906075351,
+      "nll": 3.1249495940872762,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt_ref12_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.31883560842220926,
+      "nll": 3.1916701456819614,
+      "correct_norm": 0.625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt_ref12_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.31883560842220926,
+      "nll": 3.1916701456819614,
+      "correct_norm": 0.625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt_ref12_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.31883560842220926,
+      "nll": 3.1916701456819614,
+      "correct_norm": 0.625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt_ref12_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.31883560842220926,
+      "nll": 3.1916701456819614,
+      "correct_norm": 0.625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt_ref12_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.3131608359308178,
+      "nll": 3.2010690116346474,
+      "correct_norm": 0.6875,
+      "k": 11.875,
+      "unique_masks": 3
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt_ref12_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.31883560842220926,
+      "nll": 3.1916701456819614,
+      "correct_norm": 0.625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt_ref16_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7253890704792678,
+      "nll": 3.55601689060655,
+      "correct_norm": 0.71875,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt_ref16_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7253890704792678,
+      "nll": 3.55601689060655,
+      "correct_norm": 0.71875,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt_ref16_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7253890704792678,
+      "nll": 3.55601689060655,
+      "correct_norm": 0.71875,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt_ref16_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7253890704792678,
+      "nll": 3.55601689060655,
+      "correct_norm": 0.71875,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt_ref16_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7253890704792678,
+      "nll": 3.55601689060655,
+      "correct_norm": 0.71875,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "prompt_ref16_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7253890704792678,
+      "nll": 3.55601689060655,
+      "correct_norm": 0.71875,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "static_k00",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.0,
+      "nll": 2.930092479597836,
+      "correct_norm": 0.6875,
+      "k": 0.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "static_k06",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.06877138039498953,
+      "nll": 2.999704116400031,
+      "correct_norm": 0.71875,
+      "k": 6.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "static_k08",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.12086733326094357,
+      "nll": 3.051559616200447,
+      "correct_norm": 0.6875,
+      "k": 8.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "static_k10",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.19369906075351,
+      "nll": 3.1249495940872762,
+      "correct_norm": 0.6875,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "static_k12",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.31883560842220926,
+      "nll": 3.1916701456819614,
+      "correct_norm": 0.625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "static_k16",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.7253890704792678,
+      "nll": 3.55601689060655,
+      "correct_norm": 0.71875,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "static_k20",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 1.2916957837207708,
+      "nll": 4.189556098725834,
+      "correct_norm": 0.65625,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "piqa",
+      "policy": "static_k24",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 2.634206014364771,
+      "nll": 5.518114407218534,
+      "correct_norm": 0.53125,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant_ref10_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.30016343877575946,
+      "nll": 2.707338991691754,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant_ref10_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.30016343877575946,
+      "nll": 2.707338991691754,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant_ref10_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.30016343877575946,
+      "nll": 2.707338991691754,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant_ref10_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.30016343877575946,
+      "nll": 2.707338991691754,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant_ref10_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.30016343877575946,
+      "nll": 2.707338991691754,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant_ref10_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.30016343877575946,
+      "nll": 2.707338991691754,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant_ref12_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.45759650956212705,
+      "nll": 2.8589716118445683,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant_ref12_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.45759650956212705,
+      "nll": 2.8589716118445683,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant_ref12_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.45759650956212705,
+      "nll": 2.8589716118445683,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant_ref12_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.45759650956212705,
+      "nll": 2.8589716118445683,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant_ref12_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.45759650956212705,
+      "nll": 2.8589716118445683,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant_ref12_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.45759650956212705,
+      "nll": 2.8589716118445683,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant_ref16_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.9299663081959616,
+      "nll": 3.328789953722564,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant_ref16_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.9299663081959616,
+      "nll": 3.328789953722564,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant_ref16_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.9299663081959616,
+      "nll": 3.328789953722564,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant_ref16_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.9299663081959616,
+      "nll": 3.328789953722564,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant_ref16_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.9299663081959616,
+      "nll": 3.328789953722564,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "constant_ref16_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.9299663081959616,
+      "nll": 3.328789953722564,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt_ref10_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.30016343877575946,
+      "nll": 2.707338991691754,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt_ref10_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.30016343877575946,
+      "nll": 2.707338991691754,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt_ref10_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.30016343877575946,
+      "nll": 2.707338991691754,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt_ref10_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.30016343877575946,
+      "nll": 2.707338991691754,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt_ref10_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.30016343877575946,
+      "nll": 2.707338991691754,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt_ref10_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.30016343877575946,
+      "nll": 2.707338991691754,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt_ref12_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.45759650956212705,
+      "nll": 2.8589716118445683,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt_ref12_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.45759650956212705,
+      "nll": 2.8589716118445683,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt_ref12_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.45759650956212705,
+      "nll": 2.8589716118445683,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt_ref12_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.45759650956212705,
+      "nll": 2.8589716118445683,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt_ref12_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.4263819403805832,
+      "nll": 2.8287301631719712,
+      "k": 11.625,
+      "unique_masks": 3
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt_ref12_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.45759650956212705,
+      "nll": 2.8589716118445683,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt_ref16_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.9299663081959616,
+      "nll": 3.328789953722564,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt_ref16_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.9299663081959616,
+      "nll": 3.328789953722564,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt_ref16_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.9299663081959616,
+      "nll": 3.328789953722564,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt_ref16_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.9299663081959616,
+      "nll": 3.328789953722564,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt_ref16_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.9299663081959616,
+      "nll": 3.328789953722564,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "prompt_ref16_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.9299663081959616,
+      "nll": 3.328789953722564,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "static_k00",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.0,
+      "nll": 2.4392212528142783,
+      "k": 0.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "static_k06",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.10773300540506167,
+      "nll": 2.53832468818937,
+      "k": 6.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "static_k08",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.18567799105099503,
+      "nll": 2.605922548365189,
+      "k": 8.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "static_k10",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.30016343877575946,
+      "nll": 2.707338991691754,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "static_k12",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.45759650956212705,
+      "nll": 2.8589716118445683,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "static_k16",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.9299663081959616,
+      "nll": 3.328789953722564,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "static_k20",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 1.5620335091566826,
+      "nll": 3.994909735407801,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "static_k24",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 3.601065795042462,
+      "nll": 6.026585811830587,
+      "k": 24.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant_ref10_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.1746292601327445,
+      "nll": 3.2904207442313806,
+      "correct_norm": 0.375,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant_ref10_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.1746292601327445,
+      "nll": 3.2904207442313806,
+      "correct_norm": 0.375,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant_ref10_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.1746292601327445,
+      "nll": 3.2904207442313806,
+      "correct_norm": 0.375,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant_ref10_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.1746292601327445,
+      "nll": 3.2904207442313806,
+      "correct_norm": 0.375,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant_ref10_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.1746292601327445,
+      "nll": 3.2904207442313806,
+      "correct_norm": 0.375,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant_ref10_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.1746292601327445,
+      "nll": 3.2904207442313806,
+      "correct_norm": 0.375,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant_ref12_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.26097723656088256,
+      "nll": 3.4057727486363047,
+      "correct_norm": 0.40625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant_ref12_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.26097723656088256,
+      "nll": 3.4057727486363047,
+      "correct_norm": 0.40625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant_ref12_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.26097723656088256,
+      "nll": 3.4057727486363047,
+      "correct_norm": 0.40625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant_ref12_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.26097723656088256,
+      "nll": 3.4057727486363047,
+      "correct_norm": 0.40625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant_ref12_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.26097723656088256,
+      "nll": 3.4057727486363047,
+      "correct_norm": 0.40625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant_ref12_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.26097723656088256,
+      "nll": 3.4057727486363047,
+      "correct_norm": 0.40625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant_ref16_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.621058566891097,
+      "nll": 3.880353074907618,
+      "correct_norm": 0.40625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant_ref16_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.621058566891097,
+      "nll": 3.880353074907618,
+      "correct_norm": 0.40625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant_ref16_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.621058566891097,
+      "nll": 3.880353074907618,
+      "correct_norm": 0.40625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant_ref16_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.621058566891097,
+      "nll": 3.880353074907618,
+      "correct_norm": 0.40625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant_ref16_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.621058566891097,
+      "nll": 3.880353074907618,
+      "correct_norm": 0.40625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "constant_ref16_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.621058566891097,
+      "nll": 3.880353074907618,
+      "correct_norm": 0.40625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt_ref10_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.1746292601327445,
+      "nll": 3.2904207442313806,
+      "correct_norm": 0.375,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt_ref10_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.1746292601327445,
+      "nll": 3.2904207442313806,
+      "correct_norm": 0.375,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt_ref10_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.1746292601327445,
+      "nll": 3.2904207442313806,
+      "correct_norm": 0.375,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt_ref10_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.1746292601327445,
+      "nll": 3.2904207442313806,
+      "correct_norm": 0.375,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt_ref10_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.1746292601327445,
+      "nll": 3.2904207442313806,
+      "correct_norm": 0.375,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt_ref10_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.1746292601327445,
+      "nll": 3.2904207442313806,
+      "correct_norm": 0.375,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt_ref12_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.26097723656088256,
+      "nll": 3.4057727486363047,
+      "correct_norm": 0.40625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt_ref12_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.26097723656088256,
+      "nll": 3.4057727486363047,
+      "correct_norm": 0.40625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt_ref12_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.26097723656088256,
+      "nll": 3.4057727486363047,
+      "correct_norm": 0.40625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt_ref12_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.26097723656088256,
+      "nll": 3.4057727486363047,
+      "correct_norm": 0.40625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt_ref12_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.33056387790693853,
+      "nll": 3.4954959115772404,
+      "correct_norm": 0.40625,
+      "k": 12.5625,
+      "unique_masks": 3
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt_ref12_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.26097723656088256,
+      "nll": 3.4057727486363047,
+      "correct_norm": 0.40625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt_ref16_slack000",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.621058566891097,
+      "nll": 3.880353074907618,
+      "correct_norm": 0.40625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt_ref16_slack000",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.621058566891097,
+      "nll": 3.880353074907618,
+      "correct_norm": 0.40625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt_ref16_slack000",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.621058566891097,
+      "nll": 3.880353074907618,
+      "correct_norm": 0.40625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt_ref16_slack020",
+      "seed": 579,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.621058566891097,
+      "nll": 3.880353074907618,
+      "correct_norm": 0.40625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt_ref16_slack020",
+      "seed": 580,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.621058566891097,
+      "nll": 3.880353074907618,
+      "correct_norm": 0.40625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "prompt_ref16_slack020",
+      "seed": 581,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.621058566891097,
+      "nll": 3.880353074907618,
+      "correct_norm": 0.40625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "static_k00",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.0,
+      "nll": 3.3033812965576628,
+      "correct_norm": 0.375,
+      "k": 0.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "static_k06",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.059155434091000304,
+      "nll": 3.3172923036732893,
+      "correct_norm": 0.375,
+      "k": 6.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "static_k08",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.1134650692069719,
+      "nll": 3.2862311502291126,
+      "correct_norm": 0.34375,
+      "k": 8.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "static_k10",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.1746292601327445,
+      "nll": 3.2904207442313806,
+      "correct_norm": 0.375,
+      "k": 10.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "static_k12",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.26097723656088256,
+      "nll": 3.4057727486363047,
+      "correct_norm": 0.40625,
+      "k": 12.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "static_k16",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 0.621058566891097,
+      "nll": 3.880353074907618,
+      "correct_norm": 0.40625,
+      "k": 16.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "static_k20",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 1.0525055382812405,
+      "nll": 4.346439439353486,
+      "correct_norm": 0.375,
+      "k": 20.0,
+      "unique_masks": 1
+    },
+    {
+      "task": "winogrande",
+      "policy": "static_k24",
+      "seed": null,
+      "bank_name": "budget",
+      "records": 32,
+      "kl": 2.2717429428010263,
+      "nll": 5.538316704905775,
+      "correct_norm": 0.34375,
+      "k": 24.0,
+      "unique_masks": 1
+    }
+  ],
+  "timing_aggregates": [
+    {
+      "policy": "prompt_ref10_slack000",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 260,
+      "dataset_wall_seconds": 33.137712322776984,
+      "dataset_including_gpu_setup_seconds": 38.19073312343486,
+      "gpu_layout_setup_seconds": 5.0530208006578805,
+      "mean_k": 10.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 20750179328.0,
+      "peak_reserved_bytes": 21310559573.333332,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.5833333333333334,
+      "min_seconds": 32.49123740597861,
+      "max_seconds": 33.51792683702661
+    },
+    {
+      "policy": "prompt_ref10_slack000",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 96,
+      "dataset_wall_seconds": 13.376241213008244,
+      "dataset_including_gpu_setup_seconds": 18.477978218223953,
+      "gpu_layout_setup_seconds": 5.101737005215707,
+      "mean_k": 10.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 19585185450.666668,
+      "peak_reserved_bytes": 19682470570.666668,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.5833333333333334,
+      "min_seconds": 13.330839747039136,
+      "max_seconds": 13.399687800963875
+    },
+    {
+      "policy": "prompt_ref10_slack020",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 260,
+      "dataset_wall_seconds": 33.20253317989409,
+      "dataset_including_gpu_setup_seconds": 38.192025110009126,
+      "gpu_layout_setup_seconds": 4.989491930115037,
+      "mean_k": 10.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 20750179328.0,
+      "peak_reserved_bytes": 21311957674.666668,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.5833333333333334,
+      "min_seconds": 32.53873728704639,
+      "max_seconds": 33.60092729999451
+    },
+    {
+      "policy": "prompt_ref10_slack020",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 96,
+      "dataset_wall_seconds": 13.37402723412702,
+      "dataset_including_gpu_setup_seconds": 18.3791432120294,
+      "gpu_layout_setup_seconds": 5.0051159779023795,
+      "mean_k": 10.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 19585185450.666668,
+      "peak_reserved_bytes": 19682470570.666668,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.5833333333333334,
+      "min_seconds": 13.338532861031126,
+      "max_seconds": 13.42087304504821
+    },
+    {
+      "policy": "prompt_ref12_slack000",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 260,
+      "dataset_wall_seconds": 31.114127610105143,
+      "dataset_including_gpu_setup_seconds": 35.74085564610626,
+      "gpu_layout_setup_seconds": 4.626728036001118,
+      "mean_k": 12.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 19419450368.0,
+      "peak_reserved_bytes": 19944614570.666668,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.5520833333333334,
+      "min_seconds": 30.35766145901289,
+      "max_seconds": 31.817389058996923
+    },
+    {
+      "policy": "prompt_ref12_slack000",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 96,
+      "dataset_wall_seconds": 12.51113419832998,
+      "dataset_including_gpu_setup_seconds": 17.199440148335675,
+      "gpu_layout_setup_seconds": 4.688305950005694,
+      "mean_k": 12.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 18321876650.666668,
+      "peak_reserved_bytes": 18419985066.666668,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.5520833333333334,
+      "min_seconds": 12.491764293983579,
+      "max_seconds": 12.539113442995586
+    },
+    {
+      "policy": "prompt_ref12_slack000",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 64,
+      "records": 16,
+      "dataset_wall_seconds": 26.386791161668953,
+      "dataset_including_gpu_setup_seconds": 31.244011453828232,
+      "gpu_layout_setup_seconds": 4.857220292159279,
+      "mean_k": 12.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 19265204736.0,
+      "peak_reserved_bytes": 20129163946.666668,
+      "whole_dataset_trials": 6,
+      "min_seconds": 26.25330598698929,
+      "max_seconds": 26.451335008023307
+    },
+    {
+      "policy": "prompt_ref12_slack020",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 260,
+      "dataset_wall_seconds": 30.892427766491892,
+      "dataset_including_gpu_setup_seconds": 35.56722531231935,
+      "gpu_layout_setup_seconds": 4.6747975458274595,
+      "mean_k": 12.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 19419325440.0,
+      "peak_reserved_bytes": 19949158400.0,
+      "whole_dataset_trials": 6,
+      "accuracy_norm": 0.5520833333333334,
+      "min_seconds": 30.357287852966692,
+      "max_seconds": 31.4576003520051
+    },
+    {
+      "policy": "prompt_ref12_slack020",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 96,
+      "dataset_wall_seconds": 12.517844404675998,
+      "dataset_including_gpu_setup_seconds": 17.272265200997936,
+      "gpu_layout_setup_seconds": 4.754420796321938,
+      "mean_k": 12.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 18321935360.0,
+      "peak_reserved_bytes": 18418237440.0,
+      "whole_dataset_trials": 6,
+      "accuracy_norm": 0.5520833333333334,
+      "min_seconds": 12.509165994997602,
+      "max_seconds": 12.539056588022504
+    },
+    {
+      "policy": "prompt_ref12_slack020",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 64,
+      "records": 16,
+      "dataset_wall_seconds": 26.33940030550002,
+      "dataset_including_gpu_setup_seconds": 31.110091413502232,
+      "gpu_layout_setup_seconds": 4.770691108002211,
+      "mean_k": 12.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 19265079808.0,
+      "peak_reserved_bytes": 20134756352.0,
+      "whole_dataset_trials": 4,
+      "min_seconds": 26.28226376202656,
+      "max_seconds": 26.405293413961772
+    },
+    {
+      "policy": "prompt_ref12_slack020",
+      "deployment": "resident",
+      "generation_tokens_per_request": 0,
+      "records": 260,
+      "dataset_wall_seconds": 31.51544296599847,
+      "dataset_including_gpu_setup_seconds": 38.191540466679726,
+      "gpu_layout_setup_seconds": 6.676097500681256,
+      "mean_k": 11.984615384615386,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 26971044864.0,
+      "peak_reserved_bytes": 27520925696.0,
+      "whole_dataset_trials": 3,
+      "accuracy_norm": 0.5625,
+      "min_seconds": 31.469217733014375,
+      "max_seconds": 31.545016228978056
+    },
+    {
+      "policy": "prompt_ref12_slack020",
+      "deployment": "resident",
+      "generation_tokens_per_request": 0,
+      "records": 96,
+      "dataset_wall_seconds": 12.595119852010006,
+      "dataset_including_gpu_setup_seconds": 19.369186367005266,
+      "gpu_layout_setup_seconds": 6.774066514995259,
+      "mean_k": 12.270833333333334,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 25877855232.0,
+      "peak_reserved_bytes": 25977421824.0,
+      "whole_dataset_trials": 3,
+      "accuracy_norm": 0.5625,
+      "min_seconds": 12.573240692028776,
+      "max_seconds": 12.614828839024995
+    },
+    {
+      "policy": "prompt_ref12_slack020",
+      "deployment": "resident",
+      "generation_tokens_per_request": 64,
+      "records": 16,
+      "dataset_wall_seconds": 26.49415132100694,
+      "dataset_including_gpu_setup_seconds": 33.40861398051493,
+      "gpu_layout_setup_seconds": 6.91446265950799,
+      "mean_k": 12.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 26818896384.0,
+      "peak_reserved_bytes": 27653046272.0,
+      "whole_dataset_trials": 2,
+      "min_seconds": 26.481353805982508,
+      "max_seconds": 26.50694883603137
+    },
+    {
+      "policy": "prompt_ref12_slack020",
+      "deployment": "selective",
+      "generation_tokens_per_request": 0,
+      "records": 260,
+      "dataset_wall_seconds": 63.99226904549869,
+      "dataset_including_gpu_setup_seconds": 63.99227546949987,
+      "gpu_layout_setup_seconds": 6.42400118522346e-06,
+      "mean_k": 11.984615384615385,
+      "h2d_weight_bytes": 103201710080.0,
+      "peak_allocated_bytes": 20206285824.0,
+      "peak_reserved_bytes": 20742930432.0,
+      "whole_dataset_trials": 2,
+      "accuracy_norm": 0.5625,
+      "min_seconds": 63.98566559999017,
+      "max_seconds": 63.998872491007205
+    },
+    {
+      "policy": "prompt_ref12_slack020",
+      "deployment": "selective",
+      "generation_tokens_per_request": 0,
+      "records": 96,
+      "dataset_wall_seconds": 30.169216356007382,
+      "dataset_including_gpu_setup_seconds": 30.169222548021935,
+      "gpu_layout_setup_seconds": 6.192014552652836e-06,
+      "mean_k": 12.270833333333334,
+      "h2d_weight_bytes": 56635084800.0,
+      "peak_allocated_bytes": 19583806464.0,
+      "peak_reserved_bytes": 19658702848.0,
+      "whole_dataset_trials": 2,
+      "accuracy_norm": 0.5625,
+      "min_seconds": 30.130460534011945,
+      "max_seconds": 30.20797217800282
+    },
+    {
+      "policy": "prompt_ref12_slack020",
+      "deployment": "selective",
+      "generation_tokens_per_request": 64,
+      "records": 16,
+      "dataset_wall_seconds": 32.9231269750162,
+      "dataset_including_gpu_setup_seconds": 32.92313313600607,
+      "gpu_layout_setup_seconds": 6.160989869385958e-06,
+      "mean_k": 12.0,
+      "h2d_weight_bytes": 22654033920.0,
+      "peak_allocated_bytes": 20206277120.0,
+      "peak_reserved_bytes": 20598226944.0,
+      "whole_dataset_trials": 2,
+      "min_seconds": 32.8534635680262,
+      "max_seconds": 32.992790382006206
+    },
+    {
+      "policy": "prompt_ref16_slack000",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 260,
+      "dataset_wall_seconds": 26.756347610117196,
+      "dataset_including_gpu_setup_seconds": 30.786280557784874,
+      "gpu_layout_setup_seconds": 4.029932947667678,
+      "mean_k": 16.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 16757992448.0,
+      "peak_reserved_bytes": 17208530261.333332,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.5520833333333334,
+      "min_seconds": 26.213011699030176,
+      "max_seconds": 27.041026649007108
+    },
+    {
+      "policy": "prompt_ref16_slack000",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 96,
+      "dataset_wall_seconds": 10.834885272553139,
+      "dataset_including_gpu_setup_seconds": 14.779026296112635,
+      "gpu_layout_setup_seconds": 3.944141023559496,
+      "mean_k": 16.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 15795111594.666666,
+      "peak_reserved_bytes": 15892916906.666666,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.5520833333333334,
+      "min_seconds": 10.779017965018284,
+      "max_seconds": 10.875403945043217
+    },
+    {
+      "policy": "prompt_ref16_slack020",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 260,
+      "dataset_wall_seconds": 26.757297284558362,
+      "dataset_including_gpu_setup_seconds": 30.746672318996087,
+      "gpu_layout_setup_seconds": 3.989375034437722,
+      "mean_k": 16.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 16757992448.0,
+      "peak_reserved_bytes": 17208530261.333332,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.5520833333333334,
+      "min_seconds": 26.199204627017025,
+      "max_seconds": 27.07487365603447
+    },
+    {
+      "policy": "prompt_ref16_slack020",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 96,
+      "dataset_wall_seconds": 10.8177728325439,
+      "dataset_including_gpu_setup_seconds": 14.75154846732039,
+      "gpu_layout_setup_seconds": 3.9337756347764903,
+      "mean_k": 16.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 15795111594.666666,
+      "peak_reserved_bytes": 15892916906.666666,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.5520833333333334,
+      "min_seconds": 10.784687486011535,
+      "max_seconds": 10.880031927954406
+    },
+    {
+      "policy": "static_k00",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 260,
+      "dataset_wall_seconds": 43.798364214760824,
+      "dataset_including_gpu_setup_seconds": 50.579432636428265,
+      "gpu_layout_setup_seconds": 6.781068421667442,
+      "mean_k": 0.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 27403824128.0,
+      "peak_reserved_bytes": 28139585536.0,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.59375,
+      "min_seconds": 42.96171742695151,
+      "max_seconds": 44.32816173095489
+    },
+    {
+      "policy": "static_k00",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 96,
+      "dataset_wall_seconds": 17.61774001600376,
+      "dataset_including_gpu_setup_seconds": 24.59127567688443,
+      "gpu_layout_setup_seconds": 6.973535660880669,
+      "mean_k": 0.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 25901951658.666668,
+      "peak_reserved_bytes": 26001888597.333332,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.59375,
+      "min_seconds": 17.573155406978913,
+      "max_seconds": 17.679297955997754
+    },
+    {
+      "policy": "static_k06",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 260,
+      "dataset_wall_seconds": 37.50031264355251,
+      "dataset_including_gpu_setup_seconds": 43.331014044220666,
+      "gpu_layout_setup_seconds": 5.830701400668153,
+      "mean_k": 6.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 23411637248.0,
+      "peak_reserved_bytes": 24024973312.0,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.6041666666666666,
+      "min_seconds": 36.72979727498023,
+      "max_seconds": 38.14467909699306
+    },
+    {
+      "policy": "static_k06",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 96,
+      "dataset_wall_seconds": 15.048685367988785,
+      "dataset_including_gpu_setup_seconds": 20.865634688984656,
+      "gpu_layout_setup_seconds": 5.81694932099587,
+      "mean_k": 6.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 22111901354.666668,
+      "peak_reserved_bytes": 22214432085.333332,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.6041666666666666,
+      "min_seconds": 15.007829795998987,
+      "max_seconds": 15.082448109984398
+    },
+    {
+      "policy": "static_k08",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 260,
+      "dataset_wall_seconds": 35.32355076366285,
+      "dataset_including_gpu_setup_seconds": 40.76995789121914,
+      "gpu_layout_setup_seconds": 5.446407127556288,
+      "mean_k": 8.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 22080908288.0,
+      "peak_reserved_bytes": 22664620714.666668,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.5833333333333334,
+      "min_seconds": 34.154024656978436,
+      "max_seconds": 35.92621759499889
+    },
+    {
+      "policy": "static_k08",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 96,
+      "dataset_wall_seconds": 14.217136531130462,
+      "dataset_including_gpu_setup_seconds": 19.652005009346695,
+      "gpu_layout_setup_seconds": 5.434868478216231,
+      "mean_k": 8.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 20848494250.666668,
+      "peak_reserved_bytes": 20944956074.666668,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.5833333333333334,
+      "min_seconds": 14.168525183980819,
+      "max_seconds": 14.258779763011262
+    },
+    {
+      "policy": "static_k10",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 260,
+      "dataset_wall_seconds": 33.23337476044738,
+      "dataset_including_gpu_setup_seconds": 38.18979546777619,
+      "gpu_layout_setup_seconds": 4.956420707328814,
+      "mean_k": 10.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 20750179328.0,
+      "peak_reserved_bytes": 21310559573.333332,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.5833333333333334,
+      "min_seconds": 32.48849086998962,
+      "max_seconds": 33.6251768390066
+    },
+    {
+      "policy": "static_k10",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 96,
+      "dataset_wall_seconds": 13.37401453201245,
+      "dataset_including_gpu_setup_seconds": 18.334340441008358,
+      "gpu_layout_setup_seconds": 4.960325908995906,
+      "mean_k": 10.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 19585185450.666668,
+      "peak_reserved_bytes": 19682470570.666668,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.5833333333333334,
+      "min_seconds": 13.274163806985598,
+      "max_seconds": 13.41935411299346
+    },
+    {
+      "policy": "static_k12",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 260,
+      "dataset_wall_seconds": 31.078648655448987,
+      "dataset_including_gpu_setup_seconds": 35.69271767000383,
+      "gpu_layout_setup_seconds": 4.614069014554843,
+      "mean_k": 12.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 19419450368.0,
+      "peak_reserved_bytes": 19943216469.333332,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.5520833333333334,
+      "min_seconds": 30.398981795995496,
+      "max_seconds": 31.445396772003733
+    },
+    {
+      "policy": "static_k12",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 96,
+      "dataset_wall_seconds": 12.54009462233969,
+      "dataset_including_gpu_setup_seconds": 17.150280751456094,
+      "gpu_layout_setup_seconds": 4.610186129116402,
+      "mean_k": 12.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 18321876650.666668,
+      "peak_reserved_bytes": 18419985066.666668,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.5520833333333334,
+      "min_seconds": 12.506178556999657,
+      "max_seconds": 12.577304618025664
+    },
+    {
+      "policy": "static_k12",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 64,
+      "records": 16,
+      "dataset_wall_seconds": 26.37954037000115,
+      "dataset_including_gpu_setup_seconds": 31.119764205504907,
+      "gpu_layout_setup_seconds": 4.74022383550376,
+      "mean_k": 12.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 19265204736.0,
+      "peak_reserved_bytes": 20129163946.666668,
+      "whole_dataset_trials": 6,
+      "min_seconds": 26.179402904002927,
+      "max_seconds": 26.493670885975007
+    },
+    {
+      "policy": "static_k16",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 260,
+      "dataset_wall_seconds": 26.754500838442862,
+      "dataset_including_gpu_setup_seconds": 30.70675864445123,
+      "gpu_layout_setup_seconds": 3.952257806008371,
+      "mean_k": 16.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 16757992448.0,
+      "peak_reserved_bytes": 17208530261.333332,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.5520833333333334,
+      "min_seconds": 26.16639447095804,
+      "max_seconds": 27.123907373985276
+    },
+    {
+      "policy": "static_k16",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 96,
+      "dataset_wall_seconds": 10.828773325438508,
+      "dataset_including_gpu_setup_seconds": 14.779955661978521,
+      "gpu_layout_setup_seconds": 3.951182336540013,
+      "mean_k": 16.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 15795111594.666666,
+      "peak_reserved_bytes": 15892916906.666666,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.5520833333333334,
+      "min_seconds": 10.778529799019452,
+      "max_seconds": 10.869297222001478
+    },
+    {
+      "policy": "static_k20",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 260,
+      "dataset_wall_seconds": 22.456049066108083,
+      "dataset_including_gpu_setup_seconds": 25.766771269095543,
+      "gpu_layout_setup_seconds": 3.3107222029874617,
+      "mean_k": 20.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 14096534528.0,
+      "peak_reserved_bytes": 14533263360.0,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.4895833333333333,
+      "min_seconds": 21.936825721000787,
+      "max_seconds": 22.804418159008492
+    },
+    {
+      "policy": "static_k20",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 96,
+      "dataset_wall_seconds": 9.098305519101107,
+      "dataset_including_gpu_setup_seconds": 12.397912037875763,
+      "gpu_layout_setup_seconds": 3.2996065187746555,
+      "mean_k": 20.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 13268259157.333334,
+      "peak_reserved_bytes": 13367945898.666666,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.4895833333333333,
+      "min_seconds": 9.04826928296825,
+      "max_seconds": 9.14632153196726
+    },
+    {
+      "policy": "static_k24",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 260,
+      "dataset_wall_seconds": 18.164743732887374,
+      "dataset_including_gpu_setup_seconds": 20.78207999477551,
+      "gpu_layout_setup_seconds": 2.617336261888138,
+      "mean_k": 24.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 11435076608.0,
+      "peak_reserved_bytes": 11844015445.333334,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.3958333333333333,
+      "min_seconds": 17.825031772023067,
+      "max_seconds": 18.382046869955957
+    },
+    {
+      "policy": "static_k24",
+      "deployment": "physical_static",
+      "generation_tokens_per_request": 0,
+      "records": 96,
+      "dataset_wall_seconds": 7.420482581112689,
+      "dataset_including_gpu_setup_seconds": 10.066625292658703,
+      "gpu_layout_setup_seconds": 2.6461427115460134,
+      "mean_k": 24.0,
+      "h2d_weight_bytes": 0.0,
+      "peak_allocated_bytes": 10741171882.666666,
+      "peak_reserved_bytes": 10842974890.666666,
+      "whole_dataset_trials": 9,
+      "accuracy_norm": 0.3958333333333333,
+      "min_seconds": 7.378128251002636,
+      "max_seconds": 7.455688885005657
+    }
+  ],
+  "accuracy_time_frontier": [
+    {
+      "dynamic": "prompt_ref10_slack000",
+      "deployment": "physical_static",
+      "static": "static_k00",
+      "accuracy_difference_pp": -1.041666666666663,
+      "speedup": 1.3170919793873563,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.010416666666666666,
+        "ci95": [
+          -0.0625,
+          0.041666666666666664
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.03125
+      }
+    },
+    {
+      "dynamic": "prompt_ref10_slack000",
+      "deployment": "physical_static",
+      "static": "static_k06",
+      "accuracy_difference_pp": -2.083333333333326,
+      "speedup": 1.1250309506495821,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.020833333333333332,
+        "ci95": [
+          -0.08333333333333333,
+          0.041666666666666664
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.03125
+      }
+    },
+    {
+      "dynamic": "prompt_ref10_slack000",
+      "deployment": "physical_static",
+      "static": "static_k08",
+      "accuracy_difference_pp": 0.0,
+      "speedup": 1.0628648440717754,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.0,
+        "ci95": [
+          -0.041666666666666664,
+          0.041666666666666664
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.020833333333333332
+      }
+    },
+    {
+      "dynamic": "prompt_ref10_slack000",
+      "deployment": "physical_static",
+      "static": "static_k10",
+      "accuracy_difference_pp": 0.0,
+      "speedup": 0.9998335346260332,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.0
+      }
+    },
+    {
+      "dynamic": "prompt_ref10_slack000",
+      "deployment": "physical_static",
+      "static": "static_k12",
+      "accuracy_difference_pp": 3.125,
+      "speedup": 0.9374901680260214,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.03125,
+        "ci95": [
+          -0.020833333333333332,
+          0.08333333333333333
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.052083333333333336
+      }
+    },
+    {
+      "dynamic": "prompt_ref10_slack000",
+      "deployment": "physical_static",
+      "static": "static_k16",
+      "accuracy_difference_pp": 3.125,
+      "speedup": 0.8095527848965259,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.03125,
+        "ci95": [
+          -0.041666666666666664,
+          0.10416666666666667
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.08333333333333333
+      }
+    },
+    {
+      "dynamic": "prompt_ref10_slack000",
+      "deployment": "physical_static",
+      "static": "static_k20",
+      "accuracy_difference_pp": 9.375000000000005,
+      "speedup": 0.6801840198764588,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.09375,
+        "ci95": [
+          0.010416666666666666,
+          0.17708333333333334
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.13541666666666666
+      }
+    },
+    {
+      "dynamic": "prompt_ref10_slack000",
+      "deployment": "physical_static",
+      "static": "static_k24",
+      "accuracy_difference_pp": 18.750000000000007,
+      "speedup": 0.5547509545429214,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.1875,
+        "ci95": [
+          0.09375,
+          0.2916666666666667
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.22916666666666666
+      }
+    },
+    {
+      "dynamic": "prompt_ref10_slack020",
+      "deployment": "physical_static",
+      "static": "static_k00",
+      "accuracy_difference_pp": -1.041666666666663,
+      "speedup": 1.3173100149705017,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.010416666666666666,
+        "ci95": [
+          -0.0625,
+          0.041666666666666664
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.03125
+      }
+    },
+    {
+      "dynamic": "prompt_ref10_slack020",
+      "deployment": "physical_static",
+      "static": "static_k06",
+      "accuracy_difference_pp": -2.083333333333326,
+      "speedup": 1.1252171918409495,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.020833333333333332,
+        "ci95": [
+          -0.08333333333333333,
+          0.041666666666666664
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.03125
+      }
+    },
+    {
+      "dynamic": "prompt_ref10_slack020",
+      "deployment": "physical_static",
+      "static": "static_k08",
+      "accuracy_difference_pp": 0.0,
+      "speedup": 1.063040794088713,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.0,
+        "ci95": [
+          -0.041666666666666664,
+          0.041666666666666664
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.020833333333333332
+      }
+    },
+    {
+      "dynamic": "prompt_ref10_slack020",
+      "deployment": "physical_static",
+      "static": "static_k10",
+      "accuracy_difference_pp": 0.0,
+      "speedup": 0.9999990502401149,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.0
+      }
+    },
+    {
+      "dynamic": "prompt_ref10_slack020",
+      "deployment": "physical_static",
+      "static": "static_k12",
+      "accuracy_difference_pp": 3.125,
+      "speedup": 0.9376453631214874,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.03125,
+        "ci95": [
+          -0.020833333333333332,
+          0.08333333333333333
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.052083333333333336
+      }
+    },
+    {
+      "dynamic": "prompt_ref10_slack020",
+      "deployment": "physical_static",
+      "static": "static_k16",
+      "accuracy_difference_pp": 3.125,
+      "speedup": 0.8096868008318624,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.03125,
+        "ci95": [
+          -0.041666666666666664,
+          0.10416666666666667
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.08333333333333333
+      }
+    },
+    {
+      "dynamic": "prompt_ref10_slack020",
+      "deployment": "physical_static",
+      "static": "static_k20",
+      "accuracy_difference_pp": 9.375000000000005,
+      "speedup": 0.6802966196961683,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.09375,
+        "ci95": [
+          0.010416666666666666,
+          0.17708333333333334
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.13541666666666666
+      }
+    },
+    {
+      "dynamic": "prompt_ref10_slack020",
+      "deployment": "physical_static",
+      "static": "static_k24",
+      "accuracy_difference_pp": 18.750000000000007,
+      "speedup": 0.5548427897752114,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.1875,
+        "ci95": [
+          0.09375,
+          0.2916666666666667
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.22916666666666666
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack000",
+      "deployment": "physical_static",
+      "static": "static_k00",
+      "accuracy_difference_pp": -4.1666666666666625,
+      "speedup": 1.4081648982995822,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.041666666666666664,
+        "ci95": [
+          -0.10416666666666667,
+          0.020833333333333332
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.03125
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack000",
+      "deployment": "physical_static",
+      "static": "static_k06",
+      "accuracy_difference_pp": -5.208333333333326,
+      "speedup": 1.2028234314677502,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.052083333333333336,
+        "ci95": [
+          -0.11458333333333333,
+          0.010416666666666666
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.020833333333333332
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack000",
+      "deployment": "physical_static",
+      "static": "static_k08",
+      "accuracy_difference_pp": -3.125,
+      "speedup": 1.1363587270151898,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.03125,
+        "ci95": [
+          -0.09375,
+          0.03125
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.03125
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack000",
+      "deployment": "physical_static",
+      "static": "static_k10",
+      "accuracy_difference_pp": -3.125,
+      "speedup": 1.0689689935383837,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.03125,
+        "ci95": [
+          -0.08333333333333333,
+          0.020833333333333332
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.020833333333333332
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack000",
+      "deployment": "physical_static",
+      "static": "static_k12",
+      "accuracy_difference_pp": 0.0,
+      "speedup": 1.0023147720702714,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.0
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack000",
+      "deployment": "physical_static",
+      "static": "static_k16",
+      "accuracy_difference_pp": 0.0,
+      "speedup": 0.8655309066130841,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.0,
+        "ci95": [
+          -0.07291666666666667,
+          0.07291666666666667
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.0625
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack000",
+      "deployment": "physical_static",
+      "static": "static_k20",
+      "accuracy_difference_pp": 6.250000000000005,
+      "speedup": 0.7272166835454114,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.0625,
+        "ci95": [
+          -0.03125,
+          0.15625
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.13541666666666666
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack000",
+      "deployment": "physical_static",
+      "static": "static_k24",
+      "accuracy_difference_pp": 15.625000000000005,
+      "speedup": 0.5931103018704088,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.15625,
+        "ci95": [
+          0.07265625000000002,
+          0.25
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.19791666666666666
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack020",
+      "deployment": "physical_static",
+      "static": "static_k00",
+      "accuracy_difference_pp": -4.1666666666666625,
+      "speedup": 1.4074100497225157,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.041666666666666664,
+        "ci95": [
+          -0.10416666666666667,
+          0.020833333333333332
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.03125
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack020",
+      "deployment": "physical_static",
+      "static": "static_k06",
+      "accuracy_difference_pp": -5.208333333333326,
+      "speedup": 1.202178656444028,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.052083333333333336,
+        "ci95": [
+          -0.11458333333333333,
+          0.010416666666666666
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.020833333333333332
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack020",
+      "deployment": "physical_static",
+      "static": "static_k08",
+      "accuracy_difference_pp": -3.125,
+      "speedup": 1.135749580480462,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.03125,
+        "ci95": [
+          -0.09375,
+          0.03125
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.03125
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack020",
+      "deployment": "physical_static",
+      "static": "static_k10",
+      "accuracy_difference_pp": -3.125,
+      "speedup": 1.06839597135563,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.03125,
+        "ci95": [
+          -0.08333333333333333,
+          0.020833333333333332
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.020833333333333332
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack020",
+      "deployment": "physical_static",
+      "static": "static_k12",
+      "accuracy_difference_pp": 0.0,
+      "speedup": 1.0017774799673482,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.0
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack020",
+      "deployment": "physical_static",
+      "static": "static_k16",
+      "accuracy_difference_pp": 0.0,
+      "speedup": 0.8650669376744655,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.0,
+        "ci95": [
+          -0.07291666666666667,
+          0.07291666666666667
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.0625
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack020",
+      "deployment": "physical_static",
+      "static": "static_k20",
+      "accuracy_difference_pp": 6.250000000000005,
+      "speedup": 0.7268268581212326,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.0625,
+        "ci95": [
+          -0.03125,
+          0.15625
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.13541666666666666
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack020",
+      "deployment": "physical_static",
+      "static": "static_k24",
+      "accuracy_difference_pp": 15.625000000000005,
+      "speedup": 0.5927923643419624,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.15625,
+        "ci95": [
+          0.07265625000000002,
+          0.25
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.19791666666666666
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack020",
+      "deployment": "resident",
+      "static": "static_k00",
+      "accuracy_difference_pp": -3.125,
+      "speedup": 1.398775098848481,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.03125,
+        "ci95": [
+          -0.09375,
+          0.03125
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.03125
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack020",
+      "deployment": "resident",
+      "static": "static_k06",
+      "accuracy_difference_pp": -4.1666666666666625,
+      "speedup": 1.1948028716524857,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.041666666666666664,
+        "ci95": [
+          -0.10416666666666667,
+          0.020833333333333332
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.03125
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack020",
+      "deployment": "resident",
+      "static": "static_k08",
+      "accuracy_difference_pp": -2.083333333333337,
+      "speedup": 1.128781361208056,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.020833333333333332,
+        "ci95": [
+          -0.07291666666666667,
+          0.03125
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.03125
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack020",
+      "deployment": "resident",
+      "static": "static_k10",
+      "accuracy_difference_pp": -2.083333333333337,
+      "speedup": 1.0618409899353316,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.020833333333333332,
+        "ci95": [
+          -0.07291666666666667,
+          0.03125
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.020833333333333332
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack020",
+      "deployment": "resident",
+      "static": "static_k12",
+      "accuracy_difference_pp": 1.041666666666663,
+      "speedup": 0.9956312261957925,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.010416666666666666,
+        "ci95": [
+          -0.03125,
+          0.0625
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.03125
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack020",
+      "deployment": "resident",
+      "static": "static_k16",
+      "accuracy_difference_pp": 1.041666666666663,
+      "speedup": 0.8597594506979135,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.010416666666666666,
+        "ci95": [
+          -0.041666666666666664,
+          0.0625
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.041666666666666664
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack020",
+      "deployment": "resident",
+      "static": "static_k20",
+      "accuracy_difference_pp": 7.291666666666669,
+      "speedup": 0.722367522183534,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.07291666666666667,
+        "ci95": [
+          -0.010416666666666666,
+          0.15625
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.125
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack020",
+      "deployment": "resident",
+      "static": "static_k24",
+      "accuracy_difference_pp": 16.666666666666668,
+      "speedup": 0.5891553767095343,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.16666666666666666,
+        "ci95": [
+          0.07291666666666667,
+          0.2604166666666667
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.20833333333333334
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack020",
+      "deployment": "selective",
+      "static": "static_k00",
+      "accuracy_difference_pp": -3.125,
+      "speedup": 0.5839641244939285,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.03125,
+        "ci95": [
+          -0.09375,
+          0.03125
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.03125
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack020",
+      "deployment": "selective",
+      "static": "static_k06",
+      "accuracy_difference_pp": -4.1666666666666625,
+      "speedup": 0.4988092892572679,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.041666666666666664,
+        "ci95": [
+          -0.10416666666666667,
+          0.020833333333333332
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.03125
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack020",
+      "deployment": "selective",
+      "static": "static_k08",
+      "accuracy_difference_pp": -2.083333333333337,
+      "speedup": 0.47124646405671405,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.020833333333333332,
+        "ci95": [
+          -0.07291666666666667,
+          0.03125
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.03125
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack020",
+      "deployment": "selective",
+      "static": "static_k10",
+      "accuracy_difference_pp": -2.083333333333337,
+      "speedup": 0.44330003054087874,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.020833333333333332,
+        "ci95": [
+          -0.07291666666666667,
+          0.03125
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.020833333333333332
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack020",
+      "deployment": "selective",
+      "static": "static_k12",
+      "accuracy_difference_pp": 1.041666666666663,
+      "speedup": 0.4156586128841451,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.010416666666666666,
+        "ci95": [
+          -0.03125,
+          0.0625
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.03125
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack020",
+      "deployment": "selective",
+      "static": "static_k16",
+      "accuracy_difference_pp": 1.041666666666663,
+      "speedup": 0.3589345244389237,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.010416666666666666,
+        "ci95": [
+          -0.041666666666666664,
+          0.0625
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.041666666666666664
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack020",
+      "deployment": "selective",
+      "static": "static_k20",
+      "accuracy_difference_pp": 7.291666666666669,
+      "speedup": 0.3015757987127639,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.07291666666666667,
+        "ci95": [
+          -0.010416666666666666,
+          0.15625
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.125
+      }
+    },
+    {
+      "dynamic": "prompt_ref12_slack020",
+      "deployment": "selective",
+      "static": "static_k24",
+      "accuracy_difference_pp": 16.666666666666668,
+      "speedup": 0.24596205925763467,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.16666666666666666,
+        "ci95": [
+          0.07291666666666667,
+          0.2604166666666667
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.20833333333333334
+      }
+    },
+    {
+      "dynamic": "prompt_ref16_slack000",
+      "deployment": "physical_static",
+      "static": "static_k00",
+      "accuracy_difference_pp": -4.1666666666666625,
+      "speedup": 1.6260199875519592,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.041666666666666664,
+        "ci95": [
+          -0.11458333333333333,
+          0.020833333333333332
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.041666666666666664
+      }
+    },
+    {
+      "dynamic": "prompt_ref16_slack000",
+      "deployment": "physical_static",
+      "static": "static_k06",
+      "accuracy_difference_pp": -5.208333333333326,
+      "speedup": 1.388910448928335,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.052083333333333336,
+        "ci95": [
+          -0.125,
+          0.010416666666666666
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.03125
+      }
+    },
+    {
+      "dynamic": "prompt_ref16_slack000",
+      "deployment": "physical_static",
+      "static": "static_k08",
+      "accuracy_difference_pp": -3.125,
+      "speedup": 1.3121630892710254,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.03125,
+        "ci95": [
+          -0.09375,
+          0.03125
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.041666666666666664
+      }
+    },
+    {
+      "dynamic": "prompt_ref16_slack000",
+      "deployment": "physical_static",
+      "static": "static_k10",
+      "accuracy_difference_pp": -3.125,
+      "speedup": 1.2343475907300483,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.03125,
+        "ci95": [
+          -0.10416666666666667,
+          0.041666666666666664
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.052083333333333336
+      }
+    },
+    {
+      "dynamic": "prompt_ref16_slack000",
+      "deployment": "physical_static",
+      "static": "static_k12",
+      "accuracy_difference_pp": 0.0,
+      "speedup": 1.1573813941626292,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.0,
+        "ci95": [
+          -0.07291666666666667,
+          0.07291666666666667
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.0625
+      }
+    },
+    {
+      "dynamic": "prompt_ref16_slack000",
+      "deployment": "physical_static",
+      "static": "static_k16",
+      "accuracy_difference_pp": 0.0,
+      "speedup": 0.9994359010768564,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.0
+      }
+    },
+    {
+      "dynamic": "prompt_ref16_slack000",
+      "deployment": "physical_static",
+      "static": "static_k20",
+      "accuracy_difference_pp": 6.250000000000005,
+      "speedup": 0.8397232910392577,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.0625,
+        "ci95": [
+          0.0,
+          0.13541666666666666
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.09375
+      }
+    },
+    {
+      "dynamic": "prompt_ref16_slack000",
+      "deployment": "physical_static",
+      "static": "static_k24",
+      "accuracy_difference_pp": 15.625000000000005,
+      "speedup": 0.6848695112545592,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.15625,
+        "ci95": [
+          0.08333333333333333,
+          0.23958333333333334
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.16666666666666666
+      }
+    },
+    {
+      "dynamic": "prompt_ref16_slack020",
+      "deployment": "physical_static",
+      "static": "static_k00",
+      "accuracy_difference_pp": -4.1666666666666625,
+      "speedup": 1.6285921592846746,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.041666666666666664,
+        "ci95": [
+          -0.11458333333333333,
+          0.020833333333333332
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.041666666666666664
+      }
+    },
+    {
+      "dynamic": "prompt_ref16_slack020",
+      "deployment": "physical_static",
+      "static": "static_k06",
+      "accuracy_difference_pp": -5.208333333333326,
+      "speedup": 1.3911075413523863,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.052083333333333336,
+        "ci95": [
+          -0.125,
+          0.010416666666666666
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.03125
+      }
+    },
+    {
+      "dynamic": "prompt_ref16_slack020",
+      "deployment": "physical_static",
+      "static": "static_k08",
+      "accuracy_difference_pp": -3.125,
+      "speedup": 1.3142387764291008,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.03125,
+        "ci95": [
+          -0.09375,
+          0.03125
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.041666666666666664
+      }
+    },
+    {
+      "dynamic": "prompt_ref16_slack020",
+      "deployment": "physical_static",
+      "static": "static_k10",
+      "accuracy_difference_pp": -3.125,
+      "speedup": 1.2363001829524856,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": false,
+        "1": false,
+        "2": false
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": -0.03125,
+        "ci95": [
+          -0.10416666666666667,
+          0.041666666666666664
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.052083333333333336
+      }
+    },
+    {
+      "dynamic": "prompt_ref16_slack020",
+      "deployment": "physical_static",
+      "static": "static_k12",
+      "accuracy_difference_pp": 0.0,
+      "speedup": 1.1592122349449236,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.0,
+        "ci95": [
+          -0.07291666666666667,
+          0.07291666666666667
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.0625
+      }
+    },
+    {
+      "dynamic": "prompt_ref16_slack020",
+      "deployment": "physical_static",
+      "static": "static_k16",
+      "accuracy_difference_pp": 0.0,
+      "speedup": 1.0010168907283312,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.0
+      }
+    },
+    {
+      "dynamic": "prompt_ref16_slack020",
+      "deployment": "physical_static",
+      "static": "static_k20",
+      "accuracy_difference_pp": 6.250000000000005,
+      "speedup": 0.8410516341894337,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.0625,
+        "ci95": [
+          0.0,
+          0.13541666666666666
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.09375
+      }
+    },
+    {
+      "dynamic": "prompt_ref16_slack020",
+      "deployment": "physical_static",
+      "static": "static_k24",
+      "accuracy_difference_pp": 15.625000000000005,
+      "speedup": 0.685952893999503,
+      "descriptive_within_accuracy_loss_pp": {
+        "0": true,
+        "1": true,
+        "2": true
+      },
+      "warning": "Small96-question exploratory population; descriptive thresholds do not establish non-inferiority.",
+      "accuracy_paired": {
+        "difference": 0.15625,
+        "ci95": [
+          0.08333333333333333,
+          0.23958333333333334
+        ],
+        "records": 96,
+        "clusters": 96,
+        "fraction_positive": 0.16666666666666666
+      }
+    }
+  ],
+  "scoring_consistency": {
+    "mc_scoring_checks": 24576,
+    "cached_vs_serial_mc_disagreements": 0
+  },
+  "limits": "Previously reviewed exploratory task populations, not untouched final test; CPU checkpoint load/tokenization excluded equally, GPU layout preparation reported separately and included in secondary total. Single-request batches, not optimized concurrent-serving benchmark. Selective peaks are phase peaks, not process-lifetime cold-start peaks.",
+  "quality_population": "96 previously reviewedMC questions,32Wiki windows,132C4 documents. Mixed260 andMC96 wall times separate; generation16 separate. No task-accuracy claim from C4 KL calibration."
+}

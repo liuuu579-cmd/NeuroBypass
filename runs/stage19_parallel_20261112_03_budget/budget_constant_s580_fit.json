@@ -1,0 +1,19 @@
+{
+  "arm": "constant",
+  "name": "budget",
+  "seed": 580,
+  "initial_sha256": "0bb4936892efc1a7d9ef661771d5b1f9c18e82148a38577cad6d2ae8608a2138",
+  "best": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage19_parallel_20261112_03_budget/private_budget_constant_s580_e012.pth",
+    "sha256": "1a5cc8b24135b2bcbfa920bd5ddbde42a4902cfc3e32a936a8e1edddb399bffa",
+    "epoch": 12,
+    "selection_objective": 0.042183820380263845
+  },
+  "parameters": 921992,
+  "updates": 384,
+  "epochs": 24,
+  "train_selected_kl": 0.0,
+  "train_bank_best_kl": 0.0,
+  "seconds": 16.218298080959357,
+  "scale": 0.9790322184562683
+}

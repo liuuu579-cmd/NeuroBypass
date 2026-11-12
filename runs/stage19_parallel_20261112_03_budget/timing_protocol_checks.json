@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "quality_rows": 11440,
+  "timing_trials": 276,
+  "all_timed_routes_match_frozen_quality_policies": true,
+  "mc_scoring_checks": 24576,
+  "cached_vs_serial_mc_disagreements": 0
+}
