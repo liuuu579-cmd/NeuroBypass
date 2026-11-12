@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "quality_rows": 1700,
+  "training_validation_disjoint": true,
+  "same_complete_bank_and_full_prompt": true,
+  "paired_initialization_updates": true,
+  "new_static_chosen_on_training800": true,
+  "joint_labels_and_old_baseline_replayed": true
+}

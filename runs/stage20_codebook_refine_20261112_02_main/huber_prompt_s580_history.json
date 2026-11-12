@@ -1,0 +1,118 @@
+[
+  {
+    "epoch": 0,
+    "loss": 0.0,
+    "selection_kl": 1.2403753008693457,
+    "selection_unique_routes": 1
+  },
+  {
+    "epoch": 1,
+    "loss": 0.3858654069027398,
+    "selection_kl": 1.2403753008693457,
+    "selection_unique_routes": 1
+  },
+  {
+    "epoch": 2,
+    "loss": 0.3777998327463865
+  },
+  {
+    "epoch": 3,
+    "loss": 0.35629465712700037
+  },
+  {
+    "epoch": 4,
+    "loss": 0.3097699243319221,
+    "selection_kl": 1.2192393187433481,
+    "selection_unique_routes": 4
+  },
+  {
+    "epoch": 5,
+    "loss": 0.2629623925127089
+  },
+  {
+    "epoch": 6,
+    "loss": 0.23032972547458486
+  },
+  {
+    "epoch": 7,
+    "loss": 0.20244108189363033
+  },
+  {
+    "epoch": 8,
+    "loss": 0.17496166828088464,
+    "selection_kl": 1.214352522045374,
+    "selection_unique_routes": 8
+  },
+  {
+    "epoch": 9,
+    "loss": 0.14868357848376035
+  },
+  {
+    "epoch": 10,
+    "loss": 0.12925383377354593
+  },
+  {
+    "epoch": 11,
+    "loss": 0.1112090233899653
+  },
+  {
+    "epoch": 12,
+    "loss": 0.09497904350748286,
+    "selection_kl": 1.243612514808774,
+    "selection_unique_routes": 7
+  },
+  {
+    "epoch": 13,
+    "loss": 0.08194954173173756
+  },
+  {
+    "epoch": 14,
+    "loss": 0.06944241348071956
+  },
+  {
+    "epoch": 15,
+    "loss": 0.06058969874007744
+  },
+  {
+    "epoch": 16,
+    "loss": 0.053526415523374456,
+    "selection_kl": 1.2449744623154402,
+    "selection_unique_routes": 8
+  },
+  {
+    "epoch": 17,
+    "loss": 0.04759468690201175
+  },
+  {
+    "epoch": 18,
+    "loss": 0.04300921459973324
+  },
+  {
+    "epoch": 19,
+    "loss": 0.03925480635545682
+  },
+  {
+    "epoch": 20,
+    "loss": 0.03593051597214071,
+    "selection_kl": 1.2498269472271204,
+    "selection_unique_routes": 8
+  },
+  {
+    "epoch": 21,
+    "loss": 0.03333685590914683
+  },
+  {
+    "epoch": 22,
+    "loss": 0.031059553374070674
+  },
+  {
+    "epoch": 23,
+    "loss": 0.02937791486241622
+  },
+  {
+    "epoch": 24,
+    "loss": 0.027863844214152778,
+    "selection_kl": 1.2358365505933762,
+    "selection_unique_routes": 8
+  }
+]
