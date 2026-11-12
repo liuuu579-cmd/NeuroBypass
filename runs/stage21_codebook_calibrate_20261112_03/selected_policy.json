@@ -1,0 +1,337 @@
+{
+  "model": "rank_prompt_s581",
+  "members": [
+    "rank_prompt_s581"
+  ],
+  "fit": {
+    "chosen": {
+      "family": "mean_calibrated",
+      "alpha": 0.5,
+      "margin_units": 0.0,
+      "selection_kl": 1.1855748854577541,
+      "selection_switches": 14,
+      "serial": 19
+    },
+    "grid": [
+      {
+        "family": "static",
+        "alpha": 0.0,
+        "margin_units": 0.0,
+        "selection_kl": 1.2403753008693457,
+        "selection_switches": 0,
+        "serial": 0
+      },
+      {
+        "family": "raw_gate",
+        "alpha": 1.0,
+        "margin_units": 0.0,
+        "selection_kl": 1.225576190277934,
+        "selection_switches": 20,
+        "serial": 1
+      },
+      {
+        "family": "raw_gate",
+        "alpha": 1.0,
+        "margin_units": 0.05,
+        "selection_kl": 1.207734914496541,
+        "selection_switches": 17,
+        "serial": 2
+      },
+      {
+        "family": "raw_gate",
+        "alpha": 1.0,
+        "margin_units": 0.1,
+        "selection_kl": 1.207734914496541,
+        "selection_switches": 17,
+        "serial": 3
+      },
+      {
+        "family": "raw_gate",
+        "alpha": 1.0,
+        "margin_units": 0.2,
+        "selection_kl": 1.2104959096759558,
+        "selection_switches": 12,
+        "serial": 4
+      },
+      {
+        "family": "raw_gate",
+        "alpha": 1.0,
+        "margin_units": 0.4,
+        "selection_kl": 1.2125329971313477,
+        "selection_switches": 7,
+        "serial": 5
+      },
+      {
+        "family": "raw_gate",
+        "alpha": 1.0,
+        "margin_units": 0.8,
+        "selection_kl": 1.2289850562810898,
+        "selection_switches": 1,
+        "serial": 6
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 0.0,
+        "margin_units": 0.0,
+        "selection_kl": 1.2403753008693457,
+        "selection_switches": 0,
+        "serial": 7
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 0.0,
+        "margin_units": 0.05,
+        "selection_kl": 1.2403753008693457,
+        "selection_switches": 0,
+        "serial": 8
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 0.0,
+        "margin_units": 0.1,
+        "selection_kl": 1.2403753008693457,
+        "selection_switches": 0,
+        "serial": 9
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 0.0,
+        "margin_units": 0.2,
+        "selection_kl": 1.2403753008693457,
+        "selection_switches": 0,
+        "serial": 10
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 0.0,
+        "margin_units": 0.4,
+        "selection_kl": 1.2403753008693457,
+        "selection_switches": 0,
+        "serial": 11
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 0.0,
+        "margin_units": 0.8,
+        "selection_kl": 1.2403753008693457,
+        "selection_switches": 0,
+        "serial": 12
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 0.25,
+        "margin_units": 0.0,
+        "selection_kl": 1.2010293323546648,
+        "selection_switches": 9,
+        "serial": 13
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 0.25,
+        "margin_units": 0.05,
+        "selection_kl": 1.2319492157548666,
+        "selection_switches": 7,
+        "serial": 14
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 0.25,
+        "margin_units": 0.1,
+        "selection_kl": 1.2417704407125711,
+        "selection_switches": 3,
+        "serial": 15
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 0.25,
+        "margin_units": 0.2,
+        "selection_kl": 1.2403753008693457,
+        "selection_switches": 0,
+        "serial": 16
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 0.25,
+        "margin_units": 0.4,
+        "selection_kl": 1.2403753008693457,
+        "selection_switches": 0,
+        "serial": 17
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 0.25,
+        "margin_units": 0.8,
+        "selection_kl": 1.2403753008693457,
+        "selection_switches": 0,
+        "serial": 18
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 0.5,
+        "margin_units": 0.0,
+        "selection_kl": 1.1855748854577541,
+        "selection_switches": 14,
+        "serial": 19
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 0.5,
+        "margin_units": 0.05,
+        "selection_kl": 1.190714679658413,
+        "selection_switches": 10,
+        "serial": 20
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 0.5,
+        "margin_units": 0.1,
+        "selection_kl": 1.2049874737858772,
+        "selection_switches": 9,
+        "serial": 21
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 0.5,
+        "margin_units": 0.2,
+        "selection_kl": 1.2233775556087494,
+        "selection_switches": 6,
+        "serial": 22
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 0.5,
+        "margin_units": 0.4,
+        "selection_kl": 1.2403753008693457,
+        "selection_switches": 0,
+        "serial": 23
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 0.5,
+        "margin_units": 0.8,
+        "selection_kl": 1.2403753008693457,
+        "selection_switches": 0,
+        "serial": 24
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 0.75,
+        "margin_units": 0.0,
+        "selection_kl": 1.1964968834072351,
+        "selection_switches": 19,
+        "serial": 25
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 0.75,
+        "margin_units": 0.05,
+        "selection_kl": 1.1952903363853693,
+        "selection_switches": 15,
+        "serial": 26
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 0.75,
+        "margin_units": 0.1,
+        "selection_kl": 1.1915069725364447,
+        "selection_switches": 12,
+        "serial": 27
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 0.75,
+        "margin_units": 0.2,
+        "selection_kl": 1.2044169940054417,
+        "selection_switches": 10,
+        "serial": 28
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 0.75,
+        "margin_units": 0.4,
+        "selection_kl": 1.2303801961243153,
+        "selection_switches": 4,
+        "serial": 29
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 0.75,
+        "margin_units": 0.8,
+        "selection_kl": 1.2403753008693457,
+        "selection_switches": 0,
+        "serial": 30
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 1.0,
+        "margin_units": 0.0,
+        "selection_kl": 1.2188578750938177,
+        "selection_switches": 23,
+        "serial": 31
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 1.0,
+        "margin_units": 0.05,
+        "selection_kl": 1.1982228327542543,
+        "selection_switches": 18,
+        "serial": 32
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 1.0,
+        "margin_units": 0.1,
+        "selection_kl": 1.2004457134753466,
+        "selection_switches": 17,
+        "serial": 33
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 1.0,
+        "margin_units": 0.2,
+        "selection_kl": 1.1915069725364447,
+        "selection_switches": 12,
+        "serial": 34
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 1.0,
+        "margin_units": 0.4,
+        "selection_kl": 1.2058683224022388,
+        "selection_switches": 9,
+        "serial": 35
+      },
+      {
+        "family": "mean_calibrated",
+        "alpha": 1.0,
+        "margin_units": 0.8,
+        "selection_kl": 1.2403753008693457,
+        "selection_switches": 0,
+        "serial": 36
+      }
+    ],
+    "train_prediction_mean": [
+      0.0,
+      -0.024786825597693678,
+      0.03750109437620267,
+      0.026121075332630427,
+      0.024803629054222256,
+      0.06089055116288364,
+      0.05407937695272267,
+      0.01995593646890484
+    ],
+    "train_cost_mean": [
+      1.3329117726025759,
+      1.3284166930785808,
+      1.3770524292540705,
+      1.3758110410413342,
+      1.381349191671473,
+      1.4071888527502994,
+      1.392029471700763,
+      1.3580910705745373
+    ],
+    "scale": 0.1700014518209863,
+    "baseline": 1
+  },
+  "selection_rule": "Lowest original32 actual KL, then fewer switches, then model name; single saved prompt router only."
+}

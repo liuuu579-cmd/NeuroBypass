@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "raw_validation_rows_reproduced": 1500,
+  "real_model_selected_policy_validation_documents": 100,
+  "full_prompt_and_complete_mask": true,
+  "train_validation_disjoint": true,
+  "original32_only_selection": true,
+  "old_checkpoints_unchanged": true,
+  "raw_replay_kl_tolerance": 1e-06,
+  "raw_replay_nll_tolerance": 1e-05,
+  "historical_nll_precision": "Old complete-mask tables contain FP32-rounded reductions; stage20 actual quality uses double reduction. Stage21 v1 detected max existing discrepancy1.0841e-6; NLL tolerance1e-5, KL remains1e-6."
+}

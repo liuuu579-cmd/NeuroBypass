@@ -1,0 +1,6 @@
+{
+  "passed": true,
+  "ties_and_exact_margin_keep_static": true,
+  "training_mean_correction_exact": true,
+  "nonselection_validation_costs_cannot_change_fit": true
+}
