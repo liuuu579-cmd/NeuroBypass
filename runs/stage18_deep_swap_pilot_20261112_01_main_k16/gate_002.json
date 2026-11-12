@@ -1,0 +1,101 @@
+{
+  "arm": "prompt",
+  "seed": 580,
+  "checkpoint": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage18_deep_swap_pilot_20261112_01_main_k16/private_swap_prompt_seed580_epoch004.pth",
+    "sha256": "3e6fe9c3b322f10a692b4fe5e6f3eb15000ba5f0f4b028a3b44cab44337b6004",
+    "epoch": 4,
+    "selection_kl": 0.7009602198377252
+  },
+  "selection_ids": [
+    4,
+    9,
+    38,
+    65,
+    81,
+    82,
+    84,
+    87,
+    92,
+    94,
+    97,
+    98,
+    101,
+    120,
+    122,
+    123,
+    140,
+    158,
+    173,
+    183,
+    194,
+    213,
+    215,
+    217,
+    225,
+    235,
+    239,
+    249,
+    252,
+    257,
+    260,
+    261
+  ],
+  "selected": {
+    "margin_in_scale_units": 0.1,
+    "margin_kl": 0.013476355373859406,
+    "selection_kl": 0.7004156112670898,
+    "actual_exchanges": 0.4375
+  },
+  "trials": [
+    {
+      "margin_in_scale_units": 0.0,
+      "margin_kl": 0.0,
+      "selection_kl": 0.7009601593017578,
+      "actual_exchanges": 0.6875
+    },
+    {
+      "margin_in_scale_units": 0.05,
+      "margin_kl": 0.006738177686929703,
+      "selection_kl": 0.7060298323631287,
+      "actual_exchanges": 0.53125
+    },
+    {
+      "margin_in_scale_units": 0.1,
+      "margin_kl": 0.013476355373859406,
+      "selection_kl": 0.7004156112670898,
+      "actual_exchanges": 0.4375
+    },
+    {
+      "margin_in_scale_units": 0.2,
+      "margin_kl": 0.02695271074771881,
+      "selection_kl": 0.7012333273887634,
+      "actual_exchanges": 0.15625
+    },
+    {
+      "margin_in_scale_units": 0.4,
+      "margin_kl": 0.05390542149543762,
+      "selection_kl": 0.7007202506065369,
+      "actual_exchanges": 0.0
+    },
+    {
+      "margin_in_scale_units": 0.8,
+      "margin_kl": 0.10781084299087525,
+      "selection_kl": 0.7007202506065369,
+      "actual_exchanges": 0.0
+    },
+    {
+      "margin_in_scale_units": 1.6,
+      "margin_kl": 0.2156216859817505,
+      "selection_kl": 0.7007202506065369,
+      "actual_exchanges": 0.0
+    },
+    {
+      "margin_in_scale_units": null,
+      "margin_kl": null,
+      "selection_kl": 0.7007202506065369,
+      "actual_exchanges": 0.0
+    }
+  ],
+  "policy": "Fixed grid, selected only on original selection IDs after ungated checkpoint selection; ties prefer fewer swaps and larger margins. None means always original static; no guarantee on other documents."
+}

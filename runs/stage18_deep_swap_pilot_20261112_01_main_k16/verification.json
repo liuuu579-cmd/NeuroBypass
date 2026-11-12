@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "quality_rows": 4680,
+  "input_records": 260,
+  "paired_initialization_and_update_budgets_match": true,
+  "all_static_paths_fixed": true,
+  "at_most_two_exchanges_and_constant_k_checked": 16,
+  "all_engineering_gates_passed": true,
+  "all_selection_costs_replayed": true
+}

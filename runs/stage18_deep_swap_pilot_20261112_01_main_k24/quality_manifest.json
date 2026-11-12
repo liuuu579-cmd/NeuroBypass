@@ -1,0 +1,14 @@
+{
+  "task_records": {
+    "c4_development": 100,
+    "piqa": 32,
+    "hellaswag": 32,
+    "winogrande": 32,
+    "wikitext_conditional": 32,
+    "c4_prior_fresh": 32
+  },
+  "private_input_sha256": "1c634ec1969f57bfdfd773d38647f7f2432c24378a2d0477eb69bcd4274b076c",
+  "selection": "Fixed before new labels/training; previously reviewed diagnostic/task cohorts, no untouched final-test claim.",
+  "router_observation": "Full actual visible prompt; no appended answer/options/targets; same path across all answer options.",
+  "scope": "Pilot: C4 development100, previously reviewed fresh32, fixed MC/Wiki32 each. No new RULER, final-test, recovery or deployment claim."
+}

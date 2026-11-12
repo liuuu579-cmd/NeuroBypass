@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "probe": false,
+  "train_documents": 256,
+  "development_documents": 100,
+  "k": 16,
+  "joint_masks": 85,
+  "complete_joint_costs": 30260,
+  "quality_rows": 4680,
+  "preserved_files": 2072,
+  "static_control_recomputed_from_training_only": true,
+  "candidate_source_is_training_only": true,
+  "paired_initialization_and_update_budget_verified": true,
+  "constant_k_and_action_compositions_verified": true,
+  "source_checkpoint_input_hashes_verified": true
+}

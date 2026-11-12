@@ -1,0 +1,8 @@
+{
+  "train_best_route": 73,
+  "train_mean_greedy_route": 73,
+  "train_best_mean_kl": 1.2961384913651273,
+  "train_mean_greedy_kl": 1.2961384913651273,
+  "original_static_mean_kl": 1.3281457198318094,
+  "policy": "Both global fixed paths chosen from TRAIN mean costs only. Best-static uses entire same candidate bank including double exchanges; independent of prompt or development."
+}
