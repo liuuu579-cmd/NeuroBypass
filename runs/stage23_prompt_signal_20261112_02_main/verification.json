@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "documents": 164,
+  "prompt_train64_only_for_alignment": true,
+  "original32_only_for_gate_selection": true,
+  "no_future_tokens_in_prompt_scoring": true,
+  "projection_chunk_absolute_tolerance": 0.0002,
+  "projection_precision": "FP16 matmul can depend slightly on row chunk shape; actual difference recorded per worker, dense identity uses identical64-token chunks.",
+  "each_document_scored_all_prompt_positions": true,
+  "full_complete_mask_joint_costs": true,
+  "no_model_training": true,
+  "old_files_preserved": 3039
+}

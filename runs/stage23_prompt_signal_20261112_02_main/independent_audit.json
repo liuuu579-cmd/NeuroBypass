@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "source_sha256": "59bc073d00fb3eede3207056106641d347dd945268c2850cb5cb8c95bdba6d75",
+  "documents": 164,
+  "full_prompt_scoring_lengths_match_source_manifest": true,
+  "training64_selection_identity_reproduced_without_costs": true,
+  "sixteen_policy_grid_and_original32_choice_independently_reproduced": true,
+  "all_continuation_aggregates_reproduced": true,
+  "training_validation_disjoint": true,
+  "max_prompt_projection_chunk_error": 3.418380705011437e-05,
+  "max_existing_continuation_kl_replay_error": 9.48202796280384e-08,
+  "two_gpu_21_cpu_thread_affinity_verified": true,
+  "old_files_preserved": true
+}

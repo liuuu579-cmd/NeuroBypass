@@ -1,0 +1,17 @@
+{
+  "output": "/home/liushenyu/test/NeuroBypass/runs/stage23_prompt_signal_20261112_02_probe",
+  "old_run": "/home/liushenyu/test/NeuroBypass/runs/stage20_codebook_refine_20261112_02_main",
+  "model": "/home/liushenyu/opt-13b",
+  "data_run": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_probe_20261110_01",
+  "bank_path": "/home/liushenyu/test/NeuroBypass/runs/stage20_codebook_refine_20261112_02_main/candidate_bank.json",
+  "baseline": 1,
+  "ids": [
+    763,
+    94
+  ],
+  "source_sha256": {
+    "prompt_signal_diagnostic_v2.py": "23b33141af20e91af679caf86914d44ac264839b6606ecf92a93c3c18b76d8d6",
+    "probe_prompt_signal_diagnostic_v2.py": "49a654da5def6aed45380fe8cda40acddae6d87ca951ff543b01cc6f5ca5e00a"
+  },
+  "engineering_only": true
+}

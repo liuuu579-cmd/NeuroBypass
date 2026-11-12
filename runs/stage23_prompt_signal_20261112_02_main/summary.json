@@ -1,0 +1,225 @@
+{
+  "results": [
+    {
+      "policy": "exact_prompt_argmin",
+      "cohort": "train64_diagnostic",
+      "kl": 1.3671764252130743,
+      "nll": 3.7373189498518755,
+      "static_kl": 1.3833168551367407,
+      "switches": 36,
+      "beneficial_switches": 20,
+      "harmful_switches": 16,
+      "difference": 0.01614042992366649,
+      "ci95": [
+        -0.010306783809608077,
+        0.04542907676089952
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.3125
+    },
+    {
+      "policy": "exact_prompt_argmin",
+      "cohort": "selection32",
+      "kl": 1.228488875553012,
+      "nll": 3.5783384516835213,
+      "static_kl": 1.2403753008693457,
+      "switches": 22,
+      "beneficial_switches": 10,
+      "harmful_switches": 12,
+      "difference": 0.01188642531633377,
+      "ci95": [
+        -0.04324799850583076,
+        0.07117135701701043
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.3125
+    },
+    {
+      "policy": "exact_prompt_argmin",
+      "cohort": "other68",
+      "kl": 1.4063133851570242,
+      "nll": 3.8481520659783306,
+      "static_kl": 1.3995834825670017,
+      "switches": 45,
+      "beneficial_switches": 17,
+      "harmful_switches": 28,
+      "difference": -0.006729902590022367,
+      "ci95": [
+        -0.034829622353701024,
+        0.02164912147118763
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.25
+    },
+    {
+      "policy": "exact_prompt_argmin",
+      "cohort": "all_validation100",
+      "kl": 1.3494095420837402,
+      "nll": 3.761811709403992,
+      "static_kl": 1.3486368644237519,
+      "switches": 67,
+      "beneficial_switches": 27,
+      "harmful_switches": 40,
+      "difference": -0.0007726776599884033,
+      "ci95": [
+        -0.027851621896028515,
+        0.02610329595208168
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.27
+    },
+    {
+      "policy": "train_aligned_prompt_gate",
+      "cohort": "train64_diagnostic",
+      "kl": 1.3753459715025542,
+      "nll": 3.753751308971175,
+      "static_kl": 1.3833168551367407,
+      "switches": 17,
+      "beneficial_switches": 9,
+      "harmful_switches": 8,
+      "difference": 0.00797088363418652,
+      "ci95": [
+        -0.009255887762205362,
+        0.026405462158949407
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.140625
+    },
+    {
+      "policy": "train_aligned_prompt_gate",
+      "cohort": "selection32",
+      "kl": 1.2030050437897444,
+      "nll": 3.5396060198545456,
+      "static_kl": 1.2403753008693457,
+      "switches": 10,
+      "beneficial_switches": 6,
+      "harmful_switches": 4,
+      "difference": 0.03737025707960129,
+      "ci95": [
+        -0.0073641821742057795,
+        0.08874100046232342
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.1875
+    },
+    {
+      "policy": "train_aligned_prompt_gate",
+      "cohort": "other68",
+      "kl": 1.3967944199548048,
+      "nll": 3.8581967213574577,
+      "static_kl": 1.3995834825670017,
+      "switches": 17,
+      "beneficial_switches": 7,
+      "harmful_switches": 10,
+      "difference": 0.0027890626121969786,
+      "ci95": [
+        -0.013447850460515304,
+        0.020100979638450284
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.10294117647058823
+    },
+    {
+      "policy": "train_aligned_prompt_gate",
+      "cohort": "all_validation100",
+      "kl": 1.3347818195819854,
+      "nll": 3.756247696876526,
+      "static_kl": 1.3486368644237519,
+      "switches": 27,
+      "beneficial_switches": 13,
+      "harmful_switches": 14,
+      "difference": 0.013855044841766357,
+      "ci95": [
+        -0.004637425541877746,
+        0.03441544181108474
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.13
+    },
+    {
+      "policy": "strong_static",
+      "cohort": "train64_diagnostic",
+      "kl": 1.3833168551367407,
+      "nll": 3.746337386137327,
+      "static_kl": 1.3833168551367407,
+      "switches": 0,
+      "beneficial_switches": 0,
+      "harmful_switches": 0,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 64,
+      "clusters": 64,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "strong_static",
+      "cohort": "selection32",
+      "kl": 1.2403753008693457,
+      "nll": 3.575798213481903,
+      "static_kl": 1.2403753008693457,
+      "switches": 0,
+      "beneficial_switches": 0,
+      "harmful_switches": 0,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "strong_static",
+      "cohort": "other68",
+      "kl": 1.3995834825670017,
+      "nll": 3.8550024803947,
+      "static_kl": 1.3995834825670017,
+      "switches": 0,
+      "beneficial_switches": 0,
+      "harmful_switches": 0,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "strong_static",
+      "cohort": "all_validation100",
+      "kl": 1.3486368644237519,
+      "nll": 3.765657114982605,
+      "static_kl": 1.3486368644237519,
+      "switches": 0,
+      "beneficial_switches": 0,
+      "harmful_switches": 0,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    }
+  ],
+  "scored_prompt_tokens": 52342,
+  "max_prompt_length": 2016,
+  "future_labels_reused": true,
+  "no_checkpoint_updated": true,
+  "prompt_cost_only_diagnostic": true
+}
