@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "all_target_means_equal_future_training_prior": true,
+  "identical_scale_and_prior": true,
+  "half_mix_exact": true,
+  "reference_index0_is_zero": true,
+  "per_document_common_offsets_cancel": true
+}

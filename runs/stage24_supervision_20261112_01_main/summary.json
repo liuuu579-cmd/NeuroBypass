@@ -1,0 +1,1805 @@
+{
+  "comparisons": [
+    {
+      "cohort": "selection32",
+      "policy": "future32",
+      "arm": "prompt",
+      "metric": "kl",
+      "baseline": "strong_static",
+      "own_mean": 1.2161549536319378,
+      "baseline_mean": 1.240375296171976,
+      "difference": 0.02422034254003811,
+      "ci95": [
+        -0.021914080990822735,
+        0.08414124063579505
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.5
+    },
+    {
+      "cohort": "selection32",
+      "policy": "future32",
+      "arm": "prompt",
+      "metric": "kl",
+      "baseline": "future32_prompt",
+      "own_mean": 1.2161549536319378,
+      "baseline_mean": 1.2161549536319378,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "cohort": "selection32",
+      "policy": "future32",
+      "arm": "prompt",
+      "metric": "nll",
+      "baseline": "strong_static",
+      "own_mean": 3.5682567404875036,
+      "baseline_mean": 3.5757982501098766,
+      "difference": 0.007541509622373113,
+      "ci95": [
+        -0.043725020087472255,
+        0.06375598909531287
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.4375
+    },
+    {
+      "cohort": "selection32",
+      "policy": "future32",
+      "arm": "prompt",
+      "metric": "nll",
+      "baseline": "future32_prompt",
+      "own_mean": 3.5682567404875036,
+      "baseline_mean": 3.5682567404875036,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "cohort": "selection32",
+      "policy": "future32",
+      "arm": "constant",
+      "metric": "kl",
+      "baseline": "strong_static",
+      "own_mean": 1.240375296171976,
+      "baseline_mean": 1.240375296171976,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "cohort": "selection32",
+      "policy": "future32",
+      "arm": "constant",
+      "metric": "kl",
+      "baseline": "future32_prompt",
+      "own_mean": 1.240375296171976,
+      "baseline_mean": 1.2161549536319378,
+      "difference": -0.02422034254003811,
+      "ci95": [
+        -0.08414124063579512,
+        0.021914080990822732
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.4375
+    },
+    {
+      "cohort": "selection32",
+      "policy": "future32",
+      "arm": "constant",
+      "metric": "nll",
+      "baseline": "strong_static",
+      "own_mean": 3.5757982501098766,
+      "baseline_mean": 3.5757982501098766,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "cohort": "selection32",
+      "policy": "future32",
+      "arm": "constant",
+      "metric": "nll",
+      "baseline": "future32_prompt",
+      "own_mean": 3.5757982501098766,
+      "baseline_mean": 3.5682567404875036,
+      "difference": -0.007541509622373113,
+      "ci95": [
+        -0.0637559890953129,
+        0.04372502008747211
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.5
+    },
+    {
+      "cohort": "selection32",
+      "policy": "mixed",
+      "arm": "prompt",
+      "metric": "kl",
+      "baseline": "strong_static",
+      "own_mean": 1.2142058613930165,
+      "baseline_mean": 1.240375296171976,
+      "difference": 0.026169434778959534,
+      "ci95": [
+        -0.021903815185522528,
+        0.08624609117891423
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.53125
+    },
+    {
+      "cohort": "selection32",
+      "policy": "mixed",
+      "arm": "prompt",
+      "metric": "kl",
+      "baseline": "future32_prompt",
+      "own_mean": 1.2142058613930165,
+      "baseline_mean": 1.2161549536319378,
+      "difference": 0.0019490922389214238,
+      "ci95": [
+        -0.021869430440948464,
+        0.025317818340785836
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.46875
+    },
+    {
+      "cohort": "selection32",
+      "policy": "mixed",
+      "arm": "prompt",
+      "metric": "nll",
+      "baseline": "strong_static",
+      "own_mean": 3.5621487445880478,
+      "baseline_mean": 3.5757982501098766,
+      "difference": 0.013649505521828628,
+      "ci95": [
+        -0.04382523338054126,
+        0.07796642918193936
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.40625
+    },
+    {
+      "cohort": "selection32",
+      "policy": "mixed",
+      "arm": "prompt",
+      "metric": "nll",
+      "baseline": "future32_prompt",
+      "own_mean": 3.5621487445880478,
+      "baseline_mean": 3.5682567404875036,
+      "difference": 0.006107995899455515,
+      "ci95": [
+        -0.025583950336070777,
+        0.03789315538484528
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.40625
+    },
+    {
+      "cohort": "selection32",
+      "policy": "mixed",
+      "arm": "constant",
+      "metric": "kl",
+      "baseline": "strong_static",
+      "own_mean": 1.240375296171976,
+      "baseline_mean": 1.240375296171976,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "cohort": "selection32",
+      "policy": "mixed",
+      "arm": "constant",
+      "metric": "kl",
+      "baseline": "future32_prompt",
+      "own_mean": 1.240375296171976,
+      "baseline_mean": 1.2161549536319378,
+      "difference": -0.02422034254003811,
+      "ci95": [
+        -0.08414124063579512,
+        0.021914080990822732
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.4375
+    },
+    {
+      "cohort": "selection32",
+      "policy": "mixed",
+      "arm": "constant",
+      "metric": "nll",
+      "baseline": "strong_static",
+      "own_mean": 3.5757982501098766,
+      "baseline_mean": 3.5757982501098766,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "cohort": "selection32",
+      "policy": "mixed",
+      "arm": "constant",
+      "metric": "nll",
+      "baseline": "future32_prompt",
+      "own_mean": 3.5757982501098766,
+      "baseline_mean": 3.5682567404875036,
+      "difference": -0.007541509622373113,
+      "ci95": [
+        -0.0637559890953129,
+        0.04372502008747211
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.5
+    },
+    {
+      "cohort": "selection32",
+      "policy": "prompt_full",
+      "arm": "prompt",
+      "metric": "kl",
+      "baseline": "strong_static",
+      "own_mean": 1.212671963254427,
+      "baseline_mean": 1.240375296171976,
+      "difference": 0.027703332917549048,
+      "ci95": [
+        -0.01839315657055694,
+        0.08418474696189604
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.40625
+    },
+    {
+      "cohort": "selection32",
+      "policy": "prompt_full",
+      "arm": "prompt",
+      "metric": "kl",
+      "baseline": "future32_prompt",
+      "own_mean": 1.212671963254427,
+      "baseline_mean": 1.2161549536319378,
+      "difference": 0.0034829903775109375,
+      "ci95": [
+        -0.015382675534300597,
+        0.023950449390845088
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.5625
+    },
+    {
+      "cohort": "selection32",
+      "policy": "prompt_full",
+      "arm": "prompt",
+      "metric": "nll",
+      "baseline": "strong_static",
+      "own_mean": 3.5370558519030744,
+      "baseline_mean": 3.5757982501098766,
+      "difference": 0.03874239820680239,
+      "ci95": [
+        -0.014519068220994346,
+        0.10107461008544696
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.375
+    },
+    {
+      "cohort": "selection32",
+      "policy": "prompt_full",
+      "arm": "prompt",
+      "metric": "nll",
+      "baseline": "future32_prompt",
+      "own_mean": 3.5370558519030744,
+      "baseline_mean": 3.5682567404875036,
+      "difference": 0.03120088858442928,
+      "ci95": [
+        0.00013359053816185167,
+        0.06247246460784395
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.625
+    },
+    {
+      "cohort": "selection32",
+      "policy": "prompt_full",
+      "arm": "constant",
+      "metric": "kl",
+      "baseline": "strong_static",
+      "own_mean": 1.240375296171976,
+      "baseline_mean": 1.240375296171976,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "cohort": "selection32",
+      "policy": "prompt_full",
+      "arm": "constant",
+      "metric": "kl",
+      "baseline": "future32_prompt",
+      "own_mean": 1.240375296171976,
+      "baseline_mean": 1.2161549536319378,
+      "difference": -0.02422034254003811,
+      "ci95": [
+        -0.08414124063579512,
+        0.021914080990822732
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.4375
+    },
+    {
+      "cohort": "selection32",
+      "policy": "prompt_full",
+      "arm": "constant",
+      "metric": "nll",
+      "baseline": "strong_static",
+      "own_mean": 3.5757982501098766,
+      "baseline_mean": 3.5757982501098766,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.0
+    },
+    {
+      "cohort": "selection32",
+      "policy": "prompt_full",
+      "arm": "constant",
+      "metric": "nll",
+      "baseline": "future32_prompt",
+      "own_mean": 3.5757982501098766,
+      "baseline_mean": 3.5682567404875036,
+      "difference": -0.007541509622373113,
+      "ci95": [
+        -0.0637559890953129,
+        0.04372502008747211
+      ],
+      "records": 32,
+      "clusters": 32,
+      "fraction_positive": 0.5
+    },
+    {
+      "cohort": "other68",
+      "policy": "future32",
+      "arm": "prompt",
+      "metric": "kl",
+      "baseline": "strong_static",
+      "own_mean": 1.4265600475424505,
+      "baseline_mean": 1.3995835009512068,
+      "difference": -0.026976546591243936,
+      "ci95": [
+        -0.048140005999860416,
+        -0.004871030091888753
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.3088235294117647
+    },
+    {
+      "cohort": "other68",
+      "policy": "future32",
+      "arm": "prompt",
+      "metric": "kl",
+      "baseline": "future32_prompt",
+      "own_mean": 1.4265600475424505,
+      "baseline_mean": 1.4265600475424505,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "cohort": "other68",
+      "policy": "future32",
+      "arm": "prompt",
+      "metric": "nll",
+      "baseline": "strong_static",
+      "own_mean": 3.883727708706848,
+      "baseline_mean": 3.8550024227745325,
+      "difference": -0.028725285932315114,
+      "ci95": [
+        -0.057021512213912516,
+        -0.001305960217758743
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.3382352941176471
+    },
+    {
+      "cohort": "other68",
+      "policy": "future32",
+      "arm": "prompt",
+      "metric": "nll",
+      "baseline": "future32_prompt",
+      "own_mean": 3.883727708706848,
+      "baseline_mean": 3.883727708706848,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "cohort": "other68",
+      "policy": "future32",
+      "arm": "constant",
+      "metric": "kl",
+      "baseline": "strong_static",
+      "own_mean": 1.3995835009512068,
+      "baseline_mean": 1.3995835009512068,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "cohort": "other68",
+      "policy": "future32",
+      "arm": "constant",
+      "metric": "kl",
+      "baseline": "future32_prompt",
+      "own_mean": 1.3995835009512068,
+      "baseline_mean": 1.4265600475424505,
+      "difference": 0.026976546591243936,
+      "ci95": [
+        0.004871030091888708,
+        0.0481400059998604
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.6764705882352942
+    },
+    {
+      "cohort": "other68",
+      "policy": "future32",
+      "arm": "constant",
+      "metric": "nll",
+      "baseline": "strong_static",
+      "own_mean": 3.8550024227745325,
+      "baseline_mean": 3.8550024227745325,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "cohort": "other68",
+      "policy": "future32",
+      "arm": "constant",
+      "metric": "nll",
+      "baseline": "future32_prompt",
+      "own_mean": 3.8550024227745325,
+      "baseline_mean": 3.883727708706848,
+      "difference": 0.028725285932315114,
+      "ci95": [
+        0.001305960217758728,
+        0.05702151221391251
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.6470588235294118
+    },
+    {
+      "cohort": "other68",
+      "policy": "mixed",
+      "arm": "prompt",
+      "metric": "kl",
+      "baseline": "strong_static",
+      "own_mean": 1.4341566271964885,
+      "baseline_mean": 1.3995835009512068,
+      "difference": -0.03457312624528176,
+      "ci95": [
+        -0.05747235864243574,
+        -0.012677952151205535
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.25
+    },
+    {
+      "cohort": "other68",
+      "policy": "mixed",
+      "arm": "prompt",
+      "metric": "kl",
+      "baseline": "future32_prompt",
+      "own_mean": 1.4341566271964885,
+      "baseline_mean": 1.4265600475424505,
+      "difference": -0.007596579654037824,
+      "ci95": [
+        -0.02715718244137449,
+        0.010737633660067455
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.4264705882352941
+    },
+    {
+      "cohort": "other68",
+      "policy": "mixed",
+      "arm": "prompt",
+      "metric": "nll",
+      "baseline": "strong_static",
+      "own_mean": 3.8940542858329508,
+      "baseline_mean": 3.8550024227745325,
+      "difference": -0.03905186305841854,
+      "ci95": [
+        -0.06954437898571546,
+        -0.010312219318628397
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.3382352941176471
+    },
+    {
+      "cohort": "other68",
+      "policy": "mixed",
+      "arm": "prompt",
+      "metric": "nll",
+      "baseline": "future32_prompt",
+      "own_mean": 3.8940542858329508,
+      "baseline_mean": 3.883727708706848,
+      "difference": -0.010326577126103425,
+      "ci95": [
+        -0.03001368743009705,
+        0.008874819649687851
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.38235294117647056
+    },
+    {
+      "cohort": "other68",
+      "policy": "mixed",
+      "arm": "constant",
+      "metric": "kl",
+      "baseline": "strong_static",
+      "own_mean": 1.3995835009512068,
+      "baseline_mean": 1.3995835009512068,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "cohort": "other68",
+      "policy": "mixed",
+      "arm": "constant",
+      "metric": "kl",
+      "baseline": "future32_prompt",
+      "own_mean": 1.3995835009512068,
+      "baseline_mean": 1.4265600475424505,
+      "difference": 0.026976546591243936,
+      "ci95": [
+        0.004871030091888708,
+        0.0481400059998604
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.6764705882352942
+    },
+    {
+      "cohort": "other68",
+      "policy": "mixed",
+      "arm": "constant",
+      "metric": "nll",
+      "baseline": "strong_static",
+      "own_mean": 3.8550024227745325,
+      "baseline_mean": 3.8550024227745325,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "cohort": "other68",
+      "policy": "mixed",
+      "arm": "constant",
+      "metric": "nll",
+      "baseline": "future32_prompt",
+      "own_mean": 3.8550024227745325,
+      "baseline_mean": 3.883727708706848,
+      "difference": 0.028725285932315114,
+      "ci95": [
+        0.001305960217758728,
+        0.05702151221391251
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.6470588235294118
+    },
+    {
+      "cohort": "other68",
+      "policy": "prompt_full",
+      "arm": "prompt",
+      "metric": "kl",
+      "baseline": "strong_static",
+      "own_mean": 1.4421922874713418,
+      "baseline_mean": 1.3995835009512068,
+      "difference": -0.042608786520135,
+      "ci95": [
+        -0.06578848285575181,
+        -0.01937660957565979
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.23529411764705882
+    },
+    {
+      "cohort": "other68",
+      "policy": "prompt_full",
+      "arm": "prompt",
+      "metric": "kl",
+      "baseline": "future32_prompt",
+      "own_mean": 1.4421922874713418,
+      "baseline_mean": 1.4265600475424505,
+      "difference": -0.01563223992889106,
+      "ci95": [
+        -0.036112775834920015,
+        0.004471935028227645
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.4264705882352941
+    },
+    {
+      "cohort": "other68",
+      "policy": "prompt_full",
+      "arm": "prompt",
+      "metric": "nll",
+      "baseline": "strong_static",
+      "own_mean": 3.9018663538800618,
+      "baseline_mean": 3.8550024227745325,
+      "difference": -0.046863931105528785,
+      "ci95": [
+        -0.08499517969638132,
+        -0.011386981393682903
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.3382352941176471
+    },
+    {
+      "cohort": "other68",
+      "policy": "prompt_full",
+      "arm": "prompt",
+      "metric": "nll",
+      "baseline": "future32_prompt",
+      "own_mean": 3.9018663538800618,
+      "baseline_mean": 3.883727708706848,
+      "difference": -0.01813864517321367,
+      "ci95": [
+        -0.044753521138664626,
+        0.006592217272106648
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.4264705882352941
+    },
+    {
+      "cohort": "other68",
+      "policy": "prompt_full",
+      "arm": "constant",
+      "metric": "kl",
+      "baseline": "strong_static",
+      "own_mean": 1.3995835009512068,
+      "baseline_mean": 1.3995835009512068,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "cohort": "other68",
+      "policy": "prompt_full",
+      "arm": "constant",
+      "metric": "kl",
+      "baseline": "future32_prompt",
+      "own_mean": 1.3995835009512068,
+      "baseline_mean": 1.4265600475424505,
+      "difference": 0.026976546591243936,
+      "ci95": [
+        0.004871030091888708,
+        0.0481400059998604
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.6764705882352942
+    },
+    {
+      "cohort": "other68",
+      "policy": "prompt_full",
+      "arm": "constant",
+      "metric": "nll",
+      "baseline": "strong_static",
+      "own_mean": 3.8550024227745325,
+      "baseline_mean": 3.8550024227745325,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.0
+    },
+    {
+      "cohort": "other68",
+      "policy": "prompt_full",
+      "arm": "constant",
+      "metric": "nll",
+      "baseline": "future32_prompt",
+      "own_mean": 3.8550024227745325,
+      "baseline_mean": 3.883727708706848,
+      "difference": 0.028725285932315114,
+      "ci95": [
+        0.001305960217758728,
+        0.05702151221391251
+      ],
+      "records": 68,
+      "clusters": 68,
+      "fraction_positive": 0.6470588235294118
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "future32",
+      "arm": "prompt",
+      "metric": "kl",
+      "baseline": "strong_static",
+      "own_mean": 1.3592304174910868,
+      "baseline_mean": 1.348636875421853,
+      "difference": -0.01059354206923368,
+      "ci95": [
+        -0.031858194486839464,
+        0.013876191655835802
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.37
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "future32",
+      "arm": "prompt",
+      "metric": "kl",
+      "baseline": "future32_prompt",
+      "own_mean": 1.3592304174910868,
+      "baseline_mean": 1.3592304174910868,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "future32",
+      "arm": "prompt",
+      "metric": "nll",
+      "baseline": "strong_static",
+      "own_mean": 3.7827769988766575,
+      "baseline_mean": 3.7656570875218427,
+      "difference": -0.01711991135481488,
+      "ci95": [
+        -0.04097064149073615,
+        0.009759261498635858
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.37
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "future32",
+      "arm": "prompt",
+      "metric": "nll",
+      "baseline": "future32_prompt",
+      "own_mean": 3.7827769988766575,
+      "baseline_mean": 3.7827769988766575,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "future32",
+      "arm": "constant",
+      "metric": "kl",
+      "baseline": "strong_static",
+      "own_mean": 1.348636875421853,
+      "baseline_mean": 1.348636875421853,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "future32",
+      "arm": "constant",
+      "metric": "kl",
+      "baseline": "future32_prompt",
+      "own_mean": 1.348636875421853,
+      "baseline_mean": 1.3592304174910868,
+      "difference": 0.01059354206923368,
+      "ci95": [
+        -0.013876191655835863,
+        0.03185819448683945
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.6
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "future32",
+      "arm": "constant",
+      "metric": "nll",
+      "baseline": "strong_static",
+      "own_mean": 3.7656570875218427,
+      "baseline_mean": 3.7656570875218427,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "future32",
+      "arm": "constant",
+      "metric": "nll",
+      "baseline": "future32_prompt",
+      "own_mean": 3.7656570875218427,
+      "baseline_mean": 3.7827769988766575,
+      "difference": 0.01711991135481488,
+      "ci95": [
+        -0.009759261498635858,
+        0.04097064149073614
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.6
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "mixed",
+      "arm": "prompt",
+      "metric": "kl",
+      "baseline": "strong_static",
+      "own_mean": 1.3637723821393772,
+      "baseline_mean": 1.348636875421853,
+      "difference": -0.015135506717524547,
+      "ci95": [
+        -0.035975009111680875,
+        0.009310369016399783
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.34
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "mixed",
+      "arm": "prompt",
+      "metric": "kl",
+      "baseline": "future32_prompt",
+      "own_mean": 1.3637723821393772,
+      "baseline_mean": 1.3592304174910868,
+      "difference": -0.0045419646482908645,
+      "ci95": [
+        -0.01913610955260651,
+        0.010100640342212567
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.44
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "mixed",
+      "arm": "prompt",
+      "metric": "nll",
+      "baseline": "strong_static",
+      "own_mean": 3.7878445126345825,
+      "baseline_mean": 3.7656570875218427,
+      "difference": -0.022187425112739443,
+      "ci95": [
+        -0.04841815143931641,
+        0.008212451494262788
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.36
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "mixed",
+      "arm": "prompt",
+      "metric": "nll",
+      "baseline": "future32_prompt",
+      "own_mean": 3.7878445126345825,
+      "baseline_mean": 3.7827769988766575,
+      "difference": -0.005067513757924564,
+      "ci95": [
+        -0.022141982153259535,
+        0.010562809534525095
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.39
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "mixed",
+      "arm": "constant",
+      "metric": "kl",
+      "baseline": "strong_static",
+      "own_mean": 1.348636875421853,
+      "baseline_mean": 1.348636875421853,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "mixed",
+      "arm": "constant",
+      "metric": "kl",
+      "baseline": "future32_prompt",
+      "own_mean": 1.348636875421853,
+      "baseline_mean": 1.3592304174910868,
+      "difference": 0.01059354206923368,
+      "ci95": [
+        -0.013876191655835863,
+        0.03185819448683945
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.6
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "mixed",
+      "arm": "constant",
+      "metric": "nll",
+      "baseline": "strong_static",
+      "own_mean": 3.7656570875218427,
+      "baseline_mean": 3.7656570875218427,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "mixed",
+      "arm": "constant",
+      "metric": "nll",
+      "baseline": "future32_prompt",
+      "own_mean": 3.7656570875218427,
+      "baseline_mean": 3.7827769988766575,
+      "difference": 0.01711991135481488,
+      "ci95": [
+        -0.009759261498635858,
+        0.04097064149073614
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.6
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "prompt_full",
+      "arm": "prompt",
+      "metric": "kl",
+      "baseline": "strong_static",
+      "own_mean": 1.368745783721929,
+      "baseline_mean": 1.348636875421853,
+      "difference": -0.0201089083000761,
+      "ci95": [
+        -0.040522229149935154,
+        0.005010137885014136
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.29
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "prompt_full",
+      "arm": "prompt",
+      "metric": "kl",
+      "baseline": "future32_prompt",
+      "own_mean": 1.368745783721929,
+      "baseline_mean": 1.3592304174910868,
+      "difference": -0.00951536623084242,
+      "ci95": [
+        -0.024601506647657246,
+        0.005279408109579632
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.47
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "prompt_full",
+      "arm": "prompt",
+      "metric": "nll",
+      "baseline": "strong_static",
+      "own_mean": 3.785126993247425,
+      "baseline_mean": 3.7656570875218427,
+      "difference": -0.01946990572558281,
+      "ci95": [
+        -0.049675877793371154,
+        0.014058052153021776
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.35
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "prompt_full",
+      "arm": "prompt",
+      "metric": "nll",
+      "baseline": "future32_prompt",
+      "own_mean": 3.785126993247425,
+      "baseline_mean": 3.7827769988766575,
+      "difference": -0.002349994370767927,
+      "ci95": [
+        -0.022901166052187345,
+        0.01866979353837899
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.49
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "prompt_full",
+      "arm": "constant",
+      "metric": "kl",
+      "baseline": "strong_static",
+      "own_mean": 1.348636875421853,
+      "baseline_mean": 1.348636875421853,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "prompt_full",
+      "arm": "constant",
+      "metric": "kl",
+      "baseline": "future32_prompt",
+      "own_mean": 1.348636875421853,
+      "baseline_mean": 1.3592304174910868,
+      "difference": 0.01059354206923368,
+      "ci95": [
+        -0.013876191655835863,
+        0.03185819448683945
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.6
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "prompt_full",
+      "arm": "constant",
+      "metric": "nll",
+      "baseline": "strong_static",
+      "own_mean": 3.7656570875218427,
+      "baseline_mean": 3.7656570875218427,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.0
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "prompt_full",
+      "arm": "constant",
+      "metric": "nll",
+      "baseline": "future32_prompt",
+      "own_mean": 3.7656570875218427,
+      "baseline_mean": 3.7827769988766575,
+      "difference": 0.01711991135481488,
+      "ci95": [
+        -0.009759261498635858,
+        0.04097064149073614
+      ],
+      "records": 100,
+      "clusters": 100,
+      "fraction_positive": 0.6
+    }
+  ],
+  "per_seed": [
+    {
+      "cohort": "selection32",
+      "policy": "future32",
+      "arm": "prompt",
+      "seed": 579,
+      "kl": 1.222523629074857,
+      "nll": 3.5774467385225677,
+      "switches": 25,
+      "unique_routes": 7
+    },
+    {
+      "cohort": "selection32",
+      "policy": "future32",
+      "arm": "prompt",
+      "seed": 580,
+      "kl": 1.2143525133844264,
+      "nll": 3.57960509215561,
+      "switches": 29,
+      "unique_routes": 8
+    },
+    {
+      "cohort": "selection32",
+      "policy": "future32",
+      "arm": "prompt",
+      "seed": 581,
+      "kl": 1.2115887184365306,
+      "nll": 3.5477183907843326,
+      "switches": 4,
+      "unique_routes": 2
+    },
+    {
+      "cohort": "selection32",
+      "policy": "future32",
+      "arm": "constant",
+      "seed": 579,
+      "kl": 1.240375296171976,
+      "nll": 3.5757982501098766,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "selection32",
+      "policy": "future32",
+      "arm": "constant",
+      "seed": 580,
+      "kl": 1.240375296171976,
+      "nll": 3.5757982501098766,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "selection32",
+      "policy": "future32",
+      "arm": "constant",
+      "seed": 581,
+      "kl": 1.240375296171976,
+      "nll": 3.5757982501098766,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "selection32",
+      "policy": "mixed",
+      "arm": "prompt",
+      "seed": 579,
+      "kl": 1.2162499986315822,
+      "nll": 3.560262421433052,
+      "switches": 22,
+      "unique_routes": 7
+    },
+    {
+      "cohort": "selection32",
+      "policy": "mixed",
+      "arm": "prompt",
+      "seed": 580,
+      "kl": 1.213620904119523,
+      "nll": 3.553653587492917,
+      "switches": 22,
+      "unique_routes": 4
+    },
+    {
+      "cohort": "selection32",
+      "policy": "mixed",
+      "arm": "prompt",
+      "seed": 581,
+      "kl": 1.2127466814279444,
+      "nll": 3.572530224838175,
+      "switches": 25,
+      "unique_routes": 7
+    },
+    {
+      "cohort": "selection32",
+      "policy": "mixed",
+      "arm": "constant",
+      "seed": 579,
+      "kl": 1.240375296171976,
+      "nll": 3.5757982501098766,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "selection32",
+      "policy": "mixed",
+      "arm": "constant",
+      "seed": 580,
+      "kl": 1.240375296171976,
+      "nll": 3.5757982501098766,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "selection32",
+      "policy": "mixed",
+      "arm": "constant",
+      "seed": 581,
+      "kl": 1.240375296171976,
+      "nll": 3.5757982501098766,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "selection32",
+      "policy": "prompt_full",
+      "arm": "prompt",
+      "seed": 579,
+      "kl": 1.2027943228739417,
+      "nll": 3.531818500303629,
+      "switches": 23,
+      "unique_routes": 7
+    },
+    {
+      "cohort": "selection32",
+      "policy": "prompt_full",
+      "arm": "prompt",
+      "seed": 580,
+      "kl": 1.2211356281181338,
+      "nll": 3.5395162330258856,
+      "switches": 15,
+      "unique_routes": 3
+    },
+    {
+      "cohort": "selection32",
+      "policy": "prompt_full",
+      "arm": "prompt",
+      "seed": 581,
+      "kl": 1.2140859387712055,
+      "nll": 3.539832822379708,
+      "switches": 17,
+      "unique_routes": 6
+    },
+    {
+      "cohort": "selection32",
+      "policy": "prompt_full",
+      "arm": "constant",
+      "seed": 579,
+      "kl": 1.240375296171976,
+      "nll": 3.5757982501098766,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "selection32",
+      "policy": "prompt_full",
+      "arm": "constant",
+      "seed": 580,
+      "kl": 1.240375296171976,
+      "nll": 3.5757982501098766,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "selection32",
+      "policy": "prompt_full",
+      "arm": "constant",
+      "seed": 581,
+      "kl": 1.240375296171976,
+      "nll": 3.5757982501098766,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "other68",
+      "policy": "future32",
+      "arm": "prompt",
+      "seed": 579,
+      "kl": 1.422084292049476,
+      "nll": 3.8678481811431062,
+      "switches": 53,
+      "unique_routes": 8
+    },
+    {
+      "cohort": "other68",
+      "policy": "future32",
+      "arm": "prompt",
+      "seed": 580,
+      "kl": 1.4456090715107968,
+      "nll": 3.909991854854212,
+      "switches": 65,
+      "unique_routes": 7
+    },
+    {
+      "cohort": "other68",
+      "policy": "future32",
+      "arm": "prompt",
+      "seed": 581,
+      "kl": 1.411986779067079,
+      "nll": 3.8733430901232246,
+      "switches": 11,
+      "unique_routes": 2
+    },
+    {
+      "cohort": "other68",
+      "policy": "future32",
+      "arm": "constant",
+      "seed": 579,
+      "kl": 1.3995835009512068,
+      "nll": 3.8550024227745325,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "other68",
+      "policy": "future32",
+      "arm": "constant",
+      "seed": 580,
+      "kl": 1.3995835009512068,
+      "nll": 3.8550024227745325,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "other68",
+      "policy": "future32",
+      "arm": "constant",
+      "seed": 581,
+      "kl": 1.3995835009512068,
+      "nll": 3.8550024227745325,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "other68",
+      "policy": "mixed",
+      "arm": "prompt",
+      "seed": 579,
+      "kl": 1.4348130846014744,
+      "nll": 3.8979032946906584,
+      "switches": 48,
+      "unique_routes": 7
+    },
+    {
+      "cohort": "other68",
+      "policy": "mixed",
+      "arm": "prompt",
+      "seed": 580,
+      "kl": 1.4427764887624268,
+      "nll": 3.91073454973548,
+      "switches": 33,
+      "unique_routes": 4
+    },
+    {
+      "cohort": "other68",
+      "policy": "mixed",
+      "arm": "prompt",
+      "seed": 581,
+      "kl": 1.4248803082255643,
+      "nll": 3.873525013072715,
+      "switches": 42,
+      "unique_routes": 8
+    },
+    {
+      "cohort": "other68",
+      "policy": "mixed",
+      "arm": "constant",
+      "seed": 579,
+      "kl": 1.3995835009512068,
+      "nll": 3.8550024227745325,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "other68",
+      "policy": "mixed",
+      "arm": "constant",
+      "seed": 580,
+      "kl": 1.3995835009512068,
+      "nll": 3.8550024227745325,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "other68",
+      "policy": "mixed",
+      "arm": "constant",
+      "seed": 581,
+      "kl": 1.3995835009512068,
+      "nll": 3.8550024227745325,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "other68",
+      "policy": "prompt_full",
+      "arm": "prompt",
+      "seed": 579,
+      "kl": 1.4402637456446161,
+      "nll": 3.889568299526263,
+      "switches": 55,
+      "unique_routes": 8
+    },
+    {
+      "cohort": "other68",
+      "policy": "prompt_full",
+      "arm": "prompt",
+      "seed": 580,
+      "kl": 1.445207227501027,
+      "nll": 3.917137835677014,
+      "switches": 41,
+      "unique_routes": 4
+    },
+    {
+      "cohort": "other68",
+      "policy": "prompt_full",
+      "arm": "prompt",
+      "seed": 581,
+      "kl": 1.4411058892683821,
+      "nll": 3.898892926436907,
+      "switches": 44,
+      "unique_routes": 7
+    },
+    {
+      "cohort": "other68",
+      "policy": "prompt_full",
+      "arm": "constant",
+      "seed": 579,
+      "kl": 1.3995835009512068,
+      "nll": 3.8550024227745325,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "other68",
+      "policy": "prompt_full",
+      "arm": "constant",
+      "seed": 580,
+      "kl": 1.3995835009512068,
+      "nll": 3.8550024227745325,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "other68",
+      "policy": "prompt_full",
+      "arm": "constant",
+      "seed": 581,
+      "kl": 1.3995835009512068,
+      "nll": 3.8550024227745325,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "future32",
+      "arm": "prompt",
+      "seed": 579,
+      "kl": 1.358224879897598,
+      "nll": 3.774919719504534,
+      "switches": 78,
+      "unique_routes": 8
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "future32",
+      "arm": "prompt",
+      "seed": 580,
+      "kl": 1.3716069729103584,
+      "nll": 3.8042680907906594,
+      "switches": 94,
+      "unique_routes": 8
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "future32",
+      "arm": "prompt",
+      "seed": 581,
+      "kl": 1.3478593996653034,
+      "nll": 3.7691431863347793,
+      "switches": 15,
+      "unique_routes": 2
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "future32",
+      "arm": "constant",
+      "seed": 579,
+      "kl": 1.348636875421853,
+      "nll": 3.7656570875218427,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "future32",
+      "arm": "constant",
+      "seed": 580,
+      "kl": 1.348636875421853,
+      "nll": 3.7656570875218427,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "future32",
+      "arm": "constant",
+      "seed": 581,
+      "kl": 1.348636875421853,
+      "nll": 3.7656570875218427,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "mixed",
+      "arm": "prompt",
+      "seed": 579,
+      "kl": 1.3648728970911088,
+      "nll": 3.7898582152482243,
+      "switches": 70,
+      "unique_routes": 7
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "mixed",
+      "arm": "prompt",
+      "seed": 580,
+      "kl": 1.3694467016766976,
+      "nll": 3.7964686418178597,
+      "switches": 55,
+      "unique_routes": 4
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "mixed",
+      "arm": "prompt",
+      "seed": 581,
+      "kl": 1.356997547650326,
+      "nll": 3.7772066808376623,
+      "switches": 67,
+      "unique_routes": 8
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "mixed",
+      "arm": "constant",
+      "seed": 579,
+      "kl": 1.348636875421853,
+      "nll": 3.7656570875218427,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "mixed",
+      "arm": "constant",
+      "seed": 580,
+      "kl": 1.348636875421853,
+      "nll": 3.7656570875218427,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "mixed",
+      "arm": "constant",
+      "seed": 581,
+      "kl": 1.348636875421853,
+      "nll": 3.7656570875218427,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "prompt_full",
+      "arm": "prompt",
+      "seed": 579,
+      "kl": 1.3642735303580003,
+      "nll": 3.77508836377502,
+      "switches": 78,
+      "unique_routes": 8
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "prompt_full",
+      "arm": "prompt",
+      "seed": 580,
+      "kl": 1.3735043156985012,
+      "nll": 3.7962989228286528,
+      "switches": 56,
+      "unique_routes": 4
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "prompt_full",
+      "arm": "prompt",
+      "seed": 581,
+      "kl": 1.3684595051092856,
+      "nll": 3.7839936931386036,
+      "switches": 61,
+      "unique_routes": 7
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "prompt_full",
+      "arm": "constant",
+      "seed": 579,
+      "kl": 1.348636875421853,
+      "nll": 3.7656570875218427,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "prompt_full",
+      "arm": "constant",
+      "seed": 580,
+      "kl": 1.348636875421853,
+      "nll": 3.7656570875218427,
+      "switches": 0,
+      "unique_routes": 1
+    },
+    {
+      "cohort": "all_validation100",
+      "policy": "prompt_full",
+      "arm": "constant",
+      "seed": 581,
+      "kl": 1.348636875421853,
+      "nll": 3.7656570875218427,
+      "switches": 0,
+      "unique_routes": 1
+    }
+  ],
+  "training_checks": [
+    {
+      "kind": "mixed",
+      "seed": 579,
+      "paired_initialization_and_updates": true
+    },
+    {
+      "kind": "mixed",
+      "seed": 580,
+      "paired_initialization_and_updates": true
+    },
+    {
+      "kind": "mixed",
+      "seed": 581,
+      "paired_initialization_and_updates": true
+    },
+    {
+      "kind": "prompt_full",
+      "seed": 579,
+      "paired_initialization_and_updates": true
+    },
+    {
+      "kind": "prompt_full",
+      "seed": 580,
+      "paired_initialization_and_updates": true
+    },
+    {
+      "kind": "prompt_full",
+      "seed": 581,
+      "paired_initialization_and_updates": true
+    }
+  ],
+  "quality_rows": 1900,
+  "reused_future32_control_rows": 600,
+  "limits": "Reviewed development; no throughput/memory/generalization claim. Constant observer paired controls. Complete-mask costs, no sums of single-layer costs."
+}

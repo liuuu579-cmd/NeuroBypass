@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "probe": false,
+  "quality_rows": 1900,
+  "identical_future_initialization": true,
+  "paired_arms_and_updates": true,
+  "reference_controls_routes_and_kl_reproduced": true,
+  "checkpoints_and_old_evidence_unchanged": true,
+  "only_original32_selects_epochs": true,
+  "full_prompt_labels_and_embeddings": true
+}

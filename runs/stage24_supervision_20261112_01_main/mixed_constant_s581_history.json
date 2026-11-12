@@ -1,0 +1,118 @@
+[
+  {
+    "epoch": 0,
+    "loss": 0.0,
+    "selection_kl": 1.2403753008693457,
+    "selection_unique_routes": 1
+  },
+  {
+    "epoch": 1,
+    "loss": 0.17846310348599217,
+    "selection_kl": 1.2403753008693457,
+    "selection_unique_routes": 1
+  },
+  {
+    "epoch": 2,
+    "loss": 0.17867755864164792
+  },
+  {
+    "epoch": 3,
+    "loss": 0.17890650131856092
+  },
+  {
+    "epoch": 4,
+    "loss": 0.17841436916030942,
+    "selection_kl": 1.2403753008693457,
+    "selection_unique_routes": 1
+  },
+  {
+    "epoch": 5,
+    "loss": 0.17866038240725174
+  },
+  {
+    "epoch": 6,
+    "loss": 0.17868021764792502
+  },
+  {
+    "epoch": 7,
+    "loss": 0.1783743156120181
+  },
+  {
+    "epoch": 8,
+    "loss": 0.17873992692446336,
+    "selection_kl": 1.2403753008693457,
+    "selection_unique_routes": 1
+  },
+  {
+    "epoch": 9,
+    "loss": 0.17863522469997406
+  },
+  {
+    "epoch": 10,
+    "loss": 0.17832553618354724
+  },
+  {
+    "epoch": 11,
+    "loss": 0.17867093186127023
+  },
+  {
+    "epoch": 12,
+    "loss": 0.17848701733862982,
+    "selection_kl": 1.2403753008693457,
+    "selection_unique_routes": 1
+  },
+  {
+    "epoch": 13,
+    "loss": 0.17832277381559833
+  },
+  {
+    "epoch": 14,
+    "loss": 0.17835923119913788
+  },
+  {
+    "epoch": 15,
+    "loss": 0.17836427535861732
+  },
+  {
+    "epoch": 16,
+    "loss": 0.17829107304103672,
+    "selection_kl": 1.2403753008693457,
+    "selection_unique_routes": 1
+  },
+  {
+    "epoch": 17,
+    "loss": 0.17835112467641012
+  },
+  {
+    "epoch": 18,
+    "loss": 0.1783884635171853
+  },
+  {
+    "epoch": 19,
+    "loss": 0.17822533248225228
+  },
+  {
+    "epoch": 20,
+    "loss": 0.1782579521590378,
+    "selection_kl": 1.2403753008693457,
+    "selection_unique_routes": 1
+  },
+  {
+    "epoch": 21,
+    "loss": 0.17825619853800162
+  },
+  {
+    "epoch": 22,
+    "loss": 0.17822073094779625
+  },
+  {
+    "epoch": 23,
+    "loss": 0.17823348830803298
+  },
+  {
+    "epoch": 24,
+    "loss": 0.17822428639978172,
+    "selection_kl": 1.2403753008693457,
+    "selection_unique_routes": 1
+  }
+]
