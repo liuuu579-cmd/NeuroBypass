@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "source_sha256": "f0601690a2144721b2053001159481c82b98f57a57feae865fb0ba043d823a6c",
+  "models": 19,
+  "independently_recomputed_grid_points": 703,
+  "original32_only_selection_reproduced": true,
+  "train800_validation100_disjoint": true,
+  "raw_route_rows_exact": 1500,
+  "raw_kl_max_error": 2.3189932107925415e-07,
+  "raw_nll_max_error": 1.084059476852417e-06,
+  "actual_selected_route_documents": 100,
+  "actual_kl_max_error": 2.3189932107925415e-07,
+  "actual_nll_max_error": 8.945353329181671e-07,
+  "old_files_preserved": 2964,
+  "checkpoints_and_evidence_unchanged": true,
+  "six_gpu_64_cpu_worker_thread_affinity_verified": true
+}

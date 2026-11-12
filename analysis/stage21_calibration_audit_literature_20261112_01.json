@@ -1,0 +1,33 @@
+{
+  "state": "completed",
+  "run": "/home/liushenyu/test/NeuroBypass/runs/stage21_codebook_calibrate_20261112_03",
+  "route5": "parked; no training or benchmark restarted",
+  "audit_passed": true,
+  "old_research_files_preserved": 2964,
+  "attempts": [
+    {
+      "run": "stage21_codebook_calibrate_20261112_01",
+      "state": "failed_before_import",
+      "reason": "base Python lacks torch"
+    },
+    {
+      "run": "stage21_codebook_calibrate_20261112_02",
+      "state": "failed_at_existing_NLL_precision_check",
+      "reason": "historical NLL labels differ from double reduction by maximum1.0841e-6; routes exactly reproduced and KL below1e-6"
+    },
+    {
+      "run": "stage21_codebook_calibrate_20261112_03",
+      "state": "completed",
+      "program": "tools/run_codebook_calibration_six_gpu_v2.py",
+      "audit": "independent_audit.json"
+    }
+  ],
+  "selected_model": "rank_prompt_s581",
+  "selection32_only": true,
+  "all100_kl": 1.3434262847900391,
+  "all100_static_kl": 1.3486368644237519,
+  "other68_kl": 1.417709296240526,
+  "other68_static_kl": 1.3995834825670017,
+  "conclusion": "Calibration and gating have not established stable advantage over strong static.",
+  "literature": "analysis/STAGE21_STATIC_LAYER_PRUNING_RATIOS_20261112.zh-CN.md"
+}
