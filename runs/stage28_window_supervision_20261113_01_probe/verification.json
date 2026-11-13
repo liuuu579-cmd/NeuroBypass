@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "probe": true,
+  "full_prompt": true,
+  "common128_selection": true,
+  "no_future_observation": true,
+  "joint_complete_masks": true,
+  "old_evidence_preserved": true
+}

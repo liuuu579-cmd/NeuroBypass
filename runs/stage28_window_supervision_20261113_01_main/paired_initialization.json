@@ -1,0 +1,86 @@
+[
+  {
+    "fold": 0,
+    "seed": 579,
+    "same_target_embedding_constant_initial_state": true,
+    "first32_state": "ebb37d78af0766bbe45fb0de07b0e4e44d9c4e407a0ac913b258d75b097f9e1c",
+    "mean128_state": "59d7a66238abb16791ddbb52b10f244c4b579b21d9db09f91c2459826bb84d81"
+  },
+  {
+    "fold": 0,
+    "seed": 580,
+    "same_target_embedding_constant_initial_state": true,
+    "first32_state": "8986e3ce456e621db81953c40e4b33fa147e31d111abf1082bb904e24a82ae33",
+    "mean128_state": "e9fd2f1eb360b3b8f62639ca91dffe90c1b21d59e6a6c97d8114964cba682ee3"
+  },
+  {
+    "fold": 0,
+    "seed": 581,
+    "same_target_embedding_constant_initial_state": true,
+    "first32_state": "7be6e6ee6c70696610e56d7e91894bfb8474f5c24a8cf388a3e66c6b2a1729a4",
+    "mean128_state": "06991b57bf4b22fb07afdb6b7b65869241ae06e1ab6bd0e29e0430806fe9370d"
+  },
+  {
+    "fold": 1,
+    "seed": 579,
+    "same_target_embedding_constant_initial_state": true,
+    "first32_state": "07221be56a34e0755b595e3e3430b94f78e4e8ee0def294c02b636b25f6ac214",
+    "mean128_state": "7e5ac509704fc079874c90ff6deadb9f35296c301766abb8ae294f08f66498a5"
+  },
+  {
+    "fold": 1,
+    "seed": 580,
+    "same_target_embedding_constant_initial_state": true,
+    "first32_state": "9492c937bdeea166b6c205521a8df53803d0ef6c1b0ffd639edf0042557a15b7",
+    "mean128_state": "3e5070234e757808d732b47e2cc0a05d26d8f0d1dba37c49b45bbf6966ed59c8"
+  },
+  {
+    "fold": 1,
+    "seed": 581,
+    "same_target_embedding_constant_initial_state": true,
+    "first32_state": "28bc4c8370b6672185aa239d5a167dd0e123f04b5a345879b468bc9a01876899",
+    "mean128_state": "4163aa6dda2e761db1de64dae689526ed1ba0bc5f256e42253edfc6a7a95e683"
+  },
+  {
+    "fold": 2,
+    "seed": 579,
+    "same_target_embedding_constant_initial_state": true,
+    "first32_state": "8d2bf9caaf0bdf1dda1175054e83f5bbdd233d425d6cfa76a5cc3114ef108d1b",
+    "mean128_state": "0dd3d7a80114671c0c048b75675ddda188d413743d50699a3021fd6ce3b28fa0"
+  },
+  {
+    "fold": 2,
+    "seed": 580,
+    "same_target_embedding_constant_initial_state": true,
+    "first32_state": "2407279b722a887acf3ac49da71ef0b7661b415105096438def5ad2cda14a561",
+    "mean128_state": "3415f6f3e7572570acc017e761e801d7fb96d8c75acc51f2a884668c5e96fd63"
+  },
+  {
+    "fold": 2,
+    "seed": 581,
+    "same_target_embedding_constant_initial_state": true,
+    "first32_state": "762817c8918d3796c6cd7243cf851197ad787f6a60c0439191ad91043d83730d",
+    "mean128_state": "287e56a226ec0857f285a636b3ed29b6d247bc8dedc084b6dfab011bf4665082"
+  },
+  {
+    "fold": 3,
+    "seed": 579,
+    "same_target_embedding_constant_initial_state": true,
+    "first32_state": "59a637e2cd71bee98023f713048bd033ea2bdfc4e0607bd885d2d2be800496bb",
+    "mean128_state": "70171ab90bbf53b16462cef97ee6cc3a5edb50884e14fdb196eb4b881008b5ec"
+  },
+  {
+    "fold": 3,
+    "seed": 580,
+    "same_target_embedding_constant_initial_state": true,
+    "first32_state": "b74b020e633c224413a478d53eb3d21382838852a0f40e5768b420c3bb4cc7d8",
+    "mean128_state": "c4653f71d9b3107ddee51f1cba230d7ff0be65adcbbf939c3ffff36c07e1c78d"
+  },
+  {
+    "fold": 3,
+    "seed": 581,
+    "same_target_embedding_constant_initial_state": true,
+    "first32_state": "c2d39a72303c98ec971742ca2d0e48cc89f48bea2ebb7c77fb54a24d7597044f",
+    "mean128_state": "adfc855e4ba87ea9ee05da122034230316d317480780d0b827673797ee5f62d4"
+  }
+]

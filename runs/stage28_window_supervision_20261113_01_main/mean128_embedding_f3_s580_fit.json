@@ -1,0 +1,28 @@
+{
+  "best": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage28_window_supervision_20261113_01_main/private_mean128_embedding_f3_s580_e004.pth",
+    "sha256": "fb13267edd733d411cf99d3402d291fe87d425ffe95ce891291438ca47620cb9",
+    "epoch": 4,
+    "selection_kl": 1.2793051089559282
+  },
+  "fold": 3,
+  "arm": "mean128_embedding",
+  "seed": 580,
+  "fit_documents": 229,
+  "selection_documents": 35,
+  "outer_documents": 87,
+  "updates": 360,
+  "initial_sha256": "c4653f71d9b3107ddee51f1cba230d7ff0be65adcbbf939c3ffff36c07e1c78d",
+  "prior": [
+    0.0,
+    -0.017626876011490822,
+    0.043087188154459,
+    0.032564155757427216,
+    0.051773037761449814,
+    0.06971379369497299,
+    0.055016495287418365,
+    0.023855317384004593
+  ],
+  "scale": 0.1271282136440277,
+  "score_sha256": "5a429dcd88b1a0ab9a6a0836336ac798eff04db38e3c28460bbd0f8864b1928c"
+}

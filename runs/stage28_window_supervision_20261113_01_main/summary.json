@@ -1,0 +1,1783 @@
+{
+  "engineering_only": false,
+  "outer_documents": 351,
+  "outer_summary": [
+    {
+      "policy": "fold_static",
+      "metric": "kl",
+      "window": "first32",
+      "mean": 1.284726030042029,
+      "static_mean": 1.284726030042029,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "fold_static",
+      "metric": "kl",
+      "window": "later96",
+      "mean": 1.2825144722081319,
+      "static_mean": 1.2825144722081319,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "fold_static",
+      "metric": "kl",
+      "window": "all128",
+      "mean": 1.283067361666606,
+      "static_mean": 1.283067361666606,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "fold_static",
+      "metric": "nll",
+      "window": "first32",
+      "mean": 3.71220267345423,
+      "static_mean": 3.71220267345423,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "fold_static",
+      "metric": "nll",
+      "window": "later96",
+      "mean": 3.672801280746206,
+      "static_mean": 3.672801280746206,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "fold_static",
+      "metric": "nll",
+      "window": "all128",
+      "mean": 3.6826516289232125,
+      "static_mean": 3.6826516289232125,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "historical_static1",
+      "metric": "kl",
+      "window": "first32",
+      "mean": 1.284726030042029,
+      "static_mean": 1.284726030042029,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "historical_static1",
+      "metric": "kl",
+      "window": "later96",
+      "mean": 1.2825144722081319,
+      "static_mean": 1.2825144722081319,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "historical_static1",
+      "metric": "kl",
+      "window": "all128",
+      "mean": 1.283067361666606,
+      "static_mean": 1.283067361666606,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "historical_static1",
+      "metric": "nll",
+      "window": "first32",
+      "mean": 3.71220267345423,
+      "static_mean": 3.71220267345423,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "historical_static1",
+      "metric": "nll",
+      "window": "later96",
+      "mean": 3.672801280746206,
+      "static_mean": 3.672801280746206,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "historical_static1",
+      "metric": "nll",
+      "window": "all128",
+      "mean": 3.6826516289232125,
+      "static_mean": 3.6826516289232125,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "future_known_best128",
+      "metric": "kl",
+      "window": "first32",
+      "mean": 1.211676529414973,
+      "static_mean": 1.284726030042029,
+      "difference": 0.07304950062705581,
+      "ci95": [
+        0.057714397216114904,
+        0.09032084473177918
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.5327635327635327
+    },
+    {
+      "policy": "future_known_best128",
+      "metric": "kl",
+      "window": "later96",
+      "mean": 1.2265592052442964,
+      "static_mean": 1.2825144722081319,
+      "difference": 0.05595526696383557,
+      "ci95": [
+        0.04681284197403607,
+        0.06545081286490359
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.6096866096866097
+    },
+    {
+      "policy": "future_known_best128",
+      "metric": "kl",
+      "window": "all128",
+      "mean": 1.2228385362869654,
+      "static_mean": 1.283067361666606,
+      "difference": 0.06022882537964063,
+      "ci95": [
+        0.051601219572063185,
+        0.06969693202705804
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.7150997150997151
+    },
+    {
+      "policy": "future_known_best128",
+      "metric": "nll",
+      "window": "first32",
+      "mean": 3.6523640680516887,
+      "static_mean": 3.71220267345423,
+      "difference": 0.059838605402541635,
+      "ci95": [
+        0.03983346584260973,
+        0.08006511120884505
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.45584045584045585
+    },
+    {
+      "policy": "future_known_best128",
+      "metric": "nll",
+      "window": "later96",
+      "mean": 3.6144905825059754,
+      "static_mean": 3.672801280746206,
+      "difference": 0.05831069824023125,
+      "ci95": [
+        0.04643202912830107,
+        0.07021898443882281
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.5327635327635327
+    },
+    {
+      "policy": "future_known_best128",
+      "metric": "nll",
+      "window": "all128",
+      "mean": 3.6239589538924033,
+      "static_mean": 3.6826516289232125,
+      "difference": 0.05869267503080884,
+      "ci95": [
+        0.04757347319413115,
+        0.06954267562666848
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.5441595441595442
+    },
+    {
+      "policy": "first32_embedding_raw_mean3",
+      "metric": "kl",
+      "window": "first32",
+      "mean": 1.2860982580232485,
+      "static_mean": 1.284726030042029,
+      "difference": -0.0013722279812196044,
+      "ci95": [
+        -0.004103978823053191,
+        0.001762210969005667
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.07692307692307693
+    },
+    {
+      "policy": "first32_embedding_raw_mean3",
+      "metric": "kl",
+      "window": "later96",
+      "mean": 1.283881846816527,
+      "static_mean": 1.2825144722081319,
+      "difference": -0.0013673746083951838,
+      "ci95": [
+        -0.0034576332099304145,
+        0.0006744566532432667
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.07122507122507123
+    },
+    {
+      "policy": "first32_embedding_raw_mean3",
+      "metric": "kl",
+      "window": "all128",
+      "mean": 1.2844359496182074,
+      "static_mean": 1.283067361666606,
+      "difference": -0.0013685879516012879,
+      "ci95": [
+        -0.00305478269232531,
+        0.0004713517089231929
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.06837606837606838
+    },
+    {
+      "policy": "first32_embedding_raw_mean3",
+      "metric": "nll",
+      "window": "first32",
+      "mean": 3.7137149136233982,
+      "static_mean": 3.71220267345423,
+      "difference": -0.0015122401691683087,
+      "ci95": [
+        -0.005249489047135611,
+        0.002449078964739895
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.09686609686609686
+    },
+    {
+      "policy": "first32_embedding_raw_mean3",
+      "metric": "nll",
+      "window": "later96",
+      "mean": 3.673858693069429,
+      "static_mean": 3.672801280746206,
+      "difference": -0.0010574123232226433,
+      "ci95": [
+        -0.0035682722855384084,
+        0.0013667247338021828
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.08831908831908832
+    },
+    {
+      "policy": "first32_embedding_raw_mean3",
+      "metric": "nll",
+      "window": "all128",
+      "mean": 3.683822748207921,
+      "static_mean": 3.6826516289232125,
+      "difference": -0.0011711192847090677,
+      "ci95": [
+        -0.00319663333827728,
+        0.0008700965978877405
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.07977207977207977
+    },
+    {
+      "policy": "first32_embedding_gate_mean3",
+      "metric": "kl",
+      "window": "first32",
+      "mean": 1.2860982580232485,
+      "static_mean": 1.284726030042029,
+      "difference": -0.0013722279812196044,
+      "ci95": [
+        -0.004103978823053191,
+        0.001762210969005667
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.07692307692307693
+    },
+    {
+      "policy": "first32_embedding_gate_mean3",
+      "metric": "kl",
+      "window": "later96",
+      "mean": 1.283881846816527,
+      "static_mean": 1.2825144722081319,
+      "difference": -0.0013673746083951838,
+      "ci95": [
+        -0.0034576332099304145,
+        0.0006744566532432667
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.07122507122507123
+    },
+    {
+      "policy": "first32_embedding_gate_mean3",
+      "metric": "kl",
+      "window": "all128",
+      "mean": 1.2844359496182074,
+      "static_mean": 1.283067361666606,
+      "difference": -0.0013685879516012879,
+      "ci95": [
+        -0.00305478269232531,
+        0.0004713517089231929
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.06837606837606838
+    },
+    {
+      "policy": "first32_embedding_gate_mean3",
+      "metric": "nll",
+      "window": "first32",
+      "mean": 3.7137149136233982,
+      "static_mean": 3.71220267345423,
+      "difference": -0.0015122401691683087,
+      "ci95": [
+        -0.005249489047135611,
+        0.002449078964739895
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.09686609686609686
+    },
+    {
+      "policy": "first32_embedding_gate_mean3",
+      "metric": "nll",
+      "window": "later96",
+      "mean": 3.673858693069429,
+      "static_mean": 3.672801280746206,
+      "difference": -0.0010574123232226433,
+      "ci95": [
+        -0.0035682722855384084,
+        0.0013667247338021828
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.08831908831908832
+    },
+    {
+      "policy": "first32_embedding_gate_mean3",
+      "metric": "nll",
+      "window": "all128",
+      "mean": 3.683822748207921,
+      "static_mean": 3.6826516289232125,
+      "difference": -0.0011711192847090677,
+      "ci95": [
+        -0.00319663333827728,
+        0.0008700965978877405
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.07977207977207977
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "metric": "kl",
+      "window": "first32",
+      "mean": 1.285566356362101,
+      "static_mean": 1.284726030042029,
+      "difference": -0.0008403263200721878,
+      "ci95": [
+        -0.00687820870510647,
+        0.00526506846729958
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.15954415954415954
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "metric": "kl",
+      "window": "later96",
+      "mean": 1.2826661783122837,
+      "static_mean": 1.2825144722081319,
+      "difference": -0.000151706104151775,
+      "ci95": [
+        -0.004699806423740476,
+        0.004466672723298582
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.14245014245014245
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "metric": "kl",
+      "window": "all128",
+      "mean": 1.283391222824738,
+      "static_mean": 1.283067361666606,
+      "difference": -0.00032386115813187635,
+      "ci95": [
+        -0.004415307309680177,
+        0.003644599703981662
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.14814814814814814
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "metric": "nll",
+      "window": "first32",
+      "mean": 3.7142566251732116,
+      "static_mean": 3.71220267345423,
+      "difference": -0.002053951718981561,
+      "ci95": [
+        -0.009050306639610197,
+        0.005768383762039472
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.16524216524216523
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "metric": "nll",
+      "window": "later96",
+      "mean": 3.6724880560548594,
+      "static_mean": 3.672801280746206,
+      "difference": 0.000313224691346915,
+      "ci95": [
+        -0.005410415450203617,
+        0.0057402251349026575
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.16524216524216523
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "metric": "nll",
+      "window": "all128",
+      "mean": 3.6829301983344473,
+      "static_mean": 3.6826516289232125,
+      "difference": -0.0002785694112352218,
+      "ci95": [
+        -0.005137333924486772,
+        0.004795099592503185
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.13675213675213677
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "metric": "kl",
+      "window": "first32",
+      "mean": 1.2863972146003901,
+      "static_mean": 1.284726030042029,
+      "difference": -0.001671184558361232,
+      "ci95": [
+        -0.007040231392594144,
+        0.003930956357338258
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.1282051282051282
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "metric": "kl",
+      "window": "later96",
+      "mean": 1.2828427593837852,
+      "static_mean": 1.2825144722081319,
+      "difference": -0.0003282871756534067,
+      "ci95": [
+        -0.004595838369693737,
+        0.0039004106071033767
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.11396011396011396
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "metric": "kl",
+      "window": "all128",
+      "mean": 1.2837313731879363,
+      "static_mean": 1.283067361666606,
+      "difference": -0.0006640115213303587,
+      "ci95": [
+        -0.004310070155834088,
+        0.003196054537836305
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.11965811965811966
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "metric": "nll",
+      "window": "first32",
+      "mean": 3.7156258266762343,
+      "static_mean": 3.71220267345423,
+      "difference": -0.0034231532220034347,
+      "ci95": [
+        -0.00997715005536139,
+        0.0038322075989171735
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.1282051282051282
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "metric": "nll",
+      "window": "later96",
+      "mean": 3.6729640306721536,
+      "static_mean": 3.672801280746206,
+      "difference": -0.00016274992594729465,
+      "ci95": [
+        -0.00537033883896612,
+        0.0047718397421563615
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.13105413105413105
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "metric": "nll",
+      "window": "all128",
+      "mean": 3.683629479673174,
+      "static_mean": 3.6826516289232125,
+      "difference": -0.000977850749961342,
+      "ci95": [
+        -0.005351572637317988,
+        0.003810060154805806
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.10826210826210826
+    },
+    {
+      "policy": "first32_constant_raw_mean3",
+      "metric": "kl",
+      "window": "first32",
+      "mean": 1.284726030042029,
+      "static_mean": 1.284726030042029,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "first32_constant_raw_mean3",
+      "metric": "kl",
+      "window": "later96",
+      "mean": 1.2825144722081319,
+      "static_mean": 1.2825144722081319,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "first32_constant_raw_mean3",
+      "metric": "kl",
+      "window": "all128",
+      "mean": 1.283067361666606,
+      "static_mean": 1.283067361666606,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "first32_constant_raw_mean3",
+      "metric": "nll",
+      "window": "first32",
+      "mean": 3.71220267345423,
+      "static_mean": 3.71220267345423,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "first32_constant_raw_mean3",
+      "metric": "nll",
+      "window": "later96",
+      "mean": 3.672801280746206,
+      "static_mean": 3.672801280746206,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "first32_constant_raw_mean3",
+      "metric": "nll",
+      "window": "all128",
+      "mean": 3.6826516289232125,
+      "static_mean": 3.6826516289232125,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "first32_constant_gate_mean3",
+      "metric": "kl",
+      "window": "first32",
+      "mean": 1.284726030042029,
+      "static_mean": 1.284726030042029,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "first32_constant_gate_mean3",
+      "metric": "kl",
+      "window": "later96",
+      "mean": 1.2825144722081319,
+      "static_mean": 1.2825144722081319,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "first32_constant_gate_mean3",
+      "metric": "kl",
+      "window": "all128",
+      "mean": 1.283067361666606,
+      "static_mean": 1.283067361666606,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "first32_constant_gate_mean3",
+      "metric": "nll",
+      "window": "first32",
+      "mean": 3.71220267345423,
+      "static_mean": 3.71220267345423,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "first32_constant_gate_mean3",
+      "metric": "nll",
+      "window": "later96",
+      "mean": 3.672801280746206,
+      "static_mean": 3.672801280746206,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "first32_constant_gate_mean3",
+      "metric": "nll",
+      "window": "all128",
+      "mean": 3.6826516289232125,
+      "static_mean": 3.6826516289232125,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "mean128_constant_raw_mean3",
+      "metric": "kl",
+      "window": "first32",
+      "mean": 1.284726030042029,
+      "static_mean": 1.284726030042029,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "mean128_constant_raw_mean3",
+      "metric": "kl",
+      "window": "later96",
+      "mean": 1.2825144722081319,
+      "static_mean": 1.2825144722081319,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "mean128_constant_raw_mean3",
+      "metric": "kl",
+      "window": "all128",
+      "mean": 1.283067361666606,
+      "static_mean": 1.283067361666606,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "mean128_constant_raw_mean3",
+      "metric": "nll",
+      "window": "first32",
+      "mean": 3.71220267345423,
+      "static_mean": 3.71220267345423,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "mean128_constant_raw_mean3",
+      "metric": "nll",
+      "window": "later96",
+      "mean": 3.672801280746206,
+      "static_mean": 3.672801280746206,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "mean128_constant_raw_mean3",
+      "metric": "nll",
+      "window": "all128",
+      "mean": 3.6826516289232125,
+      "static_mean": 3.6826516289232125,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "mean128_constant_gate_mean3",
+      "metric": "kl",
+      "window": "first32",
+      "mean": 1.284726030042029,
+      "static_mean": 1.284726030042029,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "mean128_constant_gate_mean3",
+      "metric": "kl",
+      "window": "later96",
+      "mean": 1.2825144722081319,
+      "static_mean": 1.2825144722081319,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "mean128_constant_gate_mean3",
+      "metric": "kl",
+      "window": "all128",
+      "mean": 1.283067361666606,
+      "static_mean": 1.283067361666606,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "mean128_constant_gate_mean3",
+      "metric": "nll",
+      "window": "first32",
+      "mean": 3.71220267345423,
+      "static_mean": 3.71220267345423,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "mean128_constant_gate_mean3",
+      "metric": "nll",
+      "window": "later96",
+      "mean": 3.672801280746206,
+      "static_mean": 3.672801280746206,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    },
+    {
+      "policy": "mean128_constant_gate_mean3",
+      "metric": "nll",
+      "window": "all128",
+      "mean": 3.6826516289232125,
+      "static_mean": 3.6826516289232125,
+      "difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.0
+    }
+  ],
+  "comparisons": [
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "baseline": "first32_embedding_raw_mean3",
+      "metric": "kl",
+      "window": "first32",
+      "difference": 0.0005319016611474166,
+      "ci95": [
+        -0.0037449255769635465,
+        0.0049501151030446255
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.16524216524216523
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "baseline": "first32_embedding_raw_mean3",
+      "metric": "kl",
+      "window": "later96",
+      "difference": 0.001215668504243413,
+      "ci95": [
+        -0.0023547628722865583,
+        0.004764597799042877
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.1794871794871795
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "baseline": "first32_embedding_raw_mean3",
+      "metric": "kl",
+      "window": "all128",
+      "difference": 0.0010447267934694134,
+      "ci95": [
+        -0.0021774859018163927,
+        0.004202095356195852
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.17663817663817663
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "baseline": "first32_embedding_raw_mean3",
+      "metric": "nll",
+      "window": "first32",
+      "difference": -0.0005417115498132522,
+      "ci95": [
+        -0.0058679872272927045,
+        0.005074684784622954
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.18518518518518517
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "baseline": "first32_embedding_raw_mean3",
+      "metric": "nll",
+      "window": "later96",
+      "difference": 0.001370637014569565,
+      "ci95": [
+        -0.002923352203628773,
+        0.005713666839175449
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.1737891737891738
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "baseline": "first32_embedding_raw_mean3",
+      "metric": "nll",
+      "window": "all128",
+      "difference": 0.0008925498734738608,
+      "ci95": [
+        -0.0030672044087296886,
+        0.0047747525918064825
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.15669515669515668
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "baseline": "mean128_constant_raw_mean3",
+      "metric": "kl",
+      "window": "first32",
+      "difference": -0.0008403263200721878,
+      "ci95": [
+        -0.00687820870510647,
+        0.00526506846729958
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.15954415954415954
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "baseline": "mean128_constant_raw_mean3",
+      "metric": "kl",
+      "window": "later96",
+      "difference": -0.00015170610415177042,
+      "ci95": [
+        -0.004699806423740473,
+        0.004466672723298588
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.14245014245014245
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "baseline": "mean128_constant_raw_mean3",
+      "metric": "kl",
+      "window": "all128",
+      "difference": -0.0003238611581318746,
+      "ci95": [
+        -0.004415307309680178,
+        0.0036445997039816626
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.14814814814814814
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "baseline": "mean128_constant_raw_mean3",
+      "metric": "nll",
+      "window": "first32",
+      "difference": -0.002053951718981561,
+      "ci95": [
+        -0.009050306639610197,
+        0.005768383762039472
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.16524216524216523
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "baseline": "mean128_constant_raw_mean3",
+      "metric": "nll",
+      "window": "later96",
+      "difference": 0.0003132246913469093,
+      "ci95": [
+        -0.00541041545020361,
+        0.005740225134902671
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.16524216524216523
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "baseline": "mean128_constant_raw_mean3",
+      "metric": "nll",
+      "window": "all128",
+      "difference": -0.0002785694112352078,
+      "ci95": [
+        -0.005137333924486765,
+        0.004795099592503197
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.13675213675213677
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "baseline": "fold_static",
+      "metric": "kl",
+      "window": "first32",
+      "difference": -0.0008403263200721878,
+      "ci95": [
+        -0.00687820870510647,
+        0.00526506846729958
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.15954415954415954
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "baseline": "fold_static",
+      "metric": "kl",
+      "window": "later96",
+      "difference": -0.00015170610415177042,
+      "ci95": [
+        -0.004699806423740473,
+        0.004466672723298588
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.14245014245014245
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "baseline": "fold_static",
+      "metric": "kl",
+      "window": "all128",
+      "difference": -0.0003238611581318746,
+      "ci95": [
+        -0.004415307309680178,
+        0.0036445997039816626
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.14814814814814814
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "baseline": "fold_static",
+      "metric": "nll",
+      "window": "first32",
+      "difference": -0.002053951718981561,
+      "ci95": [
+        -0.009050306639610197,
+        0.005768383762039472
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.16524216524216523
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "baseline": "fold_static",
+      "metric": "nll",
+      "window": "later96",
+      "difference": 0.0003132246913469093,
+      "ci95": [
+        -0.00541041545020361,
+        0.005740225134902671
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.16524216524216523
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "baseline": "fold_static",
+      "metric": "nll",
+      "window": "all128",
+      "difference": -0.0002785694112352078,
+      "ci95": [
+        -0.005137333924486765,
+        0.004795099592503197
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.13675213675213677
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "baseline": "historical_static1",
+      "metric": "kl",
+      "window": "first32",
+      "difference": -0.0008403263200721878,
+      "ci95": [
+        -0.00687820870510647,
+        0.00526506846729958
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.15954415954415954
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "baseline": "historical_static1",
+      "metric": "kl",
+      "window": "later96",
+      "difference": -0.00015170610415177042,
+      "ci95": [
+        -0.004699806423740473,
+        0.004466672723298588
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.14245014245014245
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "baseline": "historical_static1",
+      "metric": "kl",
+      "window": "all128",
+      "difference": -0.0003238611581318746,
+      "ci95": [
+        -0.004415307309680178,
+        0.0036445997039816626
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.14814814814814814
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "baseline": "historical_static1",
+      "metric": "nll",
+      "window": "first32",
+      "difference": -0.002053951718981561,
+      "ci95": [
+        -0.009050306639610197,
+        0.005768383762039472
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.16524216524216523
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "baseline": "historical_static1",
+      "metric": "nll",
+      "window": "later96",
+      "difference": 0.0003132246913469093,
+      "ci95": [
+        -0.00541041545020361,
+        0.005740225134902671
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.16524216524216523
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "baseline": "historical_static1",
+      "metric": "nll",
+      "window": "all128",
+      "difference": -0.0002785694112352078,
+      "ci95": [
+        -0.005137333924486765,
+        0.004795099592503197
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.13675213675213677
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "baseline": "first32_embedding_gate_mean3",
+      "metric": "kl",
+      "window": "first32",
+      "difference": -0.0002989565771416276,
+      "ci95": [
+        -0.0040154278150990475,
+        0.0032946524669302114
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.14814814814814814
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "baseline": "first32_embedding_gate_mean3",
+      "metric": "kl",
+      "window": "later96",
+      "difference": 0.0010390874327417805,
+      "ci95": [
+        -0.002041876942494803,
+        0.004096057086984882
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.16524216524216523
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "baseline": "first32_embedding_gate_mean3",
+      "metric": "kl",
+      "window": "all128",
+      "difference": 0.0007045764302709284,
+      "ci95": [
+        -0.00208570998328307,
+        0.003380460810386782
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.1623931623931624
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "baseline": "first32_embedding_gate_mean3",
+      "metric": "nll",
+      "window": "first32",
+      "difference": -0.0019109130528351258,
+      "ci95": [
+        -0.006746124233502153,
+        0.0035121276776561984
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.15669515669515668
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "baseline": "first32_embedding_gate_mean3",
+      "metric": "nll",
+      "window": "later96",
+      "difference": 0.0008946623972753584,
+      "ci95": [
+        -0.00295903729879241,
+        0.004557264907784982
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.15384615384615385
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "baseline": "first32_embedding_gate_mean3",
+      "metric": "nll",
+      "window": "all128",
+      "difference": 0.00019326853474773692,
+      "ci95": [
+        -0.003262496695757366,
+        0.0036116893667681666
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.14245014245014245
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "baseline": "mean128_constant_gate_mean3",
+      "metric": "kl",
+      "window": "first32",
+      "difference": -0.001671184558361232,
+      "ci95": [
+        -0.007040231392594144,
+        0.003930956357338258
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.1282051282051282
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "baseline": "mean128_constant_gate_mean3",
+      "metric": "kl",
+      "window": "later96",
+      "difference": -0.00032828717565340265,
+      "ci95": [
+        -0.004595838369693738,
+        0.0039004106071033823
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.11396011396011396
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "baseline": "mean128_constant_gate_mean3",
+      "metric": "kl",
+      "window": "all128",
+      "difference": -0.00066401152133036,
+      "ci95": [
+        -0.004310070155834087,
+        0.0031960545378363027
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.11965811965811966
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "baseline": "mean128_constant_gate_mean3",
+      "metric": "nll",
+      "window": "first32",
+      "difference": -0.0034231532220034347,
+      "ci95": [
+        -0.00997715005536139,
+        0.0038322075989171735
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.1282051282051282
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "baseline": "mean128_constant_gate_mean3",
+      "metric": "nll",
+      "window": "later96",
+      "difference": -0.0001627499259472978,
+      "ci95": [
+        -0.005370338838966113,
+        0.004771839742156358
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.13105413105413105
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "baseline": "mean128_constant_gate_mean3",
+      "metric": "nll",
+      "window": "all128",
+      "difference": -0.000977850749961332,
+      "ci95": [
+        -0.0053515726373179785,
+        0.003810060154805829
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.10826210826210826
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "baseline": "fold_static",
+      "metric": "kl",
+      "window": "first32",
+      "difference": -0.001671184558361232,
+      "ci95": [
+        -0.007040231392594144,
+        0.003930956357338258
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.1282051282051282
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "baseline": "fold_static",
+      "metric": "kl",
+      "window": "later96",
+      "difference": -0.00032828717565340265,
+      "ci95": [
+        -0.004595838369693738,
+        0.0039004106071033823
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.11396011396011396
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "baseline": "fold_static",
+      "metric": "kl",
+      "window": "all128",
+      "difference": -0.00066401152133036,
+      "ci95": [
+        -0.004310070155834087,
+        0.0031960545378363027
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.11965811965811966
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "baseline": "fold_static",
+      "metric": "nll",
+      "window": "first32",
+      "difference": -0.0034231532220034347,
+      "ci95": [
+        -0.00997715005536139,
+        0.0038322075989171735
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.1282051282051282
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "baseline": "fold_static",
+      "metric": "nll",
+      "window": "later96",
+      "difference": -0.0001627499259472978,
+      "ci95": [
+        -0.005370338838966113,
+        0.004771839742156358
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.13105413105413105
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "baseline": "fold_static",
+      "metric": "nll",
+      "window": "all128",
+      "difference": -0.000977850749961332,
+      "ci95": [
+        -0.0053515726373179785,
+        0.003810060154805829
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.10826210826210826
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "baseline": "historical_static1",
+      "metric": "kl",
+      "window": "first32",
+      "difference": -0.001671184558361232,
+      "ci95": [
+        -0.007040231392594144,
+        0.003930956357338258
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.1282051282051282
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "baseline": "historical_static1",
+      "metric": "kl",
+      "window": "later96",
+      "difference": -0.00032828717565340265,
+      "ci95": [
+        -0.004595838369693738,
+        0.0039004106071033823
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.11396011396011396
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "baseline": "historical_static1",
+      "metric": "kl",
+      "window": "all128",
+      "difference": -0.00066401152133036,
+      "ci95": [
+        -0.004310070155834087,
+        0.0031960545378363027
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.11965811965811966
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "baseline": "historical_static1",
+      "metric": "nll",
+      "window": "first32",
+      "difference": -0.0034231532220034347,
+      "ci95": [
+        -0.00997715005536139,
+        0.0038322075989171735
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.1282051282051282
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "baseline": "historical_static1",
+      "metric": "nll",
+      "window": "later96",
+      "difference": -0.0001627499259472978,
+      "ci95": [
+        -0.005370338838966113,
+        0.004771839742156358
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.13105413105413105
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "baseline": "historical_static1",
+      "metric": "nll",
+      "window": "all128",
+      "difference": -0.000977850749961332,
+      "ci95": [
+        -0.0053515726373179785,
+        0.003810060154805829
+      ],
+      "records": 351,
+      "clusters": 351,
+      "fraction_positive": 0.10826210826210826
+    }
+  ],
+  "route_histograms": [
+    {
+      "policy": "fold_static",
+      "decisions": 351,
+      "route_histogram": {
+        "1": 351
+      },
+      "switch_fraction_vs_fold_static": 0.0
+    },
+    {
+      "policy": "historical_static1",
+      "decisions": 351,
+      "route_histogram": {
+        "1": 351
+      },
+      "switch_fraction_vs_fold_static": 0.0
+    },
+    {
+      "policy": "future_known_best128",
+      "decisions": 351,
+      "route_histogram": {
+        "6": 23,
+        "3": 43,
+        "0": 72,
+        "1": 100,
+        "4": 40,
+        "2": 24,
+        "7": 36,
+        "5": 13
+      },
+      "switch_fraction_vs_fold_static": 0.7150997150997151
+    },
+    {
+      "policy": "first32_embedding_raw_mean3",
+      "decisions": 1053,
+      "route_histogram": {
+        "1": 979,
+        "0": 55,
+        "4": 16,
+        "7": 3
+      },
+      "switch_fraction_vs_fold_static": 0.07027540360873694
+    },
+    {
+      "policy": "first32_embedding_gate_mean3",
+      "decisions": 1053,
+      "route_histogram": {
+        "1": 979,
+        "0": 55,
+        "4": 16,
+        "7": 3
+      },
+      "switch_fraction_vs_fold_static": 0.07027540360873694
+    },
+    {
+      "policy": "mean128_embedding_raw_mean3",
+      "decisions": 1053,
+      "route_histogram": {
+        "1": 856,
+        "0": 162,
+        "4": 18,
+        "2": 5,
+        "7": 7,
+        "3": 5
+      },
+      "switch_fraction_vs_fold_static": 0.18708452041785376
+    },
+    {
+      "policy": "mean128_embedding_gate_mean3",
+      "decisions": 1053,
+      "route_histogram": {
+        "1": 885,
+        "0": 141,
+        "4": 16,
+        "2": 4,
+        "7": 7
+      },
+      "switch_fraction_vs_fold_static": 0.15954415954415954
+    },
+    {
+      "policy": "first32_constant_raw_mean3",
+      "decisions": 1053,
+      "route_histogram": {
+        "1": 1053
+      },
+      "switch_fraction_vs_fold_static": 0.0
+    },
+    {
+      "policy": "first32_constant_gate_mean3",
+      "decisions": 1053,
+      "route_histogram": {
+        "1": 1053
+      },
+      "switch_fraction_vs_fold_static": 0.0
+    },
+    {
+      "policy": "mean128_constant_raw_mean3",
+      "decisions": 1053,
+      "route_histogram": {
+        "1": 1053
+      },
+      "switch_fraction_vs_fold_static": 0.0
+    },
+    {
+      "policy": "mean128_constant_gate_mean3",
+      "decisions": 1053,
+      "route_histogram": {
+        "1": 1053
+      },
+      "switch_fraction_vs_fold_static": 0.0
+    }
+  ],
+  "limits": "Development diagnostic on previously reviewed training data, historically selected bank; eligibility-conditioned351. Document bootstrap ignores training/fold dependence and multiplicity. Original dev100 excluded. No speed claims."
+}

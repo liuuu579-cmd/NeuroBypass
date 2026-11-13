@@ -1,0 +1,19 @@
+{
+  "state": "completed",
+  "runs": [
+    {
+      "probe": true,
+      "run": "/home/liushenyu/test/NeuroBypass/runs/stage28_window_supervision_20261113_01_probe",
+      "log": "/home/liushenyu/test/NeuroBypass/analysis/stage28_window_supervision_20261113_01_probe.log",
+      "pid": 3285627,
+      "exit_code": 0
+    },
+    {
+      "probe": false,
+      "run": "/home/liushenyu/test/NeuroBypass/runs/stage28_window_supervision_20261113_01_main",
+      "log": "/home/liushenyu/test/NeuroBypass/analysis/stage28_window_supervision_20261113_01_main.log",
+      "pid": 3286328,
+      "exit_code": 0
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "passed": true,
+  "independent_source_recovery": true,
+  "eligible_documents": 351,
+  "folds_reconstructed_without_training_split_helper": true,
+  "per_token_metric_values": 718848,
+  "quality_rows_checked": 37908,
+  "neural_route_rows_checked": 33696,
+  "learnable_initialization_checks": [
+    {
+      "fold": 0,
+      "seed": 579,
+      "four_arm_learnable_initial_sha256": "eaa9fa495a8847b104c595cad01cf23fe71745122003252147707a99bea40ea9"
+    },
+    {
+      "fold": 0,
+      "seed": 580,
+      "four_arm_learnable_initial_sha256": "b5eee135f66730d13eb0463aa2b892ae78259e3e4a75ecda09191baaa4848cc7"
+    },
+    {
+      "fold": 0,
+      "seed": 581,
+      "four_arm_learnable_initial_sha256": "081d0fd36536b24207d8044ed3efb95996cd0454646042af50fe463e85f98364"
+    },
+    {
+      "fold": 1,
+      "seed": 579,
+      "four_arm_learnable_initial_sha256": "eaa9fa495a8847b104c595cad01cf23fe71745122003252147707a99bea40ea9"
+    },
+    {
+      "fold": 1,
+      "seed": 580,
+      "four_arm_learnable_initial_sha256": "b5eee135f66730d13eb0463aa2b892ae78259e3e4a75ecda09191baaa4848cc7"
+    },
+    {
+      "fold": 1,
+      "seed": 581,
+      "four_arm_learnable_initial_sha256": "081d0fd36536b24207d8044ed3efb95996cd0454646042af50fe463e85f98364"
+    },
+    {
+      "fold": 2,
+      "seed": 579,
+      "four_arm_learnable_initial_sha256": "eaa9fa495a8847b104c595cad01cf23fe71745122003252147707a99bea40ea9"
+    },
+    {
+      "fold": 2,
+      "seed": 580,
+      "four_arm_learnable_initial_sha256": "b5eee135f66730d13eb0463aa2b892ae78259e3e4a75ecda09191baaa4848cc7"
+    },
+    {
+      "fold": 2,
+      "seed": 581,
+      "four_arm_learnable_initial_sha256": "081d0fd36536b24207d8044ed3efb95996cd0454646042af50fe463e85f98364"
+    },
+    {
+      "fold": 3,
+      "seed": 579,
+      "four_arm_learnable_initial_sha256": "eaa9fa495a8847b104c595cad01cf23fe71745122003252147707a99bea40ea9"
+    },
+    {
+      "fold": 3,
+      "seed": 580,
+      "four_arm_learnable_initial_sha256": "b5eee135f66730d13eb0463aa2b892ae78259e3e4a75ecda09191baaa4848cc7"
+    },
+    {
+      "fold": 3,
+      "seed": 581,
+      "four_arm_learnable_initial_sha256": "081d0fd36536b24207d8044ed3efb95996cd0454646042af50fe463e85f98364"
+    }
+  ],
+  "common_inner128_selection_reconstructed": true,
+  "fit_only_target_prior_and_scale_verified": true,
+  "no_input_scores_identical_across_documents": true,
+  "joint_mask_gpu_replays": 32,
+  "router_gpu_replays": 144,
+  "full_prompt_embedding_gpu_checks": 4,
+  "summary_and_bootstrap_reconstructed": true,
+  "old_files_preserved": 3520,
+  "audit_source_sha256": "50af7917c00942bcd4a947129dd0d4cc1842af473266de5da50b9378c28fb186",
+  "limits": "Development diagnostic on previously reviewed training data, historically selected bank; eligibility-conditioned351. Document bootstrap ignores training/fold dependence and multiplicity. Original dev100 excluded. No speed claims."
+}
