@@ -1,0 +1,614 @@
+[
+  {
+    "fold": 0,
+    "arm": "embedding",
+    "seed": 579,
+    "baseline_index": 1,
+    "scale": 0.1858313415488373,
+    "gate": {
+      "static": false,
+      "margin_units": 0.1,
+      "selection_kl": 1.3289058750531466,
+      "switches": 50,
+      "serial": 3
+    },
+    "selected_epoch": 16,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage25_crossfit_20261113_02_main/f0_s579_fit.json",
+    "fit_receipt_sha256": "455730741b404d4d89008b23fbcc4c28eb1f35bdb5f59aef4ecdde3bf66326b4"
+  },
+  {
+    "fold": 0,
+    "arm": "hidden2",
+    "seed": 579,
+    "baseline_index": 1,
+    "scale": 0.1858313415488373,
+    "gate": {
+      "static": false,
+      "margin_units": 0.0,
+      "selection_kl": 1.3312181889220938,
+      "switches": 6,
+      "serial": 1
+    },
+    "selected_epoch": 4,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/hidden2_f0_s579_fit.json",
+    "fit_receipt_sha256": "d54652f15cd5b0e58bd544218c92c0fe94c530791ab4ad356c1e70bcfa983004"
+  },
+  {
+    "fold": 0,
+    "arm": "constant",
+    "seed": 579,
+    "baseline_index": 1,
+    "scale": 0.1858313415488373,
+    "gate": {
+      "static": true,
+      "margin_units": 0.0,
+      "selection_kl": 1.336536082995508,
+      "switches": 0,
+      "serial": 0
+    },
+    "selected_epoch": 0,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/constant_f0_s579_fit.json",
+    "fit_receipt_sha256": "e47dd0feb9812e3dafd5c39679c85f5ef45c171055d6b2d5f79398fa159d3d3d"
+  },
+  {
+    "fold": 0,
+    "arm": "embedding",
+    "seed": 580,
+    "baseline_index": 1,
+    "scale": 0.1858313415488373,
+    "gate": {
+      "static": true,
+      "margin_units": 0.0,
+      "selection_kl": 1.336536082995508,
+      "switches": 0,
+      "serial": 0
+    },
+    "selected_epoch": 0,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage25_crossfit_20261113_02_main/f0_s580_fit.json",
+    "fit_receipt_sha256": "bf274eddfb89c5918868e924545e5e10ab8d728d4df913488e422e271cf228f8"
+  },
+  {
+    "fold": 0,
+    "arm": "hidden2",
+    "seed": 580,
+    "baseline_index": 1,
+    "scale": 0.1858313415488373,
+    "gate": {
+      "static": true,
+      "margin_units": 0.0,
+      "selection_kl": 1.336536082995508,
+      "switches": 0,
+      "serial": 0
+    },
+    "selected_epoch": 0,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/hidden2_f0_s580_fit.json",
+    "fit_receipt_sha256": "b0d73eb72d172295fe0c3e22b37ff8689d82cde5da152ff67fe81720153e305a"
+  },
+  {
+    "fold": 0,
+    "arm": "constant",
+    "seed": 580,
+    "baseline_index": 1,
+    "scale": 0.1858313415488373,
+    "gate": {
+      "static": true,
+      "margin_units": 0.0,
+      "selection_kl": 1.336536082995508,
+      "switches": 0,
+      "serial": 0
+    },
+    "selected_epoch": 0,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/constant_f0_s580_fit.json",
+    "fit_receipt_sha256": "5ddd28dd7829e7603dfcdadeb458c0b777702f975afe15439b09984bc0f60ad5"
+  },
+  {
+    "fold": 0,
+    "arm": "embedding",
+    "seed": 581,
+    "baseline_index": 1,
+    "scale": 0.1858313415488373,
+    "gate": {
+      "static": true,
+      "margin_units": 0.0,
+      "selection_kl": 1.336536082995508,
+      "switches": 0,
+      "serial": 0
+    },
+    "selected_epoch": 0,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage25_crossfit_20261113_02_main/f0_s581_fit.json",
+    "fit_receipt_sha256": "328272339115ebe8c5f9f00d083a164b8867fddfa231c7accdb21b3a112d3dc7"
+  },
+  {
+    "fold": 0,
+    "arm": "hidden2",
+    "seed": 581,
+    "baseline_index": 1,
+    "scale": 0.1858313415488373,
+    "gate": {
+      "static": true,
+      "margin_units": 0.0,
+      "selection_kl": 1.336536082995508,
+      "switches": 0,
+      "serial": 0
+    },
+    "selected_epoch": 0,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/hidden2_f0_s581_fit.json",
+    "fit_receipt_sha256": "942edc1f854e35ba6b10e2fd0f5182a2d718720ebd4f5380568bc590f4203c18"
+  },
+  {
+    "fold": 0,
+    "arm": "constant",
+    "seed": 581,
+    "baseline_index": 1,
+    "scale": 0.1858313415488373,
+    "gate": {
+      "static": true,
+      "margin_units": 0.0,
+      "selection_kl": 1.336536082995508,
+      "switches": 0,
+      "serial": 0
+    },
+    "selected_epoch": 0,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/constant_f0_s581_fit.json",
+    "fit_receipt_sha256": "cc9d93b7b111c24db758ecc2036f0d918f107f8de0d08e4a732d299b047af951"
+  },
+  {
+    "fold": 1,
+    "arm": "embedding",
+    "seed": 579,
+    "baseline_index": 0,
+    "scale": 0.18144678161105013,
+    "gate": {
+      "static": false,
+      "margin_units": 0.0,
+      "selection_kl": 1.3617217600939966,
+      "switches": 63,
+      "serial": 1
+    },
+    "selected_epoch": 1,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage25_crossfit_20261113_02_main/f1_s579_fit.json",
+    "fit_receipt_sha256": "f9e3b8feccc5e0e57794de48c5adeea370f9168f3d642e822da2ecd612efda72"
+  },
+  {
+    "fold": 1,
+    "arm": "hidden2",
+    "seed": 579,
+    "baseline_index": 0,
+    "scale": 0.18144678161105013,
+    "gate": {
+      "static": false,
+      "margin_units": 0.0,
+      "selection_kl": 1.3442423657896598,
+      "switches": 80,
+      "serial": 1
+    },
+    "selected_epoch": 1,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/hidden2_f1_s579_fit.json",
+    "fit_receipt_sha256": "c709484477d5030036fd4dc2e4976f4ceebe967e4eb1b1ba90bf3478aa8d0d1e"
+  },
+  {
+    "fold": 1,
+    "arm": "constant",
+    "seed": 579,
+    "baseline_index": 0,
+    "scale": 0.18144678161105013,
+    "gate": {
+      "static": false,
+      "margin_units": 0.0,
+      "selection_kl": 1.3442423657896598,
+      "switches": 80,
+      "serial": 1
+    },
+    "selected_epoch": 1,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/constant_f1_s579_fit.json",
+    "fit_receipt_sha256": "916975f3ef2620c37d40ed979c69bcf67b3f1d6fa68f32c9f9931537d151a926"
+  },
+  {
+    "fold": 1,
+    "arm": "embedding",
+    "seed": 580,
+    "baseline_index": 0,
+    "scale": 0.18144678161105013,
+    "gate": {
+      "static": false,
+      "margin_units": 0.0,
+      "selection_kl": 1.3515266924384832,
+      "switches": 66,
+      "serial": 1
+    },
+    "selected_epoch": 1,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage25_crossfit_20261113_02_main/f1_s580_fit.json",
+    "fit_receipt_sha256": "7a5a3e1940e1b3ba576d949ac601dd712ef82ffdabc925a16ae10b87c0bf10bd"
+  },
+  {
+    "fold": 1,
+    "arm": "hidden2",
+    "seed": 580,
+    "baseline_index": 0,
+    "scale": 0.18144678161105013,
+    "gate": {
+      "static": false,
+      "margin_units": 0.0,
+      "selection_kl": 1.3442423657896598,
+      "switches": 80,
+      "serial": 1
+    },
+    "selected_epoch": 1,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/hidden2_f1_s580_fit.json",
+    "fit_receipt_sha256": "7021cbad1d9e97ac60a1f84fa515b12bf88881dbbd3e4564a62d18ceb2b92d51"
+  },
+  {
+    "fold": 1,
+    "arm": "constant",
+    "seed": 580,
+    "baseline_index": 0,
+    "scale": 0.18144678161105013,
+    "gate": {
+      "static": false,
+      "margin_units": 0.0,
+      "selection_kl": 1.3442423657896598,
+      "switches": 80,
+      "serial": 1
+    },
+    "selected_epoch": 1,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/constant_f1_s580_fit.json",
+    "fit_receipt_sha256": "60635d74b4c7d4ccdc9ea45b0d5f63100e4e1860e72797540928cf8f5811ca5c"
+  },
+  {
+    "fold": 1,
+    "arm": "embedding",
+    "seed": 581,
+    "baseline_index": 0,
+    "scale": 0.18144678161105013,
+    "gate": {
+      "static": false,
+      "margin_units": 0.0,
+      "selection_kl": 1.3378124014865533,
+      "switches": 64,
+      "serial": 1
+    },
+    "selected_epoch": 4,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage25_crossfit_20261113_02_main/f1_s581_fit.json",
+    "fit_receipt_sha256": "e494b4bd3dded4b9d68299e186204baa31e49d44c6c711ba2b41e04affc9cd9e"
+  },
+  {
+    "fold": 1,
+    "arm": "hidden2",
+    "seed": 581,
+    "baseline_index": 0,
+    "scale": 0.18144678161105013,
+    "gate": {
+      "static": false,
+      "margin_units": 0.0,
+      "selection_kl": 1.3442423657896598,
+      "switches": 80,
+      "serial": 1
+    },
+    "selected_epoch": 1,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/hidden2_f1_s581_fit.json",
+    "fit_receipt_sha256": "e68e86d3b283bd2b0ca60edbc48eeaf00eb0329c86cf730601634b2b72385b0e"
+  },
+  {
+    "fold": 1,
+    "arm": "constant",
+    "seed": 581,
+    "baseline_index": 0,
+    "scale": 0.18144678161105013,
+    "gate": {
+      "static": false,
+      "margin_units": 0.0,
+      "selection_kl": 1.3442423657896598,
+      "switches": 80,
+      "serial": 1
+    },
+    "selected_epoch": 1,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/constant_f1_s581_fit.json",
+    "fit_receipt_sha256": "636f5b0fd314fcabfa8f9358b61e777aa30cb945f768d4a569ccbfee3b004a65"
+  },
+  {
+    "fold": 2,
+    "arm": "embedding",
+    "seed": 579,
+    "baseline_index": 1,
+    "scale": 0.1771774651958547,
+    "gate": {
+      "static": true,
+      "margin_units": 0.0,
+      "selection_kl": 1.400211418072263,
+      "switches": 0,
+      "serial": 0
+    },
+    "selected_epoch": 0,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage25_crossfit_20261113_02_main/f2_s579_fit.json",
+    "fit_receipt_sha256": "36a4962e86e7c5425b5a3180b64e5fc7f7d545d889cb58043c76d8644e6cbe30"
+  },
+  {
+    "fold": 2,
+    "arm": "hidden2",
+    "seed": 579,
+    "baseline_index": 1,
+    "scale": 0.1771774651958547,
+    "gate": {
+      "static": true,
+      "margin_units": 0.0,
+      "selection_kl": 1.400211418072263,
+      "switches": 0,
+      "serial": 0
+    },
+    "selected_epoch": 0,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/hidden2_f2_s579_fit.json",
+    "fit_receipt_sha256": "289cd61be0159e176edc374a2c71a82080913257468d6ee9a0a028772492c1fd"
+  },
+  {
+    "fold": 2,
+    "arm": "constant",
+    "seed": 579,
+    "baseline_index": 1,
+    "scale": 0.1771774651958547,
+    "gate": {
+      "static": true,
+      "margin_units": 0.0,
+      "selection_kl": 1.400211418072263,
+      "switches": 0,
+      "serial": 0
+    },
+    "selected_epoch": 0,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/constant_f2_s579_fit.json",
+    "fit_receipt_sha256": "a7e09294cac9ae11eb7f5917d1edcc4fa9b7affa145677b0a8dc306dbc9b9f8f"
+  },
+  {
+    "fold": 2,
+    "arm": "embedding",
+    "seed": 580,
+    "baseline_index": 1,
+    "scale": 0.1771774651958547,
+    "gate": {
+      "static": false,
+      "margin_units": 0.0,
+      "selection_kl": 1.3954672780791726,
+      "switches": 9,
+      "serial": 1
+    },
+    "selected_epoch": 1,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage25_crossfit_20261113_02_main/f2_s580_fit.json",
+    "fit_receipt_sha256": "e9dcd4e6a7d812d2eaa5d262b5f427b29e5f8d990239112e6e1e76546de5d61d"
+  },
+  {
+    "fold": 2,
+    "arm": "hidden2",
+    "seed": 580,
+    "baseline_index": 1,
+    "scale": 0.1771774651958547,
+    "gate": {
+      "static": false,
+      "margin_units": 0.0,
+      "selection_kl": 1.3962774808975837,
+      "switches": 60,
+      "serial": 1
+    },
+    "selected_epoch": 16,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/hidden2_f2_s580_fit.json",
+    "fit_receipt_sha256": "6af728d88140ae67b65b44f000a7f90d7acff6866e08906b80bb2b9a26379a1b"
+  },
+  {
+    "fold": 2,
+    "arm": "constant",
+    "seed": 580,
+    "baseline_index": 1,
+    "scale": 0.1771774651958547,
+    "gate": {
+      "static": true,
+      "margin_units": 0.0,
+      "selection_kl": 1.400211418072263,
+      "switches": 0,
+      "serial": 0
+    },
+    "selected_epoch": 0,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/constant_f2_s580_fit.json",
+    "fit_receipt_sha256": "b0c06b497097733f6f6124a5836193d000ddefc9afe02509aa8db7d98b8a6a8a"
+  },
+  {
+    "fold": 2,
+    "arm": "embedding",
+    "seed": 581,
+    "baseline_index": 1,
+    "scale": 0.1771774651958547,
+    "gate": {
+      "static": false,
+      "margin_units": 0.2,
+      "selection_kl": 1.3958479488313742,
+      "switches": 13,
+      "serial": 4
+    },
+    "selected_epoch": 4,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage25_crossfit_20261113_02_main/f2_s581_fit.json",
+    "fit_receipt_sha256": "86cff4a7d43dd66fc457821e7406ac5cdde42ac79d90fc58279ed31879a6858f"
+  },
+  {
+    "fold": 2,
+    "arm": "hidden2",
+    "seed": 581,
+    "baseline_index": 1,
+    "scale": 0.1771774651958547,
+    "gate": {
+      "static": false,
+      "margin_units": 0.0,
+      "selection_kl": 1.3967003515154146,
+      "switches": 6,
+      "serial": 1
+    },
+    "selected_epoch": 8,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/hidden2_f2_s581_fit.json",
+    "fit_receipt_sha256": "6b8a84dbb621065407ac2d05664d118abfa76b9932a6f32772481634a41032c0"
+  },
+  {
+    "fold": 2,
+    "arm": "constant",
+    "seed": 581,
+    "baseline_index": 1,
+    "scale": 0.1771774651958547,
+    "gate": {
+      "static": true,
+      "margin_units": 0.0,
+      "selection_kl": 1.400211418072263,
+      "switches": 0,
+      "serial": 0
+    },
+    "selected_epoch": 0,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/constant_f2_s581_fit.json",
+    "fit_receipt_sha256": "ace84e60e2630528ab098f54473317235ae2c4871190fc0280037e4853dc5af8"
+  },
+  {
+    "fold": 3,
+    "arm": "embedding",
+    "seed": 579,
+    "baseline_index": 1,
+    "scale": 0.18023176377965802,
+    "gate": {
+      "static": false,
+      "margin_units": 0.05,
+      "selection_kl": 1.3427798035775595,
+      "switches": 37,
+      "serial": 2
+    },
+    "selected_epoch": 8,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage25_crossfit_20261113_02_main/f3_s579_fit.json",
+    "fit_receipt_sha256": "7e5be8b44fc2bcfe64b22782407bbdb971d997d6bf63532e0e88381e52ece6de"
+  },
+  {
+    "fold": 3,
+    "arm": "hidden2",
+    "seed": 579,
+    "baseline_index": 1,
+    "scale": 0.18023176377965802,
+    "gate": {
+      "static": false,
+      "margin_units": 0.0,
+      "selection_kl": 1.3461430190600823,
+      "switches": 44,
+      "serial": 1
+    },
+    "selected_epoch": 4,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/hidden2_f3_s579_fit.json",
+    "fit_receipt_sha256": "d8af735c7b73d74bdc119826ef9c380dcc118660c52fb99695269eced1e91e90"
+  },
+  {
+    "fold": 3,
+    "arm": "constant",
+    "seed": 579,
+    "baseline_index": 1,
+    "scale": 0.18023176377965802,
+    "gate": {
+      "static": true,
+      "margin_units": 0.0,
+      "selection_kl": 1.3643774054815823,
+      "switches": 0,
+      "serial": 0
+    },
+    "selected_epoch": 0,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/constant_f3_s579_fit.json",
+    "fit_receipt_sha256": "245e107f9571ae74f2f8870a87fb275b62f5cc1a60788c8530f8b8bae77bc348"
+  },
+  {
+    "fold": 3,
+    "arm": "embedding",
+    "seed": 580,
+    "baseline_index": 1,
+    "scale": 0.18023176377965802,
+    "gate": {
+      "static": false,
+      "margin_units": 0.1,
+      "selection_kl": 1.358022101114375,
+      "switches": 14,
+      "serial": 3
+    },
+    "selected_epoch": 4,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage25_crossfit_20261113_02_main/f3_s580_fit.json",
+    "fit_receipt_sha256": "73eeac72e532fb3a42fa9c2a436fe119758c39defff9e5292b25e55165e6e909"
+  },
+  {
+    "fold": 3,
+    "arm": "hidden2",
+    "seed": 580,
+    "baseline_index": 1,
+    "scale": 0.18023176377965802,
+    "gate": {
+      "static": false,
+      "margin_units": 0.0,
+      "selection_kl": 1.3450339030301166,
+      "switches": 64,
+      "serial": 1
+    },
+    "selected_epoch": 20,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/hidden2_f3_s580_fit.json",
+    "fit_receipt_sha256": "21c70b09493c1dddbad2eeb75cad3c1d2be8276581a48b5a4a2cdf925de1695d"
+  },
+  {
+    "fold": 3,
+    "arm": "constant",
+    "seed": 580,
+    "baseline_index": 1,
+    "scale": 0.18023176377965802,
+    "gate": {
+      "static": true,
+      "margin_units": 0.0,
+      "selection_kl": 1.3643774054815823,
+      "switches": 0,
+      "serial": 0
+    },
+    "selected_epoch": 0,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/constant_f3_s580_fit.json",
+    "fit_receipt_sha256": "e49de2ac580bfce63878c12df58f7ad4bbffebf52f4c7b8c8d0d765485379644"
+  },
+  {
+    "fold": 3,
+    "arm": "embedding",
+    "seed": 581,
+    "baseline_index": 1,
+    "scale": 0.18023176377965802,
+    "gate": {
+      "static": false,
+      "margin_units": 0.4,
+      "selection_kl": 1.3549546713631115,
+      "switches": 10,
+      "serial": 5
+    },
+    "selected_epoch": 8,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage25_crossfit_20261113_02_main/f3_s581_fit.json",
+    "fit_receipt_sha256": "1862ef0ab4fd39503960829adac33f03b4b4d8b8c6fd4027563073157ab1dad9"
+  },
+  {
+    "fold": 3,
+    "arm": "hidden2",
+    "seed": 581,
+    "baseline_index": 1,
+    "scale": 0.18023176377965802,
+    "gate": {
+      "static": false,
+      "margin_units": 0.0,
+      "selection_kl": 1.3533240156670672,
+      "switches": 18,
+      "serial": 1
+    },
+    "selected_epoch": 12,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/hidden2_f3_s581_fit.json",
+    "fit_receipt_sha256": "9f1a216f18c8e51061e3a8facca2caf7fa43c43bc8b27851a46b294d142ff4d3"
+  },
+  {
+    "fold": 3,
+    "arm": "constant",
+    "seed": 581,
+    "baseline_index": 1,
+    "scale": 0.18023176377965802,
+    "gate": {
+      "static": true,
+      "margin_units": 0.0,
+      "selection_kl": 1.3643774054815823,
+      "switches": 0,
+      "serial": 0
+    },
+    "selected_epoch": 0,
+    "fit_receipt": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/constant_f3_s581_fit.json",
+    "fit_receipt_sha256": "747c17ff8dc77a6a65c355ac46a77c1f87b7db7ce51dc74d7f2ca0eb698ef254"
+  }
+]

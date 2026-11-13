@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "probe": false,
+  "full_prompt_verified": true,
+  "protected_prefix_0_1_shared_by_all_masks": true,
+  "no_future_observation": true,
+  "three_arm_initial_parameters_match": true,
+  "old_evidence_unchanged": true,
+  "historical_dev100_excluded": true,
+  "development_only_disclosed": true
+}

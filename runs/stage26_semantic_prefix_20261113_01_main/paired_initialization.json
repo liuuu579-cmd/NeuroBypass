@@ -1,0 +1,74 @@
+[
+  {
+    "fold": 0,
+    "seed": 579,
+    "three_arms_initial_sha256": "31b6da82a9e60808b6895b8ac89717f69728fc4691ff2913a8d8f2c2e3b8406f",
+    "identical_initial_parameters": true
+  },
+  {
+    "fold": 0,
+    "seed": 580,
+    "three_arms_initial_sha256": "efc45f2b42d0e814754ffa903f01bb7ebd9ed3f0069a4ee8333127b1ba25057b",
+    "identical_initial_parameters": true
+  },
+  {
+    "fold": 0,
+    "seed": 581,
+    "three_arms_initial_sha256": "0690db85abd886a327b6fbdffc62e6f4d9d9c73f6f51d8dd50d7ad25ae150db8",
+    "identical_initial_parameters": true
+  },
+  {
+    "fold": 1,
+    "seed": 579,
+    "three_arms_initial_sha256": "21b706f86bb5e7302aa4fec8d20beda7802f9754ee6c490e3de19a58b2f96348",
+    "identical_initial_parameters": true
+  },
+  {
+    "fold": 1,
+    "seed": 580,
+    "three_arms_initial_sha256": "edbc595c9e0e19b377136420fac0501b8d03b68d5aecf85acdbaa782da18fde3",
+    "identical_initial_parameters": true
+  },
+  {
+    "fold": 1,
+    "seed": 581,
+    "three_arms_initial_sha256": "43e9e2e41eb7925558d03c205ed99241dc5b44fa409d9d5118313b6f0deac042",
+    "identical_initial_parameters": true
+  },
+  {
+    "fold": 2,
+    "seed": 579,
+    "three_arms_initial_sha256": "126f01fb415c68dba6c6c445a536a96452207d6435f512819e9c173d0e668bca",
+    "identical_initial_parameters": true
+  },
+  {
+    "fold": 2,
+    "seed": 580,
+    "three_arms_initial_sha256": "77bbdb4a43634b60029b9c387e3a6ae96f4f15c2b0c0d3d6d93f59aa29a73241",
+    "identical_initial_parameters": true
+  },
+  {
+    "fold": 2,
+    "seed": 581,
+    "three_arms_initial_sha256": "c3874b40c9b2bccde47be3e184d2da2e570f76e9871614828d57e384910c061f",
+    "identical_initial_parameters": true
+  },
+  {
+    "fold": 3,
+    "seed": 579,
+    "three_arms_initial_sha256": "25eebc32a3b4343fb2d765e69be49184329f5aa16606545470fcbef38ba06128",
+    "identical_initial_parameters": true
+  },
+  {
+    "fold": 3,
+    "seed": 580,
+    "three_arms_initial_sha256": "9b7ac82cbb7d0a5e7f8ee9bcee19b7e970b8c3328e325e5819733661af199641",
+    "identical_initial_parameters": true
+  },
+  {
+    "fold": 3,
+    "seed": 581,
+    "three_arms_initial_sha256": "362597ada9d7e752ab57e63282984d0c3ee4f440f1c1f3a6ce16344cb27e27ee",
+    "identical_initial_parameters": true
+  }
+]

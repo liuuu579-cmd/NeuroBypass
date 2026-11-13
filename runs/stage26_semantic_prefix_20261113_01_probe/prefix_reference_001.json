@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "tokens": 129,
+  "matches_full_opt_hidden_states2_exactly": true,
+  "maximum_error": 0.0,
+  "final_layer_norm_not_applied": true
+}

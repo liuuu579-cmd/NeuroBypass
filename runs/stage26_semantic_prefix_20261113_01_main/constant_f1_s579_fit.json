@@ -1,0 +1,28 @@
+{
+  "best": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main/private_constant_f1_s579_e001.pth",
+    "sha256": "5400aae2865ec1104a370808afd4c8431f7806461bbc55a7665a1934d004cd53",
+    "epoch": 1,
+    "selection_kl": 1.3442423657896598
+  },
+  "fold": 1,
+  "arm": "constant",
+  "seed": 579,
+  "fit_documents": 520,
+  "selection_documents": 80,
+  "outer_documents": 200,
+  "updates": 792,
+  "initial_sha256": "21b706f86bb5e7302aa4fec8d20beda7802f9754ee6c490e3de19a58b2f96348",
+  "prior": [
+    0.0,
+    0.0031670155003666878,
+    0.04268132895231247,
+    0.05379776656627655,
+    0.0528881661593914,
+    0.08130466938018799,
+    0.06042727082967758,
+    0.03255828842520714
+  ],
+  "scale": 0.18144679069519043,
+  "score_sha256": "377dfdbd694b6f995f437ca77486b9259730becfc00e075c007b19b420ad65e2"
+}

@@ -1,0 +1,164 @@
+{
+  "seed_results": [
+    {
+      "seed": 579,
+      "embedding_kl": 1.333490971158032,
+      "hidden2_kl": 1.3275021545537617,
+      "constant_kl": 1.3284166930785808,
+      "hidden2_improvement_over_constant": 0.0009145385248190419
+    },
+    {
+      "seed": 580,
+      "embedding_kl": 1.3240946066203867,
+      "hidden2_kl": 1.3326340124947467,
+      "constant_kl": 1.3284166930785808,
+      "hidden2_improvement_over_constant": -0.004217319416165877
+    },
+    {
+      "seed": 581,
+      "embedding_kl": 1.3285259860171141,
+      "hidden2_kl": 1.324766378658468,
+      "constant_kl": 1.3284166930785808,
+      "hidden2_improvement_over_constant": 0.0036503144201127657
+    }
+  ],
+  "fold_results": [
+    {
+      "fold": 0,
+      "embedding_kl": 1.3325298662054526,
+      "hidden2_kl": 1.325090859555538,
+      "constant_kl": 1.3258824810345642
+    },
+    {
+      "fold": 1,
+      "embedding_kl": 1.3284891249261077,
+      "hidden2_kl": 1.3317849833896707,
+      "constant_kl": 1.3317849833896707
+    },
+    {
+      "fold": 2,
+      "embedding_kl": 1.296301794621883,
+      "hidden2_kl": 1.2960148159923148,
+      "constant_kl": 1.2984553677987423
+    },
+    {
+      "fold": 3,
+      "embedding_kl": 1.3574946326406006,
+      "hidden2_kl": 1.3603127353384448,
+      "constant_kl": 1.3575439400913456
+    }
+  ],
+  "cohort_results": [
+    {
+      "cohort": "fit",
+      "arm": "embedding",
+      "kl": 1.2906057389034327,
+      "improvement_over_fold_static": 0.0319537968238444,
+      "beneficial": 1807,
+      "harmful": 692,
+      "switches": 2499
+    },
+    {
+      "cohort": "fit",
+      "arm": "hidden2",
+      "kl": 1.3148154305883153,
+      "improvement_over_fold_static": 0.007744105138961617,
+      "beneficial": 1647,
+      "harmful": 1303,
+      "switches": 2950
+    },
+    {
+      "cohort": "fit",
+      "arm": "constant",
+      "kl": 1.323351289231477,
+      "improvement_over_fold_static": -0.0007917535042003884,
+      "beneficial": 837,
+      "harmful": 723,
+      "switches": 1560
+    },
+    {
+      "cohort": "selection",
+      "arm": "embedding",
+      "kl": 1.3583601763417545,
+      "improvement_over_fold_static": 0.013260080889226818,
+      "beneficial": 204,
+      "harmful": 122,
+      "switches": 326
+    },
+    {
+      "cohort": "selection",
+      "arm": "hidden2",
+      "kl": 1.3562256367103849,
+      "improvement_over_fold_static": 0.015394620520596425,
+      "beneficial": 264,
+      "harmful": 174,
+      "switches": 438
+    },
+    {
+      "cohort": "selection",
+      "arm": "constant",
+      "kl": 1.3613418180847532,
+      "improvement_over_fold_static": 0.010278439146227924,
+      "beneficial": 162,
+      "harmful": 78,
+      "switches": 240
+    },
+    {
+      "cohort": "outer",
+      "arm": "embedding",
+      "kl": 1.3287038545985108,
+      "improvement_over_fold_static": 0.00215510145649489,
+      "beneficial": 446,
+      "harmful": 427,
+      "switches": 873
+    },
+    {
+      "cohort": "outer",
+      "arm": "hidden2",
+      "kl": 1.3283008485689922,
+      "improvement_over_fold_static": 0.0025581074860137206,
+      "beneficial": 555,
+      "harmful": 553,
+      "switches": 1108
+    },
+    {
+      "cohort": "outer",
+      "arm": "constant",
+      "kl": 1.3284166930785806,
+      "improvement_over_fold_static": 0.002442262976425127,
+      "beneficial": 330,
+      "harmful": 270,
+      "switches": 600
+    }
+  ],
+  "constant_all_cohorts_all_seeds_same_route_index": 1,
+  "primary_comparison": {
+    "policy": "hidden2_gate_mean3",
+    "baseline": "embedding_gate_mean3",
+    "metric": "kl",
+    "difference": 0.00040300602951882995,
+    "ci95": [
+      -0.003998625638310499,
+      0.004833423375960132
+    ],
+    "records": 800,
+    "clusters": 800,
+    "fraction_positive": 0.33625
+  },
+  "semantic_vs_no_input": {
+    "policy": "hidden2_gate_mean3",
+    "baseline": "constant_gate_mean3",
+    "metric": "kl",
+    "difference": 0.00011584450958859404,
+    "ci95": [
+      -0.003870907846307452,
+      0.004403467868339345
+    ],
+    "records": 800,
+    "clusters": 800,
+    "fraction_positive": 0.195
+  },
+  "interpretation": "No stable improvement from frozen two-layer features over embedding or matched no-input control. No-input control selects one fixed mask for every document; small gain over fold-static cannot establish prompt-conditioned benefit.",
+  "no_additional_training_or_outer_tuning": true,
+  "limits": "Repeatedly reviewed train800 development diagnostic, not independent generalization. Fixed bank historically selected from256 of these800. Document bootstrap ignores training/fold dependence. No speed/memory claim."
+}

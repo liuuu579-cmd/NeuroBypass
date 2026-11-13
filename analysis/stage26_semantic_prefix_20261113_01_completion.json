@@ -1,0 +1,19 @@
+{
+  "state": "completed",
+  "runs": [
+    {
+      "probe": true,
+      "run": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_probe",
+      "log": "/home/liushenyu/test/NeuroBypass/analysis/stage26_semantic_prefix_20261113_01_probe.log",
+      "pid": 3251925,
+      "exit_code": 0
+    },
+    {
+      "probe": false,
+      "run": "/home/liushenyu/test/NeuroBypass/runs/stage26_semantic_prefix_20261113_01_main",
+      "log": "/home/liushenyu/test/NeuroBypass/analysis/stage26_semantic_prefix_20261113_01_main.log",
+      "pid": 3252446,
+      "exit_code": 0
+    }
+  ]
+}
