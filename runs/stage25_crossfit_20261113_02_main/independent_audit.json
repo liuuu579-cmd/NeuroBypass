@@ -1,0 +1,113 @@
+{
+  "passed": true,
+  "auditor": "tools/audit_crossfit_routing_v1.py",
+  "auditor_sha256": "53d59d843c6ba63bfb51d1dca9784ee4d536e187adca1e4e5c179eae19696b94",
+  "preserved_files": 3217,
+  "joint_cost_rows_reconstructed": 35200,
+  "outer_documents_once_each": 800,
+  "historical_dev100_excluded": true,
+  "record_and_lead_groups_disjoint": true,
+  "priors_scales_static_and_ridge_fitted_only_on520": true,
+  "gates_epochs_and_penalties_selected_only_on80": true,
+  "checkpoint_replays": [
+    {
+      "fold": 0,
+      "seed": 579,
+      "documents": 2,
+      "selected_epoch": 16
+    },
+    {
+      "fold": 0,
+      "seed": 580,
+      "documents": 2,
+      "selected_epoch": 0
+    },
+    {
+      "fold": 0,
+      "seed": 581,
+      "documents": 2,
+      "selected_epoch": 0
+    },
+    {
+      "fold": 1,
+      "seed": 579,
+      "documents": 2,
+      "selected_epoch": 1
+    },
+    {
+      "fold": 1,
+      "seed": 580,
+      "documents": 2,
+      "selected_epoch": 1
+    },
+    {
+      "fold": 1,
+      "seed": 581,
+      "documents": 2,
+      "selected_epoch": 4
+    },
+    {
+      "fold": 2,
+      "seed": 579,
+      "documents": 2,
+      "selected_epoch": 0
+    },
+    {
+      "fold": 2,
+      "seed": 580,
+      "documents": 2,
+      "selected_epoch": 1
+    },
+    {
+      "fold": 2,
+      "seed": 581,
+      "documents": 2,
+      "selected_epoch": 4
+    },
+    {
+      "fold": 3,
+      "seed": 579,
+      "documents": 2,
+      "selected_epoch": 8
+    },
+    {
+      "fold": 3,
+      "seed": 580,
+      "documents": 2,
+      "selected_epoch": 4
+    },
+    {
+      "fold": 3,
+      "seed": 581,
+      "documents": 2,
+      "selected_epoch": 8
+    }
+  ],
+  "maximum_cpu_gpu_score_error": 2.2914260625839233e-05,
+  "maximum_cpu_gpu_full_prompt_feature_error": 3.725290298461914e-09,
+  "fold_fit_checks": [
+    {
+      "fold": 0,
+      "baseline_index": 1,
+      "scale": 0.1858313415488373
+    },
+    {
+      "fold": 1,
+      "baseline_index": 0,
+      "scale": 0.18144678161105013
+    },
+    {
+      "fold": 2,
+      "baseline_index": 1,
+      "scale": 0.1771774651958547
+    },
+    {
+      "fold": 3,
+      "baseline_index": 1,
+      "scale": 0.18023176377965802
+    }
+  ],
+  "all_summary_metrics_and_bootstrap_reconstructed": true,
+  "resource_threads_verified": "4GPU/42CPU",
+  "candidate_bank_caveat": "Conditional fixed bank chosen historically from256 of original train800; not fully independent candidate search CV. Exploratory bootstrap ignores fold/model-fit dependence. Same reviewed training source, not external generalization. Full prompt embeddings include position. No speed claim."
+}

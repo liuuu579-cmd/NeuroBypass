@@ -1,0 +1,27 @@
+{
+  "best": {
+    "path": "/home/liushenyu/test/NeuroBypass/runs/stage25_crossfit_20261113_02_main/private_f1_s580_e001.pth",
+    "sha256": "de6f70c1305ff710d3ee8f871e443977755d1bbd74293a4980dfb7f7bee42560",
+    "epoch": 1,
+    "selection_kl": 1.3515266924384832
+  },
+  "fold": 1,
+  "seed": 580,
+  "fit_documents": 520,
+  "selection_documents": 80,
+  "outer_documents": 200,
+  "updates": 792,
+  "initial_sha256": "edbc595c9e0e19b377136420fac0501b8d03b68d5aecf85acdbaa782da18fde3",
+  "prior": [
+    0.0,
+    0.0031670155003666878,
+    0.04268132895231247,
+    0.05379776656627655,
+    0.0528881661593914,
+    0.08130466938018799,
+    0.06042727082967758,
+    0.03255828842520714
+  ],
+  "scale": 0.18144679069519043,
+  "score_sha256": "868172a14fe04e24855c6625748cd05f8c0493f05d302b86b4adb20d23320ff0"
+}

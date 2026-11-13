@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "probe": false,
+  "folds": 4,
+  "seeds_per_fold": 3,
+  "full_prompt_lengths_verified": true,
+  "historical_dev100_unused": true,
+  "fold_group_disjoint": true,
+  "old_evidence_unchanged": true,
+  "fixed_library_selection_caveat_disclosed": true
+}

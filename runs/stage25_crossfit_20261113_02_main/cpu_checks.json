@@ -1,0 +1,6 @@
+{
+  "passed": true,
+  "strict_tie_keep_static": true,
+  "outer_labels_do_not_affect_ridge": true,
+  "selection_labels_do_not_affect_ridge_fit": true
+}
