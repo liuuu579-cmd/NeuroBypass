@@ -1,0 +1,31 @@
+{
+  "same_first32_tokens": true,
+  "mean_absolute_kl_difference": 0.001296945983007891,
+  "maximum_absolute_kl_difference": 0.03847861289978027,
+  "winner_agreement": 0.984375,
+  "rank_spearman": {
+    "mean": 0.9972098214285714,
+    "ci95": [
+      0.9957217261904763,
+      0.9983258928571429
+    ],
+    "documents": 128
+  },
+  "old_choice_regret_under_new_first32": {
+    "mean": 1.5084631741046906e-05,
+    "ci95": [
+      0.0,
+      4.5087188482284546e-05
+    ],
+    "documents": 128
+  },
+  "old32_choice_improvement_on_later96": {
+    "mean": -0.009403629073252281,
+    "ci95": [
+      -0.027080696223614115,
+      0.00921018546990426
+    ],
+    "documents": 128
+  },
+  "interpretation": "Short-vs-long FP16 computation shapes differ despite identical prefix tokens; direct old-length replays and same-shape future-causality tests passed. This is distinct from changing continuation windows."
+}

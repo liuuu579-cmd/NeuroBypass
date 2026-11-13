@@ -1,0 +1,6 @@
+{
+  "passed": true,
+  "identical_window_ranks": true,
+  "reversed_preferences_detected": true,
+  "teacher_kl_zero_and_target_nll_alignment": true
+}

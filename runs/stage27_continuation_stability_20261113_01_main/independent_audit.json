@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "auditor_sha256": "b120e2de975dc8104fadf9470e150d834f944647571882190306d2e44648a9e8",
+  "preserved_files": 3423,
+  "eligible_documents_independently_recovered": 351,
+  "selected_documents": 128,
+  "same_document_extended_tokens_and_original_full_prompts_verified": true,
+  "original_dev100_excluded": true,
+  "selection_reproduced_without_labels": true,
+  "per_token_metric_values_verified": 262144,
+  "maximum_fp32_vs_fp64_window_mean_error": 7.704365998506546e-07,
+  "all_ranking_and_transfer_metrics_reconstructed": true,
+  "frozen_prior_outer_routes_verified": true,
+  "independent_opt_replay_documents": 4,
+  "independent_opt_complete_mask_replays": 32,
+  "independent_opt_token_metrics_exact": true,
+  "old_short_replay_and_long_future_causality_checks_passed": true,
+  "resources": "4GPU/42CPU",
+  "limits": "Reviewed training data and historically selected bank; eligibility-conditioned sample. Later teacher-forced contexts contain earlier continuation tokens. Not IID repeated continuations or a direct label-noise estimate. Future-known diagnostics are not deployment policies. No speed claims."
+}

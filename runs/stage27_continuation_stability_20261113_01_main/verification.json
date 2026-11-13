@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "probe": false,
+  "documents": 128,
+  "original_full_prompt_unchanged": true,
+  "no_router_or_opt_training": true,
+  "complete_joint_masks_scored": true,
+  "historical_dev100_excluded": true,
+  "old_evidence_unchanged": true
+}
