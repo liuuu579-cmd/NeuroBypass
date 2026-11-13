@@ -1,0 +1,76 @@
+{
+  "k": 12,
+  "seed": 579,
+  "skips": [
+    3,
+    5,
+    11,
+    13,
+    15,
+    22,
+    24,
+    27,
+    31,
+    32,
+    35,
+    39
+  ],
+  "full_calibration_kl": 0.5568462665309843,
+  "last_stage_kl": 0.5568462665309843,
+  "unique_searched_masks": 16,
+  "history": [
+    {
+      "generation": 1,
+      "fitness": 0.5568462665309843,
+      "skips": [
+        3,
+        5,
+        11,
+        13,
+        15,
+        22,
+        24,
+        27,
+        31,
+        32,
+        35,
+        39
+      ],
+      "elapsed_seconds": 4.890012715011835
+    },
+    {
+      "generation": 2,
+      "fitness": 0.5568462665309843,
+      "skips": [
+        3,
+        5,
+        11,
+        13,
+        15,
+        22,
+        24,
+        27,
+        31,
+        32,
+        35,
+        39
+      ],
+      "elapsed_seconds": 8.105998199083842
+    }
+  ],
+  "search_seconds": 8.866243518074043,
+  "fitness_stats_before": {
+    "calls": 1,
+    "forward_tokens": 512,
+    "scored_tokens": 512,
+    "seconds": 0.08443283301312476,
+    "teacher_seconds": 1.5922321589896455
+  },
+  "fitness_stats_after": {
+    "calls": 24,
+    "forward_tokens": 43209,
+    "scored_tokens": 43209,
+    "seconds": 8.949197622016072,
+    "teacher_seconds": 1.5922321589896455
+  }
+}

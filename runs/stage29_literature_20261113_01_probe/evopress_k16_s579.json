@@ -1,0 +1,88 @@
+{
+  "k": 16,
+  "seed": 579,
+  "skips": [
+    3,
+    4,
+    5,
+    11,
+    15,
+    18,
+    22,
+    23,
+    24,
+    26,
+    27,
+    28,
+    33,
+    34,
+    35,
+    37
+  ],
+  "full_calibration_kl": 1.3143209868967274,
+  "last_stage_kl": 1.3143209868967274,
+  "unique_searched_masks": 15,
+  "history": [
+    {
+      "generation": 1,
+      "fitness": 1.3143209868967274,
+      "skips": [
+        3,
+        4,
+        5,
+        11,
+        15,
+        18,
+        22,
+        23,
+        24,
+        26,
+        27,
+        28,
+        33,
+        34,
+        35,
+        37
+      ],
+      "elapsed_seconds": 4.255625111982226
+    },
+    {
+      "generation": 2,
+      "fitness": 1.3143209868967274,
+      "skips": [
+        3,
+        4,
+        5,
+        11,
+        15,
+        18,
+        22,
+        23,
+        24,
+        26,
+        27,
+        28,
+        33,
+        34,
+        35,
+        37
+      ],
+      "elapsed_seconds": 6.887028772034682
+    }
+  ],
+  "search_seconds": 7.550738301011734,
+  "fitness_stats_before": {
+    "calls": 1,
+    "forward_tokens": 512,
+    "scored_tokens": 512,
+    "seconds": 0.07110287004616112,
+    "teacher_seconds": 1.5594061409356073
+  },
+  "fitness_stats_after": {
+    "calls": 24,
+    "forward_tokens": 43225,
+    "scored_tokens": 43225,
+    "seconds": 7.620295817148872,
+    "teacher_seconds": 1.5594061409356073
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "exact_k_and_protected_layers": true,
+  "official_component_mutation_then_whole_block_tying": true,
+  "elitist_staged_selection": true,
+  "token_budget_and_determinism": true
+}

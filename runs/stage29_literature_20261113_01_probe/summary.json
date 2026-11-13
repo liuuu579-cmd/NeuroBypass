@@ -1,0 +1,3819 @@
+{
+  "quality": [
+    {
+      "task": "hellaswag",
+      "policy": "codebook8_train256_prompt",
+      "seed": 579,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 3,
+      "teacher_kl_per_token": 1.0886336564672274,
+      "accuracy": 0.25,
+      "accuracy_norm": 0.25
+    },
+    {
+      "task": "hellaswag",
+      "policy": "evopress_whole_opt",
+      "seed": 579,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.47408209190654604,
+      "accuracy": 0.375,
+      "accuracy_norm": 0.5
+    },
+    {
+      "task": "hellaswag",
+      "policy": "evopress_whole_opt",
+      "seed": 579,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 1.1081840735936561,
+      "accuracy": 0.375,
+      "accuracy_norm": 0.25
+    },
+    {
+      "task": "hellaswag",
+      "policy": "evopress_whole_opt",
+      "seed": 579,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 2.2648430204898458,
+      "accuracy": 0.25,
+      "accuracy_norm": 0.125
+    },
+    {
+      "task": "hellaswag",
+      "policy": "evopress_whole_opt",
+      "seed": 579,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 3.307392229601082,
+      "accuracy": 0.375,
+      "accuracy_norm": 0.25
+    },
+    {
+      "task": "hellaswag",
+      "policy": "full",
+      "seed": null,
+      "k": 0,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.0,
+      "accuracy": 0.5,
+      "accuracy_norm": 0.625
+    },
+    {
+      "task": "hellaswag",
+      "policy": "m06",
+      "seed": 579,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 8,
+      "teacher_kl_per_token": 0.3449033592966619,
+      "accuracy": 0.625,
+      "accuracy_norm": 0.5
+    },
+    {
+      "task": "hellaswag",
+      "policy": "m06",
+      "seed": 579,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 8,
+      "teacher_kl_per_token": 0.7419033046471707,
+      "accuracy": 0.5,
+      "accuracy_norm": 0.25
+    },
+    {
+      "task": "hellaswag",
+      "policy": "m06",
+      "seed": 579,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 8,
+      "teacher_kl_per_token": 1.3255689080257218,
+      "accuracy": 0.25,
+      "accuracy_norm": 0.25
+    },
+    {
+      "task": "hellaswag",
+      "policy": "m06",
+      "seed": 579,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 8,
+      "teacher_kl_per_token": 2.740934162542819,
+      "accuracy": 0.25,
+      "accuracy_norm": 0.375
+    },
+    {
+      "task": "hellaswag",
+      "policy": "random_static_seed579",
+      "seed": null,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.49894206683429093,
+      "accuracy": 0.5,
+      "accuracy_norm": 0.5
+    },
+    {
+      "task": "hellaswag",
+      "policy": "random_static_seed579",
+      "seed": null,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 1.029965226750302,
+      "accuracy": 0.25,
+      "accuracy_norm": 0.25
+    },
+    {
+      "task": "hellaswag",
+      "policy": "random_static_seed579",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 2.851598941820664,
+      "accuracy": 0.125,
+      "accuracy_norm": 0.25
+    },
+    {
+      "task": "hellaswag",
+      "policy": "random_static_seed579",
+      "seed": null,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 4.314702795188709,
+      "accuracy": 0.25,
+      "accuracy_norm": 0.125
+    },
+    {
+      "task": "hellaswag",
+      "policy": "shortened_ppl_opt",
+      "seed": null,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 4.783178585657209,
+      "accuracy": 0.375,
+      "accuracy_norm": 0.5
+    },
+    {
+      "task": "hellaswag",
+      "policy": "shortened_ppl_opt",
+      "seed": null,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 4.97504069291576,
+      "accuracy": 0.375,
+      "accuracy_norm": 0.125
+    },
+    {
+      "task": "hellaswag",
+      "policy": "shortened_ppl_opt",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 5.205391503944886,
+      "accuracy": 0.375,
+      "accuracy_norm": 0.25
+    },
+    {
+      "task": "hellaswag",
+      "policy": "shortened_ppl_opt",
+      "seed": null,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 5.224893467997688,
+      "accuracy": 0.375,
+      "accuracy_norm": 0.125
+    },
+    {
+      "task": "hellaswag",
+      "policy": "shortened_ppl_plus",
+      "seed": null,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 3.561569468696175,
+      "accuracy": 0.375,
+      "accuracy_norm": 0.625
+    },
+    {
+      "task": "hellaswag",
+      "policy": "shortened_ppl_plus",
+      "seed": null,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 4.3180364599921734,
+      "accuracy": 0.375,
+      "accuracy_norm": 0.125
+    },
+    {
+      "task": "hellaswag",
+      "policy": "shortened_ppl_plus",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 4.184041678310291,
+      "accuracy": 0.375,
+      "accuracy_norm": 0.25
+    },
+    {
+      "task": "hellaswag",
+      "policy": "shortened_ppl_plus",
+      "seed": null,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 5.078959402701314,
+      "accuracy": 0.375,
+      "accuracy_norm": 0.125
+    },
+    {
+      "task": "hellaswag",
+      "policy": "shortgpt_bi_opt",
+      "seed": null,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 4.783178585657209,
+      "accuracy": 0.375,
+      "accuracy_norm": 0.5
+    },
+    {
+      "task": "hellaswag",
+      "policy": "shortgpt_bi_opt",
+      "seed": null,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 5.104439469785051,
+      "accuracy": 0.375,
+      "accuracy_norm": 0.125
+    },
+    {
+      "task": "hellaswag",
+      "policy": "shortgpt_bi_opt",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 5.234560121993366,
+      "accuracy": 0.375,
+      "accuracy_norm": 0.25
+    },
+    {
+      "task": "hellaswag",
+      "policy": "shortgpt_bi_opt",
+      "seed": null,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 4.790946925417673,
+      "accuracy": 0.375,
+      "accuracy_norm": 0.375
+    },
+    {
+      "task": "hellaswag",
+      "policy": "sleb_nll_opt",
+      "seed": null,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.3296583220919829,
+      "accuracy": 0.375,
+      "accuracy_norm": 0.375
+    },
+    {
+      "task": "hellaswag",
+      "policy": "sleb_nll_opt",
+      "seed": null,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.7096089881223051,
+      "accuracy": 0.375,
+      "accuracy_norm": 0.375
+    },
+    {
+      "task": "hellaswag",
+      "policy": "sleb_nll_opt",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 1.2189907620258407,
+      "accuracy": 0.25,
+      "accuracy_norm": 0.25
+    },
+    {
+      "task": "hellaswag",
+      "policy": "sleb_nll_opt",
+      "seed": null,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 2.522485564272856,
+      "accuracy": 0.25,
+      "accuracy_norm": 0.25
+    },
+    {
+      "task": "hellaswag",
+      "policy": "static_joint_kl",
+      "seed": null,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.303217036769363,
+      "accuracy": 0.375,
+      "accuracy_norm": 0.375
+    },
+    {
+      "task": "hellaswag",
+      "policy": "static_joint_kl",
+      "seed": null,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.6563669628239158,
+      "accuracy": 0.25,
+      "accuracy_norm": 0.375
+    },
+    {
+      "task": "hellaswag",
+      "policy": "static_joint_kl",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 1.0818587786487481,
+      "accuracy": 0.5,
+      "accuracy_norm": 0.25
+    },
+    {
+      "task": "hellaswag",
+      "policy": "static_joint_kl",
+      "seed": null,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 2.2970234394743083,
+      "accuracy": 0.375,
+      "accuracy_norm": 0.25
+    },
+    {
+      "task": "hellaswag",
+      "policy": "static_refined_bank_train800",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 1.0752050088779648,
+      "accuracy": 0.25,
+      "accuracy_norm": 0.25
+    },
+    {
+      "task": "piqa",
+      "policy": "codebook8_train256_prompt",
+      "seed": 579,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 2,
+      "teacher_kl_per_token": 1.2707692745020434,
+      "accuracy": 0.875,
+      "accuracy_norm": 0.875
+    },
+    {
+      "task": "piqa",
+      "policy": "evopress_whole_opt",
+      "seed": 579,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.535803084413926,
+      "accuracy": 0.875,
+      "accuracy_norm": 0.875
+    },
+    {
+      "task": "piqa",
+      "policy": "evopress_whole_opt",
+      "seed": 579,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 1.2124781208603006,
+      "accuracy": 0.75,
+      "accuracy_norm": 0.875
+    },
+    {
+      "task": "piqa",
+      "policy": "evopress_whole_opt",
+      "seed": 579,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 2.551088258170025,
+      "accuracy": 0.5,
+      "accuracy_norm": 0.75
+    },
+    {
+      "task": "piqa",
+      "policy": "evopress_whole_opt",
+      "seed": 579,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 3.1602847239317327,
+      "accuracy": 0.75,
+      "accuracy_norm": 0.625
+    },
+    {
+      "task": "piqa",
+      "policy": "full",
+      "seed": null,
+      "k": 0,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.0,
+      "accuracy": 0.875,
+      "accuracy_norm": 0.875
+    },
+    {
+      "task": "piqa",
+      "policy": "m06",
+      "seed": 579,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 8,
+      "teacher_kl_per_token": 0.3064346122439342,
+      "accuracy": 0.875,
+      "accuracy_norm": 0.875
+    },
+    {
+      "task": "piqa",
+      "policy": "m06",
+      "seed": 579,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 8,
+      "teacher_kl_per_token": 0.7600686798527465,
+      "accuracy": 0.875,
+      "accuracy_norm": 0.875
+    },
+    {
+      "task": "piqa",
+      "policy": "m06",
+      "seed": 579,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 8,
+      "teacher_kl_per_token": 1.2798121381354959,
+      "accuracy": 0.875,
+      "accuracy_norm": 0.875
+    },
+    {
+      "task": "piqa",
+      "policy": "m06",
+      "seed": 579,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 8,
+      "teacher_kl_per_token": 2.6260470279861354,
+      "accuracy": 0.75,
+      "accuracy_norm": 0.75
+    },
+    {
+      "task": "piqa",
+      "policy": "random_static_seed579",
+      "seed": null,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.5427124514308993,
+      "accuracy": 0.875,
+      "accuracy_norm": 0.875
+    },
+    {
+      "task": "piqa",
+      "policy": "random_static_seed579",
+      "seed": null,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 1.007970551250714,
+      "accuracy": 0.75,
+      "accuracy_norm": 0.75
+    },
+    {
+      "task": "piqa",
+      "policy": "random_static_seed579",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 3.006932348425699,
+      "accuracy": 0.75,
+      "accuracy_norm": 0.625
+    },
+    {
+      "task": "piqa",
+      "policy": "random_static_seed579",
+      "seed": null,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 4.081345832248804,
+      "accuracy": 0.625,
+      "accuracy_norm": 0.75
+    },
+    {
+      "task": "piqa",
+      "policy": "shortened_ppl_opt",
+      "seed": null,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 5.111261226133626,
+      "accuracy": 0.5,
+      "accuracy_norm": 0.375
+    },
+    {
+      "task": "piqa",
+      "policy": "shortened_ppl_opt",
+      "seed": null,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 5.358456134135703,
+      "accuracy": 0.625,
+      "accuracy_norm": 0.25
+    },
+    {
+      "task": "piqa",
+      "policy": "shortened_ppl_opt",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 6.324904068024865,
+      "accuracy": 0.375,
+      "accuracy_norm": 0.25
+    },
+    {
+      "task": "piqa",
+      "policy": "shortened_ppl_opt",
+      "seed": null,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 5.279573991358115,
+      "accuracy": 0.5,
+      "accuracy_norm": 0.5
+    },
+    {
+      "task": "piqa",
+      "policy": "shortened_ppl_plus",
+      "seed": null,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 3.828507892312766,
+      "accuracy": 0.5,
+      "accuracy_norm": 0.375
+    },
+    {
+      "task": "piqa",
+      "policy": "shortened_ppl_plus",
+      "seed": null,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 4.408334256209165,
+      "accuracy": 0.5,
+      "accuracy_norm": 0.375
+    },
+    {
+      "task": "piqa",
+      "policy": "shortened_ppl_plus",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 4.46809738362595,
+      "accuracy": 0.5,
+      "accuracy_norm": 0.5
+    },
+    {
+      "task": "piqa",
+      "policy": "shortened_ppl_plus",
+      "seed": null,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 5.121219510186743,
+      "accuracy": 0.5,
+      "accuracy_norm": 0.5
+    },
+    {
+      "task": "piqa",
+      "policy": "shortgpt_bi_opt",
+      "seed": null,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 5.111261226133626,
+      "accuracy": 0.5,
+      "accuracy_norm": 0.375
+    },
+    {
+      "task": "piqa",
+      "policy": "shortgpt_bi_opt",
+      "seed": null,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 5.525720056404367,
+      "accuracy": 0.625,
+      "accuracy_norm": 0.375
+    },
+    {
+      "task": "piqa",
+      "policy": "shortgpt_bi_opt",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 5.297592457641855,
+      "accuracy": 0.375,
+      "accuracy_norm": 0.375
+    },
+    {
+      "task": "piqa",
+      "policy": "shortgpt_bi_opt",
+      "seed": null,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 4.872734615677281,
+      "accuracy": 0.5,
+      "accuracy_norm": 0.5
+    },
+    {
+      "task": "piqa",
+      "policy": "sleb_nll_opt",
+      "seed": null,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.34978308659911134,
+      "accuracy": 0.875,
+      "accuracy_norm": 0.875
+    },
+    {
+      "task": "piqa",
+      "policy": "sleb_nll_opt",
+      "seed": null,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.8271194616348129,
+      "accuracy": 0.875,
+      "accuracy_norm": 0.875
+    },
+    {
+      "task": "piqa",
+      "policy": "sleb_nll_opt",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 1.5884809915977336,
+      "accuracy": 0.875,
+      "accuracy_norm": 0.875
+    },
+    {
+      "task": "piqa",
+      "policy": "sleb_nll_opt",
+      "seed": null,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 2.6426202789403064,
+      "accuracy": 0.75,
+      "accuracy_norm": 0.75
+    },
+    {
+      "task": "piqa",
+      "policy": "static_joint_kl",
+      "seed": null,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.3058342517842474,
+      "accuracy": 0.75,
+      "accuracy_norm": 0.875
+    },
+    {
+      "task": "piqa",
+      "policy": "static_joint_kl",
+      "seed": null,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.6744933760546953,
+      "accuracy": 0.875,
+      "accuracy_norm": 0.75
+    },
+    {
+      "task": "piqa",
+      "policy": "static_joint_kl",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 1.2273089090295115,
+      "accuracy": 0.875,
+      "accuracy_norm": 0.875
+    },
+    {
+      "task": "piqa",
+      "policy": "static_joint_kl",
+      "seed": null,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 2.526424767010925,
+      "accuracy": 0.625,
+      "accuracy_norm": 0.5
+    },
+    {
+      "task": "piqa",
+      "policy": "static_refined_bank_train800",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 1.1990874477783398,
+      "accuracy": 0.875,
+      "accuracy_norm": 0.75
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "codebook8_train256_prompt",
+      "seed": 579,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 2,
+      "teacher_kl_per_token": 1.4800512879900036,
+      "nll_per_token": 3.716328840876102,
+      "conditional_ppl": 41.11318368028566
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "evopress_whole_opt",
+      "seed": 579,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.6820169514978337,
+      "nll_per_token": 3.0181588163050166,
+      "conditional_ppl": 20.453598163051407
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "evopress_whole_opt",
+      "seed": 579,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 1.6147500257079817,
+      "nll_per_token": 3.9356273842077294,
+      "conditional_ppl": 51.19425835267077
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "evopress_whole_opt",
+      "seed": 579,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 3.156487670062537,
+      "nll_per_token": 5.4306181120773545,
+      "conditional_ppl": 228.29031082066123
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "evopress_whole_opt",
+      "seed": 579,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 4.141222969505786,
+      "nll_per_token": 6.507930123069248,
+      "conditional_ppl": 670.4372577787522
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "full",
+      "seed": null,
+      "k": 0,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.0,
+      "nll_per_token": 2.3163059449297094,
+      "conditional_ppl": 10.138154148240796
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "m06",
+      "seed": 579,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 8,
+      "teacher_kl_per_token": 0.4612210314863887,
+      "nll_per_token": 2.7701796555450073,
+      "conditional_ppl": 15.961501324441407
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "m06",
+      "seed": 579,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 8,
+      "teacher_kl_per_token": 0.9227471725625188,
+      "nll_per_token": 3.2227785009180465,
+      "conditional_ppl": 25.097757535163986
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "m06",
+      "seed": 579,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 8,
+      "teacher_kl_per_token": 1.62525959819565,
+      "nll_per_token": 3.8885654240415115,
+      "conditional_ppl": 48.84077044726034
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "m06",
+      "seed": 579,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 8,
+      "teacher_kl_per_token": 3.5972027302024494,
+      "nll_per_token": 5.878323768385495,
+      "conditional_ppl": 357.20997294288003
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "random_static_seed579",
+      "seed": null,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.7297190138489972,
+      "nll_per_token": 2.9873593115913764,
+      "conditional_ppl": 19.833239873093596
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "random_static_seed579",
+      "seed": null,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 1.3140993751122398,
+      "nll_per_token": 3.6487555168915455,
+      "conditional_ppl": 38.42681475826797
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "random_static_seed579",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 4.093293984234758,
+      "nll_per_token": 6.424440887389058,
+      "conditional_ppl": 616.7358963096756
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "random_static_seed579",
+      "seed": null,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 5.196189993678672,
+      "nll_per_token": 7.527083101441804,
+      "conditional_ppl": 1857.6789320263315
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "shortened_ppl_opt",
+      "seed": null,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 6.722072061752745,
+      "nll_per_token": 8.950961309795579,
+      "conditional_ppl": 7715.305095694485
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "shortened_ppl_opt",
+      "seed": null,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 6.3424347617353005,
+      "nll_per_token": 8.56271251422974,
+      "conditional_ppl": 5232.856135596041
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "shortened_ppl_opt",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 6.946769609698094,
+      "nll_per_token": 9.2193745795909,
+      "conditional_ppl": 10090.751392370681
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "shortened_ppl_opt",
+      "seed": null,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 6.330016386656401,
+      "nll_per_token": 8.525465251179412,
+      "conditional_ppl": 5041.531838918111
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "shortened_ppl_plus",
+      "seed": null,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 5.605727099929936,
+      "nll_per_token": 7.833225610355536,
+      "conditional_ppl": 2523.0546530975676
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "shortened_ppl_plus",
+      "seed": null,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 5.988632199703716,
+      "nll_per_token": 8.254497960830728,
+      "conditional_ppl": 3844.881110173943
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "shortened_ppl_plus",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 5.839518828550354,
+      "nll_per_token": 8.098451800838424,
+      "conditional_ppl": 3289.3715288243266
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "shortened_ppl_plus",
+      "seed": null,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 6.171490987859822,
+      "nll_per_token": 8.356503418918388,
+      "conditional_ppl": 4257.781031444259
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "shortgpt_bi_opt",
+      "seed": null,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 6.722072061752745,
+      "nll_per_token": 8.950961309795579,
+      "conditional_ppl": 7715.305095694485
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "shortgpt_bi_opt",
+      "seed": null,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 6.3848429819724215,
+      "nll_per_token": 8.586498459432429,
+      "conditional_ppl": 5358.816671411342
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "shortgpt_bi_opt",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 6.606144585491468,
+      "nll_per_token": 8.839598274440505,
+      "conditional_ppl": 6902.219285424617
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "shortgpt_bi_opt",
+      "seed": null,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 6.835685075008466,
+      "nll_per_token": 9.042957109709581,
+      "conditional_ppl": 8458.753570973266
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "sleb_nll_opt",
+      "seed": null,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.5191229148954525,
+      "nll_per_token": 2.843959857502341,
+      "conditional_ppl": 17.183675898654858
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "sleb_nll_opt",
+      "seed": null,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 1.0268000041096457,
+      "nll_per_token": 3.3229028800334484,
+      "conditional_ppl": 27.740761893633913
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "sleb_nll_opt",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 1.653907312718843,
+      "nll_per_token": 3.9505810232928744,
+      "conditional_ppl": 51.96555126076456
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "sleb_nll_opt",
+      "seed": null,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 3.4305958679522823,
+      "nll_per_token": 5.777199329200509,
+      "conditional_ppl": 322.85371606622164
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "static_joint_kl",
+      "seed": null,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.43659374424655084,
+      "nll_per_token": 2.7293367352759126,
+      "conditional_ppl": 15.3227206287055
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "static_joint_kl",
+      "seed": null,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.9077787651553232,
+      "nll_per_token": 3.207490065423753,
+      "conditional_ppl": 24.716970325336092
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "static_joint_kl",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 1.5153945927827788,
+      "nll_per_token": 3.7680748712139995,
+      "conditional_ppl": 43.2966329586192
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "static_joint_kl",
+      "seed": null,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 3.5416876982374106,
+      "nll_per_token": 5.813400568543027,
+      "conditional_ppl": 334.7555515305746
+    },
+    {
+      "task": "wikitext_conditional",
+      "policy": "static_refined_bank_train800",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 1.4729061804810992,
+      "nll_per_token": 3.711478456492022,
+      "conditional_ppl": 40.91425177429778
+    },
+    {
+      "task": "winogrande",
+      "policy": "codebook8_train256_prompt",
+      "seed": 579,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 2,
+      "teacher_kl_per_token": 0.9435847965241583,
+      "accuracy": 0.75
+    },
+    {
+      "task": "winogrande",
+      "policy": "evopress_whole_opt",
+      "seed": 579,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.4013264255632681,
+      "accuracy": 0.625
+    },
+    {
+      "task": "winogrande",
+      "policy": "evopress_whole_opt",
+      "seed": 579,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.9541783868852589,
+      "accuracy": 0.625
+    },
+    {
+      "task": "winogrande",
+      "policy": "evopress_whole_opt",
+      "seed": 579,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 2.459252360794279,
+      "accuracy": 0.625
+    },
+    {
+      "task": "winogrande",
+      "policy": "evopress_whole_opt",
+      "seed": 579,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 2.437584222466857,
+      "accuracy": 0.375
+    },
+    {
+      "task": "winogrande",
+      "policy": "full",
+      "seed": null,
+      "k": 0,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.0,
+      "accuracy": 0.625
+    },
+    {
+      "task": "winogrande",
+      "policy": "m06",
+      "seed": 579,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 7,
+      "teacher_kl_per_token": 0.2982800729158852,
+      "accuracy": 0.75
+    },
+    {
+      "task": "winogrande",
+      "policy": "m06",
+      "seed": 579,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 8,
+      "teacher_kl_per_token": 0.6502810956013424,
+      "accuracy": 0.75
+    },
+    {
+      "task": "winogrande",
+      "policy": "m06",
+      "seed": 579,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 8,
+      "teacher_kl_per_token": 1.006312797708368,
+      "accuracy": 0.625
+    },
+    {
+      "task": "winogrande",
+      "policy": "m06",
+      "seed": 579,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 8,
+      "teacher_kl_per_token": 2.171911595458234,
+      "accuracy": 0.625
+    },
+    {
+      "task": "winogrande",
+      "policy": "random_static_seed579",
+      "seed": null,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.5053417744735876,
+      "accuracy": 0.375
+    },
+    {
+      "task": "winogrande",
+      "policy": "random_static_seed579",
+      "seed": null,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.9007118011790293,
+      "accuracy": 0.75
+    },
+    {
+      "task": "winogrande",
+      "policy": "random_static_seed579",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 2.121473412822794,
+      "accuracy": 0.625
+    },
+    {
+      "task": "winogrande",
+      "policy": "random_static_seed579",
+      "seed": null,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 3.279740820052447,
+      "accuracy": 0.75
+    },
+    {
+      "task": "winogrande",
+      "policy": "shortened_ppl_opt",
+      "seed": null,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 3.5471776878392256,
+      "accuracy": 0.25
+    },
+    {
+      "task": "winogrande",
+      "policy": "shortened_ppl_opt",
+      "seed": null,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 5.289928367844334,
+      "accuracy": 0.25
+    },
+    {
+      "task": "winogrande",
+      "policy": "shortened_ppl_opt",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 4.769449794733966,
+      "accuracy": 0.75
+    },
+    {
+      "task": "winogrande",
+      "policy": "shortened_ppl_opt",
+      "seed": null,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 4.901176888633658,
+      "accuracy": 0.75
+    },
+    {
+      "task": "winogrande",
+      "policy": "shortened_ppl_plus",
+      "seed": null,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 2.525938914329917,
+      "accuracy": 0.625
+    },
+    {
+      "task": "winogrande",
+      "policy": "shortened_ppl_plus",
+      "seed": null,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 3.0901663921497486,
+      "accuracy": 0.75
+    },
+    {
+      "task": "winogrande",
+      "policy": "shortened_ppl_plus",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 3.4837957002498485,
+      "accuracy": 0.5
+    },
+    {
+      "task": "winogrande",
+      "policy": "shortened_ppl_plus",
+      "seed": null,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 4.540144823215626,
+      "accuracy": 0.75
+    },
+    {
+      "task": "winogrande",
+      "policy": "shortgpt_bi_opt",
+      "seed": null,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 3.5471776878392256,
+      "accuracy": 0.25
+    },
+    {
+      "task": "winogrande",
+      "policy": "shortgpt_bi_opt",
+      "seed": null,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 5.160127502900583,
+      "accuracy": 0.5
+    },
+    {
+      "task": "winogrande",
+      "policy": "shortgpt_bi_opt",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 4.555791373606081,
+      "accuracy": 0.375
+    },
+    {
+      "task": "winogrande",
+      "policy": "shortgpt_bi_opt",
+      "seed": null,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 3.908055016288051,
+      "accuracy": 0.75
+    },
+    {
+      "task": "winogrande",
+      "policy": "sleb_nll_opt",
+      "seed": null,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.30912429046023776,
+      "accuracy": 0.75
+    },
+    {
+      "task": "winogrande",
+      "policy": "sleb_nll_opt",
+      "seed": null,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.7343207445961458,
+      "accuracy": 0.625
+    },
+    {
+      "task": "winogrande",
+      "policy": "sleb_nll_opt",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 1.0028216005475432,
+      "accuracy": 0.625
+    },
+    {
+      "task": "winogrande",
+      "policy": "sleb_nll_opt",
+      "seed": null,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 2.038210061689218,
+      "accuracy": 0.625
+    },
+    {
+      "task": "winogrande",
+      "policy": "static_joint_kl",
+      "seed": null,
+      "k": 12,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.31146820486281757,
+      "accuracy": 0.75
+    },
+    {
+      "task": "winogrande",
+      "policy": "static_joint_kl",
+      "seed": null,
+      "k": 16,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.708883353681476,
+      "accuracy": 0.75
+    },
+    {
+      "task": "winogrande",
+      "policy": "static_joint_kl",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 1.0736818379826016,
+      "accuracy": 0.625
+    },
+    {
+      "task": "winogrande",
+      "policy": "static_joint_kl",
+      "seed": null,
+      "k": 24,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 2.306152508628589,
+      "accuracy": 0.75
+    },
+    {
+      "task": "winogrande",
+      "policy": "static_refined_bank_train800",
+      "seed": null,
+      "k": 20,
+      "records": 8,
+      "unique_masks": 1,
+      "teacher_kl_per_token": 0.9988628560332237,
+      "accuracy": 0.75
+    }
+  ],
+  "paired_comparisons": [
+    {
+      "task": "hellaswag",
+      "k": 12,
+      "dynamic": "m06",
+      "baseline": "evopress_whole_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 12,
+      "dynamic": "m06",
+      "baseline": "sleb_nll_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.125,
+        "ci95": [
+          0.0,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 12,
+      "dynamic": "m06",
+      "baseline": "shortgpt_bi_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          -0.5,
+          0.5
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.25
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 12,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          -0.5,
+          0.5
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.25
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 12,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_plus",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": -0.125,
+        "ci95": [
+          -0.625,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.25
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 12,
+      "dynamic": "m06",
+      "baseline": "static_joint_kl",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.125,
+        "ci95": [
+          0.0,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 16,
+      "dynamic": "m06",
+      "baseline": "evopress_whole_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 16,
+      "dynamic": "m06",
+      "baseline": "sleb_nll_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": -0.125,
+        "ci95": [
+          -0.375,
+          0.0
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 16,
+      "dynamic": "m06",
+      "baseline": "shortgpt_bi_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.125,
+        "ci95": [
+          0.0,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 16,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.125,
+        "ci95": [
+          0.0,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 16,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_plus",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.125,
+        "ci95": [
+          0.0,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 16,
+      "dynamic": "m06",
+      "baseline": "static_joint_kl",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": -0.125,
+        "ci95": [
+          -0.375,
+          0.0
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "evopress_whole_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.125,
+        "ci95": [
+          -0.25,
+          0.5
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.25
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "sleb_nll_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "shortgpt_bi_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          -0.375,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          -0.375,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_plus",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          -0.375,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "static_joint_kl",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          -0.375,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "static_refined_bank_train800",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          -0.375,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "evopress_whole_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.125,
+        "ci95": [
+          -0.25,
+          0.5
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.25
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "sleb_nll_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "shortgpt_bi_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          -0.375,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "shortened_ppl_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          -0.375,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "shortened_ppl_plus",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          -0.375,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "static_joint_kl",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          -0.375,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "static_refined_bank_train800",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          -0.375,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 24,
+      "dynamic": "m06",
+      "baseline": "evopress_whole_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.125,
+        "ci95": [
+          -0.25,
+          0.5
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.25
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 24,
+      "dynamic": "m06",
+      "baseline": "sleb_nll_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.125,
+        "ci95": [
+          0.0,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 24,
+      "dynamic": "m06",
+      "baseline": "shortgpt_bi_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          -0.375,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 24,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.25,
+        "ci95": [
+          0.0,
+          0.625
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.25
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 24,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_plus",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.25,
+        "ci95": [
+          0.0,
+          0.625
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.25
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "hellaswag",
+      "k": 24,
+      "dynamic": "m06",
+      "baseline": "static_joint_kl",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.125,
+        "ci95": [
+          0.0,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 12,
+      "dynamic": "m06",
+      "baseline": "evopress_whole_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 12,
+      "dynamic": "m06",
+      "baseline": "sleb_nll_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 12,
+      "dynamic": "m06",
+      "baseline": "shortgpt_bi_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.5,
+        "ci95": [
+          0.125,
+          0.875
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.5
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 12,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.5,
+        "ci95": [
+          0.125,
+          0.875
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.5
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 12,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_plus",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.5,
+        "ci95": [
+          0.125,
+          0.875
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.5
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 12,
+      "dynamic": "m06",
+      "baseline": "static_joint_kl",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 16,
+      "dynamic": "m06",
+      "baseline": "evopress_whole_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 16,
+      "dynamic": "m06",
+      "baseline": "sleb_nll_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 16,
+      "dynamic": "m06",
+      "baseline": "shortgpt_bi_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.5,
+        "ci95": [
+          0.125,
+          0.875
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.5
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 16,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.625,
+        "ci95": [
+          0.25,
+          1.0
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.625
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 16,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_plus",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.5,
+        "ci95": [
+          0.125,
+          0.875
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.5
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 16,
+      "dynamic": "m06",
+      "baseline": "static_joint_kl",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.125,
+        "ci95": [
+          0.0,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "evopress_whole_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.125,
+        "ci95": [
+          0.0,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "sleb_nll_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "shortgpt_bi_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.5,
+        "ci95": [
+          0.125,
+          0.875
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.5
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.625,
+        "ci95": [
+          0.25,
+          0.875
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.625
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_plus",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.375,
+        "ci95": [
+          0.0,
+          0.75
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.375
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "static_joint_kl",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "static_refined_bank_train800",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.125,
+        "ci95": [
+          0.0,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "evopress_whole_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.125,
+        "ci95": [
+          0.0,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "sleb_nll_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "shortgpt_bi_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.5,
+        "ci95": [
+          0.125,
+          0.875
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.5
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "shortened_ppl_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.625,
+        "ci95": [
+          0.25,
+          0.875
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.625
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "shortened_ppl_plus",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.375,
+        "ci95": [
+          0.0,
+          0.75
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.375
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "static_joint_kl",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "static_refined_bank_train800",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.125,
+        "ci95": [
+          0.0,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 24,
+      "dynamic": "m06",
+      "baseline": "evopress_whole_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.125,
+        "ci95": [
+          0.0,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 24,
+      "dynamic": "m06",
+      "baseline": "sleb_nll_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 24,
+      "dynamic": "m06",
+      "baseline": "shortgpt_bi_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.25,
+        "ci95": [
+          0.0,
+          0.625
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.25
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 24,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_opt",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.25,
+        "ci95": [
+          0.0,
+          0.625
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.25
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 24,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_plus",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.25,
+        "ci95": [
+          0.0,
+          0.625
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.25
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "piqa",
+      "k": 24,
+      "dynamic": "m06",
+      "baseline": "static_joint_kl",
+      "metric": "correct_norm",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.25,
+        "ci95": [
+          0.0,
+          0.5
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.25
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 12,
+      "dynamic": "m06",
+      "baseline": "evopress_whole_opt",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -0.24797916076000903,
+        "ci95": [
+          -0.3313243945193717,
+          -0.1651954573532326
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 12,
+      "dynamic": "m06",
+      "baseline": "sleb_nll_opt",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -0.07378020195733365,
+        "ci95": [
+          -0.12775901001223283,
+          -0.02739729764585354
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 12,
+      "dynamic": "m06",
+      "baseline": "shortgpt_bi_opt",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -6.180781654250571,
+        "ci95": [
+          -6.434886932912668,
+          -5.902884268995707
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 12,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_opt",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -6.180781654250571,
+        "ci95": [
+          -6.434886932912668,
+          -5.902884268995707
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 12,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_plus",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -5.063045954810528,
+        "ci95": [
+          -5.3252006572499395,
+          -4.808147143765401
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 12,
+      "dynamic": "m06",
+      "baseline": "static_joint_kl",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.04084292026909486,
+        "ci95": [
+          0.003956899199910935,
+          0.0804614851416494
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.75
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 16,
+      "dynamic": "m06",
+      "baseline": "evopress_whole_opt",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -0.712848883289683,
+        "ci95": [
+          -0.7781095536300262,
+          -0.6298370309890465
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 16,
+      "dynamic": "m06",
+      "baseline": "sleb_nll_opt",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -0.10012437911540206,
+        "ci95": [
+          -0.1517114610153918,
+          -0.05334762191857614
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 16,
+      "dynamic": "m06",
+      "baseline": "shortgpt_bi_opt",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -5.363719958514383,
+        "ci95": [
+          -5.603932209299817,
+          -5.075514586023616
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 16,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_opt",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -5.339934013311693,
+        "ci95": [
+          -5.568713254091628,
+          -5.062336469048807
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 16,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_plus",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -5.031719459912681,
+        "ci95": [
+          -5.271505559142627,
+          -4.758127294363459
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 16,
+      "dynamic": "m06",
+      "baseline": "static_joint_kl",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.015288435494293595,
+        "ci95": [
+          -0.015405543361883068,
+          0.05863524089011256
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.5
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "evopress_whole_opt",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -1.5420526880358427,
+        "ci95": [
+          -1.7087749601050954,
+          -1.3763043971087545
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "sleb_nll_opt",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -0.062015599251362574,
+        "ci95": [
+          -0.16141812004423217,
+          0.025517635460492634
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.375
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "shortgpt_bi_opt",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -4.951032850398993,
+        "ci95": [
+          -5.142935315733054,
+          -4.72692815016796
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_opt",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -5.330809155549389,
+        "ci95": [
+          -5.524018567018508,
+          -5.111175822260688
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_plus",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -4.209886376796911,
+        "ci95": [
+          -4.404170837134777,
+          -3.9932990974053877
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "static_joint_kl",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.12049055282751203,
+        "ci95": [
+          0.05781465381142033,
+          0.18369335131321118
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.75
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "static_refined_bank_train800",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.17708696754948994,
+        "ci95": [
+          0.12216810941179584,
+          0.24233852760368582
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 1.0
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "evopress_whole_opt",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -1.7142892712012525,
+        "ci95": [
+          -1.8930488529195078,
+          -1.5386481585632363
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "sleb_nll_opt",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -0.23425218241677243,
+        "ci95": [
+          -0.3032624902503703,
+          -0.179554093653358
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "shortgpt_bi_opt",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -5.123269433564403,
+        "ci95": [
+          -5.3526821882043825,
+          -4.876651352828834
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "shortened_ppl_opt",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -5.503045738714799,
+        "ci95": [
+          -5.736296995813829,
+          -5.255094346601326
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "shortened_ppl_plus",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -4.382122959962322,
+        "ci95": [
+          -4.623905162760162,
+          -4.140548025821931
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "static_joint_kl",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -0.05174603033789782,
+        "ci95": [
+          -0.09400708362641093,
+          -0.007770543906965055
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.25
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "static_refined_bank_train800",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.004850384384080086,
+        "ci95": [
+          0.0,
+          0.01455115315224026
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 24,
+      "dynamic": "m06",
+      "baseline": "evopress_whole_opt",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -0.6296063546837541,
+        "ci95": [
+          -0.8009605586043976,
+          -0.44286247270041273
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 24,
+      "dynamic": "m06",
+      "baseline": "sleb_nll_opt",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.1011244391849857,
+        "ci95": [
+          -0.12781925304598107,
+          0.29569861988876844
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.75
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 24,
+      "dynamic": "m06",
+      "baseline": "shortgpt_bi_opt",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -3.1646333413240866,
+        "ci95": [
+          -3.4321724233573323,
+          -2.8708202119771045
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 24,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_opt",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -2.6471414827939173,
+        "ci95": [
+          -2.8644963034415944,
+          -2.4042357183944905
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 24,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_plus",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": -2.478179650532894,
+        "ci95": [
+          -2.7058228279537397,
+          -2.226581258365939
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "wikitext_conditional",
+      "k": 24,
+      "dynamic": "m06",
+      "baseline": "static_joint_kl",
+      "metric": "document_window_mean_nll",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0649231998424682,
+        "ci95": [
+          -0.12847233045054418,
+          0.2680261377682004
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.625
+      },
+      "direction": "lower_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 12,
+      "dynamic": "m06",
+      "baseline": "evopress_whole_opt",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.125,
+        "ci95": [
+          0.0,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 12,
+      "dynamic": "m06",
+      "baseline": "sleb_nll_opt",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          -0.5,
+          0.5
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.25
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 12,
+      "dynamic": "m06",
+      "baseline": "shortgpt_bi_opt",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.5,
+        "ci95": [
+          0.125,
+          0.875
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.5
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 12,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_opt",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.5,
+        "ci95": [
+          0.125,
+          0.875
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.5
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 12,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_plus",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.125,
+        "ci95": [
+          -0.375,
+          0.625
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.375
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 12,
+      "dynamic": "m06",
+      "baseline": "static_joint_kl",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 16,
+      "dynamic": "m06",
+      "baseline": "evopress_whole_opt",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.125,
+        "ci95": [
+          -0.5,
+          0.625
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.375
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 16,
+      "dynamic": "m06",
+      "baseline": "sleb_nll_opt",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.125,
+        "ci95": [
+          0.0,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 16,
+      "dynamic": "m06",
+      "baseline": "shortgpt_bi_opt",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.25,
+        "ci95": [
+          -0.375,
+          0.75
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.5
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 16,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_opt",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.5,
+        "ci95": [
+          -0.25,
+          1.0
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.75
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 16,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_plus",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          -0.375,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 16,
+      "dynamic": "m06",
+      "baseline": "static_joint_kl",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          -0.375,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "evopress_whole_opt",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          -0.625,
+          0.625
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.375
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "sleb_nll_opt",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          -0.375,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "shortgpt_bi_opt",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.25,
+        "ci95": [
+          -0.2531249999999998,
+          0.75
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.5
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_opt",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": -0.125,
+        "ci95": [
+          -0.5,
+          0.25
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_plus",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.125,
+        "ci95": [
+          -0.375,
+          0.625
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.375
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "static_joint_kl",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          -0.375,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 20,
+      "dynamic": "m06",
+      "baseline": "static_refined_bank_train800",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": -0.125,
+        "ci95": [
+          -0.375,
+          0.0
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "evopress_whole_opt",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.125,
+        "ci95": [
+          -0.375,
+          0.625
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.375
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "sleb_nll_opt",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.125,
+        "ci95": [
+          0.0,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "shortgpt_bi_opt",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.375,
+        "ci95": [
+          -0.125,
+          0.875
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.5
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "shortened_ppl_opt",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          -0.375,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "shortened_ppl_plus",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.25,
+        "ci95": [
+          -0.25,
+          0.75
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.375
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "static_joint_kl",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.125,
+        "ci95": [
+          0.0,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 20,
+      "dynamic": "codebook8_train256_prompt",
+      "baseline": "static_refined_bank_train800",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.0
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 24,
+      "dynamic": "m06",
+      "baseline": "evopress_whole_opt",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.25,
+        "ci95": [
+          -0.25,
+          0.628124999999983
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.375
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 24,
+      "dynamic": "m06",
+      "baseline": "sleb_nll_opt",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": 0.0,
+        "ci95": [
+          -0.5,
+          0.5
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.25
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 24,
+      "dynamic": "m06",
+      "baseline": "shortgpt_bi_opt",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": -0.125,
+        "ci95": [
+          -0.625,
+          0.375
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.25
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 24,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_opt",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": -0.125,
+        "ci95": [
+          -0.5,
+          0.25
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 24,
+      "dynamic": "m06",
+      "baseline": "shortened_ppl_plus",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": -0.125,
+        "ci95": [
+          -0.5,
+          0.25
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    },
+    {
+      "task": "winogrande",
+      "k": 24,
+      "dynamic": "m06",
+      "baseline": "static_joint_kl",
+      "metric": "correct",
+      "difference_dynamic_minus_baseline": {
+        "difference": -0.125,
+        "ci95": [
+          -0.5,
+          0.25
+        ],
+        "records": 8,
+        "clusters": 8,
+        "fraction_positive": 0.125
+      },
+      "direction": "higher_is_better"
+    }
+  ],
+  "verified_unique_rows": 1120,
+  "input_records": 32,
+  "probe": true,
+  "statistics": "Mean across independent model/search seeds per input, not an ensemble. Paired2000 bootstrap; Wiki clusters articles. Unadjusted intervals."
+}

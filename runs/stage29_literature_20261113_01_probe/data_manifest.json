@@ -1,0 +1,17 @@
+{
+  "task_records": {
+    "piqa": 8,
+    "hellaswag": 8,
+    "winogrande": 8,
+    "wikitext_conditional": 8
+  },
+  "dataset_sha256": {
+    "piqa": "6e14731c78016adc6a5738d661111f5cb4c6bce461c454561eb66be4abc39222",
+    "hellaswag": "fdd100245fae28e387869527dd0b8af1a0a931f7cf364abaf6f3138de7f0d27b",
+    "winogrande": "992af8404b202ada4356228ed2ebb27f10495126efdf78678ced33e94e82b830",
+    "wikitext_conditional": "2b8a3efac7b468cbe6432edba5f55c21e435d93873acc6727431f08d5ed328ea"
+  },
+  "private_inputs_sha256": "9c7eb0ed35e1e29cd06fd9dc880638a443accfca3bbfdddf19c2f3e50abab5a7",
+  "observation": "Complete actual answer-blind prompt; Wino preblank only; Wiki fixed128 context and up to384 future scored tokens.",
+  "evaluation_scope": "Previously reviewed benchmark populations, not a new untouched final test. Wiki conditional PPL is not standard rolling PPL."
+}

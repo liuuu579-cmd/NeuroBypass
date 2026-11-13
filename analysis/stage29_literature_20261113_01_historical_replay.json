@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "historical_rows_replayed": 480,
+  "max_abs_loglikelihood_error": 0.0,
+  "document_hashes_routes_observation_and_targets_match": true,
+  "pilot": "/home/liushenyu/test/NeuroBypass/runs/stage29_literature_20261113_01_probe",
+  "historical": "/home/liushenyu/test/NeuroBypass/runs/stage13_full_context_20261110_02_horizontal"
+}
