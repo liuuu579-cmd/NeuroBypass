@@ -1,0 +1,432 @@
+{
+  "output": "/home/liushenyu/test/NeuroBypass/runs/stage30_stage7_evopress_20261114_01_main",
+  "probe": false,
+  "model": "/home/liushenyu/opt-13b",
+  "budgets": [
+    12,
+    16
+  ],
+  "policies": [
+    {
+      "name": "full",
+      "kind": "static",
+      "k": 0,
+      "skips": [],
+      "seed": null
+    },
+    {
+      "name": "static_joint_kl",
+      "kind": "static",
+      "k": 12,
+      "skips": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7,
+        24,
+        37,
+        15,
+        29,
+        22,
+        34
+      ],
+      "seed": null
+    },
+    {
+      "name": "pure",
+      "kind": "router",
+      "seed": 579,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed579_epoch020.pth",
+        "sha256": "efe32a111d7236d66df44cab2a1628c71f4be87d15a20f223d6fac59c3d19042",
+        "epoch": 20,
+        "selection_continuation_kl": 0.4075836921110749
+      },
+      "prefix": []
+    },
+    {
+      "name": "pure",
+      "kind": "router",
+      "seed": 580,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed580_epoch016.pth",
+        "sha256": "f731739754e48dc5d67ad7917e90fea9737f006c8604d8673f0fbf0bbe065247",
+        "epoch": 16,
+        "selection_continuation_kl": 0.4036958469077945
+      },
+      "prefix": []
+    },
+    {
+      "name": "pure",
+      "kind": "router",
+      "seed": 581,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed581_epoch020.pth",
+        "sha256": "bd6cf2cf2f53661cc10091085cf2f7078f0d672b03f9e8cd3fcb6df46cbbd789",
+        "epoch": 20,
+        "selection_continuation_kl": 0.4205618528649211
+      },
+      "prefix": []
+    },
+    {
+      "name": "hybrid",
+      "kind": "router",
+      "seed": 579,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed579_epoch012.pth",
+        "sha256": "ea97363069c27596b1a63c24fdc766c3963dcf100e76d76029eeda3eaa36eec6",
+        "epoch": 12,
+        "selection_continuation_kl": 0.3742779162712395
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ]
+    },
+    {
+      "name": "hybrid",
+      "kind": "router",
+      "seed": 580,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed580_epoch008.pth",
+        "sha256": "574da1cfaa42d88bd09c29909d7ea23c5cdf5e6de26919dcb8e7cc0e5fbe34c2",
+        "epoch": 8,
+        "selection_continuation_kl": 0.3573951153084636
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ]
+    },
+    {
+      "name": "hybrid",
+      "kind": "router",
+      "seed": 581,
+      "k": 12,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed581_epoch020.pth",
+        "sha256": "b4ad06ab1e7464bdf119a9b3ad798cf700ae0f2ca9422b19c60035ad10600148",
+        "epoch": 20,
+        "selection_continuation_kl": 0.36302921269088984
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ]
+    },
+    {
+      "name": "static_joint_kl",
+      "kind": "static",
+      "k": 16,
+      "skips": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7,
+        24,
+        37,
+        15,
+        29,
+        22,
+        34,
+        27,
+        20,
+        32,
+        39
+      ],
+      "seed": null
+    },
+    {
+      "name": "pure",
+      "kind": "router",
+      "seed": 579,
+      "k": 16,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed579_epoch020.pth",
+        "sha256": "efe32a111d7236d66df44cab2a1628c71f4be87d15a20f223d6fac59c3d19042",
+        "epoch": 20,
+        "selection_continuation_kl": 0.8534885393455625
+      },
+      "prefix": []
+    },
+    {
+      "name": "pure",
+      "kind": "router",
+      "seed": 580,
+      "k": 16,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed580_epoch024.pth",
+        "sha256": "ad2aba15dde25e22645e7b4d78cc7db69d05b23aa2f128ccb08a2356f485eacd",
+        "epoch": 24,
+        "selection_continuation_kl": 0.8191090989857912
+      },
+      "prefix": []
+    },
+    {
+      "name": "pure",
+      "kind": "router",
+      "seed": 581,
+      "k": 16,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_pure_seed581_epoch008.pth",
+        "sha256": "b6ade0933d530ee4d6cb7fa03b216975983b6bc4d1ee272b090d71953897ea63",
+        "epoch": 8,
+        "selection_continuation_kl": 0.832476893439889
+      },
+      "prefix": []
+    },
+    {
+      "name": "hybrid",
+      "kind": "router",
+      "seed": 579,
+      "k": 16,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed579_epoch008.pth",
+        "sha256": "83fd4328b5ed0458412ec37d570ad6224eb1d6ad8f46611bc393556406f92432",
+        "epoch": 8,
+        "selection_continuation_kl": 0.7779956571757793
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ]
+    },
+    {
+      "name": "hybrid",
+      "kind": "router",
+      "seed": 580,
+      "k": 16,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed580_epoch012.pth",
+        "sha256": "afd7f21b6fb2bcbb5f556e17b1d475c09cc1f3fac1f7c9e3d49d7a0199283ddb",
+        "epoch": 12,
+        "selection_continuation_kl": 0.7440258599817753
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ]
+    },
+    {
+      "name": "hybrid",
+      "kind": "router",
+      "seed": 581,
+      "k": 16,
+      "checkpoint": {
+        "path": "/home/liushenyu/test/NeuroBypass/runs/stage6_depth_train_main_20261107_01/private_hybrid_seed581_epoch008.pth",
+        "sha256": "bbef8094a1476d82fc1e42da00d23d427410b329da3c92fbe4b5bb83ed8c2b11",
+        "epoch": 8,
+        "selection_continuation_kl": 0.7707424322143197
+      },
+      "prefix": [
+        4,
+        9,
+        2,
+        12,
+        17,
+        7
+      ]
+    },
+    {
+      "name": "evopress_whole_opt",
+      "kind": "static",
+      "k": 12,
+      "seed": 579,
+      "skips": [
+        2,
+        5,
+        6,
+        8,
+        11,
+        15,
+        18,
+        22,
+        24,
+        29,
+        34,
+        37
+      ],
+      "source": "/home/liushenyu/test/NeuroBypass/runs/stage29_literature_20261113_01_main/evopress_k12_s579.json",
+      "source_sha256": "4792ffa46c2f4ee0a6e3bcbcb463868a809a2c54d87538184a54e2c02d365524"
+    },
+    {
+      "name": "evopress_whole_opt",
+      "kind": "static",
+      "k": 12,
+      "seed": 580,
+      "skips": [
+        2,
+        4,
+        7,
+        8,
+        11,
+        14,
+        17,
+        22,
+        24,
+        31,
+        36,
+        37
+      ],
+      "source": "/home/liushenyu/test/NeuroBypass/runs/stage29_literature_20261113_01_main/evopress_k12_s580.json",
+      "source_sha256": "014ddb42aeb1d0d43ac7fba4244200fe91938779ee16f8fbf7958360d07acad8"
+    },
+    {
+      "name": "evopress_whole_opt",
+      "kind": "static",
+      "k": 12,
+      "seed": 581,
+      "skips": [
+        2,
+        5,
+        8,
+        9,
+        11,
+        14,
+        17,
+        23,
+        25,
+        32,
+        34,
+        37
+      ],
+      "source": "/home/liushenyu/test/NeuroBypass/runs/stage29_literature_20261113_01_main/evopress_k12_s581.json",
+      "source_sha256": "7f3dd787a7b605cd133c6c139bbe77597918443c8229b855baf46c72d73b2c67"
+    },
+    {
+      "name": "evopress_whole_opt",
+      "kind": "static",
+      "k": 16,
+      "seed": 579,
+      "skips": [
+        2,
+        4,
+        5,
+        9,
+        11,
+        14,
+        17,
+        20,
+        22,
+        27,
+        28,
+        31,
+        33,
+        35,
+        37,
+        39
+      ],
+      "source": "/home/liushenyu/test/NeuroBypass/runs/stage29_literature_20261113_01_main/evopress_k16_s579.json",
+      "source_sha256": "f0f6cf79a4289934dabb78b2a35ff780978b2c706bc6e47810a82224fbf4bdb6"
+    },
+    {
+      "name": "evopress_whole_opt",
+      "kind": "static",
+      "k": 16,
+      "seed": 580,
+      "skips": [
+        2,
+        4,
+        5,
+        9,
+        11,
+        14,
+        17,
+        20,
+        24,
+        25,
+        27,
+        29,
+        33,
+        35,
+        37,
+        39
+      ],
+      "source": "/home/liushenyu/test/NeuroBypass/runs/stage29_literature_20261113_01_main/evopress_k16_s580.json",
+      "source_sha256": "fdde56a7f8c97b3129f9a797d7ebf314725d2f8d67dd43b2f451aaccb4be6fbf"
+    },
+    {
+      "name": "evopress_whole_opt",
+      "kind": "static",
+      "k": 16,
+      "seed": 581,
+      "skips": [
+        2,
+        5,
+        6,
+        9,
+        11,
+        14,
+        17,
+        20,
+        24,
+        25,
+        27,
+        29,
+        32,
+        34,
+        37,
+        39
+      ],
+      "source": "/home/liushenyu/test/NeuroBypass/runs/stage29_literature_20261113_01_main/evopress_k16_s581.json",
+      "source_sha256": "e32bdf46c06d6399b237f7bf9768dad746dd95563481be6bd7b84c8bed33dbbf"
+    }
+  ],
+  "fixed_prefix": [
+    4,
+    9,
+    2,
+    12,
+    17,
+    7
+  ],
+  "source_sha256": {
+    "/home/liushenyu/test/NeuroBypass/tools/compare_stage7_evopress_three_gpu_v1.py": "c309c2d46d1e40799b6c8fa230e1669ea285f8bc654cf6eebe79c6b2126d7b4a",
+    "/home/liushenyu/test/NeuroBypass/tools/prompt_depth_core_v1.py": "6cd8be69951bcf7173a677e1417bfc0e6dd35707b48801e4ff6d28b8661ba304",
+    "/home/liushenyu/test/NeuroBypass/tools/prompt_fixed_core_v1.py": "b733338d20f9f52599b7c7c7ca76c6e0450dfc25ef38c50d7c51fbb689287f5e",
+    "/home/liushenyu/test/NeuroBypass/tools/horizontal_quality_v3.py": "837159ca5b4875a71a6ee1ab05bf1cd5946f2c78a212ccca6bf964e93f6775ff",
+    "/home/liushenyu/test/NeuroBypass/tools/horizontal_data_v1.py": "8bbb90678a23199ee70e89578df8e50b81dc1063b4e993ac6a8179979589213b"
+  },
+  "stage7_protocol_sha256": "c55f6addb2d3986b3979f11d439d28d316e8147b589fb649e966f1e72cc6ea6a",
+  "evopress_protocol_sha256": "b4a6dd3e876aa58e344233e9e929b6031cd67b96a97cc127b105cabde40dae7c",
+  "private_inputs_sha256": "f2b6a340ca2aef766ffa6392d6fed0a4c88d83deca399435fdc34b81e6c31ed0",
+  "selection": "Exact frozen Stage7 pure/hybrid perK checkpoints,3seeds. Same-K frozen Stage29 EvoPress masks,3seeds. No new model selection.",
+  "observation": "MC common question prefix only: BOS+first127 text tokens, variable short length without padding. WinoGrande uses only text before blank, no option or scored suffix. Wiki observes first128tokens of localwindow.",
+  "scoring": "FP16 OPT SDPA, batch1, use_cache=False, genuine layer bypass; full-sequence LM head GEMM then target slicing and FP64 loss reduction; teacher forcing. Explicit BOS, max input2048, char normalized acc as pinned task recipe.",
+  "resources": "3 idle GPUs0/1/2,32CPU; workers10 each/controller2. GPU3 excluded because busy.",
+  "limitations": [
+    "Stage7 is the historical128-observation model, not full-context retraining, not codebook routing.",
+    "Both old and new source task populations have been reviewed. Small subset cannot establish noninferiority or general superiority.",
+    "EvoPress64generation OPT adaptation with variable-length TRAIN calibration; old router was trained on128-token prompt records. Not equal calibration/training cost.",
+    "Only overlapping K12/16, no new K10 search. No recovery, timing or peak-memory claims."
+  ]
+}

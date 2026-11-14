@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "rows": {
+    "stage7": 3360,
+    "stage29_evopress": 1344
+  },
+  "max_abs_score_error": {
+    "stage7": 0.0,
+    "stage29_evopress": 0.0
+  },
+  "tolerance": 0.0002,
+  "all_routes_observations_predictions_match": true
+}

@@ -1,0 +1,34 @@
+{
+  "seed": 300579,
+  "label_blind_sampling": true,
+  "task_counts": {
+    "hellaswag": 64,
+    "piqa": 64,
+    "wikitext_conditional": 32,
+    "winogrande": 64
+  },
+  "wiki_sampling": "Uniform32 articles then one random window per article; paired article sampling, no contiguous-window overcount.",
+  "private_inputs_sha256": "f2b6a340ca2aef766ffa6392d6fed0a4c88d83deca399435fdc34b81e6c31ed0",
+  "stage7_input_sha256": "d61ff817887545ac9b72e78e93b7c4a03bb24500cf13a0beba9f4bb017820347",
+  "stage29_input_sha256": "e95a6c49cc1e46f0fce19d49590bd460ec33f4a5ed5facadebe9c568be23d0e5",
+  "exact_shared_inputs": true,
+  "router_tokens": {
+    "hellaswag": {
+      "min": 17,
+      "max": 91
+    },
+    "piqa": {
+      "min": 7,
+      "max": 33
+    },
+    "wikitext_conditional": {
+      "min": 128,
+      "max": 128
+    },
+    "winogrande": {
+      "min": 7,
+      "max": 27
+    }
+  },
+  "scope": "Random subset of previously reviewed task populations, exploratory; no new final test, no training or policy selection."
+}

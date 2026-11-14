@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "all_quality_rows": 4704,
+  "unique_complete_coverage": true,
+  "historical_router_routes_and_predictions_replayed": true,
+  "evopress_scores_replayed": true,
+  "no_new_training_or_search": true,
+  "shared_exact_inputs": true,
+  "old_128_observation_preserved": true
+}

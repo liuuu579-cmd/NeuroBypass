@@ -1,0 +1,18 @@
+{
+  "private_inputs.jsonl": {
+    "sha256": "f2b6a340ca2aef766ffa6392d6fed0a4c88d83deca399435fdc34b81e6c31ed0",
+    "bytes": 338008
+  },
+  "private_quality_000.jsonl": {
+    "sha256": "db7983b7e49c672d6f7e0d9628a2fb5b705ad03c796c9e02e6cab267850fec3e",
+    "bytes": 824677
+  },
+  "private_quality_001.jsonl": {
+    "sha256": "a4192dfc150d198714c0f1c406c6e1dfc2b2436f059bdc2c5264f670753c979d",
+    "bytes": 823309
+  },
+  "private_quality_002.jsonl": {
+    "sha256": "88d35884576521403920038bf542035803f4e2f6517bc9db5fbeeb42b1cfaf40",
+    "bytes": 812105
+  }
+}
