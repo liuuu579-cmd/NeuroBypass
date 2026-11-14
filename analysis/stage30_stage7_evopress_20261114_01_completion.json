@@ -1,0 +1,31 @@
+{
+  "state": "completed",
+  "stages": [
+    {
+      "probe": true,
+      "pid": 3871426,
+      "run": "/home/liushenyu/test/NeuroBypass/runs/stage30_stage7_evopress_20261114_01_probe",
+      "log": "/home/liushenyu/test/NeuroBypass/analysis/stage30_stage7_evopress_20261114_01_probe.log",
+      "gpus": [
+        0,
+        1,
+        2
+      ],
+      "cpus": 32,
+      "exit_code": 0
+    },
+    {
+      "probe": false,
+      "pid": 3880504,
+      "run": "/home/liushenyu/test/NeuroBypass/runs/stage30_stage7_evopress_20261114_01_main",
+      "log": "/home/liushenyu/test/NeuroBypass/analysis/stage30_stage7_evopress_20261114_01_main.log",
+      "gpus": [
+        0,
+        1,
+        2
+      ],
+      "cpus": 32,
+      "exit_code": 0
+    }
+  ]
+}
