@@ -1,0 +1,172 @@
+{
+  "passed": true,
+  "input_records": 13893,
+  "total_rows_including_full_replays": 778008,
+  "unique_quality_rows": 736329,
+  "aggregate_groups_recomputed": 212,
+  "cross_gpu_full_max_error": 0.0,
+  "preserved_files_rehashed": 3717,
+  "source_and_checkpoint_hash_checks": 21,
+  "calibration_train_only": true,
+  "paired_k20_comparisons_recomputed": [
+    {
+      "task": "hellaswag",
+      "baseline": "evopress_whole_opt",
+      "difference": 0.010256920932085247,
+      "ci95": [
+        0.004845482307641244,
+        0.015468366195313022
+      ]
+    },
+    {
+      "task": "hellaswag",
+      "baseline": "static_refined_bank_train800",
+      "difference": -0.012680077009891792,
+      "ci95": [
+        -0.016995286463519884,
+        -0.008330843789417789
+      ]
+    },
+    {
+      "task": "piqa",
+      "baseline": "evopress_whole_opt",
+      "difference": 0.011606819006166127,
+      "ci95": [
+        -0.001994922016684795,
+        0.02575262966993109
+      ]
+    },
+    {
+      "task": "piqa",
+      "baseline": "static_refined_bank_train800",
+      "difference": 0.002720348204570181,
+      "ci95": [
+        -0.01015596663039536,
+        0.01614526659412402
+      ]
+    },
+    {
+      "task": "winogrande",
+      "baseline": "evopress_whole_opt",
+      "difference": 0.012891344383057104,
+      "ci95": [
+        -0.01105630097342803,
+        0.035253880557747974
+      ]
+    },
+    {
+      "task": "winogrande",
+      "baseline": "static_refined_bank_train800",
+      "difference": -0.009471191791633788,
+      "ci95": [
+        -0.027624309392265206,
+        0.008418837148118906
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "baseline": "evopress_whole_opt",
+      "difference": 0.005984160458373533,
+      "ci95": [
+        -0.007502004707622273,
+        0.019986291746375454
+      ]
+    },
+    {
+      "task": "wikitext_conditional",
+      "baseline": "static_refined_bank_train800",
+      "difference": 0.024995256378305755,
+      "ci95": [
+        0.018421936273645564,
+        0.03134643996957865
+      ]
+    }
+  ],
+  "search_traces_audited": [
+    {
+      "k": 12,
+      "seed": 579,
+      "selection_stages": 129,
+      "unique_searched_masks": 1624,
+      "search_seconds": 2518.0500035189325
+    },
+    {
+      "k": 12,
+      "seed": 580,
+      "selection_stages": 129,
+      "unique_searched_masks": 1348,
+      "search_seconds": 2515.099122997024
+    },
+    {
+      "k": 12,
+      "seed": 581,
+      "selection_stages": 129,
+      "unique_searched_masks": 1714,
+      "search_seconds": 2518.747043470037
+    },
+    {
+      "k": 16,
+      "seed": 579,
+      "selection_stages": 129,
+      "unique_searched_masks": 1383,
+      "search_seconds": 2209.380549752037
+    },
+    {
+      "k": 16,
+      "seed": 580,
+      "selection_stages": 129,
+      "unique_searched_masks": 1581,
+      "search_seconds": 2214.146020155982
+    },
+    {
+      "k": 16,
+      "seed": 581,
+      "selection_stages": 129,
+      "unique_searched_masks": 1710,
+      "search_seconds": 2223.1386762720067
+    },
+    {
+      "k": 20,
+      "seed": 579,
+      "selection_stages": 129,
+      "unique_searched_masks": 1619,
+      "search_seconds": 1924.5746872659074
+    },
+    {
+      "k": 20,
+      "seed": 580,
+      "selection_stages": 129,
+      "unique_searched_masks": 1657,
+      "search_seconds": 1931.5435361010022
+    },
+    {
+      "k": 20,
+      "seed": 581,
+      "selection_stages": 129,
+      "unique_searched_masks": 1694,
+      "search_seconds": 1935.7193115990376
+    },
+    {
+      "k": 24,
+      "seed": 579,
+      "selection_stages": 129,
+      "unique_searched_masks": 1564,
+      "search_seconds": 1539.8567265430465
+    },
+    {
+      "k": 24,
+      "seed": 580,
+      "selection_stages": 129,
+      "unique_searched_masks": 1387,
+      "search_seconds": 1547.8697683670325
+    },
+    {
+      "k": 24,
+      "seed": 581,
+      "selection_stages": 129,
+      "unique_searched_masks": 1561,
+      "search_seconds": 1540.4907085779123
+    }
+  ],
+  "limits": "CPU audit of stored evidence; no new GPU model replay. Per-seed means and original unadjusted bootstrap intervals; no across-seed population inference."
+}

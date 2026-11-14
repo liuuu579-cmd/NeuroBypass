@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "exact_row_coverage": true,
+  "row_scores_recomputed": true,
+  "cross_gpu_full_model_agreement": true,
+  "full_router_observation": true,
+  "no_downstream_policy_selection": true,
+  "training_source_and_checkpoint_hashes_checked": true
+}
